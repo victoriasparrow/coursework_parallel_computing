@@ -1,9 +1,10 @@
 #ifndef CONSTANTS_H
 #define CONSTANTS_H
+#include <filesystem>
 #include<string>
 
 namespace constants {
-    inline constexpr int threadsNumber{1};
+    inline constexpr int threadsNumber{4};
     inline std::string initializeStopWords() {
         std::filesystem::path stopWordsFile = "../stopWords.txt";
         if (std::filesystem::exists(stopWordsFile)) {

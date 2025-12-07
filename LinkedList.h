@@ -26,7 +26,7 @@ public:
     }
 
     bool remove(const K& key);
-    //void print() const;
+    void print() const;
 
     V* get(const K& key);
 
@@ -39,7 +39,7 @@ public:
     void push_front(K key, V value);
     bool pop_back();
     bool pop_front();
-
+    void moveToFront(const K& key);
     void clear();
 };
 
@@ -60,24 +60,24 @@ void LinkedList<K, V>::clear(){
     size = 0;
 }
 
-// template <typename K, typename V>
-// void LinkedList<K, V>::print() const{
-//     if (head == nullptr) {
-//         return;
-//     }
-//     HashNode<K, V>* temp = head;
-//     while (temp != nullptr) {
-//         std::cout << "termID " << temp->termID;
-//         for (int i = 0; i < temp->postings.size(); i++) {
-//             std::cout << ", docID " << temp->postings.at(i).documentID << ", pos are ";
-//             for (int j = 0; j < temp->postings.at(i).positions.size(); j++) {
-//                 std::cout << temp->postings.at(i).positions.at(j) << " ";
-//             }
-//         }
-//         std::cout << std::endl;
-//         temp = temp->nextNode;
-//     }
-// }
+template <typename K, typename V>
+void LinkedList<K, V>::print() const{
+    if (head == nullptr) {
+        return;
+    }
+    HashNode<K, V>* temp = head;
+    while (temp != nullptr) {
+        std::cout << "termID " << temp->key;
+        for (int i = 0; i < temp->value.size(); i++) {
+            std::cout << ", docID " << temp->value.at(i).documentID << ", pos are ";
+            for (int j = 0; j < temp->value.at(i).positions.size(); j++) {
+                std::cout << temp->value.at(i).positions.at(j) << " ";
+            }
+        }
+        std::cout << std::endl;
+        temp = temp->nextNode;
+    }
+}
 
 template <typename K, typename V>
 void LinkedList<K, V>::push_back(K key, V value){
@@ -217,6 +217,24 @@ bool LinkedList<K, V>::remove(const K& key){
         current = current->nextNode;
     }
     return false;
+}
+
+template <typename K, typename V>
+void LinkedList<K, V>::moveToFront(const K& key){
+    if(!head) return;
+    if(head->key == key) return;
+    HashNode<K, V>* previous = head;
+    HashNode<K, V>* current = head->nextNode;
+    while(current != nullptr){
+        if(current->key == key){
+            previous->nextNode = current->nextNode;
+            current->nextNode = head;
+            head = current;
+            return;
+        }
+        previous = current;
+        current = current->nextNode;
+    }
 }
 
 #endif // LINKEDLIST_H
