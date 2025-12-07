@@ -23,7 +23,8 @@ int tcp::createSocket(const char* hostname, const char* port, bool server) {
         }
         if (!server) {
             inet_ntop(p->ai_family, get_in_addr((struct sockaddr *) p->ai_addr), output, sizeof(output));
-            std::cout << "client: attempting connection: to " << output << std::endl;
+
+            //std::cout << "client: attempting connection: to " << output << std::endl;
             if (connect(socketFD, p->ai_addr, p->ai_addrlen) == -1) {
                 perror("client: connect");
                 close(socketFD);
@@ -54,7 +55,6 @@ int tcp::createSocket(const char* hostname, const char* port, bool server) {
     //inet_ntop converts IPv4 and IPv6 addresses from binary to text form
     if (!server) {
         inet_ntop(p->ai_family, get_in_addr((struct sockaddr *) p->ai_addr), output, sizeof(output));
-        std::cout << "client: connected to " << output << ":" << port << std::endl;
     } else {
         if (listen(socketFD, kBackLog) == -1) {
             std::cerr << "listen" << std::endl;
@@ -96,13 +96,13 @@ int tcp::receiveAll(int socketFD, char* message, size_t* length) {
     while (totalBytesReceived < receiveGoal) {
         returnValue = recv(socketFD, message + totalBytesReceived, *length - totalBytesReceived, 0);
         if (returnValue == -1) {
-            if (errno == EINTR) continue;
+            if (errno == EINTR || errno == EWOULDBLOCK) continue;
             std::system_error crash(errno, std::generic_category(), "receiveAll");
             std::cout << "error is " <<  crash.what() << std::endl;
             return -1;
         }
         if (returnValue == 0) {
-            std::cout << "stream socket peer has performed an orderly shutdown" << std::endl;
+            //std::cout << "stream socket peer has performed an orderly shutdown" << std::endl;
             *length = totalBytesReceived; // returning what we could get
             return -2;
         }
@@ -156,7 +156,7 @@ int tcp::receiveData(int socketFD, char* data, uint8_t* tagType, uint32_t* lengt
     memset(header, 0, kPacketHeader);
     size_t tagBytes = 1;
     if (receiveAll(socketFD, (char*)header, &tagBytes) != 0) {
-        std::cout << "receiveData: not getting tag byte " << tagBytes << std::endl;
+        //std::cout << "receiveData: not getting tag byte " << tagBytes << std::endl;
         return -1;
     }
     *tagType = header[0];
@@ -168,7 +168,7 @@ int tcp::receiveData(int socketFD, char* data, uint8_t* tagType, uint32_t* lengt
     uint32_t actualLength = 0;
     memcpy(&actualLength, (char*)header + 1, sizeof(actualLength));
     uint32_t hostLength = fromBigEndian(actualLength);
-    if (hostLength > kMaxData) {
+    if (hostLength > kMaxPayload) {
         std::cout << "receiveData: packet is too big." << std::endl;
         return -1;
     }
@@ -180,5 +180,218 @@ int tcp::receiveData(int socketFD, char* data, uint8_t* tagType, uint32_t* lengt
             return -1;
         }
     }
+    return 0;
+}
+
+int tcp::sendQuery(int socketFD, const char* searchTerm, int page) { // uint32_t page (4 bytes), string itself
+    char payload[kMaxData];
+    char* ptr = payload;
+    size_t termLength = strlen(searchTerm);
+    const size_t pageLength = sizeof(uint32_t);
+    if (pageLength + termLength > kMaxData) {
+        std::cerr << "sendQuery: payload too long" << std::endl;
+        return -1;
+    }
+    uint32_t networkPage = tcp::toBigEndian((uint32_t)page);
+    memcpy(ptr, &networkPage, pageLength); // copying page number to buffer
+    ptr = ptr + pageLength;
+    memcpy(ptr, searchTerm, termLength);
+    ptr = ptr + termLength;
+    uint32_t payloadSize = (uint32_t)(ptr - payload);
+    if (sendData(socketFD, (uint8_t)TagTLV::kQuery, payload, payloadSize) != 0) {
+        return -1;
+    }
+    return 0;
+}
+
+// struct QueryResult {
+//     uint32_t docID; // 4 bytes
+//     std::string docName; // 4 bytes for length + n for string
+//     uint32_t termFrequency; // 4 bytes
+//     std::string lines; // 4 bytes + n for string
+// };
+// total doc = to know if there is a point clicking <next>
+void tcp::sendQueryResult(int socketFD, uint32_t totalDocs, const std::vector<QueryResult>& results) {
+    char payload[kMaxPayload];
+    char* ptr = payload;
+    size_t bytesCounter = 2 * sizeof(uint32_t);
+    size_t bytesForAllDocs = 0;
+    // figuring out how many bytes is this...
+    // totalDocs found (4) + docsPerPageActualThatFitIntoMemory (4) +
+
+    uint32_t networkTotalDocs = toBigEndian(totalDocs);
+    memcpy(ptr, &networkTotalDocs, sizeof(uint32_t));
+    ptr += sizeof(uint32_t);
+
+    char* countDocsPtr = ptr;
+    uint32_t counter = 0; // sending how many actual document could fit into memory at the end
+    memcpy(ptr, &counter, sizeof(uint32_t));
+    ptr += sizeof(uint32_t);
+
+    uint32_t actualCount = 0;
+
+    for (const auto& res: results) {
+        size_t docNameLength = res.docName.size();
+        size_t linesLength = res.lines.size();
+        // docID + freq + docNameLength
+        size_t thisDocPayload = (4 * sizeof(uint32_t)) + docNameLength + linesLength;
+
+        bytesForAllDocs += thisDocPayload;
+        size_t usedBytes = (size_t)(ptr - payload);
+        if (usedBytes + thisDocPayload > kMaxPayload) { // changed counting all bytes
+            std::cerr << "server: math is not mathing with these bytes.." << std::endl;
+            continue; // skipping this huge doc
+        }
+        // docId, docName, freq, lines
+        uint32_t networkDocID = toBigEndian(res.docID);
+        memcpy(ptr, &networkDocID,sizeof(uint32_t));
+        ptr += sizeof(uint32_t);
+
+        uint32_t networkDocName = toBigEndian((uint32_t)docNameLength);
+        memcpy(ptr, &networkDocName, sizeof(uint32_t));
+        ptr += sizeof(uint32_t);
+        memcpy(ptr, res.docName.data(), docNameLength); // size as of this machine
+        ptr += docNameLength;
+
+        uint32_t networkFreq = toBigEndian(res.termFrequency);
+        memcpy(ptr, &networkFreq, sizeof(uint32_t));
+        ptr += sizeof(uint32_t);
+
+        uint32_t networkLineLength = toBigEndian((uint32_t)linesLength);
+        memcpy(ptr, &networkLineLength, sizeof(uint32_t));
+        ptr += sizeof(uint32_t);
+        if (linesLength > 0) {
+            memcpy(ptr, res.lines.data(), linesLength);
+            ptr += linesLength;
+        }
+
+        actualCount++;
+    }
+    std::cout << "bytesForAllDocs: " << bytesForAllDocs << std::endl;
+    uint32_t networkCount = toBigEndian(actualCount);
+    memcpy(countDocsPtr, &networkCount, sizeof(uint32_t));
+    uint32_t totalPayload = (uint32_t)(ptr - payload);
+    sendData(socketFD, (uint8_t)TagTLV::kSearchResult, payload, totalPayload);
+}
+
+int tcp::receiveQueryResult(int socketFD, uint32_t* totalDocs, std::vector<QueryResult>& output) {
+    char payload[kMaxPayload];
+    uint8_t tag;
+    uint32_t payloadLength;
+
+    if (receiveData(socketFD, payload, &tag, &payloadLength) != 0) { return -1; }
+    if (tag != (uint8_t)TagTLV::kSearchResult) {
+        std::cerr << "receiveQueryResult: wrong tag: " << (int)tag << std::endl;
+        return -1;
+    }
+    char* ptr = payload;
+    char* endPtr = payload + payloadLength;
+    size_t bytesCounter = 0;
+    if (payloadLength < 2 * sizeof(uint32_t)) {
+        std::cerr << "receiveQueryResult: packet too small" << std::endl;
+        return -1;
+    }
+    uint32_t networkTotalDocs;
+    memcpy(&networkTotalDocs, ptr, sizeof(uint32_t));
+    *totalDocs = fromBigEndian(networkTotalDocs);
+    ptr += sizeof(uint32_t);
+    bytesCounter += sizeof(uint32_t);
+
+    uint32_t networkCount;
+    memcpy(&networkCount, ptr, sizeof(uint32_t));
+    uint32_t docCountFromPacket = fromBigEndian(networkCount);
+    ptr += sizeof(uint32_t);
+    bytesCounter += sizeof(uint32_t);
+
+    output.clear();
+    output.reserve(docCountFromPacket);
+
+    for (uint32_t i = 0; i < docCountFromPacket; ++i) {
+        QueryResult res;
+        if (ptr + sizeof(uint32_t) > endPtr) {
+            std::cerr << "receiveQueryResult: cut off at DocID" << std::endl; return -1;
+        }
+        uint32_t networkDocID;
+        memcpy(&networkDocID, ptr, sizeof(uint32_t));
+        res.docID = fromBigEndian(networkDocID);
+        ptr += sizeof(uint32_t);
+        bytesCounter += sizeof(uint32_t);
+
+        if (ptr + sizeof(uint32_t) > endPtr) { return -1; }
+
+        uint32_t networkDocNameLength = 0;
+        memcpy(&networkDocNameLength, ptr, sizeof(uint32_t));
+        uint32_t docNameLength = fromBigEndian(networkDocNameLength);
+        ptr += sizeof(uint32_t);
+        bytesCounter += sizeof(uint32_t);
+
+        if (ptr + docNameLength > endPtr) {
+            std::cerr << "receiveQueryResult: cut off at DocName" << std::endl; return -1;
+        }
+        res.docName = std::string(ptr, docNameLength);
+        ptr += docNameLength;
+        bytesCounter += docNameLength;
+
+        if (ptr + sizeof(uint32_t) > endPtr) { return -1; }
+        uint32_t networkFreq;
+        memcpy(&networkFreq, ptr, sizeof(uint32_t));
+        res.termFrequency = tcp::fromBigEndian(networkFreq);
+        ptr += sizeof(uint32_t);
+        bytesCounter += sizeof(uint32_t);
+        if (ptr + sizeof(uint32_t) > endPtr) { return -1; }
+
+        uint32_t networkLinesLength;
+        memcpy(&networkLinesLength, ptr, sizeof(uint32_t));
+        uint32_t linesLength = tcp::fromBigEndian(networkLinesLength);
+        ptr += sizeof(uint32_t);
+        bytesCounter += sizeof(uint32_t);
+        if (ptr + linesLength > endPtr) {
+            std::cerr << "receiveQueryResult: cut off at line." << std::endl; return -1;
+        }
+        if (linesLength > 0) {
+            res.lines = std::string(ptr, linesLength);
+        }
+        ptr += linesLength;
+        bytesCounter += linesLength;
+
+        output.push_back(res);
+    }
+    if (bytesCounter != payloadLength) {
+        std::cerr << "receiveQueryResult: bytes " << bytesCounter << " != payload length " << payloadLength << std::endl;
+    } else {
+        //std::cout << "receiveQueryResult: done with " << bytesCounter << " bytes" << std::endl;
+    }
+
+    return 0;
+}
+
+int tcp::receiveQuery(int socketFD, ParsedQuery& out) {
+    char payload[kMaxData];
+    uint8_t tag;
+    uint32_t length;
+
+    if (receiveData(socketFD, payload, &tag, &length) != 0) { return -1; }
+
+    if (tag != (uint8_t)TagTLV::kQuery) {
+        std::cerr << "receiveQuery: wrong tag: " << (int)tag << std::endl; return -1;
+    }
+
+    if (length < sizeof(uint32_t)) {
+        std::cerr << "receiveQuery: payload too short" << std::endl; return -1;
+    }
+
+    char* ptr = payload;
+    uint32_t networkPage;
+    memcpy(&networkPage, ptr, sizeof(uint32_t));
+    out.page = fromBigEndian(networkPage);
+    ptr += sizeof(uint32_t);
+    size_t termLength = length - sizeof(uint32_t);
+
+    if (termLength > 0) {
+        out.term = std::string(ptr, termLength); // creating string
+    } else {
+        out.term = "";
+    }
+    std::cout << "receiveQuery: page =" << out.page << ", term = " << out.term << std::endl;
     return 0;
 }
