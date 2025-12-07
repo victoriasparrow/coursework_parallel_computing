@@ -3,4 +3,4 @@ project(project)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(project HashTable.cpp LinkedList.cpp main.cpp)
+add_executable(project main.cpp HashMap.h LinkedList.h)
