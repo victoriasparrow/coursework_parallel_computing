@@ -1,0 +1,2406 @@
+The Project Gutenberg Etext of Cinq Mars, by Alfred de Vigny, v2
+#35 in our series The French Immortals Crowned by the French Academy
+#2 in our series by Octave Feuillet
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Cinq Mars, v2
+
+Author: Alfred de Vigny
+
+Release Date: April, 2003  [Etext #3948]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 09/12/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of Cinq Mars, by Alfred de Vigny, v2
+******This file should be named 3948.txt or 3948.zip******
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07/27/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+CINQ MARS
+
+By ALFRED DE VIGNY
+
+
+
+BOOK 2.
+
+
+CHAPTER V
+
+THE MARTYRDOM
+
+          La torture interroge, et la douleur repond.
+                              RAYNOURARD, Les Templiers.
+
+The continuous interest of this half-trial, its preparations, its
+interruptions, all had held the minds of the people in such attention
+that no private conversations had taken place. Some irrepressible cries
+had been uttered, but simultaneously, so that no man could accuse his
+neighbor.  But when the people were left to themselves, there was an
+explosion of clamorous sentences.
+
+There was at this period enough of primitive simplicity among the lower
+classes for them to be persuaded by the mysterious tales of the political
+agents who were deluding them; so that a large portion of the throng in
+the hall of trial, not venturing to change their judgment, though upon
+the manifest evidence just given them, awaited in painful suspense the
+return of the judges, interchanging with an air of mystery and inane
+importance the usual remarks prompted by imbecility on such occasions.
+
+"One does not know what to think, Monsieur?"
+
+"Truly, Madame, most extraordinary things have happened."
+
+"We live in strange times!"
+
+"I suspected this; but, i' faith, it is not wise to say what one thinks."
+
+"We shall see what we shall see," and so on--the unmeaning chatter of the
+crowd, which merely serves to show that it is at the command of the first
+who chooses to sway it.  Stronger words were heard from the group in
+black.
+
+"What!  shall we let them do as they please, in this manner?  What! dare
+to burn our letter to the King!"
+
+"If the King knew it!"
+
+"The barbarian impostors!  how skilfully is their plot contrived!  What!
+shall murder be committed under our very eyes?  Shall we be afraid of
+these archers?"
+
+"No, no, no!"  rang out in trumpet-like tones.
+
+Attention was turned toward the young advocate, who, standing on a
+branch, began tearing to pieces a roll of paper; then he cried:
+
+"Yes, I tear and scatter to the winds the defence I had prepared for the
+accused.  They have suppressed discussion; I am not allowed to speak for
+him.  I can only speak to you, people; I rejoice that I can do so.  You
+heard these infamous judges.  Which of them can hear the truth?  Which of
+them is worthy to listen to an honest man?  Which of them will dare to
+meet his gaze?  But what do I say?  They all know the truth.  They carry
+it in their guilty breasts; it stings their hearts like a serpent.  They
+tremble in their lair, where doubtless they are devouring their victim;
+they tremble because they have heard the cries of three deluded women.
+What was I about to do?  I was about to speak in behalf of Urbain
+Grandier!  But what eloquence could equal that of those unfortunates?
+What words could better have shown you his innocence?  Heaven has taken
+up arms for him in bringing them to repentance and to devotion; Heaven
+will finish its work--"
+
+"Vade retro, Satanas," was heard through a high window in the hall.
+
+Fournier stopped for a moment, then said:
+
+"You hear these voices parodying the divine language?  If I mistake not,
+these instruments of an infernal power are, by this song, preparing some
+new spell."
+
+"But," cried those who surrounded him, "what shall we do?  What have they
+done with him?"
+
+"Remain here; be immovable, be silent," replied the young advocate.
+"The inertia of a people is all-powerful; that is its true wisdom, that
+its strength.  Observe them closely, and in silence; and you will make
+them tremble."
+
+"They surely will not dare to appear here again," said the Comte du Lude.
+
+"I should like to look once more at the tall scoundrel in red," said
+Grand-Ferre, who had lost nothing of what had occurred.
+
+"And that good gentleman, the Cure," murmured old Father Guillaume
+Leroux, looking at all his indignant parishioners, who were talking
+together in a low tone, measuring and counting the archers, ridiculing
+their dress, and beginning to point them out to the observation of the
+other spectators.
+
+Cinq-Mars, still leaning against the pillar behind which he had first
+placed himself, still wrapped in his black cloak, eagerly watched all
+that passed, lost not a word of what was said, and filled his heart with
+hate and bitterness.  Violent desires for slaughter and revenge, a vague
+desire to strike, took possession of him, despite himself; this is the
+first impression which evil produces on the soul of a young man.  Later,
+sadness takes the place of fury, then indifference and scorn, later
+still, a calculating admiration for great villains who have been
+successful; but this is only when, of the two elements which constitute
+man, earth triumphs over spirit.
+
+Meanwhile, on the right of the hall near the judges' platform, a group of
+women were watching attentively a child about eight years old, who had
+taken it into his head to climb up to a cornice by the aid of his sister
+Martine, whom we have seen the subject of jest with the young soldier,
+Grand-Ferre.  The child, having nothing to look at after the court had
+left the hall, had climbed to a small window which admitted a faint
+light, and which he imagined to contain a swallow's nest or some other
+treasure for a boy; but after he was well established on the cornice, his
+hands grasping the bars of an old shrine of Jerome, he wished himself
+anywhere else, and cried out:
+
+"Oh, sister, sister, lend me your hand to get down!"
+
+"What do you see there?"  asked Martine.
+
+"Oh, I dare not tell; but I want to get down," and he began to cry.
+
+"Stay there, my child; stay there!"  said all the women.  "Don't be
+afraid; tell us all that you see."
+
+"Well, then, they've put the Cure between two great boards that squeeze
+his legs, and there are cords round the boards."
+
+"Ah!  that is the rack," said one of the townsmen.  "Look again, my
+little friend, what do you see now?"
+
+The child, more confident, looked again through the window, and then,
+withdrawing his head, said:
+
+"I can not see the Cure now, because all the judges stand round him, and
+are looking at him, and their great robes prevent me from seeing.  There
+are also some Capuchins, stooping down to whisper to him."
+
+Curiosity attracted more people to the boy's perch; every one was silent,
+waiting anxiously to catch his words, as if their lives depended on them.
+
+"I see," he went on, "the executioner driving four little pieces of wood
+between the cords, after the Capuchins have blessed the hammer and nails.
+Ah, heavens!  Sister, how enraged they seem with him, because he will not
+speak.  Mother!  mother!  give me your hand, I want to come down!"
+
+Instead of his mother, the child, upon turning round, saw only men's
+faces, looking up at him with a mournful eagerness, and signing him to go
+on.  He dared not descend, and looked again through the window,
+trembling.
+
+"Oh! I see Father Lactantius and Father Barre themselves forcing in more
+pieces of wood, which squeeze his legs.  Oh, how pale he is!  he seems
+praying.  There, his head falls back, as if he were dying!  Oh, take me
+away!"
+
+And he fell into the arms of the young Advocate, of M. du Lude, and of
+Cinq-Mars, who had come to support him.
+
+"Deus stetit in synagoga deorum: in medio autem Deus dijudicat--" chanted
+strong, nasal voices, issuing from the small window, which continued in
+full chorus one of the psalms, interrupted by blows of the hammer--an
+infernal deed beating time to celestial songs.  One might have supposed
+himself near a smithy, except that the blows were dull, and manifested to
+the ear that the anvil was a man's body.
+
+"Silence!"  said Fournier, "He speaks.  The chanting and the blows stop."
+
+A weak voice within said, with difficulty, "Oh, my fathers, mitigate the
+rigor of your torments, for you will reduce my soul to despair, and I
+might seek to destroy myself!"
+
+At this the fury of the people burst forth like an explosion, echoing
+along the vaulted roofs; the men sprang fiercely upon the platform,
+thrust aside the surprised and hesitating archers; the unarmed crowd
+drove them back, pressed them, almost suffocated them against the walls,
+and held them fast, then dashed against the doors which led to the
+torture chamber, and, making them shake beneath their blows, threatened
+to drive them in; imprecations resounded from a thousand menacing voices
+and terrified the judges within.
+
+"They are gone; they have taken him away!"  cried a man who had climbed
+to the little window.
+
+The multitude at once stopped short, and changing the direction of their
+steps, fled from this detestable place and spread rapidly through the
+streets, where an extraordinary confusion prevailed.
+
+Night had come on during the long sitting, and the rain was pouring in
+torrents.  The darkness was terrifying.  The cries of women slipping on
+the pavement or driven back by the horses of the guards; the shouts of
+the furious men; the ceaseless tolling of the bells which had been
+keeping time with the strokes of the question;
+
+     [Torture ('Question') was regulated in scrupulous detail by Holy
+     Mother The Church: The ordinary question was regulated for minor
+     infractions and used for interrogating women and children. For more
+     serious crimes the suspect (and sometimes the witnesses) were put to
+     the extraordinary question by the officiating priests.  D.W.]
+
+the roll of distant thunder--all combined to increase the disorder.  If
+the ear was astonished, the eyes were no less so.  A few dismal torches
+lighted up the corners of the streets; their flickering gleams showed
+soldiers, armed and mounted, dashing along, regardless of the crowd, to
+assemble in the Place de St. Pierre; tiles were sometimes thrown at them
+on their way, but, missing the distant culprit, fell upon some
+unoffending neighbor.  The confusion was bewildering, and became still
+more so, when, hurrying through all the streets toward the Place de St.
+Pierre, the people found it barricaded on all sides, and filled with
+mounted guards and archers.  Carts, fastened to the posts at each corner,
+closed each entrance, and sentinels, armed with arquebuses, were
+stationed close to the carts.  In the centre of the Place rose a pile
+composed of enormous beams placed crosswise upon one another, so as to
+form a perfect square; these were covered with a whiter and lighter wood;
+an enormous stake arose from the centre of the scaffold.  A man clothed
+in red and holding a lowered torch stood near this sort of mast, which
+was visible from a long distance.  A huge chafing-dish, covered on
+account of the rain, was at his feet.
+
+At this spectacle, terror inspired everywhere a profound silence; for an
+instant nothing was heard but the sound of the rain, which fell in
+floods, and of the thunder, which came nearer and nearer.
+
+Meanwhile, Cinq-Mars, accompanied by MM. du Lude and Fournier and all the
+more important personages of the town, had sought refuge from the storm
+under the peristyle of the church of Ste.-Croix, raised upon twenty stone
+steps.  The pile was in front, and from this height they could see the
+whole of the square.  The centre was entirely clear, large streams of
+water alone traversed it; but all the windows of the houses were
+gradually lighted up, and showed the heads of the men and women who
+thronged them.
+
+The young D'Effiat sorrowfully contemplated this menacing preparation.
+Brought up in sentiments of honor, and far removed from the black
+thoughts which hatred and ambition arouse in the heart of man, he could
+not conceive that such wrong could be done without some powerful and
+secret motive.  The audacity of such a condemnation seemed to him so
+enormous that its very cruelty began to justify it in his eyes; a secret
+horror crept into his soul, the same that silenced the people.  He almost
+forgot the interest with which the unhappy Urbain had inspired him, in
+thinking whether it were not possible that some secret correspondence
+with the infernal powers had justly provoked such excessive severity;
+and the public revelations of the nuns, and the statement of his
+respected tutor, faded from his memory, so powerful is success, even in
+the eyes of superior men!  so strongly does force impose upon men,
+despite the voice of conscience!
+
+The young traveller was asking himself whether it were not probable that
+the torture had forced some monstrous confession from the accused, when
+the obscurity which surrounded the church suddenly ceased.  Its two great
+doors were thrown open; and by the light of an infinite number of
+flambeaux, appeared all the judges and ecclesiastics, surrounded by
+guards.  Among them was Urbain, supported, or rather carried, by six men
+clothed as Black Penitents--for his limbs, bound with bandages saturated
+with blood, seemed broken and incapable of supporting him.  It was at
+most two hours since Cinq-Mars had seen him, and yet he could hardly
+recognize the face he had so closely observed at the trial.  All color,
+all roundness of form had disappeared from it; a livid pallor covered a
+skin yellow and shining like ivory; the blood seemed to have left his
+veins; all the life that remained within him shone from his dark eyes,
+which appeared to have grown twice as large as before, as he looked
+languidly around him; his long, chestnut hair hung loosely down his neck
+and over a white shirt, which entirely covered him--or rather a sort of
+robe with large sleeves, and of a yellowish tint, with an odor of sulphur
+about it; a long, thick cord encircled his neck and fell upon his breast.
+He looked like an apparition; but it was the apparition of a martyr.
+
+Urbain stopped, or, rather, was set down upon the peristyle of the
+church; the Capuchin Lactantius placed a lighted torch in his right hand,
+and held it there, as he said to him, with his hard inflexibility:
+
+"Do penance, and ask pardon of God for thy crime of magic."
+
+The unhappy man raised his voice with great difficulty, and with his eyes
+to heaven said:
+
+"In the name of the living God, I cite thee, Laubardemont, false judge,
+to appear before Him in three years.  They have taken away my confessor,
+and I have been fain to pour out my sins into the bosom of God Himself,
+for my enemies surround me.  I call that God of mercy to witness I never
+have dealt in magic.  I have known no mysteries but those of the Catholic
+religion, apostolic and Roman, in which I die; I have sinned much against
+myself, but never against God and our Lord--"
+
+"Cease!"  cried the Capuchin, affecting to close his mouth ere he could
+pronounce the name of the Saviour.  "Obdurate wretch, return to the demon
+who sent thee!"
+
+He signed to four priests, who, approaching with sprinklers in their
+hands, exorcised with holy water the air the magician breathed, the earth
+he touched, the wood that was to burn him.  During this ceremony, the
+judge-Advocate hastily read the decree, dated the 18th of August, 1639,
+declaring Urbain Grandier duly attainted and convicted of the crime of
+sorcery, witchcraft, and possession, in the persons of sundry Ursuline
+nuns of Loudun, and others, laymen, etc.
+
+The reader, dazzled by a flash of lightning, stopped for an instant,
+and, turning to M. de Laubardemont, asked whether, considering the awful
+weather, the execution could not be deferred till the next day.
+
+"The decree," coldly answered Laubardemont, "commands execution within
+twenty-four hours.  Fear not the incredulous people; they will soon be
+convinced."
+
+All the most important persons of the town and many strangers were under
+the peristyle, and now advanced, Cinq-Mars among them.
+
+"The magician never has been able to pronounce the name of the Saviour,
+and repels his image."
+
+Lactantius at this moment issued from the midst of the Penitents, with an
+enormous iron crucifix in his hand, which he seemed to hold with
+precaution and respect; he extended it to the lips of the sufferer, who
+indeed threw back his head, and collecting all his strength, made a
+gesture with his arm, which threw the cross from the hands of the
+Capuchin.
+
+"You see," cried the latter, "he has thrown down the cross!"
+
+A murmur arose, the meaning of which was doubtful.
+
+"Profanation!"  cried the priests.
+
+The procession moved toward the pile.
+
+Meanwhile, Cinq-Mars, gliding behind a pillar, had eagerly watched all
+that passed; he saw with astonishment that the cross, in falling upon the
+steps, which were more exposed to the rain than the platform, smoked and
+made a noise like molten lead when thrown into water.  While the public
+attention was elsewhere engaged, he advanced and touched it lightly with
+his bare hand, which was immediately scorched.  Seized with indignation,
+with all the fury of a true heart, he took up the cross with the folds of
+his cloak, stepped up to Laubardemont, and, striking him with it on the
+forehead, cried:
+
+"Villain, I brand thee with the mark of this red-hot iron!"
+
+The crowd heard these words and rushed forward.
+
+"Arrest this madman!"  cried the unworthy magistrate.
+
+He was himself seized by the hands of men who cried, "Justice! justice,
+in the name of the King!"
+
+"We are lost!"  said Lactantius; "to the pile, to the pile!"
+
+The Penitents dragged Urbain toward the Place, while the judges and
+archers reentered the church, struggling with the furious citizens; the
+executioner, having no time to tie up the victim, hastened to lay him on
+the wood, and to set fire to it.  But the rain still fell in torrents,
+and each piece of wood had no sooner caught the flame than it became
+extinguished.  In vain did Lactantius and the other canons themselves
+seek to stir up the fire; nothing could overcome the water which fell
+from heaven.
+
+Meanwhile, the tumult which had begun in the peristyle of the church
+extended throughout the square.  The cry of "Justice!"  was repeated and
+circulated, with the information of what had been discovered; two
+barricades were forced, and despite three volleys of musketry, the
+archers were gradually driven back toward the centre of the square.  In
+vain they spurred their horses against the crowd; it overwhelmed them
+with its swelling waves.  Half an hour passed in this struggle, the
+guards still receding toward the pile, which they concealed as they
+pressed closer upon it.
+
+"On! on!"  cried a man; "we will deliver him; do not strike the soldiers,
+but let them fall back.  See, Heaven will not permit him to die!  The
+fire is out; now, friend, one effort more!  That is well!  Throw down
+that horse!  Forward!  On!"
+
+The guard was broken and dispersed on all sides.  The crowd rushed to the
+pile, but no more light was there: all had disappeared, even the
+executioner.  They tore up and threw aside the beams; one of them was
+still burning, and its light showed under a mass of ashes and ensanguined
+mire a blackened hand, preserved from the fire by a large iron bracelet
+and chain.  A woman had the courage to open it; the fingers clasped a
+small ivory cross and an image of St. Magdalen.
+
+"These are his remains," she said, weeping.
+
+"Say, the relics of a martyr!"  exclaimed a citizen, baring his head.
+
+
+
+
+CHAPTER VI
+
+THE DREAM
+
+Meanwhile, Cinq-Mars, amid the excitement which his outbreak had
+provoked, felt his left arm seized by a hand as hard as iron, which,
+drawing him from the crowd to the foot of the steps, pushed him behind
+the wall of the church, and he then saw the dark face of old Grandchamp,
+who said to him in a sharp voice:
+
+"Sir, your attack upon thirty musketeers in a wood at Chaumont was
+nothing, because we were near you, though you knew it not, and, moreover,
+you had to do with men of honor; but here 'tis different.  Your horses
+and people are at the end of the street; I request you to mount and leave
+the town, or to send me back to Madame la Marechale, for I am responsible
+for your limbs, which you expose so freely."
+
+Cinq-Mars was somewhat astonished at this rough mode of having a service
+done him, was not sorry to extricate himself thus from the affair, having
+had time to reflect how very awkward it might be for him to be
+recognized, after striking the head of the judicial authority, the agent
+of the very Cardinal who was to present him to the King.  He observed
+also that around him was assembled a crowd of the lowest class of people,
+among whom he blushed to find himself.  He therefore followed his old
+domestic without argument, and found the other three servants waiting for
+him.  Despite the rain and wind he mounted, and was soon upon the
+highroad with his escort, having put his horse to a gallop to avoid
+pursuit.
+
+He had, however, hardly left Loudun when the sandy road, furrowed by deep
+ruts completely filled with water, obliged him to slacken his pace.  The
+rain continued to fall heavily, and his cloak was almost saturated.  He
+felt a thicker one thrown over his shoulders; it was his old valet, who
+had approached him, and thus exhibited toward him a maternal solicitude.
+
+"Well, Grandchamp," said Cinq-Mars, "now that we are clear of the riot,
+tell me how you came to be there when I had ordered you to remain at the
+Abbe's."
+
+"Parbleu, Monsieur!"  answered the old servant, in a grumbling tone,
+"do you suppose that I should obey you any more than I did Monsieur le
+Marechal?  When my late master, after telling me to remain in his tent,
+found me behind him in the cannon's smoke, he made no complaint, because
+he had a fresh horse ready when his own was killed, and he only scolded
+me for a moment in his thoughts; but, truly, during the forty years I
+served him, I never saw him act as you have in the fortnight I have been
+with you.  Ah!"  he added with a sigh, "things are going strangely; and
+if we continue thus, there's no knowing what will be the end of it."
+
+"But knowest thou, Grandchamp, that these scoundrels had made the
+crucifix red hot?--a thing at which no honest man would have been less
+enraged than I."
+
+"Except Monsieur le Marechal, your father, who would not have done at all
+what you have done, Monsieur."
+
+"What, then, would he have done?"
+
+"He would very quietly have let this cure be burned by the other cures,
+and would have said to me, 'Grandchamp, see that my horses have oats, and
+let no one steal them'; or, 'Grandchamp, take care that the rain does not
+rust my sword or wet the priming of my pistols'; for Monsieur le Marechal
+thought of everything, and never interfered in what did not concern him.
+That was his great principle; and as he was, thank Heaven, alike good
+soldier and good general, he was always as careful of his arms as a
+recruit, and would not have stood up against thirty young gallants with a
+dress rapier."
+
+Cinq-Mars felt the force of the worthy servitor's epigrammatic scolding,
+and feared that he had followed him beyond the wood of Chaumont; but he
+would not ask, lest he should have to give explanations or to tell a
+falsehood or to command silence, which would at once have been taking him
+into confidence on the subject.  As the only alternative, he spurred his
+horse and rode ahead of his old domestic; but the latter had not yet had
+his say, and instead of keeping behind his master, he rode up to his left
+and continued the conversation.
+
+"Do you suppose, Monsieur, that I should allow you to go where you
+please?  No, Monsieur, I am too deeply impressed with the respect I owe
+to Madame la Marquise, to give her an opportunity of saying to me:
+'Grandchamp, my son has been killed with a shot or with a sword; why were
+you not before him?'  Or, 'He has received a stab from the stiletto of an
+Italian, because he went at night beneath the window of a great princess;
+why did you not seize the assassin?'  This would be very disagreeable to
+me, Monsieur, for I never have been reproached with anything of the kind.
+Once Monsieur le Marechal lent me to his nephew, Monsieur le Comte, to
+make a campaign in the Netherlands, because I know Spanish.  I fulfilled
+the duty with honor, as I always do.  When Monsieur le Comte received a
+bullet in his heart, I myself brought back his horses, his mules, his
+tent, and all his equipment, without so much as a pocket-handkerchief
+being missed; and I can assure you that the horses were as well dressed
+and harnessed when we reentered Chaumont as if Monsieur le Comte had been
+about to go a-hunting.  And, accordingly, I received nothing but
+compliments and agreeable things from the whole family, just in the way
+I like."
+
+"Well, well, my friend," said Henri d'Effiat, "I may some day, perhaps,
+have these horses to take back; but in the mean time take this great
+purse of gold, which I have well-nigh lost two or three times, and thou
+shalt pay for me everywhere.  The money wearies me."
+
+"Monsieur le Marechal did not so, Monsieur.  He had been superintendent
+of finances, and he counted every farthing he paid out of his own hand.
+I do not think your estates would have been in such good condition, or
+that you would have had so much money to count yourself, had he done
+otherwise; have the goodness, therefore, to keep your purse, whose
+contents, I dare swear, you do not know."
+
+"Faith, not I."
+
+Grandchamp sent forth a profound sigh at his master's disdainful
+exclamation.
+
+"Ah, Monsieur le Marquis!  Monsieur le Marquis!  When I think that the
+great King Henri, before my eyes, put his chamois gloves into his pocket
+to keep the rain from spoiling them; when I think that Monsieur de Rosni
+refused him money when he had spent too much; when I think--"
+
+"When thou dost think, thou art egregiously tedious, my old friend,"
+interrupted his master; "and thou wilt do better in telling me what that
+black figure is that I think I see walking in the mire behind us."
+
+"It looks like some poor peasant woman who, perhaps, wants alms of us.
+She can easily follow us, for we do not go at much of a pace in this
+sand, wherein our horses sink up to the hams.  We shall go to the Landes
+perhaps some day, Monsieur, and you will see a country all the same as
+this sandy road, and great, black firs all the way along.  It looks like
+a churchyard; this is an exact specimen of it.  Look, the rain has
+ceased, and we can see a little ahead; there is nothing but furze-bushes
+on this great plain, without a village or a house.  I don't know where we
+can pass the night; but if you will take my advice, you will let us cut
+some boughs and bivouac where we are.  You shall see how, with a little
+earth, I can make a hut as warm as a bed."
+
+"I would rather go on to the light I see in the horizon," said Cinq-Mars;
+"for I fancy I feel rather feverish, and I am thirsty.  But fall back, I
+would ride alone; rejoin the others and follow."
+
+Grandchamp obeyed; he consoled himself by giving Germain, Louis, and
+Etienne lessons in the art of reconnoitring a country by night.
+
+Meanwhile, his young master was overcome with fatigue.  The violent
+emotions of the day had profoundly affected his mind; and the long
+journey on horseback, the last two days passed almost without
+nourishment, owing to the hurried pressure of events, the heat of the sun
+by day, the icy coldness of the night, all contributed to increase his
+indisposition and to weary his delicate frame.  For three hours he rode
+in silence before his people, yet the light he had seen in the horizon
+seemed no nearer; at last he ceased to follow it with his eyes, and his
+head, feeling heavier and heavier, sank upon his breast.  He gave the
+reins to his tired horse, which of its own accord followed the high-road,
+and, crossing his arms, allowed himself to be rocked by the monotonous
+motion of his fellow-traveller, which frequently stumbled against the
+large stones that strewed the road.  The rain had ceased, as had the
+voices of his domestics, whose horses followed in the track of their
+master's.  The young man abandoned himself to the bitterness of his
+thoughts; he asked himself whether the bright object of his hopes would
+not flee from him day by day, as that phosphoric light fled from him in
+the horizon, step by step.  Was it probable that the young Princess,
+almost forcibly recalled to the gallant court of Anne of Austria, would
+always refuse the hands, perhaps royal ones, that would be offered to
+her?  What chance that she would resign herself to renounce a present
+throne, in order to wait till some caprice of fortune should realize
+romantic hopes, or take a youth almost in the lowest rank of the army and
+lift him to the elevation she spoke of, till the age of love should be
+passed?  How could he be certain that even the vows of Marie de Gonzaga
+were sincere?
+
+"Alas!"  he said, "perhaps she has blinded herself as to her own
+sentiments; the solitude of the country had prepared her soul to receive
+deep impressions.  I came; she thought I was he of whom she had dreamed.
+Our age and my love did the rest.  But when at court, she, the companion
+of the Queen, has learned to contemplate from an exalted position the
+greatness to which I aspire, and which I as yet see only from a very
+humble distance; when she shall suddenly find herself in actual
+possession of the future she aims at, and measures with a more correct
+eye the long road I have to travel; when she shall hear around her vows
+like mine, pronounced by lips which could undo me with a word, with a
+word destroy him whom she awaits as her husband, her lord--oh, madman
+that I have been!--she will see all her folly, and will be incensed at
+mine."
+
+Thus did doubt, the greatest misery of love, begin to torture his unhappy
+heart; he felt his hot blood rush to his head and oppress it.  Ever and
+anon he fell forward upon the neck of his horse, and a half sleep weighed
+down his eyes; the dark firs that bordered the road seemed to him
+gigantic corpses travelling beside him.  He saw, or thought he saw, the
+same woman clothed in black, whom he had pointed out to Grandchamp,
+approach so near as to touch his horse's mane, pull his cloak, and then
+run off with a jeering laugh; the sand of the road seemed to him a river
+running beneath him, with opposing current, back toward its source.  This
+strange sight dazzled his worn eyes; he closed them and fell asleep on
+his horse.
+
+Presently, he felt himself stopped, but he was numbed with cold and could
+not move.  He saw peasants, lights, a house, a great room into which they
+carried him, a wide bed, whose heavy curtains were closed by Grandchamp;
+and he fell asleep again, stunned by the fever that whirred in his ears.
+
+Dreams that followed one another more rapidly than grains of sand before
+the wind rushed through his brain; he could not catch them, and moved
+restlessly on his bed.  Urbain Grandier on the rack, his mother in tears,
+his tutor armed, Bassompierre loaded with chains, passed before him,
+making signs of farewell; at last, as he slept, he instinctively put his
+hand to his head to stay the passing dream, which then seemed to unfold
+itself before his eyes like pictures in shifting sands.
+
+He saw a public square crowded with a foreign people, a northern people,
+who uttered cries of joy, but they were savage cries; there was a line of
+guards, ferocious soldiers--these were Frenchmen.  "Come with me," said
+the soft voice of Marie de Gonzaga, who took his hand.  "See, I wear a
+diadem; here is thy throne, come with me."  And she hurried him on, the
+people still shouting.  He went on, a long way.  "Why are you sad, if
+you are a queen?"  he said, trembling.  But she was pale, and smiled and
+spoke not.  She ascended, step after step, up to a throne, and seated
+herself.  "Mount!"  said she, forcibly pulling his hand.  But, at every
+movement, the massive stairs crumbled beneath his feet, so that he could
+not ascend.  "Give thanks to love," she continued; and her hand, now more
+powerful, raised him to the throne.  The people still shouted.  He bowed
+low to kiss that helping hand, that adored hand; it was the hand of the
+executioner!
+
+"Oh, heavens!"  exclaimed Cinq-Mars, as, heaving a deep sigh, he opened
+his eyes.  A flickering lamp lighted the ruinous chamber of the inn; he
+again closed his eyes, for he had seen, seated on his bed, a woman, a
+nun, young and beautiful!  He thought he was still dreaming, but she
+grasped his hand firmly.  He opened his burning eyes, and fixed them upon
+her.
+
+"Is it you, Jeannede Belfiel?  The rain has drenched your veil and your
+black hair!  Why are you here, unhappy woman?"
+
+"Hark!  awake not my Urbain; he sleeps there in the next room.  Ay, my
+hair is indeed wet, and my feet--see, my feet that were once so white,
+see how the mud has soiled them.  But I have made a vow--I will not wash
+them till I have seen the King, and until he has granted me Urbain's
+pardon.  I am going to the army to find him; I will speak to him as
+Grandier taught me to speak, and he will pardon him.  And listen, I will
+also ask thy pardon, for I read it in thy face that thou, too, art
+condemned to death.  Poor youth!  thou art too young to die, thy curling
+hair is beautiful; but yet thou art condemned, for thou hast on thy brow
+a line that never deceives.  The man thou hast struck will kill thee.
+Thou hast made too much use of the cross; it is that which will bring
+evil upon thee.  Thou hast struck with it, and thou wearest it round thy
+neck by a hair chain.  Nay, hide not thy face; have I said aught to
+afflict thee, or is it that thou lovest, young man?  Ah, reassure
+thyself, I will not tell all this to thy love.  I am mad, but I am
+gentle, very gentle; and three days ago I was beautiful.  Is she also
+beautiful?  Ah!  she will weep some day!  Yet, if she can weep, she will
+be happy!"
+
+And then suddenly Jeanne began to recite the service for the dead in a
+monotonous voice, but with incredible rapidity, still seated on the bed,
+and turning the beads of a long rosary.
+
+Suddenly the door opened; she looked up, and fled through another door in
+the partition.
+
+"What the devil's that-an imp or an angel, saying the funeral service
+over you, and you under the clothes, as if you were in a shroud?"
+
+This abrupt exclamation came from the rough voice of Grandchamp, who was
+so astonished at what he had seen that he dropped the glass of lemonade
+he was bringing in.  Finding that his master did not answer, he became
+still more alarmed, and raised the bedclothes.  Cinq-Mars's face was
+crimson, and he seemed asleep, but his old domestic saw that the blood
+rushing to his head had almost suffocated him; and, seizing a jug full of
+cold water, he dashed the whole of it in his face.  This military remedy
+rarely fails to effect its purpose, and Cinq-Mars returned to himself
+with a start.
+
+"Ah! it is thou, Grandchamp; what frightful dreams I have had!"
+
+"Peste!  Monsieur le Marquis, your dreams, on the contrary, are very
+pretty ones.  I saw the tail of the last as I came in; your choice is not
+bad."
+
+"What dost mean, blockhead?"
+
+"Nay, not a blockhead, Monsieur; I have good eyes, and I have seen what I
+have seen.  But, really ill as you are, Monsieur le Marechal would
+never--"
+
+"Thou art utterly doting, my friend; give me some drink, I am parched
+with thirst.  Oh, heavens!  what a night!  I still see all those women."
+
+"All those women, Monsieur?  Why, how many are here?"
+
+"I am speaking to thee of a dream, blockhead.  Why standest there like a
+post, instead of giving me some drink?"
+
+"Enough, Monsieur; I will get more lemonade."  And going to the door, he
+called over the staircase, "Germain!  Etienne!  Louis!"
+
+The innkeeper answered from below: "Coming, Monsieur, coming; they have
+been helping me to catch the madwoman."
+
+"What mad-woman?"  said Cinq-Mars, rising in bed.
+
+The host entered, and, taking off his cotton cap, said, respectfully:
+"Oh, nothing, Monsieur le Marquis, only a madwoman that came here last
+night on foot, and whom we put in the next room; but she has escaped, and
+we have not been able to catch her."
+
+"Ah!"  exclaimed Cinq-Mars, returning to himself and putting his hand to
+his eyes, "it was not a dream, then.  And my mother, where is she?  and
+the Marechal, and--Ah!  and yet it is but a fearful dream!  Leave me."
+
+As he said this, he turned toward the wall, and again pulled the clothes
+over his head.
+
+The innkeeper, in amazement, touched his forehead three times with his
+finger, looking at Grandchamp as if to ask him whether his master were
+also mad.
+
+Grandchamp motioned him away in silence, and in order to watch the rest
+of the night by the side of Cinq-Mars, who was in a deep sleep, he seated
+himself in a large armchair, covered with tapestry, and began to squeeze
+lemons into a glass of water with an air as grave and severe as
+Archimedes calculating the condensing power of his mirrors.
+
+
+
+
+CHAPTER VII
+
+THE CABINET
+
+     Men have rarely the courage to be wholly good or wholly bad.
+                                                  MACHIAVELLI.
+
+Let us leave our young traveller sleeping; he will soon pursue a long and
+beautiful route.  Since we are at liberty to turn to all points of the
+map, we will fix our eyes upon the city of Narbonne.
+
+Behold the Mediterranean, not far distant, washing with its blue waters
+the sandy shores.  Penetrate into that city resembling Athens; and to
+find him who reigns there, follow that dark and irregular street, mount
+the steps of the old archiepiscopal palace, and enter the first and
+largest of its apartments.
+
+This was a very long salon, lighted by a series of high lancet windows,
+of which the upper part only retained the blue, yellow, and red panes
+that shed a mysterious light through the apartment.  A large round table
+occupied its entire breadth, near the great fireplace; around this table,
+covered with a colored cloth and scattered with papers and portfolios,
+were seated, bending over their pens, eight secretaries copying letters
+which were handed to them from a smaller table.  Other men quietly
+arranged the completed papers in the shelves of a bookcase, partly filled
+with books bound in black.
+
+Notwithstanding the number of persons assembled in the room, one might
+have heard the movements of the wings of a fly.  The only interruption to
+the silence was the sound of pens rapidly gliding over paper, and a
+shrill voice dictating, stopping every now and then to cough.  This voice
+proceeded from a great armchair placed beside the fire, which was
+blazing, notwithstanding the heat of the season and of the country.
+It was one of those armchairs that you still see in old castles, and
+which seem made to read one's self to sleep in, so easy is every part of
+it.  The sitter sinks into a circular cushion of down; if the head leans
+back, the cheeks rest upon pillows covered with silk, and the seat juts
+out so far beyond the elbows that one may believe the provident
+upholsterers of our forefathers sought to provide that the book should
+make no noise in falling so as to awaken the sleeper.
+
+But we will quit this digression, and speak of the man who occupied the
+chair, and who was very far from sleeping.  He had a broad forehead,
+bordered with thin white hair, large, mild eyes, a wan face, to which a
+small, pointed, white beard gave that air of subtlety and finesse
+noticeable in all the portraits of the period of Louis XIII.  His mouth
+was almost without lips, which Lavater deems an indubitable sign of an
+evil mind, and it was framed in a pair of slight gray moustaches and a
+'royale'--an ornament then in fashion, which somewhat resembled a comma
+in form.  The old man wore a close red cap, a large 'robe-dechambre',
+and purple silk stockings; he was no less a personage than Armand
+Duplessis, Cardinal de Richelieu.
+
+Near him, around the small table, sat four youths from fifteen to twenty
+years of age; these were pages, or domestics, according to the term then
+in use, which signified familiars, friends of the house.  This custom was
+a relic of feudal patronage, which still existed in our manners.
+The younger members of high families received wages from the great lords,
+and were devoted to their service in all things, challenging the first
+comer at the wish of their patron.  The pages wrote letters from the
+outline previously given them by the Cardinal, and after their master had
+glanced at them, passed them to the secretaries, who made fair copies.
+The Duke, for his part, wrote on his knee private notes upon small slips
+of paper, inserting them in almost all the packets before sealing them,
+which he did with his own hand.
+
+He had been writing a short time, when, in a mirror before him, he saw
+the youngest of his pages writing something on a sheet of paper much
+smaller than the official sheet.  He hastily wrote a few words, and then
+slipped the paper under the large sheet which, much against his
+inclination, he had to fill; but, seated behind the Cardinal, he hoped
+that the difficulty with which the latter turned would prevent him from
+seeing the little manoeuvre he had tried to exercise with much dexterity.
+Suddenly Richelieu said to him, dryly, "Come here, Monsieur Olivier."
+
+These words came like a thunder-clap on the poor boy, who seemed about
+sixteen.  He rose at once, however, and stood before the minister, his
+arms hanging at his side and his head lowered.
+
+The other pages and the secretaries stirred no more than soldiers when a
+comrade is struck down by a ball, so accustomed were they to this kind of
+summons.  The present one, however, was more energetic than usual.
+
+"What were you writing?"
+
+"My lord, what your Eminence dictated."
+
+"What!"
+
+"My lord, the letter to Don Juan de Braganza."
+
+"No evasions, Monsieur; you were writing something else."
+
+"My lord," said the page, with tears in his eyes, "it was a letter to one
+of my cousins."
+
+"Let me see it."
+
+The page trembled in every limb and was obliged to lean against the
+chimney-piece, as he said, in a hardly audible tone, "It is impossible."
+
+"Monsieur le Vicomte Olivier d'Entraigues," said the minister, without
+showing the least emotion, "you are no longer in my service."  The page
+withdrew.  He knew that there was no reply; so, slipping his letter into
+his pocket, and opening the folding-doors just wide enough to allow his
+exit, he glided out like a bird escaped from the cage.
+
+The minister went on writing the note upon his knee.
+
+The secretaries redoubled their silent zeal, when suddenly the two wings
+of the door were thrown back and showed, standing in the opening, a
+Capuchin, who, bowing, with his arms crossed over his breast, seemed
+waiting for alms or for an order to retire.  He had a dark complexion,
+and was deeply pitted with smallpox; his eyes, mild, but somewhat
+squinting, were almost hidden by his thick eyebrows, which met in the
+middle of his forehead; on his mouth played a crafty, mischievous, and
+sinister smile; his beard was straight and red, and his costume was that
+of the order of St. Francis in all its repulsiveness, with sandals on his
+bare feet, that looked altogether unfit to tread upon carpet.
+
+Such as he was, however, this personage appeared to create a great
+sensation throughout the room; for, without finishing the phrase, the
+line, or even the word begun, every person rose and went out by the door
+where he was still standing--some saluting him as they passed, others
+turning away their heads, and the young pages holding their fingers to
+their noses, but not till they were behind him, for they seemed to have a
+secret fear of him.  When they had all passed out, he entered, making a
+profound reverence, because the door was still open; but, as soon as it
+was shut, unceremoniously advancing, he seated himself near the Cardinal,
+who, having recognized him by the general movement he created, saluted
+him with a dry and silent inclination of the head, regarding him fixedly,
+as if awaiting some news and unable to avoid knitting his brows, as at
+the aspect of a spider or some other disagreeable creature.
+
+The Cardinal could not resist this movement of displeasure, because he
+felt himself obliged, by the presence of his agent, to resume those
+profound and painful conversations from which he had for some days been
+free, in a country whose pure air, favorable to him, had somewhat soothed
+the pain of his malady; that malady had changed to a slow fever, but its
+intervals were long enough to enable him to forget during its absence
+that it must return.  Giving, therefore, a little rest to his hitherto
+indefatigable mind, he had been awaiting, for the first time in his life
+perhaps, without impatience, the return of the couriers he had sent in
+all directions, like the rays of a sun which alone gave life and movement
+to France.  He had not expected the visit he now received, and the sight
+of one of those men, whom, to use his own expression, he "steeped in
+crime," rendered all the habitual disquietudes of his life more present
+to him, without entirely dissipating the cloud of melancholy which at
+that time obscured his thoughts.
+
+The beginning of his conversation was tinged with the gloomy hue of his
+late reveries; but he soon became more animated and vigorous than ever,
+when his powerful mind had reentered the real world.
+
+His confidant, seeing that he was expected to break the silence, did so
+in this abrupt fashion:
+
+"Well, my lord, of what are you thinking?"
+
+"Alas, Joseph, of what should we all think, but of our future happiness
+in a better life?  For many days I have been reflecting that human
+interests have too much diverted me from this great thought; and I repent
+me of having spent some moments of my leisure in profane works, such as
+my tragedies, 'Europe' and 'Mirame,' despite the glory they have already
+gained me among our brightest minds--a glory which will extend unto
+futurity."
+
+Father Joseph, full of what he had to say, was at first surprised at this
+opening; but he knew his master too well to betray his feelings, and,
+well skilled in changing the course of his ideas, replied:
+
+"Yes, their merit is very great, and France will regret that these
+immortal works are not followed by similar productions."
+
+"Yes, my dear Joseph; but it is in vain that such men as Boisrobert,
+Claveret, Colletet, Corneille, and, above all, the celebrated Mairet,
+have proclaimed these tragedies the finest that the present or any past
+age has produced.  I reproach myself for them, I swear to you, as for a
+mortal sin, and I now, in my hours of repose, occupy myself only with my
+'Methode des Controverses', and my book on the 'Perfection du Chretien.'
+I remember that I am fifty-six years old, and that I have an incurable
+malady."
+
+"These are calculations which your enemies make as precisely as your
+Eminence," said the priest, who began to be annoyed with this
+conversation, and was eager to talk of other matters.
+
+The blood mounted to the Cardinal's face.
+
+"I know it!  I know it well!" he said; "I know all their black villainy,
+and I am prepared for it.  But what news is there?"
+
+"According to our arrangement, my lord, we have removed Mademoiselle
+d'Hautefort, as we removed Mademoiselle de la Fayette before her.  So far
+it is well; but her place is not filled, and the King--"
+
+"Well!"
+
+"The King has ideas which he never had before."
+
+"Ha!  and which come not from me?  'Tis well, truly," said the minister,
+with an ironic sneer.
+
+"What, my lord, leave the place of the favorite vacant for six whole
+days?  It is not prudent; pardon me for saying so."
+
+"He has ideas--ideas!"  repeated Richelieu, with a kind of terror; "and
+what are they?"
+
+"He talks of recalling the Queen-mother," said the Capuchin, in a low
+voice; "of recalling her from Cologne."
+
+"Marie de Medicis!"  cried the Cardinal, striking the arms of his chair
+with his hands.  "No, by Heaven, she shall not again set her foot upon
+the soil of France, whence I drove her, step by step!  England has not
+dared to receive her, exiled by me; Holland fears to be crushed by her;
+and my kingdom to receive her!  No, no, such an idea could not have
+originated with himself!  To recall my enemy!  to recall his mother!
+What perfidy!  He would not have dared to think of it."
+
+Then, having mused for a moment, he added, fixing a penetrating look
+still full of burning anger upon Father Joseph:
+
+"But in what terms did he express this desire?  Tell me his precise
+words."
+
+"He said publicly; and in the presence of Monsieur: 'I feel that one of
+the first duties of a Christian is to be a good son, and I will resist no
+longer the murmurs of my conscience.'"
+
+"Christian!  conscience!  these are not his expressions.  It is Father
+Caussin--it is his confessor who is betraying me," cried the Cardinal.
+"Perfidious Jesuit!  I pardoned thee thy intrigue with La Fayette; but I
+will not pass over thy secret counsels.  I will have this confessor
+dismissed, Joseph; he is an enemy to the State, I see it clearly.
+But I myself have acted with negligence for some days past; I have not
+sufficiently hastened the arrival of the young d'Effiat, who will
+doubtless succeed.  He is handsome and intellectual, they say.  What a
+blunder!  I myself merit disgrace.  To leave that fox of a Jesuit with
+the King, without having given him my secret instructions, without a
+hostage, a pledge, or his fidelity to my orders!  What neglect!  Joseph,
+take a pen, and write what I shall dictate for the other confessor, whom
+we will choose better.  I think of Father Sirmond."
+
+Father Joseph sat down at the large table, ready to write, and the
+Cardinal dictated to him those duties, of a new kind, which shortly
+afterward he dared to have given to the King, who received them,
+respected them, and learned them by heart as the commandments of the
+Church.  They have come down to us, a terrible monument of the empire
+that a man may seize upon by means of circumstances, intrigues, and
+audacity:
+
+     "I.  A prince should have a prime minister, and that minister three
+     qualities: (1) He should have no passion but for his prince; (2) He
+     should be able and faithful; (3) He should be an ecclesiastic.
+
+     "II.  A prince ought perfectly to love his prime minister.
+
+     "III.  Ought never to change his prime minister.
+
+     "IV.  Ought to tell him all things.
+
+     "V.  To give him free access to his person.
+
+     "VI.  To give him sovereign authority over his people.
+
+     "VII.  Great honors and large possessions.
+
+     "VIII.  A prince has no treasure more precious than his prime
+     minister.
+
+     "IX.  A prince should not put faith in what people say against his
+     prime minister, nor listen to any such slanders.
+
+     "X.  A prince should reveal to his prime minister all that is said
+     against him, even though he has been bound to keep it secret.
+
+     "XI.  A prince should prefer not only the well-being of the State,
+     but also his prime minister, to all his relations."
+
+
+Such were the commandments of the god of France, less astonishing in
+themselves than the terrible naivete which made him bequeath them to
+posterity, as if posterity also must believe in him.
+
+While he dictated his instructions, reading them from a small piece of
+paper, written with his own hand, a deep melancholy seemed to possess him
+more and more at each word; and when he had ended, he fell back in his
+chair, his arms crossed, and his head sunk on his breast.
+
+Father Joseph, dropping his pen, arose and was inquiring whether he were
+ill, when he heard issue from the depths of his chest these mournful and
+memorable words:
+
+"What utter weariness!  what endless trouble!  If the ambitious man could
+see me, he would flee to a desert.  What is my power?  A miserable
+reflection of the royal power; and what labors to fix upon my star that
+incessantly wavering ray!  For twenty years I have been in vain
+attempting it.  I can not comprehend that man.  He dare not flee me;
+but they take him from me--he glides through my fingers.  What things
+could I not have done with his hereditary rights, had I possessed them?
+But, employing such infinite calculation in merely keeping one's balance,
+what of genius remains for high enterprises?  I hold Europe in my hand,
+yet I myself am suspended by a trembling hair.  What is it to me that I
+can cast my eyes confidently over the map of Europe, when all my
+interests are concentrated in his narrow cabinet, and its few feet of
+space give me more trouble to govern than the whole country besides?
+See, then, what it is to be a prime minister!  Envy me, my guards, if you
+can."
+
+His features were so distorted as to give reason to fear some accident;
+and at the same moment he was seized with a long and violent fit of
+coughing, which ended in a slight hemorrhage.  He saw that Father Joseph,
+alarmed, was about to seize a gold bell that stood on the table, and,
+suddenly rising with all the vivacity of a young man, he stopped him,
+saying:
+
+"'Tis nothing, Joseph; I sometimes yield to these fits of depression; but
+they do not last long, and I leave them stronger than before.  As for my
+health, I know my condition perfectly; but that is not the business in
+hand.  What have you done at Paris?  I am glad to know the King has
+arrived in Bearn, as I wished; we shall be able to keep a closer watch
+upon him.  How did you induce him to come away?"
+
+"A battle at Perpignan."
+
+"That is not bad.  Well, we can arrange it for him; that occupation will
+do as well as another just now.  But the young Queen, what says she?"
+
+"She is still furious against you; her correspondence discovered, the
+questioning to which you had subjected her--"
+
+"Bah! a madrigal and a momentary submission on my part will make her
+forget that I have separated her from her house of Austria and from the
+country of her Buckingham.  But how does she occupy herself?"
+
+"In machinations with Monsieur.  But as we have his entire confidence,
+here are the daily accounts of their interviews."
+
+"I shall not trouble myself to read them; while the Duc de Bouillon
+remains in Italy I have nothing to fear in that quarter.  She may have as
+many petty plots with Gaston in the chimney-corner as she pleases; he
+never got beyond his excellent intentions, forsooth!  He carries nothing
+into effect but his withdrawal from the kingdom.  He has had his third
+dismissal; I will manage a fourth for him whenever he pleases; he is not
+worth the pistol-shot you had the Comte de Soissons settled with, and yet
+the poor Comte had scarce more energy than he."
+
+And the Cardinal, reseating himself in his chair, began to laugh gayly
+enough for a statesman.
+
+"I always laugh when I think of their expedition to Amiens.  They had me
+between them, Each had fully five hundred gentlemen with him, armed to
+the teeth, and all going to despatch me, like Concini; but the great
+Vitry was not there.  They very quietly let me talk for an hour with them
+about the hunt and the Fete Dieu, and neither of them dared make a sign
+to their cut-throats.  I have since learned from Chavigny that for two
+long months they had been waiting that happy moment.  For myself, indeed,
+I observed nothing, except that little villain, the Abbe de Gondi,--
+[Afterward Cardinal de Retz.]--who prowled near me, and seemed to have
+something hidden under his sleeve; it was he that made me get into the
+coach."
+
+"Apropos of the Abbe, my lord, the Queen insists upon making him
+coadjutor."
+
+"She is mad!  he will ruin her if she connects herself with him; he's a
+musketeer in canonicals, the devil in a cassock.  Read his 'Histoire de
+Fiesque'; you may see himself in it.  He will be nothing while I live."
+
+"How is it that with a judgment like yours you bring another ambitious
+man of his age to court?"
+
+"That is an entirely different matter.  This young Cinq-Mars, my friend,
+will be a mere puppet.  He will think of nothing but his ruff and his
+shoulder-knots; his handsome figure assures me of this.  I know that he
+is gentle and weak; it was for this reason I preferred him to his elder
+brother.  He will do whatever we wish."
+
+"Ah, my lord," said the monk, with an expression of doubt, "I never place
+much reliance on people whose exterior is so calm; the hidden flame is
+often all the more dangerous.  Recollect the Marechal d'Effiat, his
+father."
+
+"But I tell you he is a boy, and I shall bring him up; while Gondi is
+already an accomplished conspirator, an ambitious knave who sticks at
+nothing.  He has dared to dispute Madame de la Meilleraie with me.  Can
+you conceive it?  He dispute with me!  A petty priestling, who has no
+other merit than a little lively small-talk and a cavalier air.
+Fortunately, the husband himself took care to get rid of him."
+
+Father Joseph, who listened with equal impatience to his master when he
+spoke of his 'bonnes fortunes' or of his verses, made, however, a grimace
+which he meant to be very sly and insinuating, but which was simply ugly
+and awkward; he fancied that the expression of his mouth, twisted about
+like a monkey's, conveyed, "Ah!  who can resist your Eminence?"  But his
+Eminence only read there, "I am a clown who knows nothing of the great
+world"; and, without changing his voice, he suddenly said, taking up a
+despatch from the table:
+
+"The Duc de Rohan is dead, that is good news; the Huguenots are ruined.
+He is a lucky man.  I had him condemned by the Parliament of Toulouse to
+be torn in pieces by four horses, and here he dies quietly on the
+battlefield of Rheinfeld.  But what matters?  The result is the same.
+Another great head is laid low!  How they have fallen since that of
+Montmorency!  I now see hardly any that do not bow before me.  We have
+already punished almost all our dupes of Versailles; assuredly they have
+nothing with which to reproach me.  I simply exercise against them the
+law of retaliation, treating them as they would have treated me in the
+council of the Queen-mother.  The old dotard Bassompierre shall be doomed
+for perpetual imprisonment, and so shall the assassin Marechal de Vitry,
+for that was the punishment they voted me.  As for Marillac, who
+counselled death, I reserve death for him at the first false step he
+makes, and I beg thee, Joseph, to remind me of him; we must be just to
+all.  The Duc de Bouillon still keeps up his head proudly on account of
+his Sedan, but I shall make him yield.  Their blindness is truly
+marvellous!  They think themselves all free to conspire, not perceiving
+that they are merely fluttering at the ends of the threads that I hold in
+my hand, and which I lengthen now and then to give them air and space.
+Did the Huguenots cry out as one man at the death of their dear duke?"
+
+"Less so than at the affair of Loudun, which is happily concluded."
+
+"What!  Happily?  I hope that Grandier is dead?"
+
+"Yes; that is what I meant.  Your Eminence may be fully satisfied.  All
+was settled in twenty-four hours.  He is no longer thought of.  Only
+Laubardemont committed a slight blunder in making the trial public.  This
+caused a little tumult; but we have a description of the rioters, and
+measures have been taken to seek them out."
+
+"This is well, very well.  Urbain was too superior a man to be left
+there; he was turning Protestant.  I would wager that he would have ended
+by abjuring.  His work against the celibacy of priests made me conjecture
+this; and in cases of doubt, remember, Joseph, it is always best to cut
+the tree before the fruit is gathered.  These Huguenots, you see, form a
+regular republic in the State.  If once they had a majority in France,
+the monarchy would be lost, and they would establish some popular
+government which might be durable."
+
+"And what deep pain do they daily cause our holy Father the Pope!"  said
+Joseph.
+
+"Ah," interrupted the Cardinal, "I see; thou wouldst remind me of his
+obstinacy in not giving thee the hat.  Be tranquil; I will speak to-day
+on the subject to the new ambassador we are sending, the Marechal
+d'Estrees, and he will, on his arrival, doubtless obtain that which
+has been in train these two years--thy nomination to the cardinalate.
+I myself begin to think that the purple would become thee well, for it
+does not show blood-stains."
+
+And both burst into laughter--the one as a master, overwhelming the
+assassin whom he pays with his utter scorn; the other as a slave,
+resigned to all the humiliation by which he rises.
+
+The laughter which the ferocious pleasantry of the old minister had
+excited had hardly subsided, when the door opened, and a page announced
+several couriers who had arrived simultaneously from different points.
+Father Joseph arose, and, leaning against the wall like an Egyptian
+mummy, allowed nothing to appear upon his face but an expression of
+stolid contemplation.  Twelve messengers entered successively, attired in
+various disguises; one appeared to be a Swiss soldier, another a sutler,
+a third a master-mason.  They had been introduced into the palace by a
+secret stairway and corridor, and left the cabinet by a door opposite
+that at which they had entered, without any opportunity of meeting one
+another or communicating the contents of their despatches.  Each laid a
+rolled or folded packet of papers on the large table, spoke for a moment
+with the Cardinal in the embrasure of a window and withdrew.  Richelieu
+had risen on the entrance of the first messenger, and, careful to do all
+himself, had received them all, listened to all, and with his own hand
+had closed the door upon all.  When the last was gone, he signed to
+Father Joseph, and, without speaking, both proceeded to unfold, or,
+rather, to tear open, the packets of despatches, and in a few words
+communicated to each other the substance of the letters.
+
+"The Due de Weimar pursues his advantage; the Duc Charles is defeated.
+Our General is in good spirits; here are some of his lively remarks at
+table.  Good!"
+
+"Monseigneur le Vicomte de Turenne has retaken the towns of Lorraine; and
+here are his private conversations--"
+
+"Oh!  pass over them; they can not be dangerous.  He is ever a good and
+honest man, in no way mixing himself up with politics; so that some one
+gives him a little army to play at chess with, no matter against whom,
+he is content.  We shall always be good friends."
+
+"The Long Parliament still endures in England.  The Commons pursue their
+project; there are massacres in Ireland.  The Earl of Strafford is
+condemned to death."
+
+"To death!  Horrible!"
+
+"I will read: 'His Majesty Charles I has not had the courage to sign the
+sentence, but he has appointed four commissioners.'"
+
+"Weak king, I abandon thee!  Thou shalt have no more of our money.  Fall,
+since thou art ungrateful!  Unhappy Wentworth!"
+
+A tear rose in the eyes of Richelieu as he said this; the man who had but
+now played with the lives of so many others wept for a minister abandoned
+by his prince.  The similarity between that position and his own affected
+him, and it was his own case he deplored in the person of the foreign
+minister.  He ceased to read aloud the despatches that he opened, and his
+confidant followed his example.  He examined with scrupulous attention
+the detailed accounts of the most minute and secret actions of each
+person of any importance-accounts which he always required to be added to
+the official despatches made by his able spies.  All the despatches to
+the King passed through his hands, and were carefully revised so as to
+reach the King amended to the state in which he wished him to read them.
+The private notes were all carefully burned by the monk after the
+Cardinal had ascertained their contents.  The latter, however, seemed by
+no means satisfied, and he was walking quickly to and fro with gestures
+expressive of anxiety, when the door opened, and a thirteenth courier
+entered.  This one seemed a boy hardly fourteen years old; he held under
+his arm a packet sealed with black for the King, and gave to the Cardinal
+only a small letter, of which a stolen glance from Joseph could collect
+but four words.  The Cardinal started, tore the billet into a thousand
+pieces, and, bending down to the ear of the boy, spoke to him for a long
+time; all that Joseph heard was, as the messenger went out:
+
+"Take good heed to this; not until twelve hours from this time."
+
+During this aside of the Cardinal, Joseph was occupied in concealing an
+infinite number of libels from Flanders and Germany, which the minister
+always insisted upon seeing, however bitter they might be to him.  In
+this respect, he affected a philosophy which he was far from possessing,
+and to deceive those around him he would sometimes pretend that his
+enemies were not wholly wrong, and would outwardly laugh at their
+pleasantries; but those who knew his character better detected bitter
+rage lurking under this apparent moderation, and knew that he was never
+satisfied until he had got the hostile book condemned by the parliament
+to be burned in the Place de Greve, as "injurious to the King, in the
+person of his minister, the most illustrious Cardinal," as we read in the
+decrees of the time, and that his only regret was that the author was not
+in the place of his book--a satisfaction he gave himself whenever he
+could, as in the case of Urbain Grandier.
+
+It was his colossal pride which he thus avenged, without avowing it even
+to himself--nay, laboring for a length of time, sometimes for a whole
+twelvemonth together, to persuade himself that the interest of the State
+was concerned in the matter.  Ingenious in connecting his private affairs
+with the affairs of France, he had convinced himself that she bled from
+the wounds which he received.  Joseph, careful not to irritate his ill-
+temper at this moment, put aside and concealed a book entitled 'Mystres
+Politiques du Cardinal de la Rochelle'; also another, attributed to a
+monk of Munich, entitled 'Questions quolibetiques, ajustees au temps
+present, et Impiete Sanglante du dieu Mars'.  The worthy advocate Aubery,
+who has given us one of the most faithful histories of the most eminent
+Cardinal, is transported with rage at the mere title of the first of
+these books, and exclaims that "the great minister had good reason to
+glorify himself that his enemies, inspired against their will with the
+same enthusiasm which conferred the gift of rendering oracles upon the
+ass of Balaam, upon Caiaphas and others, who seemed most unworthy of the
+gift of prophecy, called him with good reason Cardinal de la Rochelle,
+since three years after their writing he reduced that town; thus Scipio
+was called Africanus for having subjugated that PROVINCE!"  Very little
+was wanting to make Father Joseph, who had necessarily the same feelings,
+express his indignation in the same terms; for he remembered with
+bitterness the ridiculous part he had played in the siege of Rochelle,
+which, though not a province like Africa, had ventured to resist the most
+eminent Cardinal, and into which Father Joseph, piquing himself on his
+military skill, had proposed to introduce the troops through a sewer.
+However, he restrained himself, and had time to conceal the libel in the
+pocket of his brown robe ere the minister had dismissed his young courier
+and returned to the table.
+
+"And now to depart, Joseph," he said.  "Open the doors to all that court
+which besieges me, and let us go to the King, who awaits me at Perpignan;
+this time I have him for good."
+
+The Capuchin drew back, and immediately the pages, throwing open the
+gilded doors, announced in succession the greatest lords of the period,
+who had obtained permission from the King to come and salute the
+minister.  Some, even, under the pretext of illness or business, had
+departed secretly, in order not to be among the last at Richelieu's
+reception; and the unhappy monarch found himself almost as alone as other
+kings find themselves on their deathbeds.  But with him, the throne
+seemed, in the eyes of the court, his dying couch, his reign a continual
+last agony, and his minister a threatening successor.
+
+Two pages, of the first families of France, stood at the door, where the
+ushers announced each of the persons whom Father Joseph had found in the
+ante room.  The Cardinal, still seated in his great arm chair, remained
+motionless as the common couriers entered, inclined his head to the more
+distinguished, and to princes alone put his hands on the elbows of his
+chair and slightly rose; each person, having profoundly saluted him,
+stood before him near the fireplace, waited till he had spoken to him,
+and then, at a wave of his hand, completed the circuit of the room, and
+went out by the same door at which he had entered, paused for a moment to
+salute Father Joseph, who aped his master, and who for that reason had
+been named "his Gray Eminence," and at last quitted the palace, unless,
+indeed, he remained standing behind the chair, if the minister had
+signified that he should, which was considered a token of very great
+favor.
+
+He allowed to pass several insignificant persons, and many whose merits
+were useless to him; the first whom he stopped in the procession was the
+Marechal d'Estrees, who, about to set out on an embassy to Rome, came to
+make his adieux; those behind him stopped short.  This circumstance
+warned the courtiers in the anteroom that a longer conversation than
+usual was on foot, and Father Joseph, advancing to the threshold,
+exchanged with the Cardinal a glance which seemed to say, on the one
+side, "Remember the promise you have just made me," on the other, "Set
+your mind at rest."  At the same time, the expert Capuchin let his master
+see that he held upon his arm one of his victims, whom he was forming
+into a docile instrument; this was a young gentleman who wore a very
+short green cloak, a pourpoint of the same color, close-fitting red
+breeches, with glittering gold garters below the knee-the costume of the
+pages of Monsieur.  Father Joseph, indeed, spoke to him secretly, but not
+in the way the Cardinal imagined; for he contemplated being his equal,
+and was preparing other connections, in case of defection on the part of
+the prime minister.
+
+"Tell Monsieur not to trust in appearances, and that he has no servant
+more faithful than I.  The Cardinal is on the decline, and my conscience
+tells me to warn against his faults him who may inherit the royal power
+during the minority.  To give your great Prince a proof of my faith, tell
+him that it is intended to arrest his friend, Puy-Laurens, and that he
+had better be kept out of the way, or the Cardinal will put him in the
+Bastille."
+
+While the servant was thus betraying his master, the master, not to be
+behindhand with him, betrayed his servant.  His self-love, and some
+remnant of respect to the Church, made him shudder at the idea of seeing
+a contemptible agent invested with the same hat which he himself wore as
+a crown, and seated as high as himself, except as to the precarious
+position of minister.  Speaking, therefore, in an undertone to the
+Marechal d'Estrees, he said:
+
+"It is not necessary to importune Urbain VIII any further in favor of the
+Capuchin you see yonder; it is enough that his Majesty has deigned to
+name him for the cardinalate.  One can readily conceive the repugnance of
+his Holiness to clothe this mendicant in the Roman purple."
+
+Then, passing on to general matters, he continued:
+
+"Truly, I know not what can have cooled the Holy Father toward us; what
+have we done that was not for the glory of our Holy Mother, the Catholic
+Church?"
+
+"I myself said the first mass at Rochelle, and you see for yourself,
+Monsieur le Marechal, that our habit is everywhere; and even in your
+armies, the Cardinal de la Vallette has commanded gloriously in the
+palatinate."
+
+"And has just made a very fine retreat," said the Marechal, laying a
+slight emphasis upon the word.
+
+The minister continued, without noticing this little outburst of
+professional jealousy, and raising his voice, said:
+
+"God has shown that He did not scorn to send the spirit of victory upon
+his Levites, for the Duc de Weimar did not more powerfully aid in the
+conquest of Lorraine than did this pious Cardinal, and never was a naval
+army better commanded than by our Archbishop of Bordeaux at Rochelle."
+
+It was well known that at this very time the minister was incensed
+against this prelate, whose haughtiness was so overbearing, and whose
+impertinent ebullitions were so frequent as to have involved him in two
+very disagreeable affairs at Bordeaux.  Four years before, the Duc
+d'Epernon, then governor of Guyenne, followed by all his train and by his
+troops, meeting him among his clergy in a procession, had called him an
+insolent fellow, and given him two smart blows with his cane; whereupon
+the Archbishop had excommunicated him.  And again, recently, despite this
+lesson, he had quarrelled with the Marechal de Vitry, from whom he had
+received "twenty blows with a cane or stick, which you please," wrote the
+Cardinal Duke to the Cardinal de la Vallette, "and I think he would like
+to excommunicate all France."  In fact, he did excommunicate the
+Marechal's baton, remembering that in the former case the Pope had
+obliged the Duc d'Epernon to ask his pardon; but M. Vitry, who had caused
+the Marechal d'Ancre to be assassinated, stood too high at court for
+that, and the Archbishop, in addition to his beating, got well scolded by
+the minister.
+
+M. d'Estrees thought, therefore, sagely that there might be some irony in
+the Cardinal's manner of referring to the warlike talents of the
+Archbishop, and he answered, with perfect sang-froid:
+
+"It is true, my lord, no one can say that it was upon the sea he was
+beaten."
+
+His Eminence could not restrain a smile at this; but seeing that the
+electrical effect of that smile had created others in the hall, as well
+as whisperings and conjectures, he immediately resumed his gravity, and
+familiarly taking the Marechal's arm, said:
+
+"Come, Monsieur l'Ambassadeur, you are ready at repartee.  With you I
+should not fear Cardinal Albornos, or all the Borgias in the world--no,
+nor all the efforts of their Spain with the Holy Father."
+
+Then, raising his voice, and looking around, as if addressing himself to
+the silent, and, so to speak, captive assembly, he continued:
+
+"I hope that we shall no more be reproached, as formerly, for having
+formed an alliance with one of the greatest men of our day; but as
+Gustavus Adolphus is dead, the Catholic King will no longer have any
+pretext for soliciting the excommunication of the most Christian King.
+How say you, my dear lord?"  addressing himself to the Cardinal de la
+Vallette, who now approached, fortunately without having heard the late
+allusion to himself.  "Monsieur d'Estrees, remain near our chair; we have
+still many things to say to you, and you are not one too many in our
+conversations, for we have no secrets.  Our policy is frank and open to
+all men; the interest of his Majesty and of the State--nothing more."
+
+The Marechal made a profound bow, fell back behind the chair of the
+minister, and gave place to the Cardinal de la Vallette, who, incessantly
+bowing and flattering and swearing devotion and entire obedience to the
+Cardinal, as if to expiate the obduracy of his father, the Duc d'Epernon,
+received in return a few vague words, to no meaning or purpose, the
+Cardinal all the while looking toward the door, to see who should follow.
+He had even the mortification to find himself abruptly interrupted by the
+minister, who cried at the most flattering period of his honeyed
+discourse:
+
+"Ah! is that you at last, my dear Fabert?  How I have longed to see you,
+to talk of the siege!"
+
+The General, with a brusque and awkward manner, saluted the Cardinal-
+Generalissimo, and presented to him the officers who had come from the
+camp with him.  He talked some time of the operations of the siege, and
+the Cardinal seemed to be paying him court now, in order to prepare him
+afterward for receiving his orders even on the field of battle; he spoke
+to the officers who accompanied him, calling them by their names, and
+questioning them about the camp.
+
+They all stood aside to make way for the Duc d'Angouleme--that Valois,
+who, having struggled against Henri IV, now prostrated himself before
+Richelieu.  He solicited a command, having been only third in rank at the
+siege of Rochelle.  After him came young Mazarin, ever supple and
+insinuating, but already confident in his fortune.
+
+The Duc d'Halluin came after them; the Cardinal broke off the compliments
+he was addressing to the others, to utter, in a loud voice:
+
+"Monsieur le Duc, I inform you with pleasure that the King has made you a
+marshal of France; you will sign yourself Schomberg, will you not, at
+Leucate, delivered, as we hope, by you?  But pardon me, here is Monsieur
+de Montauron, who has doubtless something important to communicate."
+
+"Oh, no, my lord, I would only say that the poor young man whom you
+deigned to consider in your service is dying of hunger."
+
+"Pshaw!  at such a moment to speak of things like this!  Your little
+Corneille will not write anything good; we have only seen 'Le Cid' and
+'Les Horaces' as yet.  Let him work, let him work!  it is known that he
+is in my service, and that is disagreeable.  However, since you interest
+yourself in the matter, I give him a pension of five hundred crowns on my
+privy purse."
+
+The Chancellor of the Exchequer retired, charmed with the liberality of
+the minister, and went home to receive with great affability the
+dedication of Cinna, wherein the great Corneille compares his soul to
+that of Augustus, and thanks him for having given alms 'a quelques
+Muses'.
+
+The Cardinal, annoyed by this importunity, rose, observing that the day
+was advancing, and that it was time to set out to visit the King.
+
+At this moment, and as the greatest noblemen present were offering their
+arms to aid him in walking, a man in the robe of a referendary advanced
+toward him, saluting him with a complacent and confident smile which
+astonished all the people there, accustomed to the great world, seeming
+to say: "We have secret affairs together; you shall see how agreeable he
+makes himself to me.  I am at home in his cabinet."  His heavy and
+awkward manner, however, betrayed a very inferior being; it was
+Laubardemont.
+
+Richelieu knit his brows when he saw him, and cast a glance at Joseph;
+then, turning toward those who surrounded him, he said, with bitter
+scorn:
+
+"Is there some criminal about us to be apprehended?"
+
+Then, turning his back upon the discomfited Laubardemont, the Cardinal
+left him redder than his robe, and, preceded by the crowd of personages
+who were to escort him in carriages or on horseback, he descended the
+great staircase of the palace.
+
+All the people and the authorities of Narbonne viewed this royal
+departure with amazement.
+
+The Cardinal entered alone a spacious square litter, in which he was to
+travel to Perpignan, his infirmities not permitting him to go in a coach,
+or to perform the journey on horseback.  This kind of moving chamber
+contained a bed, a table, and a small chair for the page who wrote or
+read for him.  This machine, covered with purple damask, was carried by
+eighteen men, who were relieved at intervals of a league; they were
+selected among his guards, and always performed this service of honor
+with uncovered heads, however hot or wet the weather might be.  The Duc
+d'Angouleme, the Marechals de Schomberg and d'Estrees, Fabert, and other
+dignitaries were on horseback beside the litter; after them, among the
+most prominent were the Cardinal de la Vallette and Mazarin, with
+Chavigny, and the Marechal de Vitry, anxious to avoid the Bastille, with
+which it was said he was threatened.
+
+Two coaches followed for the Cardinal's secretaries, physicians, and
+confessor; then eight others, each with four horses, for his gentlemen,
+and twenty-four mules for his luggage.  Two hundred musketeers on foot
+marched close behind him, and his company of men-at-arms of the guard and
+his light-horse, all gentlemen, rode before and behind him on splendid
+horses.
+
+Such was the equipage in which the prime minister proceeded to Perpignan;
+the size of the litter often made it necessary to enlarge the roads, and
+knock down the walls of some of the towns and villages on the way, into
+which it could not otherwise enter, "so that," say the authors and
+manuscripts of the time, full of a sincere admiration for all this
+luxury--"so that he seemed a conqueror entering by the breach.  "We have
+sought in vain with great care in these documents, for any account of
+proprietors or inhabitants of these dwellings so making room for his
+passage who shared in this admiration; but we have been unable to find
+any mention of such.
+
+
+
+
+CHAPTER VIII
+
+THE INTERVIEW
+
+The pompous cortege of the Cardinal halted at the beginning of the camp.
+All the armed troops were drawn up in the finest order; and amid the
+sound of cannon and the music of each regiment the litter traversed a
+long line of cavalry and infantry, formed from the outermost tent to that
+of the minister, pitched at some distance from the royal quarters, and
+which its purple covering distinguished at a distance.  Each general of
+division obtained a nod or a word from the Cardinal, who at length
+reaching his tent and, dismissing his train, shut himself in, waiting for
+the time to present himself to the King.  But, before him, every person
+of his escort had repaired thither individually, and, without entering
+the royal abode, had remained in the long galleries covered with striped
+stuff, and arranged as became avenues leading to the Prince.  The
+courtiers walking in groups, saluted one another and shook hands,
+regarding each other haughtily, according to their connections or the
+lords to whom they belonged. Others whispered together, and showed signs
+of astonishment, pleasure, or anger, which showed that something
+extraordinary had taken place.  Among a thousand others, one singular
+dialogue occurred in a corner of the principal gallery.
+
+"May I ask, Monsieur l'Abbe, why you look at me so fixedly?"
+
+"Parbleu!  Monsieur de Launay, it is because I'm curious to see what you
+will do.  All the world abandons your Cardinal-Duke since your journey
+into Touraine; if you do not believe it, go and ask the people of
+Monsieur or of the Queen.  You are behind-hand ten minutes by the watch
+with the Cardinal de la Vallette, who has just shaken hands with
+Rochefort and the gentlemen of the late Comte de Soissons, whom I shall
+regret as long as I live."
+
+"Monsieur de Gondi, I understand you; is it a challenge with which you
+honor me?"
+
+"Yes, Monsieur le Comte," answered the young Abbe, saluting him with all
+the gravity of the time; "I sought an occasion to challenge you in the
+name of Monsieur d'Attichi, my friend, with whom you had something to do
+at Paris."
+
+"Monsieur l'Abbe, I am at your command.  I will seek my seconds; do you
+the same."
+
+"On horseback, with sword and pistol, I suppose?"  added Gondi, with the
+air of a man arranging a party of pleasure, lightly brushing the sleeve
+of his cassock.
+
+"If you please," replied the other.  And they separated for a time,
+saluting one another with the greatest politeness, and with profound
+bows.
+
+A brilliant crowd of gentlemen circulated around them in the gallery.
+They mingled with it to procure friends for the occasion.  All the
+elegance of the costumes of the day was displayed by the court that
+morning-small cloaks of every color, in velvet or in satin, embroidered
+with gold or silver; crosses of St. Michael and of the Holy Ghost; the
+ruffs, the sweeping hat-plumes, the gold shoulder-knots, the chains by
+which the long swords hung: all glittered and sparkled, yet not so
+brilliantly as did the fiery glances of those warlike youths, or their
+sprightly conversation, or their intellectual laughter.  Amid the
+assembly grave personages and great lords passed on, followed by their
+numerous gentlemen.
+
+The little Abbe de Gondi, who was very shortsighted, made his way through
+the crowd, knitting his brows and half shutting his eyes, that he might
+see the better, and twisting his moustache, for ecclesiastics wore them
+in those days.  He looked closely at every one in order to recognize his
+friends, and at last stopped before a young man, very tall and dressed in
+black from head to foot; his sword, even, was of quite dark, bronzed
+steel.  He was talking with a captain of the guards, when the Abbe de
+Gondi took him aside.
+
+"Monsieur de Thou," said he, "I need you as my second in an hour, on
+horseback, with sword and pistol, if you will do me that honor."
+
+"Monsieur, you know I am entirely at your service on all occasions.
+Where shall we meet?"
+
+"In front of the Spanish bastion, if you please."
+
+"Pardon me for returning to a conversation that greatly interests me.
+I will be punctual at the rendezvous."
+
+And De Thou quitted him to rejoin the Captain.  He had said all this in
+the gentlest of voices with unalterable coolness, and even with somewhat
+of an abstracted manner.
+
+The little Abbe squeezed his hand with warm satisfaction, and continued
+his search.
+
+He did not so easily effect an agreement with the young lords to whom he
+addressed himself; for they knew him better than did De Thou, and when
+they saw him coming they tried to avoid him, or laughed at him openly,
+and would not promise to serve him.
+
+"Ah, Abbe! there you are hunting again; I'll swear it's a second you
+want," said the Duc de Beaufort.
+
+"And I wager," added M. de la Rochefoucauld, "that it's against one of
+the Cardinal-Duke's people."
+
+"You are both right, gentlemen; but since when have you laughed at
+affairs of honor?"
+
+"The saints forbid I should," said M. de Beaufort.  "Men of the sword
+like us ever reverence tierce, quarte, and octave; but as for the folds
+of the cassock, I know nothing of them."
+
+"Pardieu!  Monsieur, you know well enough that it does not embarrass my
+wrist, as I will prove to him who chooses; as to the gown itself, I
+should like to throw it into the gutter."
+
+"Is it to tear it that you fight so often?"  asked La Rochefoucauld.
+"But remember, my dear Abbe, that you yourself are within it."
+
+Gondi turned to look at the clock, wishing to lose no more time in such
+sorry jests; but he had no better success elsewhere.  Having stopped two
+gentlemen in the service of the young Queen, whom he thought ill-affected
+toward the Cardinal, and consequently glad to measure weapons with his
+creatures, one of them said to him very gravely:
+
+"Monsieur de Gondi, you know what has just happened; the King has said
+aloud, 'Whether our imperious Cardinal wishes it or not, the widow of
+Henri le Grand shall no longer remain in exile.'  Imperious!  the King
+never before said anything so strong as that, Monsieur l'Abbe, mark that.
+Imperious!  it is open disgrace.  Certainly no one will dare to speak to
+him; no doubt he will quit the court this very day."
+
+"I have heard this, Monsieur, but I have an affair--"
+
+"It is lucky for you he stopped short in the middle of your career."
+
+"An affair of honor--"
+
+"Whereas Mazarin is quite a friend of yours."
+
+"But will you, or will you not, listen to me?"
+
+"Yes, a friend indeed!  your adventures are always uppermost in his
+thoughts.  Your fine duel with Monsieur de Coutenan about the pretty
+little pin-maker,--he even spoke of it to the King.  Adieu, my dear
+Abbe, we are in great haste; adieu, adieu!"  And, taking his friend's
+arm, the young mocker, without listening to another word, walked rapidly
+down the gallery and disappeared in the throng.
+
+The poor Abbe was much mortified at being able to get only one second,
+and was watching sadly the passing of the hour and of the crowd, when he
+perceived a young gentleman whom he did not know, seated at a table,
+leaning on his elbow with a pensive air; he wore mourning which indicated
+no connection with any great house or party, and appeared to await,
+without any impatience, the time for attending the King, looking with a
+heedless air at those who surrounded him, and seeming not to notice or to
+know any of them.
+
+Gondi looked at him a moment, and accosted him without hesitation:
+
+"Monsieur, I have not the honor of your acquaintance, but a fencing-party
+can never be unpleasant to a man of honor; and if you will be my second,
+in a quarter of an hour we shall be on the ground.  I am Paul de Gondi;
+and I have challenged Monsieur de Launay, one of the Cardinal's clique,
+but in other respects a very gallant fellow."
+
+The unknown, apparently not at all surprised at this address, replied,
+without changing his attitude:  "And who are his seconds?"
+
+"Faith, I don't know; but what matters it who serves him?  We stand no
+worse with our friends for having exchanged a thrust with them."
+
+The stranger smiled nonchalantly, paused for an instant to pass his hand
+through his long chestnut hair, and then said, looking idly at a large,
+round watch which hung at his waist:
+
+"Well, Monsieur, as I have nothing better to do, and as I have no friends
+here, I am with you; it will pass the time as well as anything else."
+
+And, taking his large, black-plumed hat from the table, he followed the
+warlike Abbe, who went quickly before him, often running back to hasten
+him on, like a child running before his father, or a puppy that goes
+backward and forward twenty times before it gets to the end of a street.
+
+Meanwhile, two ushers, attired in the royal livery, opened the great
+curtains which separated the gallery from the King's tent, and silence
+reigned.  The courtiers began to enter slowly, and in succession, the
+temporary dwelling of the Prince.  He received them all gracefully, and
+was the first to meet the view of each person introduced.
+
+Before a very small table surrounded with gilt armchairs stood Louis
+XIII, encircled by the great officers of the crown.  His dress was very
+elegant: a kind of fawn-colored vest, with open sleeves, ornamented with
+shoulder-knots and blue ribbons, covered him down to the waist.  Wide
+breeches reached to the knee, and the yellow-and-red striped stuff of
+which they were made was ornamented below with blue ribbons.  His riding-
+boots, reaching hardly more than three inches above the ankle, were
+turned over, showing so lavish a lining of lace that they seemed to hold
+it as a vase holds flowers.  A small mantle of blue velvet, on which was
+embroidered the cross of the Holy Ghost, covered the King's left arm,
+which rested on the hilt of his sword.
+
+His head was uncovered, and his pale and noble face was distinctly
+visible, lighted by the sun, which penetrated through the top of the
+tent.  The small, pointed beard then worn augmented the appearance of
+thinness in his face, while it added to its melancholy expression.  By
+his lofty brow, his classic profile, his aquiline nose, he was at once
+recognized as a prince of the great race of Bourbon.  He had all the
+characteristic traits of his ancestors except their penetrating glance;
+his eyes seemed red from weeping, and veiled with a perpetual drowsiness;
+and the weakness of his vision gave him a somewhat vacant look.
+
+He called around him, and was attentive to, the greatest enemies of the
+Cardinal, whom he expected every moment; and, balancing himself with one
+foot over the other, an hereditary habit of his family, he spoke quickly,
+but pausing from time to time to make a gracious inclination of the head,
+or a gesture of the hand, to those who passed before him with low
+reverences.
+
+The court had been thus paying its respects to the King for two hours
+before the Cardinal appeared; the whole court stood in close ranks behind
+the Prince, and in the long galleries which extended from his tent.
+Already longer intervals elapsed between the names of the courtiers who
+were announced.
+
+"Shall we not see our cousin the Cardinal?"  said the King, turning, and
+looking at Montresor, one of Monsieur's gentlemen, as if to encourage him
+to answer.
+
+"He is said to be very ill just now, Sire," was the answer.
+
+"And yet I do not see how any but your Majesty can cure him," said the
+Duc de Beaufort.
+
+"We cure nothing but the king's evil," replied Louis; "and the complaints
+of the Cardinal are always so mysterious that we own we can not
+understand them."
+
+The Prince thus essayed to brave his minister, gaining strength in jests,
+the better to break his yoke, insupportable, but so difficult to remove.
+He almost thought he had succeeded in this, and, sustained by the joyous
+air surrounding him, he already privately congratulated himself on having
+been able to assume the supreme empire, and for the moment enjoyed all
+the power of which he fancied himself possessed.  An involuntary
+agitation in the depth of his heart had warned him indeed that, the hour
+passed, all the burden of the State would fall upon himself alone; but he
+talked in order to divert the troublesome thought, and, concealing from
+himself the doubt he had of his own inability to reign, he set his
+imagination to work upon the result of his enterprises, thus forcing
+himself to forget the tedious roads which had led to them.  Rapid phrases
+succeeded one another on his lips.
+
+"We shall soon take Perpignan," he said to Fabert, who stood at some
+distance.
+
+"Well, Cardinal, Lorraine is ours," he added to La Vallette.  Then,
+touching Mazarin's arm:
+
+"It is not so difficult to manage a State as is supposed, eh?"
+
+The Italian, who was not so sure of the Cardinal's disgrace as most of
+the courtiers, answered, without compromising himself:
+
+"Ah, Sire, the late successes of your Majesty at home and abroad prove
+your sagacity in choosing your instruments and in directing them, and--"
+
+But the Duc de Beaufort, interrupting him with that self-confidence,
+that loud voice and overbearing air, which subsequently procured him the
+surname of Important, cried out, vehemently:
+
+"Pardieu!  Sire, it needs only to will.  A nation is driven like a horse,
+with spur and bridle; and as we are all good horsemen, your Majesty has
+only to choose among us."
+
+This fine sally had not time to take effect, for two ushers cried,
+simultaneously, "His Eminence!"
+
+The King's face flushed involuntarily, as if he had been surprised en
+flagrant delit.  But immediately gaining confidence, he assumed an air of
+resolute haughtiness, which was not lost upon the minister.
+
+The latter, attired in all the pomp of a cardinal, leaning upon two young
+pages, and followed by his captain of the guards and more than five
+hundred gentlemen attached to his house, advanced toward the King slowly
+and pausing at each step, as if forced to it by his sufferings, but in
+reality to observe the faces before him.  A glance sufficed.
+
+His suite remained at the entrance of the royal tent; of all those within
+it, not one was bold enough to salute him, or to look toward him.  Even
+La Vallette feigned to be occupied in a conversation with Montresor; and
+the King, who desired to give him an unfavorable reception, greeted him
+lightly and continued a private conversation in a low voice with the Duc
+de Beaufort.
+
+The Cardinal was therefore forced, after the first salute, to stop and
+pass to the side of the crowd of courtiers, as if he wished to mingle
+with them, but in reality to test them more closely; they all recoiled as
+at the sight of a leper.  Fabert alone advanced toward him with the
+frank, brusque air habitual with him, and, making use of the terms
+belonging to his profession, said:
+
+"Well, my lord, you make a breach in the midst of them like a cannon-
+ball; I ask pardon in their name."
+
+"And you stand firm before me as before the enemy," said the Cardinal;
+"you will have no cause to regret it in the end, my dear Fabert."
+
+Mazarin also approached the Cardinal, but with caution, and, giving to
+his mobile features an expression of profound sadness, made him five or
+six very low bows, turning his back to the group gathered around the
+King, so that in the latter quarter they might be taken for those cold
+and hasty salutations which are made to a person one desires to be rid
+of, and, on the part of the Duke, for tokens of respect, blended with a
+discreet and silent sorrow.
+
+The minister, ever calm, smiled disdainfully; and, assuming that firm
+look and that air of grandeur which he always wore in the hour of danger,
+he again leaned upon his pages, and, without waiting for a word or a
+glance from his sovereign, he suddenly resolved upon his line of conduct,
+and walked directly toward him, traversing the whole length of the tent.
+No one had lost sight of him, although all affected not to observe him.
+Every one now became silent, even those who were conversing with the
+King.  All the courtiers bent forward to see and to hear.
+
+Louis XIII turned toward him in astonishment, and, all presence of mind
+totally failing him, remained motionless and waited with an icy glance-
+his sole force, but a force very effectual in a prince.
+
+The Cardinal, on coming close to the monarch, did not bow; and, without
+changing his attitude, with his eyes lowered and his hands placed on the
+shoulders of the two boys half bending, he said:
+
+"Sire, I come to implore your Majesty at length to grant me the
+retirement for which I have long sighed.  My health is failing; I feel
+that my life will soon be ended.  Eternity approaches me, and before
+rendering an account to the eternal King, I would render one to my
+earthly sovereign.  It is eighteen years, Sire, since you placed in my
+hands a weak and divided kingdom; I return it to you united and powerful.
+Your enemies are overthrown and humiliated.  My work is accomplished.
+I ask your Majesty's permission to retire to Citeaux, of which I am
+abbot, and where I may end my days in prayer and meditation."
+
+The King, irritated by some haughty expressions in this address, showed
+none of the signs of weakness which the Cardinal had expected, and which
+he had always seen in him when he had threatened to resign the management
+of affairs.  On the contrary, feeling that he had the eyes of the whole
+court upon him, Louis looked upon him with the air of a king, and coldly
+replied:
+
+"We thank you, then, for your services, Monsieur le Cardinal, and wish
+you the repose you desire."
+
+Richelieu was deeply moved, but no indication of his anger appeared upon
+his countenance.  "Such was the coldness with which you left Montmorency
+to die," he said to himself; "but you shall not escape me thus."  He then
+continued aloud, bowing at the same time:
+
+"The only recompense I ask for my services is that your Majesty will
+deign to accept from me, as a gift, the Palais-Cardinal I have erected
+at my own expense in Paris."
+
+The King, astonished, bowed his assent.  A murmur of surprise for a
+moment agitated the attentive court.
+
+"I also throw myself at your Majesty's feet, to beg that you will grant
+me the revocation of an act of rigor, which I solicited (I publicly
+confess it), and which I perhaps regarded too hastily beneficial to the
+repose of the State.  Yes, when I was of this world, I was too forgetful
+of my early sentiments of personal respect and attachment, in my
+eagerness for the public welfare; but now that I already enjoy the
+enlightenment of solitude, I see that I have done wrong, and I repent."
+
+The attention of the spectators was redoubled, and the uneasiness of the
+King became visible.
+
+"Yes, there is one person, Sire, whom I have always loved, despite her
+wrong toward you, and the banishment which the affairs of the kingdom
+forced me to bring about for her; a person to whom I have owed much, and
+who should be very dear to you, notwithstanding her armed attempts
+against you; a person, in a word, whom I implore you to recall from
+exile--the Queen Marie de Medicis, your mother!"
+
+The King uttered an involuntary exclamation, so little did he expect to
+hear that name.  A repressed agitation suddenly appeared upon every face.
+All waited in silence the King's reply.  Louis XIII looked for a long
+time at his old minister without speaking, and this look decided the fate
+of France; in that instant he called to mind all the indefatigable
+services of Richelieu, his unbounded devotion, his wonderful capacity,
+and was surprised at himself for having wished to part with him.  He felt
+deeply affected at this request, which had probed for the exact cause of
+his anger at the bottom of his heart, and uprooted it, thus taking from
+his hands the only weapon he had against his old servant.  Filial love
+brought words of pardon to his lips and tears into his eyes.  Rejoicing
+to grant what he desired most of all things in the world, he extended his
+hands to the Duke with all the nobleness and kindliness of a Bourbon.
+The Cardinal bowed and respectfully kissed it; and his heart, which
+should have burst with remorse, only swelled in the joy of a haughty
+triumph.
+
+The King, deeply touched, abandoning his hand to him, turned gracefully
+toward his court and said, with a trembling voice:
+
+"We often deceive ourselves, gentlemen, and especially in our knowledge
+of so great a politician as this."
+
+"I hope he will never leave us, since his heart is as good as his head."
+
+Cardinal de la Vallette instantly seized the sleeve of the King's mantle,
+and kissed it with all the ardor of a lover, and the young Mazarin did
+much the same with Richelieu himself, assuming, with admirable Italian
+suppleness, an expression radiant with joy and tenderness.  Two streams
+of flatterers hastened, one toward the King, the other toward the
+minister; the former group, not less adroit than the second, although
+less direct, addressed to the Prince thanks which could be heard by the
+minister, and burned at the feet of the one incense which was intended
+for the other.  As for Richelieu, bowing and smiling to right and left,
+he stepped forward and stood at the right hand of the King as his natural
+place.  A stranger entering would rather have thought, indeed, that it
+was the King who was on the Cardinal's left hand.  The Marechal
+d'Estrees, all the ambassadors, the Duc d'Angouleme, the Due d'Halluin
+(Schomberg), the Marechal de Chatillon, and all the great officers of the
+crown surrounded him, each waiting impatiently for the compliments of the
+others to be finished, in order to pay his own, fearing lest some one
+else should anticipate him with the flattering epigram he had just
+improvised, or the phrase of adulation he was inventing.
+
+As for Fabert, he had retired to a corner of the tent, and seemed to have
+paid no particular attention to the scene.  He was chatting with
+Montresor and the gentlemen of Monsieur, all sworn enemies of the
+Cardinal, because, out of the throng he avoided, he had found none but
+these to speak to.  This conduct would have seemed extremely tactless in
+one less known; but although he lived in the midst of the court, he was
+ever ignorant of its intrigues.  It was said of him that he returned from
+a battle he had gained, like the King's hunting-horse, leaving the dogs
+to caress their master and divide the quarry, without seeking even to
+remember the part he had had in the triumph.
+
+The storm, then, seemed entirely appeased, and to the violent agitations
+of the morning succeeded a gentle calm.  A respectful murmur, varied with
+pleasant laughter and protestations of attachment, was all that was heard
+in the tent.  The voice of the Cardinal arose from time to time: "The
+poor Queen!  We shall, then, soon again see her!  I never had dared to
+hope for such happiness while I lived!"  The King listened to him with
+full confidence, and made no attempt to conceal his satisfaction.  "It
+was assuredly an idea sent to him from on high," he said; "this good
+Cardinal, against whom they had so incensed me, was thinking only of the
+union of my family.  Since the birth of the Dauphin I have not tasted
+greater joy than at this moment.  The protection of the Holy Virgin is
+manifested over our kingdom."
+
+At this moment, a captain of the guards came up and whispered in the
+King's ear.
+
+"A courier from Cologne?"  said the King; "let him wait in my cabinet."
+
+Then, unable to restrain his impatience, "I will go!  I will go!"  he
+said, and entered alone a small, square tent attached to the larger one.
+In it he saw a young courier holding a black portfolio, and the curtains
+closed upon the King.
+
+The Cardinal, left sole master of the court, concentrated all its homage;
+but it was observed that he no longer received it with his former
+presence of mind.  He inquired frequently what time it was, and exhibited
+an anxiety which was not assumed; his hard, unquiet glances turned toward
+the smaller tent.  It suddenly opened; the King appeared alone, and
+stopped on the threshold.  He was paler than usual, and trembled in every
+limb; he held in his hand a large letter with five black seals.
+
+"Gentlemen," said he, in a loud but broken voice, "the Queen has just
+died at Cologne; and I perhaps am not the first to hear of it," he added,
+casting a severe look toward the impassible Cardinal, "but God knows all!
+To horse in an hour, and attack the lines!  Marechals, follow me."  And
+he turned his back abruptly, and reentered his cabinet with them.
+
+The court retired after the minister, who, without giving any sign of
+sorrow or annoyance, went forth as gravely as he had entered, but now a
+victor.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Doubt, the greatest misery of love
+Never interfered in what did not concern him
+So strongly does force impose upon men
+The usual remarks prompted by imbecility on such occasions
+
+
+
+
+End of this Project Gutenberg Etext of Cinq Mars, v2
+by Alfred de Vigny
+

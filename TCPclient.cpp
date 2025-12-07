@@ -183,10 +183,12 @@ int main(int argc, char *argv[]) {
             else {
                 std::stringstream ss(results.at(i).lines);
                 std::string line;
+                int j = 1;
                 while (std::getline(ss, line)) {
                     for (char &c : line) { if (c == '\t' || c == '\r' || c == '\n') c = ' '; }
-                    std::string formattedLine = " " + std::to_string(i) + ") " + line;
+                    std::string formattedLine = " " + std::to_string(j) + ") " + line;
                     printHelper(formattedLine);
+                    j++;
                 }
             }
             if (i != results.size() - 1) {

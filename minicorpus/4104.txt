@@ -1,0 +1,1857 @@
+The Project Gutenberg Etext of The Mayflower and Her Log by Ames, v4
+#4 in our series by Azel Ames
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission. The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: The Mayflower and Her Log, v4
+
+Author: Azel Ames
+
+Release Date: June, 2003  [Etext #4104]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 10/06/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of The Mayflower and Her Log by Azel Ames v4
+**********This file should be named 4104.txt or 4104.zip**********
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included. Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month. A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work. The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc. This
+projected audience is one hundred million readers. If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001. [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina*, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+*In Progress
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states. Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states. If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS). Donations are tax-deductible to the maximum
+extent permitted by law. As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.?? [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+THE MAY-FLOWER AND HER LOG
+
+July 15, 1620--May 6, 1621
+Chiefly from Original Sources
+
+By AZEL AMES, M.D.
+Member of Pilgrim Society, etc.
+
+
+
+BOOK 4.
+
+
+CHAPTER VI
+
+THE MAY-FLOWER'S PASSENGERS
+
+The passenger list of the SPEEDWELL has given us the names of the Leyden
+members of the company which, with the cooperation of the associated
+Merchant Adventurers, was, in the summer of 1620, about to emigrate to
+America.
+
+Though it is not possible, with present knowledge, positively to
+determine every one of those who were passengers in the MAY-FLOWER from
+London to Southampton, most of them can be named with certainty.
+
+Arranged for convenience, so far as possible, by families, they were:--
+
+Master Robert Cushman, the London agent of the Leyden company,
+     Mrs. Mary (Clarke)-Singleton Cushman, 2d wife,
+     Thomas Cushman, son (by 1st wife).
+
+Master Christopher Martin, treasurer-agent of the colonists,
+     Mrs. Martin, wife,
+     Solomon Prower, "servant,"
+     John Langemore, "servant."
+
+Master Richard Warren.
+
+Master William Mullens,
+     Mrs. Alice Mullens, wife,
+     Joseph Mullens, 2d son,
+     Priscilla Mullens, 2d daughter,
+     Robert Carter, "servant."
+
+Master Stephen Hopkins,
+     Mrs. Elizabeth (Fisher?) Hopkins, 2d wife,
+     Giles Hopkins, son (by former wife),
+     Constance Hopkins, daughter (by former wife),
+     Damaris Hopkins, daughter,
+     Edward Dotey, "servant,"
+     Edward Leister, "servant."
+
+Gilbert Winslow.
+
+James Chilton,
+     Mrs. Susanna (2) Chilton, wife,
+     Mary Chilton, daughter.
+
+Richard Gardiner.
+
+John Billington,
+     Mrs. Eleanor (or Helen) Billington, wife,
+     John Billington (Jr.), son,
+     Francis Billington, son.
+
+William Latham, "servant-boy" to Deacon Carver.
+
+Jasper More, "bound-boy" to Deacon Carver.
+
+Ellen More, "little bound girl" to Master Edward Winslow.
+
+Richard More, "bound-boy" to Elder Brewster.
+------- More, "bound-boy" to Elder Brewster.
+
+
+There is a possibility that Thomas Rogers and his son, Joseph, who are
+usually accredited to the Leyden company, were of the London contingent,
+and sailed from there, though this is contra-indicated by certain
+collateral data.
+
+It is possible, also, of course, that any one or more of the English
+colonists (with a few exceptions--such as Cushman and family, Mullens and
+family, the More children and others--known to have left London on the
+MAY-FLOWER) might have joined her (as did Carver and Alden, perhaps
+Martin and family) at Southampton, but the strong presumption is that
+most of the English passengers joined the ship at London.
+
+It is just possible, too, that the seamen, Alderton (or Allerton),
+English, Trevore, and Ely, were hired in London and were on board the
+MAY-FLOWER when she left that port, though they might have been employed
+and joined the ship at either Southampton, Dartmouth, or Plymouth.
+It is strongly probable, however, that they were part, if not all, hired
+in Holland, and came over to Southampton in the pinnace.
+
+Robert Cushman--the London agent (for more than three years) of the
+     Leyden congregation, and, in spite of the wickedly unjust criticism
+     of Robinson and others, incompetent to judge his acts, their brave,
+     sagacious, and faithful servant--properly heads the list.
+
+     Bradford says: "Where they find the bigger ship come from London,
+     Mr. Jones, Master, with the rest of the company who had been waiting
+     there with Mr. Cushman seven days."  Deacon Carver, probably from
+     being on shore, was not here named.  In a note appended to the
+     memoir of Robert Cushman (prefatory to his Discourse delivered at
+     Plymouth, New England, on "The Sin and Danger of Self-Love") it is
+     stated in terms as follows: "The fact is, that Mr. Cushman procured
+     the larger vessel, the MAY-FLOWER, and its pilot, at London, and
+     left in that vessel." The statement--though published long after the
+     events of which it treats and by other than Mr. Cushman--we know to
+     be substantially correct, and the presumption is that the writer,
+     whoever he may have been, knew also.
+
+     Sailing with his wife and son (it is not probable that he had any
+     other living child at the time), in full expectation that it was for
+     Virginia, he encountered so much of ungrateful and abusive
+     treatment, after the brethren met at Southampton,--especially at the
+     hands of the insufferable Martin, who, without merit and with a most
+     reprehensible record (as it proved), was chosen over him as
+     "governor" of the ship,--that he was doubtless glad to return from
+     Plymouth when the SPEEDWELL broke down.  He and his family appear,
+     therefore, as "MAY-FLOWER passengers," only between London and
+     Plymouth during the vexatious attendance upon the scoundrelly Master
+     of the SPEEDWELL, in his "doublings" in the English Channel.  His
+     Dartmouth letter to Edward Southworth, one of the most valuable
+     contributions to the early literature of the Pilgrims extant,
+     clearly demonstrates that he was suffering severely from dyspepsia
+     and deeply wounded feelings.  The course of events was his complete
+     vindication, and impartial history to-day pronounces him second to
+     none in his service to the Pilgrims and their undertaking.  His
+     first wife is shown by Leyden records to have been Sarah Reder, and
+     his second marriage to have occurred May 19/June 3, 1617, [sic]
+     about the time he first went to England in behalf of the Leyden
+     congregation.
+
+Mrs. Mary (Clarke)-Singleton Cushman appears only as a passenger of the
+     MAY-FLOWER on her channel voyage, as she returned with her husband
+     and son from Plymouth, England, in the SPEEDWELL.
+
+Thomas Cushman, it is quite clear, must have been a son by a former wife,
+     as he would have been but a babe, if the son of the latest wife,
+     when he went to New England with his father, in the FORTUNE, to
+     remain. Goodwin and others give his age as fourteen at this time,
+     and his age at death is their warrant.  Robert Cushman died in 1625,
+     but a "Mary, wife [widow?] of Robert Cushman, and their son,
+     Thomas," seem to have been remembered in the will of Ellen Bigge,
+     widow, of Cranbrooke, England, proved February 12, 1638
+     (Archdeaconry, Canterbury, vol. lxx.  leaf 482).  The will intimates
+     that the "Thomas" named was "under age" when the bequest was made.
+     If this is unmistakably so (though there is room for doubt), then
+     this was not the Thomas of the Pilgrims.  Otherwise the evidence is
+     convincing.
+
+Master Christopher Martin, who was made, Bradford informs us, the
+     treasurer-agent of the Planter Company, Presumably about the time of
+     the original conclusions between the Adventurers and the Planters,
+     seems to have been appointed such, as Bradford states, not because
+     he was needed, but to give the English contingent of the Planter
+     body representation in the management, and to allay thereby any
+     suspicion or jealousy.  He was, if we are to judge by the evidence
+     in hand concerning his contention and that of his family with the
+     Archdeacon, the strong testimony that Cushman bears against him in
+     his Dartmouth letter of August 17, and the fact that there seems to
+     have been early dissatisfaction with him as "governor" on the ship,
+     a very self-sufficient, somewhat arrogant, and decidedly contentious
+     individual.  His selection as treasurer seems to have been very
+     unfortunate, as Bradford indicates that his accounts were in
+     unsatisfactory shape, and that he had no means of his own, while his
+     rather surprising selection for the office of "governor" of the
+     larger ship, after the unpleasant experience with him as treasurer-
+     agent, is difficult to account for, except that he was evidently an
+     active opponent of Cushman, and the latter was just then in disfavor
+     with the colonists. He was evidently a man in the prime of life, an
+     "Independent" who had the courage of his convictions if little
+     discretion, and much of that energy and self-reliance which,
+     properly restrained, are excellent elements for a colonist.  Very
+     little beside the fact that he came from Essex is known of him, and
+     nothing of his wife.  He has further mention hereafter.
+
+Solomon Prower is clearly shown by the complaint made against him by the
+     Archdeacon of Chelmsford, the March before he sailed on the MAY-
+     FLOWER, to  have been quite a youth, a firm "Separatist," and
+     something more than an ordinary "servant."  He seems to have been
+     summoned before the Archdeacon at the same time with young Martin (a
+     son of Christopher), and this fact suggests some nearer relation
+     than that of "servant."  He is sometimes spoken of as Martin's
+     "son," by what warrant does not appear, but the fact suggests that
+     he may have been a step-son.  Bradford, in recording his death,
+     says: "Dec. 24, this day dies Solomon Martin."  This could, of
+     course, have been none other than Solomon Prower.  Dr. Young, in his
+     "Chronicles," speaking of Martin, says, "he brought his wife and two
+     children."  If this means Martin's children, it is evidently an
+     error.  It may refer to age only.  His case is puzzling, for
+     Bradford makes him both "servant" and "son."  If of sufficient age
+     and account to be cited before the Archdeacon for discipline, it
+     seems strange that he should not have signed the "Compact."  Even if
+     a "servant" this would seem to have been no bar, as Dotey and
+     Leister were certainly such, yet signers. The indications are that
+     he was but a well-grown lad, and that his youth, or severe illness,
+     and not his station, accounts for the absence of his signature.  If
+     a young foster-son or kinsman of Martin, as seems most likely, then
+     Martin's signature was sufficient, as in the cases of fathers for
+     their sons; if really a "ser vant" then too young (like Latham and
+     Hooke) to be called upon, as were Dotey and Leister.
+
+John Langemore; there is nothing (save the errors of Dr. Young) to
+     indicate that he was other than a "servant."
+
+Richard Warren was probably from Kent or Essex.  Surprisingly little is
+     known of his antecedents, former occupation, etc.
+
+William Mullens and his family were, as shown, from Dorking in Surrey,
+     and their home was therefore close to London, whence they sailed,
+     beyond doubt, in the MAY-FLOWER.  The discovery at Somerset House,
+     London, by Mr. Henry F. Waters, of Salem, Massachusetts; of what is
+     evidently the nuncupative will of William Mullens, proves an
+     important one in many particulars, only one of which need be
+     referred to in this connection, but all of which will receive due
+     consideration.  It conclusively shows Mr. Mullens not to have been
+     of the Leyden congregation, as has sometimes been claimed, but that
+     he was a well-to-do tradesman of Dorking in Surrey, adjacent to
+     London.  It renders it certain, too, that he had been some time
+     resident there, and had both a married daughter and a son (William),
+     doubtless living there, which effectually overthrows the "imaginary
+     history" of Baird, and of that pretty story, "Standish of Standish,"
+     whereby the Mullens (or Molines) family are given French (Huguenot)
+     antecedents and the daughter is endowed with numerous airs, graces,
+     and accomplishments, professedly French.
+
+     Dr. Griffis, in his delightful little narrative, "The Pilgrims in
+     their Three Homes, England, Holland, America," cites the name
+     "Mullins" as a Dutch distortion of Molines or Molineaux.  Without
+     questioning that such it might be,--for the Dutch scribes were
+     gifted in remarkable distortions of simple names, even of their own
+     people,--they evidently had no hand in thus maltreating the patronym
+     of William Mullens (or Mullins) of the Pilgrims, for not only is
+     evidence entirely wanting to show that he was ever a Leyden citizen,
+     though made such by the fertile fiction of Mrs. Austin, but Governor
+     Carver, who knew him well, wrote it in his will "Mullens," while two
+     English probate functionaries of his own home-counties wrote it
+     respectively "Mullens" and "Mullins."
+
+     Dr. Grifs speaks of "the Mullens family" as evidently [sic] of
+     Huguenot or Walloon birth or descent, but in doing so probably knew
+     no other authority than Mrs. Austin's little novel, or (possibly)
+     Dr. Baird's misstatements.
+
+     A writer in the "New England Historic-Genealogical Register," vol.
+     xlvii, p. 90, states, that "Mrs. Jane G. Austin found her authority
+     for saying that Priscilla Mullens was of a Huguenot family, in Dr.
+     Baird's 'History of Huguenot Emigration to America,' vol. i.
+     p. 158," etc., referring to Rev. Charles W. Baird, D. D., New York.
+     The reference given is a notable specimen of very bad historical
+     work.  Of Dr. Baird, one has a right to expect better things, and
+     the positiveness of his reckless assertion might well mislead those
+     not wholly familiar with the facts involved, as it evidently has
+     more than one.  He states, without qualification or reservation,
+     that "among the passengers in the SPEEDWELL were several of the
+     French who had decided to cast in their lot with these English
+     brethren.  William Molines and his daughter Priscilla, afterwards
+     the wife of John Alden and Philip Delanoy, born in Leyden of French
+     parents, were of the number."  One stands confounded by such a
+     combination of unwarranted errors.  Not only is it not true that
+     there "were several of the French among the passengers in the
+     SPEEDWELL," but there is no evidence whatever that there was even
+     one.  Those specifically named as there, certainly were not, and
+     there is not the remotest proof or reason to believe, that William
+     Mullens (or Molines) and his daughter Priscilla (to say nothing of
+     the wife and son who accompanied him to America, whom Baird forgets)
+     ever even saw Leyden or Delfshaven.  Their home had been at Dorking
+     in Surrey, just across the river from London, whence the MAY-FLOWER
+     sailed for New England, and nothing could be more absurd than to
+     assume that they were passengers on the SPEEDWELL from Delfshaven to
+     Southampton.
+
+     So far from Philip Delanoy (De La Noye or Delano) being a passenger
+     on the SPEEDWELL, he was not even one of the Pilgrim company, did
+     not go to New England till the following year (in the FORTUNE), and
+     of course had no relation to the SPEEDWELL.  Neither does Edward
+     Winslow--the only authority for the parentage of "Delanoy"--state
+     that "he was born in Leyden," as Baird alleges, but only that "he
+     was born of French parents .  .  .  and came to us from Leyden to
+     New Plymouth,"--an essential variance in several important
+     particulars. Scores and perhaps hundreds of people have been led to
+     believe Priscilla Mullens a French Protestant of the Leyden
+     congregation, and themselves--as her descendants--"of Huguenot
+     stock," because of these absolutely groundless assertions of Dr.
+     Baird. They lent themselves readily to Mrs. Austin's fertile
+     imagination and facile pen, and as "welcome lies" acquired a hold on
+     the public mind, from which even the demonstrated truth will never
+     wholly dislodge them.  The comment of the intelligent writer in the
+     "Historic-Genealogical Register" referred to is proof of this.  So
+     fast-rooted had these assertions become in her thought as the truth,
+     that, confronted with the evidence that Master Mullens and his
+     family were from Dorking in England, it does not occur to her to
+     doubt the correctness of the impression which the recklessness of
+     Baird had created,--that they were of Leyden,--and she hence
+     amusingly suggests that "they must have moved from Leyden to
+     Dorking."  These careless utterances of one who is especially bound
+     by his position, both as a writer and as a teacher of morals, to be
+     jealous for the truth, might be partly condoned as attributable to
+     mistake or haste, except for the facts that they seem to have been
+     the fountain-head of an ever-widening stream of serious error, and
+     that they are preceded on the very page that bears them by others as
+     to the Pilgrim exodus equally unhappy.  It seems proper to suggest
+     that it is high time that all lovers of reliable history should
+     stand firmly together against the flood of loose statement which is
+     deluging the public; brand the false wherever found; and call for
+     proof from of all new and important historical propositions put
+     forth.
+
+Stephen Hopkins may possibly have had more than one wife before
+     Elizabeth, who accompanied him to New England and was mother of the
+     sea-born son Oceanus.  Hopkins's will indicates his affection for
+     this latest wife, in unusual degree for wills of that day.  With
+     singular carelessness, both of the writer and his proof-reader, Hon.
+     William T. Davis states that Damaris Hopkins was born "after the
+     arrival" in New England.  The contrary is, of course, a well
+     established fact.  Mr. Davis was probably led into this error by
+     following Bradford's "summary" as affecting the Hopkins family.  He
+     states therein that Hopkins "had one son, who became a seaman and
+     died at Barbadoes probably Caleb, and four daugh ters born here."
+     To make up these "four" daughters "born here" Davis found it
+     necessary to include Damaris, unmindful that Bradford names her in
+     his list of MAY-FLOWER passengers.  It is evident, either that
+     Bradford made a mistake in the number, or that there was some
+     daughter who died in infancy.  It is evident that Dotey and Leister,
+     the "servants" of Hopkins, were of English origin and accompanied
+     their master from London.
+
+Gilbert Winslow was a brother of Edward Winslow, a young man, said to
+     have been a carpenter, who returned to England after "divers years"
+     in New England.  There is a possibility that he was at Leyden and
+     was a passenger on the SPEEDWELL.  It has been suggested that he
+     spent the greater part of the time he was in New England, outside of
+     the Pilgrim Colony.  He took no part in its affairs.
+
+James Chilton and his family are but little known to Pilgrim writers,
+     except the daughter Mary, who came into notice principally through
+     her marriage with John Winslow, another brother of Governor Edward,
+     who came over later.  Their name has assumed a singular prominence
+     in popular regard, altogether disproportionate to either their
+     personal characteristics, station, or the importance of their early
+     descendants.  Some unaccountable glamour of romance, without any
+     substantial foundation, is probably responsible for it.  They left a
+     married daughter behind them in England, which is the only hint we
+     have as to their home just prior to the embarkation.  There has been
+     a disposition, not well grounded, to regard them as of Leyden.
+
+Richard Gardiner, Goodwin unequivocally places with the English colonists
+     (but on what authority does not fully appear), and he has been
+     claimed, but without any better warrant, for the Leyden list.
+
+John Billington and his family were unmistakably of the English
+     colonists.  Mrs. Billington's name has been variously given,
+     e.g.  Helen, Ellen, and Eleanor, and the same writer has used them
+     interchangeably.  One writer has made the inexcusable error of
+     stating that "the younger son, Francis, was born after the arrival
+     at New Plymouth," but his own affidavit shows him to have been born
+     in 1606.
+
+William Latham, a "servant-boy" of Deacon Carver, has always been of
+     doubtful relation, some circumstances indicating that he was of
+     Leyden and hence was a SPEEDWELL passenger, but others--and these
+     the more significant--rendering it probable that he was an English
+     boy, who was obtained in London (like the More children) and
+     apprenticed to Carver, in which case he probably came in the MAY-
+     FLOWER from London, though he may have awaited her coming with his
+     master at Southampton, in which case he probably originally embarked
+     there, with him, on the SPEEDWELL, and was transferred with him, at
+     Plymouth, to the MAY-FLOWER.  There is, of course, also still the
+     possibility that he came with Carver's family from Leyden.  Governor
+     Carver's early death necessarily changed his status somewhat, and
+     Plymouth early records do not give much beyond suggestion as to what
+     the change was; but all indications confirm the opinion that he was
+     a poor boy--very likely of London or vicinity--taken by Carver as
+     his "servant."
+
+The More children, Jasper, Richard, their brother (whose given name has
+     never transpired), and Ellen, their sister, invite more than passing
+     mention.  The belief has always been current and confident among
+     students of Pilgrim history that these More children, four in
+     number, "put" or "indentured" to three of the Leyden leaders, were
+     probably orphaned children of some family of the Leyden
+     congregation, and were so "bound" to give them a chance in the new
+     colony, in return for such services as they could render to those
+     they accompanied.  If thus of the Leyden contingent they would,
+     of course, be enumerated as passengers in the SPEEDWELL from
+     Delfshaven, but if of the English contingent they should probably be
+     borne on the list of passengers sailing from London in the MAY-
+     FLOWER, certainly should be reckoned as part of the English
+     contingent on the MAY-FLOWER at Southampton.  An affidavit of
+     Richard More, perhaps the eldest of these children, indentured to
+     Elder Brewster, dated in 1684., found in "Proceedings of the
+     Provincial Court, Maryland Archives, vol.  xiv.  ('New England
+     Historic-Genealogical Register,' vol  1.  p. 203 )," affirms the
+     deponent to be then "seaventy years or thereabouts" of age, which
+     would have made him some six years of age, "or thereabouts," in
+     1620.  He deposes "that being in London at the house of Mr. Thomas
+     Weston, Iron monger, in the year 1620, he was from there transported
+     to New Plymouth in New England," etc. This clearly identifies
+     Richard More of the MAY FLOWER, and renders it well-nigh certain
+     that he and his brothers and sister, "bound out" like himself to
+     Pilgrim leaders, were of the English company, were probably never in
+     Leyden or on the SPEEDWELL, and were very surely passengers on the
+     MAY-FLOWER from London, in charge of Mr. Cushman or others.  The
+     fact that the lad was in London, and went from thence direct to New
+     England, is good evidence that he was not of the Leyden party.  The
+     fair presump tion is that his brothers and sister were, like
+     himself, of English birth, and humble--perhaps deceased--parents,
+     taken because of their orphaned condition. It is highly improbable
+     that they would be taken from London to Southampton by land, at the
+     large expense of land travel in those days, when the MAY-FLOWER was
+     to sail from London.  That they would accompany their respective
+     masters to their respectively assigned ships at Southampton is
+     altogether likely. The phraseology of his affidavit suggests the
+     probability that Richard More, his brothers, and sister were brought
+     to Mr. Weston's house, to be by him sent aboard the MAY-FLOWER,
+     about to sail.  The affidavit is almost conclusive evidence as to
+     the fact that the More children were all of the English colonists'
+     party, though apprenticed to Leyden families, and belonged to the
+     London passenger list of the Pilgrim ship.  The researches of Dr.
+     Neill among the MS. "minutes" and "transactions" of the (London)
+     Virginia Company show germanely that, on November 17, 1619, "the
+     treasurer, council, and company" of this Virginia Company addressed
+     Sir William Cockaine, Knight, Lord Mayor of the city of London, and
+     the right worthys the aldermen, his brethren, and the worthys the
+     common council of the city," and  returning thanks for the benefits
+     conferred, in furnishing out one hundred children this last year
+     for "the plantation in Virginia" (from what Neill calls the
+     "homeless boys and girls of London"), states, that, "forasmuch as we
+     have now resolved to send this next spring [1620] very large
+     supplies," etc., "we pray your Lordship and the rest .  .  .  to
+     renew the like favors, and furnish us again with one hundred more
+     for the next spring.  Our desire is that we may have them of twelve
+     years old and upward, with allowance of L3 apiece for their trans
+     portation, and 40s.  apiece for their apparel, as was formerly
+     granted.  They shall be apprenticed; the boys till they come to 21
+     years of age, the girls till like age or till they be married," etc.
+     A letter of Sir Edwin Sandys (dated January 28, 1620) to Sir Robert
+     Naunton shows that "The city of London have appointed one hundred
+     children from the superfluous multitude to be transported to
+     Virginia, there to be bound apprentices upon very beneficial
+     conditions."  In view of the facts that these More children--and
+     perhaps others--were "apprenticed" or "bound" to the Pilgrims
+     (Carver, Winslow, Brewster, etc.), and that there must have been
+     some one to make the indentures, it seems strongly probable that
+     these four children of one family,--as Bradford shows, --very likely
+     orphaned, were among those designated by the city of London for the
+     benefit of the (London) Virginia Company in the spring of 1620.
+     They seem to have been waifs caught up in the westward-setting
+     current, but only Richard survived the first winter.  Bradford,
+     writing in 1650, states of Richard More that his brothers and sister
+     died, "but he is married [1636] and hath 4 or 5 children."  William
+     T. Davis, in his "Ancient Landmarks of Plymouth" (p. 24), states,
+     and Arber copies him, that "he was afterwards called Mann; and died
+     at Scituate, New England, in 1656."  The researches of Mr. George E.
+     Bowman, the able Secretary of the Massachusetts Society of MAY-
+     FLOWER Descendants, some time since disproved this error, but Mores
+     affidavit quoted conclusively determines the matter.
+
+The possible accessions to the company, at London or Southampton, of
+Henry Sampson and Humility Cooper, cousins of Edward Tilley and wife,
+would be added to the passengers of the pinnace rather than to the MAY-
+FLOWER'S, if, as seems probable, their relatives were of the SPEEDWELL.
+If Edward Tilley and his wife were assigned to the MAY FLOWER, room would
+doubtless also be found for these cousins on the ship. John Alden, the
+only positively known addition (except Carver) made to the list at
+Southampton, was, from the nature of his engagement as "cooper," quite
+likely assigned to the larger ship.  There are no known hints as to the
+assignments of passengers to the respective vessels at Southampton--then
+supposed to be final--beyond the remarks of Bradford that "the chief
+[principal ones] of them that came from Leyden went on this ship [the
+SPEEDWELL] to give the Master content," and his further minute, that
+"Master Martin was governour in the biger ship and Master Cushman
+assistante."  It is very certain that Deacon Carver, one of the four
+agents of the colonists, who had "fitted out" the voyage in England, was
+a passenger in the SPEEDWELL from Southampton,--as the above mentioned
+remark of Bradford would suggest,--and was made "governour" of her
+passengers, as he later was of the whole company, on the MAY-FLOWER.
+It has sometimes been queried whether, in the interim between the arrival
+of the SPEEDWELL at Southampton and the assignment of the colonists to
+their respective ships (especially as both vessels were taking in and
+transferring cargo), the passengers remained on board or were quartered
+on shore.  The same query has arisen, with even better reason, as to the
+passengers of the SPEEDWELL during the stay at Dartmouth, when the
+consort was being carefully overhauled to find her leaks, the suggestion
+being made that in this case some of them might have found accommodation
+on board the larger ship. The question may be fairly considered as
+settled negatively, from the facts that the colonists, with few
+exceptions, were unable to bear such extra expense themselves; the funds
+of the Adventurers--if any were on hand, which appears doubtful--were not
+available for the purpose; while the evidence of some of the early
+writers renders it very certain that the Leyden party were not released
+from residence on shipboard from the time they embarked on the SPEEDWELL
+at Delfshaven till the final landing in the harbor of New Plimoth.  Just
+who of the Leyden chiefs caused themselves to be assigned to the smaller
+vessel, to encourage its cowardly Master, cannot be definitely known.
+It may be confidently assumed, however, that Dr. Samuel Fuller, the
+physician of the colonists, was transferred to the MAY-FLOWER, upon which
+were embarked three fourths of the entire company, including most of the
+women and children, with some of whom, it was evident, his services would
+be certainly in demand.  There is little doubt that the good Elder
+(William Brewster) was also transferred to the larger ship at
+Southampton, while it would not be a very wild guess--in the light of
+Bradford's statement--to place Carver, Winslow, Bradford, Standish,
+Cooke, Howland, and Edward Tilley, and their families, among the
+passengers on the consort.  Just how many passengers each vessel carried
+when they sailed from Southampton will probably never be positively
+known.  Approximately, it may be said, on the authority of such
+contemporaneous evidence as is available, and such calculations as are
+possible from the data we have, that the SPEEDWELL had thirty (30), and
+the MAY-FLOWER her proportionate number, ninety (90)--a total of one
+hundred and twenty (120).
+
+Captain John Smith says,
+
+     [Smith, New England's Trials, ed. 1622, London, p. 259.  It is a
+     singular error of the celebrated navigator that he makes the ships
+     to have, in less than a day's sail, got outside of Plymouth, as he
+     indicates by his words, "the next day," and "forced their return to
+     Plymouth."  He evidently intends to speak only in general terms, as
+     he entirely omits the (first) return to Dartmouth, and numbers the
+     passengers on the MAY-FLOWER, on her final departure, at but "one
+     hundred."  He also says they "discharged twenty passengers."]
+
+apparently without pretending to be exact, "They left the coast of
+England the 23 of August, with about 120 persons, but the next day [sic]
+the lesser ship sprung a leak that forced their return to Plymouth; where
+discharging her [the ship] and twenty passengers, with the great ship and
+a hundred persons, besides sailors, they set sail again on the 6th of
+September."
+
+     [Dr. Ames, so stringent in his requirements of other authors, for
+     example Jane Austin, has to this point been pathetically naive as to
+     the opinions of Captain John Smith.  Captain Smith's self-serving
+     and very subjective narratives of his own voyages obtained for him
+     the very derogatory judgement by his contemporaries.  One of the
+     best reviews of John Smith's life may be found in a small book on
+     this adventurer by Charles Dudley Warner.  D.W.]
+
+If the number one hundred and twenty (120) is correct, and the
+distribution suggested is also exact, viz.  thirty (30) to the SPEEDWELL
+and ninety (90) to the MAY-FLOWER, it is clear that there must have been
+more than twelve (the number usually named) who went from the consort to
+the larger ship, when the pinnace was abandoned.  We know that at least
+Robert Cushman and his family (wife and son), who were on the MAY-FLOWER,
+were among the number who returned to London upon the SPEEDWELL (and the
+language of Thomas Blossom in his letter to Governor Bradford, else where
+quoted, indicates that he and his son were also there), so that if the
+ship's number was ninety (90), and three or more were withdrawn, it would
+require fifteen (15) or more to make the number up to one hundred and two
+(102), the number of passengers we know the MAY-FLOWER had when she took
+her final departure. It is not likely we shall ever be able to determine
+exactly the names or number of those transferred to the MAY-FLOWER from
+the consort, or the number or names of all those who went back to London
+from either vessel.  Several of the former and a few of the latter are
+known, but we must (except for some fortunate discovery) rest content
+with a very accurate knowledge of the passenger list of the MAY-FLOWER
+when she left Plymouth (England), and of the changes which occurred in it
+afterward; and a partial knowledge of the ship's own complement of
+officers and men.
+
+Goodwin says: "The returning ones were probably of those who joined in
+England, and had not yet acquired the Pilgrim spirit."  Unhappily this
+view is not sustained by the relations of those of the number who are
+known. Robert Cushman and his family (3 persons), Thomas Blossom and his
+son (2 persons), and William Ring (1 person), a total of six, or just one
+third of the putative eighteen who went back, all belonged to the Leyden
+congregation, and were far from lacking "the Pilgrim spirit."  Cushman
+was both ill and heart-sore from fatigue, disappointment, and bad
+treatment; Ring was very ill, according to Cushman's Dartmouth letter;
+but the motives governing Blossom and his son do not appear, unless the
+comparatively early death of the son--after which his father went to New
+England--furnishes a clue thereto.  Bradford says: "Those that went back
+were, for the most part, such as were willing to do so, either out of
+some discontent, or fear they conceived of the ill success of the Voyage,
+seeing so many crosses befallen and the year time so far spent.  But
+others, in regard of their own weakness and the charge of many young
+children, were thought [by the Managers] least useful and most unfit to
+bear the brunt of this hard adventure."  It is evident from the above
+that, while the return of most was from choice, some were sent back by
+those in authority, as unfit for the undertaking, and that of these some
+had "many young chil dren."  There are said to have been eighteen who
+returned on the SPEEDWELL to London.  We know who six of them were,
+leaving twelve, or two thirds, unknown.  Whether these twelve were in
+part from Leyden, and were part English, we shall probably never know.
+If any of them were from Holland, then the number of those who left
+Delfshaven on the SPEEDWELL is increased by so many.  If any were of the
+English contingent, and probably the most were,--then the passenger list
+of the MAY-FLOWER from London to Southampton was probably, by so many,
+the larger.  It is evident, from Bradford's remark, that, among the
+twelve unknown, were some who, from "their own weakness and charge of
+many young children, were thought least useful and most unfit," etc.
+From this it is clear that at least one family was included which had a
+number of young children, the parents' "own weakness" being recognized.
+A father, mother, and four children (in view of the term "many") would
+seem a reasonable surmise, and would make six, or another third of the
+whole number.  The probability that the unknown two thirds were chiefly
+from England, rather than Holland, is increased by observation of the
+evident care with which, as a rule, those from the Leyden congregation
+were picked, as to strength and fitness, and also by the fact that their
+Leyden homes were broken up.  Winslow remarks, "the youngest and
+strongest part were to go," and an analysis of the list shows that those
+selected were mostly such.  Bradford, in stating that Martin was "from
+Billericay in Essex," says, "from which part came sundry others."  It is
+quite possible that some of the unknown twelve who returned were from
+this locality, as none of those who went on the MAY-FLOWER are understood
+to have hailed from there, beside the Martins.
+
+All the colonists still intending to go to America were now gathered in
+one vessel.  Whatever previous disposition of them had been made, or
+whatever relations they might have had in the disjointed record of the
+exodus, were ephemeral, and are now lost sight of in the enduring
+interest which attaches to their final and successful "going forth" as
+MAY-FLOWER Pilgrims.
+
+Bradford informs us--as already noted--that, just before the departure
+from Southampton, having "ordered and distributed their company for
+either ship, as they conceived for the best," they "chose a Governor and
+two or three assistants for each ship, to order the people by the way,
+and see to the disposing of the provisions, and such like affairs.  All
+which was not only with the liking of the Masters of the ships, but
+according to their desires."  We have seen that under this arrangement--
+the wisdom and necessity of which are obvious--Martin was made "Governor"
+on the "biger ship" and Cushman his "assistante."  Although we find no
+mention of the fact, it is rendered certain by the record which Bradford
+makes of the action of the Pilgrim company on December 11, 1620, at Cape
+Cod,--when they "confirmed" Deacon John Carver as "Governor,"--that he
+was and had been such, over the colonist passengers for the voyage (the
+ecclesiastical authority only remaining to Elder Brewster), Martin
+holding certainly no higher than the second place, made vacant by
+Cushman's departure.
+
+Thus, hardly had the Pilgrims shaken the dust of their persecuting
+mother-country from their feet before they set up, by popular voice
+(above religious authority, and even that vested by maritime law in their
+ships' officers), a government of themselves, by themselves, and for
+themselves.  It was a significant step, and the early revision they made
+of their choice of "governors" certifies their purpose to have only
+rulers who could command their confidence and respect. Dr. Young says:
+"We know the age of but few of the Pilgrims," which has hitherto been
+true; yet by careful examination of reliable data, now available, we are
+able to deter mine very closely the ages of a considerable number, and
+approximately the years of most of the others, at the time of the exodus.
+No analysis, so far as known, has hitherto been made of the vocations
+(trades, etc.) represented by the MAY-FLOWER company.  They were, as
+befitted those bent on founding a colony, of considerable variety, though
+it should be understood that the vocations given were, so far as
+ascertained, the callings the individuals who represented them had
+followed before taking ship.  Several are known to have been engaged
+in other pursuits at some time, either before their residence in Holland,
+or during their earlier years there.  Bradford tells us that most of the
+Leyden congregation (or that portion of it which came from England, in or
+about 1608) were agricultural people.  These were chiefly obliged to
+acquire handicrafts or other occupations.  A few, e.g.  Allerton,
+Brewster, Bradford, Carver, Cooke, and Winslow, had possessed some means,
+while others had been bred to pursuits for which there was no demand in
+the Low Countries.  Standish, bred to arms, apparently followed his
+profession nearly to the time of departure, and resumed it in the colony,
+adding thereto the calling which, in all times and all lands, had been
+held compatible in dignity with that of arms,--the pursuit of
+agriculture.  While always the "Sword of the White Men," he was the
+pioneer "planter" in the first settlement begun (at Duxbury) beyond
+Plymouth limits.  Of the "arts, crafts or trades" of the colonists from
+London and neighboring English localities, but little has been gleaned.
+They were mostly people of some means, tradesmen rather than artisans,
+and at least two (Martin and Mullens) were evidently also of the Merchant
+Adventurers.
+
+Their social (conjugal) conditions--not previously analyzed, it is
+thought--have been determined, it is believed, with approximate accuracy;
+though it is of course possible that some were married, of whom that fact
+does not appear, especially among the seamen.
+
+
+The passengers of the MAY-FLOWER on her departure from Plymouth
+(England), as arranged for convenience by families, were as appears by
+the following lists.
+
+While the ages given in these lists are the result of much careful study
+of all the latest available data, and are believed, when not exact, to be
+very close approximates; as it has been possible to arrive at results,
+in several cases, only by considerable calculation, the bases of which
+may not always have been entirely reliable, errors may have crept in.
+Though the author is aware that, in a few instances, the age stated does
+not agree with that assigned by other recognized authority, critical
+re-analysis seems to warrant and confirm the figures given.
+
+The actual and comparative youth of the majority of the colonist leaders
+--the Pilgrim Fathers--is matter of comment, even of surprise, to most
+students of Pilgrim history, especially in view of what the Leyden
+congregation had experienced before embarking for America.  Only two of
+the leaders exceeded fifty years of age, and of these Governor Carver
+died early.  Of the principal men only nine could have been over forty,
+and of these Carver, Chilton, Martin, Mullins, and Priest (more than half
+died within a few months after landing), leaving Brewster, Warren (who
+died early), Cooke, and Hopkins--neither of the latter hardly forty--the
+seniors.  One does not readily think of Alden as but twenty-one, Winslow
+as only twenty-five, Dr. Fuller as about thirty, Bradford as only thirty-
+one when chosen Governor, Allerton as thirty-two, and Captain Standish as
+thirty-six.  Verily they were "old heads on young shoulders."  It is
+interesting to note that the dominant influence at all times was that of
+the Leyden contingent.
+
+Of these, all except William Butten, who died upon the voyage, reached
+Cape Cod in safety, though some of them had become seriously ill from the
+hardships encountered, and Howland had narrowly escaped drowning.  Two
+were added to the number en voyage,--Oceanus Hopkins, born upon the sea,
+and Peregrine White, born soon after the arrival in Cape Cod harbor.
+This made the total of the passenger list 103, before further depletion
+by death occurred, though several deaths again reduced it before the MAY-
+FLOWER cast anchor in Plymouth harbor, her final haven on the outward
+voyage.
+
+Deacon John Carver's place of birth or early life is not known, but he
+     was an Essex County man, and was probably not, until in middle life,
+     a member of Robinson's congregation of "Independents."  His age is
+     determined by collateral evidence.
+
+Mrs. Katherine Carver, it has been supposed by some, was a sister of
+     Pastor Robinson.  This supposition rests, apparently, upon the
+     expression of Robinson in his parting letter to Carver, where he
+     says: "What shall I say or write unto you and your good wife, my
+     loving sister?"  Neither the place of Mrs. Carver's nativity nor her
+     age is known.
+
+Desire Minter was evidently a young girl of the Leyden congregation,
+     between the ages of fourteen and seventeen, who in some way (perhaps
+     through kinship) had been taken into Carver's family.  She returned
+     to England early.  See ante, for account of her (probable)
+     parentage.
+
+John Howland was possibly of kin to Carver and had been apparently some
+     years in his family.  Bradford calls him a "man-servant," but it is
+     evident that "employee" would be the more correct term, and that he
+     was much more than a "servant."  It is observable that Howland
+     signed the Compact (by Morton's List) before such men as Hopkins,
+     the Tilleys, Cooke, Rogers, and Priest, which does not indicate much
+     of the "servant" relation.  His antecedents are not certainly known,
+     but that he was of the Essex family of the name seems probable.
+     Much effort has been made in recent years to trace his ancestry,
+     but without any considerable result.  His age at death (1673)
+     determines his age in 1620.  He was older than generally supposed,
+     being born about 1593.
+
+Roger Wilder is also called a "man-servant" by Bradford, and hardly more
+     than this is known of him, his death occurring early.  There is no
+     clue to his age except that his being called a "man-servant" would
+     seem to suggest that he was of age; but the fact that he did not
+     sign the Compact would indicate that he was younger, or he may have
+     been extremely ill, as he died very soon after arrival.
+
+William Latham is called a "boy" by Bradford, though a lad of 18.  It is
+     quite possible he was one of those "indentured" by the corporation
+     of London, but there is no direct intimation of this.
+
+"Mrs. Carver's maid," it is fair to presume, from her position as lady's-
+     maid and its requirements in those days, was a young woman of
+     eighteen or twenty years, and this is confirmed by her early
+     marriage.  Nothing is known of her before the embarkation.  She died
+     early.
+
+Jasper More, Bradford says, "was a child yt was put to him."  Further
+     information concerning him is given in connection with his brother
+     Richard, "indentured" to Elder Brewster.  He is erroneously called
+     by Justin Winsor in his "History of Duxbury" (Massachusetts) a child
+     of Carver's, as Elizabeth Tilley is "his daughter."  Others have
+     similarly erred.
+
+Elder William Brewster's known age at his death determines his age in
+     1620.  He was born in 1566-67.  His early life was full of interest
+     and activity, and his life in Holland and America no less so.  In
+     early life he filled important stations.  Steele's "Chief of the
+     Pilgrims" is a most engaging biography of him, and there are others
+     hardly less so, Bradford's sketch being one of the best.
+
+Mrs. Mary Brewster's age at her death determines it at the embarkation,
+     and is matter of computation.
+
+Love Brewster was the second son of his parents, his elder brother
+Jonathan coming over afterwards.
+
+Wrestling Brewster was but a "lad," and his father's third son.
+
+Richard More and his brother, Bradford states, "were put to him" (Elder
+     Brewster) as bound-boys.  For a full account of their English
+     origin, Richard's affidavit, etc., see ante.  This makes him but
+     about six, but he was perhaps older.
+
+Governor Edward Winslow's known age at his death fixes his age at the
+     time of the exodus, and his birth is duly recorded at Droitwich, in
+     Worcester, England. (See "Winslow Memorial," David Parsons Holton,
+     vol. i.  p. 16.)
+
+Mrs. Elizabeth (Barker) Winslow, the first wife of the Governor, appears
+     by the data supplied by the record of her marriage in Holland, May
+     27, 1618, to have been a maiden of comporting years to her
+     husband's, he being then twenty-three.  Tradition makes her slightly
+     younger than her husband.
+
+George Soule, it is evident,--like Howland,--though denominated a
+     "servant" by Bradford, was more than this, and should rather have
+     been styled, as Goodwin points out, "an employee" of Edward Winslow.
+     His age is approximated by collateral evidence, his marriage, etc.
+
+Elias Story is called "man-servant" by Bradford, and his age is unknown.
+     The fact that he did not sign the Compact indicates that he was
+     under age, but extreme illness may have prevented, as he died early.
+
+Ellen More, "a little girl that was put to him" (Winslow), died early.
+     She was sister of the other More children, "bound out" to Carver and
+     Brewster, of whom extended mention has been made.
+
+Governor William Bradford's date of birth fixes his age in 1620.  His
+     early home was at Austerfield, in Yorkshire.  Belknap (" American
+     Biography," vol. ii.  p. 218) says: "He learned the art of silk-
+     dyeing."
+
+Mrs. Dorothy (May) Bradford's age (the first wife of the Governor) is
+     fixed at twenty-three by collateral data, but she may have been
+     older.  She was probably from Wisbeach, England.  The manner of her
+     tragic death (by drowning, having fallen overboard from the ship in
+     Cape Cod harbor), the first violent death in the colony, was
+     especially sad, her husband being absent for a week afterward.  It
+     is not known that her body was recovered.
+
+Dr. Samuel Fuller, from his marriage record at Leyden, made in 1613, when
+     he was a widower, it is fair to assume was about thirty, perhaps
+     older, in 1620, as he could, when married, have hardly been under
+     twenty-one.  His (third) wife and child were left in Holland.
+
+William Butten (who died at sea, November 6/16), Bradford calls
+     "a youth."  He was undoubtedly a "servant"-assistant to the doctor.
+
+Isaac Allerton, it is a fair assumption, was about thirty-four in 1620,
+     from the fact that he married his first wife October 4, 1611, as he
+     was called "a young man" in the Leyden marriage record.  He is
+     called "of London, England," by Bradford and on the Leyden records.
+     He was made a "freeman" of Leyden, February 7, 1614.  Arber and
+     others state that his early occupation was that of "tailor," but he
+     was later a tradesman and merchant.
+
+Mary (Norris) Allerton is called a "maid of Newbury in England," in the
+     Leyden record of her marriage, in October, 1611, and it is the only
+     hint as to her age we have.  She was presumably a young woman.  Her
+     death followed (a month later) the birth of her still-born son, on
+     board the MAY-FLOWER in Plymouth harbor, February 25/March 7, 1621.
+
+Bartholomew Allerton, born probably in 1612/13 (his parents married
+     October, 1611), was hence, as stated, about seven or eight years old
+     at the embarkation.  He has been represented as older, but this was
+     clearly impossible.  He was doubtless born in Holland.
+
+Remember Allerton, apparently Allerton's second child, has (with a
+     novelist's license) been represented by Mrs. Austin as considerably
+     older than six, in fact nearer sixteen (Goodwin, p. 183, says,
+     "over 13"), but the known years of her mother's marriage and her
+     brother's birth make this improbable.  She was, no doubt, born in
+     Holland about 1614--She married Moses Maverick by 1635, and Thomas
+     Weston's only child, Elizabeth, was married from her house at
+     Marblehead to Roger Conant, son of the first "governor" of a
+     Massachusetts Bay "plantation."
+
+Mary Allerton, apparently the third child, could hardly have been much
+     more than four years old in 1620, though Goodwin ("Pilgrim
+     Republic," p.  184) calls her eleven, which is an error.  She was
+     probably born in Holland about 1616.  She was the last survivor of
+     the passengers of the MAY-FLOWER, dying at Plymouth, New England,
+     1699.
+
+John Hooke, described by Bradford as a "servant-boy," was probably but a
+     youth.  He did not sign the Compact. Nothing further is known of him
+     except that he died early.  It is quite possible that he may have
+     been of London and have been "indentured" by the municipality to
+     Allerton, but the presumption has been that he came, as body-servant
+     of Allerton, with him from Leyden.
+
+Captain Standish's years in 1620 are conjectural (from fixed data), as is
+     his age at death.  His early home was at Duxborough Hall, in
+     Lancashire.  His commission as Captain, from Queen Elizabeth, would
+     make his birth about 1584.  Rose Standish, his wife, is said by
+     tradition to have been from the Isle of Man, but nothing is known of
+     her age or antecedents, except that she was younger than the
+     Captain.  She died during the "general sickness," early in 1621.
+
+Master Christopher Martin, as previously noted, was from Billerica, in
+     Essex.  From collateral data it appears that he must have been
+     "about forty" years old when he joined the Pilgrims.  He appears to
+     have been a staunch "Independent" and to have drawn upon himself the
+     ire of the Archdeacon of Chelmsford, (probably) by his loud-mouthed
+     expression of his views, as only "a month before the MAY-FLOWER
+     sailed" he, with his son and Solomon Prower of his household
+     (probably a relative), were cited before the archdeacon to answer
+     for their shortcomings, especially in reverence for this church
+     dignitary.  He seems to have been at all times a self-conceited,
+     arrogant, and unsatisfactory man.  That he was elected treasurer
+     and ship's "governor" and permitted so much unbridled liberty as
+     appears, is incomprehensible.  It was probably fortunate that he
+     died early, as he did, evidently in utter poverty.  He had a son,
+     in 1620, apparently quite a grown youth, from which it is fair to
+     infer that the father was at that time "about forty."  Of his wife
+     nothing is known.  She also died early.
+
+Solomon Prower, who is called by Bradford both "son" and "servant" of
+     Martin, seems from the fact of his "citation" before the Archdeacon
+     of Chelmsford, etc., to have been something more than a "servant,"
+     possibly a kinsman, or foster-son, and probably would more properly
+     have been termed an "employee."  He was from Billerica, in Essex,
+     and was, from the fact that he did not sign the Compact, probably
+     under twenty-one or very ill at the time.  He died early. Of John
+     Langemore, his fellow "servant," nothing is known, except that he is
+     spoken of by Young as one of two "children" brought over by Martin
+     (but on no apparent authority), and he did not sign the Compact,
+     though this might have been from extreme illness, as he too died
+     early.
+
+William White was of the Leyden congregation.  He is wrongly called by
+     Davis a son of Bishop John White, as the only English Bishop of that
+     name and time died a bachelor.  At White's marriage, recorded at the
+     Stadthaus at Leyden, January 27/February 1, 1612, to Anna [Susanna]
+     Fuller, he is called "a young man of England."  As he presumably was
+     of age at that time, he must have been at least some twenty-nine or
+     thirty years old at the embarkation, eight years later.  His son
+     Peregrine was born in Cape Cod harbor.  Mr. White died very early.
+
+Susanna (Fuller) White, wife of William, and sister of Dr. Fuller (?),
+     was apparently somewhat younger than her first husband and perhaps
+     older than her second.  She must, in all probability (having been
+     married in Leyden in 1612), have been at least twenty-five at the
+     embarkation eight years later.  Her second husband, Governor
+     Winslow, was but twenty-five in 1620, and the presumption is that
+     she was slightly his senior.   There appears no good reason for
+     ascribing to her the austere and rather unlovable characteristics
+     which the pen of Mrs. Austin has given her.
+
+Resolved White, the son of William and Susanna White, could not have been
+     more than six or seven years old, and is set down by Goodwin and
+     others--on what seems inconclusive evidence--at five.  He was
+     doubtless born at Leyden.
+
+William Holbeck is simply named as "a servant" of White, by Bradford.
+     His age does not appear, but as he did not sign the Compact he was
+     probably "under age."  From the fact that he died early, it is
+     possible that he was too ill to sign.
+
+Edward Thompson is named by Bradford as a second "servant" of Master
+     White, but nothing more is known of him, except that he did not sign
+     the Compact, and was therefore probably in his nonage, unless
+     prevented by severe sickness.  He died very early.
+
+Master William Mullens (or Molines, as Bradford some times calls him) is
+     elsewhere shown to have been a tradesman of some means, of Dorking,
+     in Surrey, one of the Merchant Adventurers, and a man of ability.
+     From the fact that he left a married daughter (Mrs. Sarah Blunden)
+     and a son (William) a young man grown, in England, it is evident
+     that he must have been forty years old or more when he sailed for
+     New England, only to die aboard the ship in New Plymouth harbor.
+     That he was not a French Huguenot of the Leyden contingent, as
+     pictured by Rev. Dr. Baird and Mrs. Austin, is certain.
+
+Mrs. Alice Mullens, whose given name we know only from her husband's
+     will, filed in London, we know little about.  Her age was (if she
+     was his first wife) presumably about that of her husband, whom she
+     survived but a short time.
+
+Joseph Mullens was perhaps older than his sister Priscilla, and the third
+     child of his parents; but the impression prevails that he was
+     slightly her junior,--on what evidence it is hard to say.  That he
+     was sixteen is rendered certain by the fact that he is reckoned by
+     his father, in his will, as representing a share in the planter's
+     half-interest in the colony, and to do so must have been of that
+     age.
+
+Priscilla Mullens, whom the glamour of unfounded romance and the pen of
+     the poet Longfellow have made one of the best known and best beloved
+     of the Pilgrim band, was either a little older, or younger, than her
+     brother Joseph, it is not certain which.  But that she was over
+     sixteen is made certain by the same evidence as that named
+     concerning  her brother.
+
+Robert Carter is named by Bradford as a "man-servant," and Mrs. Austin,
+     in her imaginative "Standish of Standish," which is never to be
+     taken too literally, has made him (see p. 181 of that book) "a dear
+     old servant," whom Priscilla Mullens credits with carrying her in
+     his arms when a small child, etc.  Both Bradford's mention and Mr.
+     Mullens's will indicate that he was yet a young man and "needed
+     looking after."  He did not sign the Compact, which of itself
+     indicates nonage, unless illness was the cause, of which, in his
+     case, there is no evidence, until later.
+
+Richard Warren, as he had a wife and five pretty well grown daughters,
+     must have been forty-five or more when he came over.  He is
+     suggested to have been from Essex.
+
+Stephen Hopkins is believed to have been a "lay-reader" with Mr. Buck,
+     chaplain to Governor Gates, of the Bermuda expedition of 1609 (see
+     Purchas, vol. iv.  p. 174).  As he could hardly have had this
+     appointment, or have taken the political stand he did, until  of
+     age, he must have been at least twenty-one at that time.  If so, he
+     would have been not less than thirty two years old in 1620, and was
+     probably considerably older, as his son Giles is represented by
+     Goodwin ("Pilgrim Republic," p. 184) as being "about 15."  If the
+     father was but twenty-one when the son was born, he must have been
+     at least thirty-seven when he became a MAY-FLOWER Pilgrim.  The
+     probabilities are that he was considerably older.  His English home
+     is not known.  Professor Arber makes an error (The Story of the
+     Pilgrim Fathers," p. 261) in regard to Hopkins which, unless noted,
+     might lead to other and more serious mistakes.  Noting the
+     differences between John Pierce and a Master Hopkins, heard before
+     the Council for New England, May 5/15, 1623, Arber designates Master
+     Hopkins as "Stephen" (on what authority does not appear), and leaves
+     us to infer that it was the Pilgrim Hopkins. On further inquiry it
+     transpires that the person who was at variance with Master John
+     Pierce over the matter of passage and freight money, on account of
+     the unfortunate PARAGON, was a Rev. Master Hopkins (not Stephen of
+     the MAY-FLOWER), who, we learn from Neill's "History of the Virginia
+     Company," was "recommended July 3, 1622, by the Court of the Company
+     to the Governor of Virginia, .  .  . being desirous to go over at
+     his own charge.  He was evidently a passenger on both of the
+     disastrous attempts of the PARAGON under Captain William Pierce, and
+     being forced back the second time, apparently gave up the intention
+     of going.
+
+Mrs. Elizabeth Hopkins, nothing is known concerning, except that she was
+     not her husband's first wife.  Sometime apparently elapsed between
+     her husband's marriages.
+
+Giles Hopkins we only know was the son of his father's first wife, and
+     "about 15."  An error (of the types presumably) makes Griffis ("The
+     Pilgrims in their Three Homes," p. 176) give the name of Oceanus
+     Hopkins's father as Giles, instead of Stephen.  Constance (or
+     Constantia) Hopkins was apparently about eleven years old in 1620,
+     as she married in 1627, and probably was then not far from eighteen
+     years old. Damaris Hopkins, the younger daughter of Master Hopkins,
+     was probably a very young child when she came in the MAY-FLOWER, but
+     her exact age has not been as certained.  Davis, as elsewhere noted,
+     makes the singular mistake of saying she was born after her parents
+     arrived in New England.  She married Jacob Cooke, and the ante-
+     nuptial agreement of his parents is believed to be the earliest of
+     record in America, except that between Gregory Armstrong and the
+     widow Billington.
+
+Edward Dotey is called by Bradford "a servant," but nothing is known of
+     his age or antecedents.  It is very certain from the fact that he
+     signed the Compact that he was twenty-one.  He was a very energetic
+     man. He seems to have been married before coming to New England, or
+     soon after.
+
+Edward Leister (the name is variously spelled) was a "servant," by
+     Bradford's record.  He was doubtless of age, as he signed the
+     Compact.
+
+Master John Crackstone, being (apparently) a widower with a son, a child
+     well grown, was evidently about thirty five years old when he
+     embarked for New England. He left a daughter behind.  He died early.
+
+John Crackstone, Jr., was but a lad, and died early.
+
+Master Edward Tilley (sometimes spelled Tillie) and his wife Ann seem to
+     have been without children of their own, and as they took with them
+     to New England two children who were their kindred, it may be
+     inferred that they had been married some little time. It is hence
+     probable that Mr. Tilley was in the neighborhood of thirty.  His
+     wife's age is purely conjectural.  They were, Bradford states, "of
+     the Leyden congregation."
+
+Henry Sampson was apparently but a young English lad when he came over in
+     the MAY-FLOWER with his cousins the Tilleys.  As he married in 1636,
+     he was probably then about twenty-one, which would make him five or
+     six when he came over.  Goodwin ("Pilgrim Republic," p. 184) says he
+     was "six."
+
+Humility Cooper is said by Bradford to have been a "cosen" of the
+     Tilleys, but no light is given as to her age or antecedents.  She
+     was but a child, apparently.  She returned to England very soon
+     after the death of Mr. and Mrs. Tilley, and "died young."
+
+Master John Tilley, having twice married, and having a daughter some
+     fourteen years old, must have been over thirty-five years old when
+     he sailed on the Pilgrim ship.  His birthplace and antecedents are
+     not known, but he was "of the Leyden congregation."
+
+Mrs. Bridget (Van der Velde) Tilley was just possibly a second wife.
+     Nothing is known concerning her except that she was of Holland, and
+     that she had, apparently, no child.
+
+Elizabeth Tilley is said by Goodwin (op. cit.  p. 298) and others to have
+     been fourteen years old at her parents' death in 1621, soon after
+     the arrival in New England.  She was the child of her father's first
+     wife.  She married John Howland before 1624.  Historians for many
+     years called her the "daughter of Governor Carver," but the recovery
+     of Bradford's MS. "historie" corrected this, with many other
+     misconceptions, though to some the error had become apparent before.
+     Her will also suggests her age.
+
+Francis Cooke's age in 1620 is fixed by his known age at his death
+     ("about 81") in 1663.  He was from the north of England, and long a
+     member of Robinson's congregation, both in England and in
+     Holland(?).
+
+John Cooke, son of Francis, is known to have been about ten years old
+     when he sailed with his father for America, as his parents did not
+     marry before 1609.  He was undoubtedly born at Leyden.  He was long
+     supposed to have been the last male survivor of the original
+     passengers (dying at Dartmouth in 1695.)
+
+James Chilton's antecedents and his age are quite unknown. He must have
+     been at least fifty, as he had a married daughter in Leyden,
+     according to Bradford.  He died among the first, and there is
+     nothing of record to inform us concerning him, except Bradford's
+     meagre mention.  He may have lived at Leyden.
+
+Mrs. Chilton's given name is declared by one writer to have been Susanna,
+     but it is not clearly proven.  Whence she came, her ancestry, and
+     her age, are alike unknown.
+
+Mary Chilton was but a young girl in 1620.  She married, before 1627,
+     John Winslow, and was probably not then over twenty, nor over
+     fourteen when she came with her parents in the MAY-FLOWER.
+
+Thomas Rogers appears, from the fact that he had a son, a lad well-grown,
+     to have been thirty or more in 1620.  His birthplace, antecedents,
+     and history are unknown, but he appears to have been "of the Leyden
+     congregation."  His wife arid children came later.
+
+Joseph Rogers was only a "lad" aboard the MAY-FLOWER, but he left a
+     considerable posterity.  Nothing is surely known of him, except that
+     he was Thomas's son.
+
+Degory Priest had the distinction of being "freeman" of Leyden, having
+     been admitted such, November 16, 1615.  He was by occupation a
+     "hatter," a man of some means, who left a wife and at least two
+     children in Holland when he embarked for America.  His known age at
+     death gives his age at sailing but a few months previous.  At his
+     marriage in Leyden, October 4, 1611, he was called "of London."  He
+     was about thirty-two when he married.  His wife (a widow Vincent)
+     was a sister of Isaac Allerton, who also was married at the same
+     time that he was. Goodwin ("Pilgrim Republic," p. 183) also gives
+     his age as "forty-one."  His widow remarried and came over later.
+     Dexter ("Mourt's Relation," p. 69, note) states, quoting from Leyden
+     MS. records, that "Degory Priest in April, 1619, calling himself a
+     'hatter,' deposes that he 'is forty years of age.'"  He must,
+     therefore, have been about forty-one when he sailed on the MAY-
+     FLOWER, and forty-two years old at his death.
+
+John Rigdale and his wife Alice afford no data.  They both died early,
+     and there is no record concerning either of them beyond the fact
+     that they were passengers.
+
+Edward Fuller and his wife have left us little record of themselves save
+     that they were of Leyden, that he is reputed a brother of Dr. Samuel
+     Fuller (for whom they seem to have named the boy they brought over
+     with them,--leaving apparently another son, Matthew, behind), and
+     that both died the first winter.  He must have been at least twenty-
+     five, judging from the fact that he was married and had two
+     children, and was perhaps somewhat older (though traditionally
+     represented as younger) than his brother.  Neither his occupation
+     nor antecedents are surely known.
+
+Samuel Fuller--the son of Edward Fuller and his wife--is called by
+     Bradford "a young child."  He must have been some five or six years
+     of age, as he married in 1635, fifteen years later, and would
+     presumably have been of age, or nearly so.
+
+Thomas Tinker's name, the mention of his "wife" and "son," the tradition
+     that they were "of the Leyden congregation" (which is not sure), the
+     certainty that they were MAY-FLOWER passengers,--on Brad ford's
+     list,--and that all died early, are all we know of the Tinker
+     family.
+
+John Turner and his two sons we know little about.  He seems to have been
+     a widower, as no mention is found of his wife, though this is not
+     certain.  He was of the Leyden congregation, and evidently a man of
+     some standing with the leaders, as he was made their messenger to
+     Carver and Cushman in London, in June, 1620, and was apparently
+     accustomed to travel. He appears to have had business of his own in
+     England at the time, and was apparently a man of sober age.  As he
+     had three children,--a daughter who came later to New England, and
+     two sons, as stated by Bradford,--it is probable that he was thirty
+     or over.  He and both his sons died in the spring of 1621.
+
+Francis Eaton was of Leyden, a carpenter, and, having a wife and child,
+     was probably a young man about twenty five, perhaps a little
+     younger.  He married three times.
+
+Mrs. Sarah Eaton, wife of Francis, was evidently a young woman, with an
+     infant, at the date of embarkation.  Nothing more is known of her,
+     except that she died the spring following the arrival at Plymouth.
+
+Samuel Eaton, the son of Francis and his wife, Sarah, Bradford calls "a
+     sucking child:" He lived to marry.
+
+Gilbert Window was the third younger brother of Governor Edward Winslow,
+     and is reputed to have been a carpenter.  He was born on Wednesday,
+     October 26, 1600, at Droitwitch, in Worcester, England.  ("Winslow
+     Memorial," vol. i.  p. 23.)  He apparently did not remain long in
+     the colony, as he does not appear in either the "land division" of
+     1623 or the "cattle division" of 1627; and hence was probably not
+     then in the "settlement," though land was later allowed his heirs,
+     he having been an "original" voyager of the Plymouth colony.  He was
+     but twenty years and fifteen days old when he signed the Compact,
+     but probably was--from his brother's prominence and his nearness to
+     his majority--counted as eligible. Bradford states that he returned
+     to England after "divers years" in New England, and died there. It
+     has been suggested that he went very early to some of the other
+     "plantations."
+
+John Alden was of Southampton, England, was hired as "a cooper," was
+     twenty-one years old in 1620, as determined by the year of his
+     birth, 1599 ("Alden Memorial," p. 1), and became the most prominent
+     and useful of any of the English contingent of the MAY FLOWER
+     company.  Longfellow's delightful poem, "The Courtship of Miles
+     Standish," has given him and his bride, Priscilla Mullens, world-
+     wide celebrity, though it is to be feared that its historical
+     accuracy would hardly stand criticism.  Why young Alden should have
+     been "hired for a cooper at Southampton," with liberty to "go or
+     stay" in the colony, as Bradford says he was (clearly indicating
+     that he went to perform some specific work and return, if he liked,
+     with the ship), has mystified many.  The matter is clear, however,
+     when it is known, as Griffis shows, that part of a Parliamentary Act
+     of 1543 reads: "Whosoever shall carry Beer beyond Sea, shall find
+     Sureties to the Customers (?) of that Port, to bring in Clapboard
+     [staves] meet [sufficient] to make so much Vessel [barrel or
+     "kilderkin"] as he shall carry forth."  As a considerable quantity of
+     beer was part of the MAY-FLOWER'S lading, and her consignors stood
+     bound to make good in quantity the stave-stock she carried away,
+     it was essential, in going to a wild country where it could not be
+     bought, but must be "got out" from the growing timber, to take along
+     a "cooper and cleaver" for that purpose.  Moreover, the great demand
+     for beer-barrel stock made "clapboard" good and profitable return
+     lading.  It constituted a large part of the FORTUNE'S return freight
+     (doubtless "gotten out" by Alden), as it would have undoubtedly of
+     the MAY-FLOWER'S, had the hardship of the colony's condition
+     permitted.
+
+Peter Browne we know little concerning.  That he was a man of early
+     middle age is inferable from the fact that he married the widow
+     Martha Ford, who came in the FORTUNE in 1621.  As she then was the
+     mother of three children, it is improbable that she would have
+     married a very young man.  He appears, from certain collateral
+     evidence, to have been a mechanic of some kind, but it is not clear
+     what his handicraft was or whence he came.
+
+John Billington (Bradford sometimes spells it Billinton) and his family,
+     Bradford tells us, "were from London."  They were evidently an ill-
+     conditioned lot, and unfit for the company of the planters, and
+     Bradford says, "I know not by what friend shuffled into their
+     Company."  As he had a wife and two children, the elder of whom must
+     have been about sixteen years old, he was apparently over thirty-
+     five years of age.  There is a tradition that he was a countryman
+     bred, which certain facts seem to confirm.  (See land allotments for
+     data as to age of boys, 1632.)  He was the only one of the original
+     colonists to suffer the "death penalty" for crime.
+
+Mrs. Ellen (or "Elen") Billington, as Bradford spells the name, was
+     evidently of comporting age to her husband's, perhaps a little
+     younger.  Their two sons, John and Francis, were lively urchins who
+     frequently made matters interesting for the colonists, afloat and
+     ashore.  The family was radically bad throughout, but they have had
+     not a few worthy descendants. Mrs. Billington married Gregory
+     Armstrong, and their antenuptial agreement is the first of record
+     known in America.
+
+John Billington, Jr., is always first named of his father's two sons, and
+     hence the impression prevails that he was the elder, and Bradford so
+     designates him.  The affidavit of Francis Billington (Plymouth
+     County, Mass., Deeds, vol. i.  p. 81), dated 1674, in which he
+     declares himself sixty-eight years old, would indicate that he was
+     born in 1606, and hence must have been about fourteen years of age
+     when he came on the MAY-FLOWER to New Plymouth.  If John, his
+     brother, was older than he, he must have been born about 1604, and
+     so was about sixteen when, he came to New England.  The indications
+     are that it was Francis, the younger son, who got hold of the
+     gunpowder in his father's cabin in Cape Cod harbor, and narrowly
+     missed blowing up the ship.  John died before 1630.  Francis lived,
+     as appears, to good age, and had a family.
+
+Moses Fletcher was of the Leyden company, a "smith," and at the time of
+     his second marriage at Leyden, November 30/December 21, 1613, was
+     called a "widower" and "of England."  As he was probably of age at
+     the time of his first marriage,--presumably two years or more before
+     his last,--he must have been over thirty in 1620.  He was perhaps
+     again a widower when he came over, as no mention is made of his
+     having wife or family.  He was possibly of the Amsterdam family of
+     that name.  His early death was a great loss to the colony.
+
+A Thomas Williams is mentioned by Hon. Henry C  Murphy ("Historical
+     Magazine," vol. iii.  pp. 358, 359), in a list of some of Robinson's
+     congregation who did not go to New England in either the MAY-FLOWER,
+     FORTUNE, ANNE, Or LITTLE JAMES.  He either overlooked the fact that
+     Williams was one of the MAY-FLOWER passengers, or else there were
+     two of the name, one of whom did not go.  Nothing is known of the
+     age or former history of the Pilgrim of that name.  He died in the
+     spring of 1621 (before the end of March). As he signed the Compact,
+     he must have been over twenty-one.  He may have left a wife, Sarah.
+
+John Goodman we know little more about than that he and Peter Browne seem
+     to have been "lost" together, on one occasion (when he was badly
+     frozen), and to have had, with his little spaniel dog, a rencontre
+     with "two great wolves," on another.  He was twice married, the last
+     time at Leyden in 1619.  He died before the end of March, 1621.
+     As he signed the Compact, he must have been over twenty-one.
+
+Edward Margeson we know nothing about.  As he signed the Compact, he was
+     presumably of age.
+
+Richard Britteridge affords little data.  His age, birthplace, or
+     occupation do not transpire, but he was, it seems, according to
+     Bradford, the first of the company to die on board the ship after
+     she had cast anchor in the harbor of New Plymouth.  This fact
+     negatives the pleasant fiction of Mrs. Austin's "Standish of
+     Standish" (p. 104), that Britteridge was one of those employed in
+     cutting sedge on shore on Friday, January 12.  Poor Britteridge died
+     December 21, three weeks earlier.  He signed the Compact, and hence
+     may be accounted of age at the landing at Cape Cod.
+
+Richard Clarke appears only as one of the passengers and as dying before
+     the end of March.  He signed the Compact, and hence was doubtless
+     twenty-one or over.
+
+Richard Gardiner, we know from Bradford, "became a seaman and died in
+     England or at sea."  He was evidently a young man, but of his age or
+     antecedents nothing appears.  He signed the Compact, and hence was
+     at least twenty-one years old.
+
+John Alderton (sometimes spelled Allerton), we are told by Bradford,--as
+     elsewhere noted,--"was hired, but was reputed one of the company,
+     but was to go back, being a seaman and so, presumably, unmindful of
+     the voyages, for the help of others."  Whether Bradford intended by
+     the latter clause to indicate that he had left his family behind,
+     and came "to spy out the land," and, if satisfied, to return for
+     them, or was to return for the counsel and assistance of Robinson
+     and the rest, who were to follow, is not clear, but the latter view
+     has most to support it.  We learn his occupation, but can only infer
+     that he was a young man over twenty-one from the above and the fact
+     that he signed the Compact.  It has been suggested that he was a
+     relative of Isaac Allerton, but this is nowhere shown and is
+     improbable.  He died before the MAY-FLOWER returned to England.
+
+Thomas English (or Enlish), Bradford tells us ("Historie," Mass. ed.
+     p. 533), "was hired to goe Master of a [the] shallop here."  He,
+     however, "died here before the ship returned."  It is altogether
+     probable that he was the savior of the colony on that stormy night
+     when the shallop made Plymouth harbor the first time, and, narrowly
+     escaping destruction, took shelter under Clarke's Island.  The first
+     three governors of the colony, its chief founders,--Carver,
+     Bradford, and Winslow,--with Standish, Warren, Hopkins, Howland,
+     Dotey, and others, were on board, and but for the heroism and prompt
+     action of "the lusty sea man which steered," who was--beyond
+     reasonable doubt--English, as Bradford's narrative ("Morton's
+     Memorial") shows, the lives of the entire party must, apparently,
+     have been lost.  That English was, if on board--Bradford shows in
+     the "Memorial" that he was--as Master of the shallop, properly her
+     helmsman in so critical a time, goes without saying, especially as
+     the "rudder was broken" and an oar substituted; that the ship's
+     "mates," Clarke and Coppin, were not in charge (although on board)
+     fully appears by Bradford's account; and as it must have taken all
+     of the other (four) seamen on board to pull the shallop, bereft of
+     her sail, in the heavy breakers into which she had been run by
+     Coppin's blunder, there would be no seaman but English for the
+     steering-oar, which was his by right.  Had these leaders been lost
+     at this critical time,--before a settlement had been made, --it is
+     certain that the colony must have been abandoned, and the Pilgrim
+     impress upon America must have been lost.  English's name should, by
+     virtue of his great service, be ever held in high honor by all of
+     Pilgrim stock.  His early death was a grave loss. Bradford spells
+     the name once Enlish, but presumably by error.  He signed the
+     Compact as Thomas English.
+
+William Trevore was, according to Bradford, one of "two seamen hired to
+     stay a year in the countrie."  He went back when his time expired,
+     but later returned to New England.  Cushman (Bradford, "Historie,"
+     p. 122) suggests that he was telling "sailors' yarns."  He says:
+     "For William Trevore hath lavishly told but what he knew or imagined
+     of Capewock Martha's Vineyard, Monhiggon, and ye Narragansetts."  In
+     1629 he was at Massachusetts Bay in command of the HANDMAID
+     (Goodwin, p. 320), and in February, 1633 (Winthrop, vol. i. p. 100),
+     he seems to have been in command of the ship WILLIAM at Plymouth,
+     with passengers for Massachusetts Bay.  Captain Standish testified
+     in regard to Thompson's Island in Boston harbor, that about 1620 he
+     "was on that Island with Trevore," and called it "Island Trevore."
+     (Bradford, "Historie," Deane's ed.  p. 209.)  He did not sign the
+     Compact, perhaps because of the limitations of his contract (one
+     year).
+
+--- Ely (not Ellis, as Arber miscalls him, "The Story of the Pilgrim
+     Fathers," p. 377) was the other of the "two seamen hired to stay a
+     year," etc.  He also returned when his time expired.  (Bradford,
+     Hist. Mass. ed.  p. 534.) He did not sign the Compact, probably for
+     the reason operative in .Trevore's case.  A digest of the foregoing
+     data gives the following interesting, if incomplete, data (errors
+     excepted):--
+
+Adult males (hired seamen and servants of age included)... 44
+Adult females (including Mrs. Carver's maid).............. 19
+Youths, male children, and male servants, minors.......... 29
+Maidens, female children.................................. 10
+                                                       -------
+                                                          102
+
+Married males............................................. 26
+Married females........................................... 18
+Single (adult) males (and young men)...................... 25
+Single (adult) females (Mrs. Carver's maid)...............  1
+
+
+Vocations of adults so far as known (except wives, who are presumed
+housekeepers for their husbands):--
+
+Carpenters................................................  2
+Cooper....................................................  1
+Fustian-worker and silk-dyer..............................  1
+Hatter....................................................  1
+Lay-reader................................................  1
+Lady's-maid...............................................  1
+Merchants.................................................  3
+Physician.................................................  1
+Printers and publishers...................................  2
+Seamen....................................................  4
+Servants (adult).......................................... 10
+Smith.....................................................  1
+Soldier...................................................  1
+Tailor....................................................  1
+Tradesmen.................................................  2
+Wool-carders..............................................  2
+
+Allowing for the addition of Wilder and the two sailors, Trevore and Ely,
+who did not sign it, the number of those who signed the Compact tallies
+exactly with the adult males.  Besides these occupations, it is known
+that several of the individuals representing them were skilled in other
+callings, and were at some time teachers, accountants, linguists,
+writers, etc., while some had formerly practised certain handicrafts;
+Dr. Fuller, e.g. having formerly been a "silk-worker," Brad ford (on the
+authority of Belknap), a "silk-dyer," and others "fustian-workers."
+Hopkins had apparently sometime before dropped his character of "lay-
+reader," and was a pretty efficient man of affairs, but his vocation at
+the time of the exodus is not known.
+
+The former occupations of fourteen of the adult colonists, Browne,
+Billington, Britteridge, Cooke, Chilton, Clarke, Crackstone, Goodman,
+Gardiner, Rogers, Rigdale, Turner, Warren, and Williams are not certainly
+known.  There is evidence suggesting that Browne was a mechanic;
+Billington and Cooke had been trained to husbandry; that Chilton had been
+a small tradesman; that Edward Tilley had been, like his brother, a silk-
+worker; that Turner was a tradesman, and Warren a farmer; while it is
+certain that Cooke, Rogers, and Warren had been men of some means.
+
+Of the above list of fourteen men whose last occupations before joining
+the colonists are unknown, only five, viz. Browne, Billington, Cooke,
+Gardiner, and Warren lived beyond the spring of 1621.  Of these, Warren
+died early, Gardiner left the colony and "became a seaman;" the other
+three, Billington, Browne, and Cooke, became "planters."  Thomas Morton,
+of "Merry Mount," in his "New Eng land's Canaan" (p. 217), gives
+Billington the sobriquet "Ould Woodman."
+
+The early deaths of the others make their former handicrafts--except as
+so much data pertaining to the composi tion and history of the colony--
+matters of only ephemeral interest.
+
+
+
+
+ETEXT EDITOR'S BOOKMARK:
+
+Welcome lies acquired a hold on the public mind
+
+
+
+
+End of this Project Gutenberg Etext of The Mayflower and Her Log, v4
+by Azel Ames
+

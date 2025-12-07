@@ -1,0 +1,3442 @@
+The Project Gutenberg Etext Adventures of Harry Richmond, by Meredith, v2
+#51 in our series by George Meredith
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before distributing this or any other
+Project Gutenberg file.
+
+We encourage you to keep this file, exactly as it is, on your
+own disk, thereby keeping an electronic path open for future
+readers.  Please do not remove this.
+
+This header should be the first thing seen when anyone starts to
+view the etext. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the
+information they need to understand what they may and may not
+do with the etext.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get etexts, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: The Adventures of Harry Richmond, v2
+
+Author: George Meredith
+
+Release Date: September, 2003 [Etext #4445]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on January 31, 2002]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: ASCII
+
+The Project Gutenberg Etext Adventures Harry Richmond, by Meredith, v2
+*********This file should be named 4445.txt or 4445.zip*********
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+
+Project Gutenberg Etexts are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep etexts in compliance with any particular paper edition.
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2001 as we release over 50 new Etext
+files per month, or 500 more Etexts in 2000 for a total of 4000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts.  We need
+funding, as well as continued efforts by volunteers, to maintain
+or increase our production and reach our goals.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of January, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Oklahoma,
+Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fundraising
+requirements for other states are met, additions to this list will be
+made and fundraising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+
+
+
+
+THE ADVENTURES OF HARRY RICHMOND
+
+By George Meredith
+
+
+
+BOOK 2.
+
+VII.      A FREE LIFE ON THE ROAD
+VIII.     JANET ILCHESTER
+IX.       AN EVENING WITH CAPTAIN BULSTED
+X.        AN EXPEDITION
+XI.       THE GREAT FOG AND THE FIRE AT MIDNIGHT
+XII.      WE FIND OURSELVES BOUND ON A VOYAGE
+XIII.     WE CONDUCT SEVERAL LEARNED ARGUMENTS WITH THE CAPTAIN OF THE
+          'PRISCILLA'
+XIV.      I MEET OLD FRIENDS
+
+
+
+CHAPTER VII
+
+A FREE LIFE ON THE ROAD
+
+I woke very early, though I had taken kindly to my pillow, as I found by
+my having an arm round my companion's neck, and her fingers intertwisted
+with mine.  For awhile I lay looking at her eyes, which had every
+imaginable light and signification in them; they advised me to lie quiet,
+they laughed at my wonder, they said, 'Dear little fellow!' they flashed
+as from under a cloud, darkened, flashed out of it, seemed to dip in
+water and shine, and were sometimes like a view into a forest, sometimes
+intensely sunny, never quite still.  I trusted her, and could have slept
+again, but the sight of the tent stupefied me; I fancied the sky had
+fallen, and gasped for air; my head was extremely dizzy too; not one idea
+in it was kept from wheeling.  This confusion of my head flew to my legs
+when, imitating her, I rose to go forth.  In a fit of horror I thought,
+'I 've forgotten how to walk!'
+
+Summoning my manful resolution, I made the attempt to step across the
+children swaddled in matting and straw and old gowns or petticoats.  The
+necessity for doing it with a rush seized me after the first step.  I
+pitched over one little bundle, right on to the figure of a sleeping
+woman.  All she did was to turn round, murmuring, 'Naughty Jackie.'
+My companion pulled me along gravely, and once in the air, with a good
+breath of it in my chest, I felt tall and strong, and knew what had
+occurred.  The tent where I had slept struck me as more curious than my
+own circumstances.  I lifted my face to the sky; it was just sunrise,
+beautiful; bits of long and curling cloud brushed any way close on the
+blue, and rosy and white, deliciously cool; the grass was all grey, our
+dell in shadow, and the tops of the trees burning, a few birds
+twittering.
+
+I sucked a blade of grass.
+
+'I wish it was all water here,' I said.
+
+'Come and have a drink and a bathe,' said my companion.
+
+We went down the dell and over a juniper <DW72>, reminding me of my day at
+John Salter's house and the last of dear Heriot.  Rather to my shame, my
+companion beat me at running; she was very swift, and my legs were stiff.
+
+'Can you swim?' she asked me.
+
+'I can row, and swim, and fence, and ride, and fire a pistol,' I said.
+
+'Oh, dear,' said she, after eyeing me enviously.  I could see that I had
+checked a recital of her accomplishments.
+
+We arrived at a clear stream in a gentleman's park, where grass rolled
+smooth as sea-water on a fine day, and cows and horses were feeding.
+
+'I can catch that horse and mount him,' she said.
+
+I was astonished.
+
+'Straddle?'
+
+She nodded down for 'Yes.'
+
+'No saddle?'
+
+She nodded level for 'No.'
+
+My respect for her returned.  But she could not swim.
+
+'Only up to my knees,' she confessed.
+
+'Have a look at me,' said I; and I stripped and shot into the water,
+happy as a fish, and thinking how much nicer it was than champagne.  My
+enjoyment made her so envious that she plucked off her stockings, and
+came in as far as she dared.  I called to her.  'You're like a cow,' and
+she showed her teeth, bidding me not say that.
+
+'A cow!  a cow !'  I repeated, in my superior pleasure.
+
+She spun out in a breath, ' If you say that, I 'll run away with every
+bit of your clothes, and you'll come out and run about naked, you will.'
+
+'Now I float,' was my answer, 'now I dive'; and when I came up she
+welcomed me with a big bright grin.
+
+A smart run in the heat dried me.  I dressed, finding half my money on
+the grass.  She asked me to give her one of those bits-a shilling.  I
+gave her two, upon which she asked me, invitingly, if ever I tossed.  I
+replied that I never tossed for money; but she had caught a shilling, and
+I could not resist guessing 'heads,' and won; the same with her second
+shilling.  She handed them to me sullenly, sobbing, yet she would not
+take them back.
+
+'By-and-by you give me another two,' she said, growing lively again.
+We agreed that it would be a good thing if we entered the village and
+bought something.  None of the shops were open.  We walked through the
+churchyard.  I said, 'Here's where dead people are buried.'
+
+'I'll dance if you talk about dead people,' said she, and began whooping
+at the pitch of her voice.  On my wishing to know why she did it, her
+reply was that it was to make the dead people hear.  My feelings were
+strange: the shops not open, and no living people to be seen.  We climbed
+trees, and sat on a branch talking of birds' eggs till hunger drove us to
+the village street, where, near the public-house, we met the man-tramp,
+who whistled.
+
+He was rather amusing.  He remarked that he put no questions to me,
+because he put no question to anybody, because answers excited him about
+subjects that had no particular interest to him, and did not benefit him
+to the extent of a pipe of 'tobacco; and all through not being
+inquisitive, yesterday afternoon he had obtained, as if it had been
+chucked into his lap, a fine-flavoured fat goose honourably for his
+supper, besides bottles of ale, bottles of ginger-pop, and a fair-earned
+half-crown.  That was through his not being inquisitive, and he was not
+going to be inquisitive now, knowing me for a gentleman: my master had
+tipped him half-a-crown.
+
+Fortunately for him, and perhaps for my liberty, he employed a verb
+marvellously enlightening to a schoolboy.  I tipped him another half-
+crown.  He thanked me, observing that there were days when you lay on
+your back and the sky rained apples; while there were other days when you
+wore your fingers down to the first joint to catch a flea.  Such was
+Fortune!
+
+In a friendly manner he advised me to go to school; if not there, then to
+go home.  My idea, which I had only partly conceived, was to have a look
+at Riversley over a hedge, kiss my aunt Dorothy unaware, and fly
+subsequently in search of my father.  Breakfast, however, was my
+immediate thought.  He and the girl sat down to breakfast at the inn as
+my guests.  We ate muttonchops and eggs, and drank coffee.  After it,
+though I had no suspicions, I noticed that the man grew thoughtful.
+He proposed to me, supposing I had no objection against slow travelling,
+to join company for a couple of days, if I was for Hampshire, which I
+stated was the county I meant to visit.
+
+'Well then, here now, come along, d 'ye see, look,' said he, 'I mustn't
+be pounced on, and no missing young gentleman in my society, and me took
+half-a-crown for his absence; that won't do.  You get on pretty well with
+the gal, and that 's a screaming farce: none of us do.  Lord!  she looks
+down on such scum as us.  She's gipsy blood, true sort; everything's
+sausages that gets into their pockets, no matter what it was when it was
+out.  Well then, now, here, you and the gal go t' other side o'
+Bed'lming, and you wait for us on the heath, and we 'll be there to
+comfort ye 'fore dark.  Is it a fister?'
+
+He held out his hand; I agreed; and he remarked that he now counted a
+breakfast in the list of his gains from never asking questions.
+
+I was glad enough to quit the village in a hurry, for the driver of the
+geese, or a man dreadfully resembling him, passed me near the public-
+house, and attacked my conscience on the cowardly side, which is, I fear,
+the first to awaken, and always the liveliest half while we are
+undisciplined.  I would have paid him money, but the idea of a
+conversation with him indicated the road back to school.  My companion
+related her history.  She belonged to a Hampshire gipsy tribe, and had
+been on a visit to a relative down in the East counties, who died on the
+road, leaving her to be brought home by these tramps: she called them
+mumpers, and made faces when she spoke of them.  Gipsies, she said, were
+a different sort: gipsies camped in gentlemen's parks; gipsies, horses,
+fiddles, and the wide world--that was what she liked.  The wide world she
+described as a heath, where you looked and never saw the end of it I let
+her talk on.  For me to talk of my affairs to a girl without bonnet and
+boots would have been absurd.  Otherwise, her society pleased me: she was
+so like a boy, and unlike any boy I knew.
+
+My mental occupation on the road was to calculate how many hill-tops I
+should climb before I beheld Riversley.  The Sunday bells sounded homely
+from village to village as soon as I was convinced that I heard no bells
+summoning boarders to Rippenger's school.  The shops in the villages
+continued shut; however, I told the girl they should pay me for it next
+day, and we had an interesting topic in discussing as to the various
+things we would buy.  She was for bright ribands and draper's stuff, I
+for pastry and letter-paper.  The smell of people's dinners united our
+appetites.  Going through a village I saw a man carrying a great baked
+pie, smelling overpoweringly, so that to ask him his price for it was a
+natural impulse with me.  'What! sell my Sunday dinner?' he said, and
+appeared ready to drop the dish.  Nothing stopped his staring until we
+had finished a plateful a-piece and some beer in his cottage among his
+family.  He wanted to take me in alone.  'She's a common tramp,' he said
+of the girl.
+
+'That's a lie,' she answered.
+
+Of course I would not leave her hungry outside, so in the end he
+reluctantly invited us both, and introduced us to his wife.
+
+'Here's a young gentleman asks a bit o' dinner, and a young I-d'n-know-
+what 's after the same; I leaves it to you, missus.'
+
+His wife took it off his shoulders in good humour, saying it was lucky
+she made the pie big enough for her family and strays.  They would not
+accept more than a shilling for our joint repast.  The man said that was
+the account to a farthing, if I was too proud to be a poor man's guest,
+and insisted on treating him like a public.  Perhaps I would shake hands
+at parting?  I did cordially, and remembered him when people were not so
+civil.  They wanted to know whether we had made a runaway match of it.
+The fun of passing a boys'-school and hearing the usher threaten to
+punish one fellow for straying from ranks, entertained me immensely.  I
+laughed at them just as the stupid people we met laughed at me, which was
+unpleasant for the time; but I knew there was not a single boy who would
+not have changed places with me, only give him the chance, though my
+companion was a gipsy girl, and she certainly did look odd company for a
+gentleman's son in a tea-garden and public-house parlour.  At nightfall,
+however, I was glad of her and she of me, and we walked hand in hand.
+I narrated tales of Roman history.  It was very well for her so say,
+'I'll mother you,' as we lay down to sleep; I discovered that she would
+never have hooted over churchyard graves in the night.  She confessed she
+believed the devil went about in the night.  Our bed was a cart under a
+shed, our bed-clothes fern-leaves and armfuls of straw.  The shafts of
+the cart were down, so we lay between upright and level, and awakening in
+the early light I found our four legs hanging over the seat in front.
+'How you have been kicking!' said I.  She accused me of the same.  Next
+minute she pointed over the side of the cart, and I saw the tramp's horse
+and his tents beneath a broad roadside oak-tree.  Her face was comical,
+just like a boy's who thinks he has escaped and is caught.  'Let's run,'
+she said.  Preferring positive independence, I followed her, and then she
+told me that she had overheard the tramp last night swearing I was as
+good as a fistful of half-crowns lost to him if he missed me.  The image
+of Rippenger's school overshadowed me at this communication.  With some
+melancholy I said: 'You'll join your friends, won't you?'
+
+She snapped her fingers: 'Mumpers !' and walked on carelessly.
+
+We were now on the great heaths.  They brought the memory of my father
+vividly; the smell of the air half inclined me to turn my steps toward
+London, I grew so full of longing for him.  Nevertheless I resolved to
+have one gaze at Riversley, my aunt Dorothy, and Sewis, the old grey-
+brown butler, and the lamb that had grown a sheep; wonderful contrasts to
+my grand kings of England career.  My first clear recollection of
+Riversley was here, like an outline of a hill seen miles away.  I might
+have shed a tear or two out of love for my father, had not the thought
+that I was a very queer boy displaced his image.  I could not but be a
+very queer boy, such a lot of things happened to me.  Suppose I joined
+the gipsies?  My companion wished me to.  She had brothers, horse-
+dealers, beautiful fiddlers.  Suppose I learnt the fiddle?  Suppose I
+learnt their language and went about with them and became king of the
+gipsies?  My companion shook her head; she could not encourage this
+ambitious idea because she had never heard of a king of the gipsies or a
+queen either.  'We fool people,' she said, and offended me, for our
+school believed in a gipsy king, and one fellow, Hackman, used to sing a
+song of a gipsy king; and it was as much as to say that my schoolfellows
+were fools, every one of them.  I accused her of telling lies.  She
+grinned angrily.  'I don't tell 'em to friends,' she said.  We had a
+quarrel.  The truth was, I was enraged at the sweeping out of my
+prospects of rising to distinction among the gipsies.  After breakfast at
+an inn, where a waiter laughed at us to our faces, and we fed scowling,
+shy, and hungry, we had another quarrel.  I informed her of my opinion
+that gipsies could not tell fortunes.
+
+'They can, and you come to my mother and my aunt, and see if they can't
+tell your fortune,' said she, in a fury.
+
+'Yes, and that's how they fool people,' said I.  I enjoyed seeing the
+flash of her teeth.  But my daring of her to look me in the eyes and
+swear on her oath she believed the fortunes true ones, sent her into a
+fit of sullenness.
+
+'Go along, you nasty little fellow, your shadow isn't half a yard,' she
+said, and I could smile at that; my shadow stretched half across the
+road.  We had a quarrelsome day wherever we went; rarely walking close
+together till nightfall, when she edged up to my hand, with, 'I say, I'll
+keep you warm to-night, I will.' She hugged me almost too tight, but it
+was warm and social, and helped to the triumph of a feeling I had that
+nothing made me regret running away from Rippenger's school.
+
+An adventure befell us in the night.  A farmer's wife, whom we asked for
+a drink of water after dark, lent us an old blanket to cover us in a dry
+ditch on receiving our promise not to rob the orchard.  An old beggar
+came limping by us, and wanted to share our covering.  My companion sank
+right under the blanket to peer at him through one of its holes.  He
+stood enormous above me in the moonlight, like an apparition touching
+earth and sky.
+
+'Cold, cold,' he whined: 'there's ne'er a worse off but there's a better
+off.  Young un!' His words dispersed the fancy that he was something
+horrible, or else my father in disguise going to throw off his rags, and
+shine, and say he had found me.  'Are ye one, or are ye two?' he asked.
+
+I replied that we were two.
+
+'Then I'll come and lie in the middle,' said he.
+
+'You can't; there's no room,' I sang out.
+
+'Lord,' said he, 'there's room for any reckoning o' empty stomachs in a
+ditch.'
+
+'No, I prefer to be alone: good-night,' said I.
+
+'Why!' he exclaimed, 'where ha' you been t' learn language?  Halloa !'
+
+'Please, leave me alone; it's my intention to go to sleep,' I said, vexed
+at having to conciliate him; he had a big stick.
+
+'Oho!' went the beggar.  Then he recommenced:
+
+'Tell me you've stole nothing in your life!  You've stole a gentleman's
+tongue, I knows the ring o' that.  How comes you out here?  Who's your
+mate there down below?  Now, see, I'm going to lift my stick.'
+
+At these menacing words the girl jumped out of the blanket, and I called
+to him that I would rouse the farmer.
+
+'Why .  .  .  because I'm goin' to knock down a apple or two on your
+head?' he inquired, in a tone of reproach.  'It's a young woman you've
+got there, eh?  Well, odd grows odder, like the man who turned three
+shillings into five.  Now, you gi' me a lie under your blanket, I 'll
+knock down a apple apiece.  If ever you've tasted gin, you 'll say a
+apple at night's a cordial, though it don't intoxicate.'
+
+The girl whispered in my ear, 'He's lame as ducks.' Her meaning seized me
+at once; we both sprang out of the ditch and ran, dragging our blanket
+behind us.  He pursued, but we eluded him, and dropped on a quiet
+sleeping-place among furzes.  Next morning, when we took the blanket to
+the farm-house, we heard that the old wretch had traduced our characters,
+and got a breakfast through charging us with the robbery of the apple-
+tree.  I proved our innocence to the farmer's wife by putting down a
+shilling.  The sight of it satisfied her.  She combed my hair, brought me
+a bowl of water and a towel, and then gave us a bowl of milk and bread,
+and dismissed us, telling me I had a fair face and dare-devil written on
+it: as for the girl, she said of her that she knew gipsies at a glance,
+and what God Almighty made them for there was no guessing.  This set
+me thinking all through the day, 'What can they have been made for?'
+I bought a red scarf for the girl, and other things she fixed her eyes
+on, but I lost a great deal of my feeling of fellowship with her.
+'I dare say they were made for fun,' I thought, when people laughed
+at us now, and I laughed also.
+
+I had a day of rollicking laughter, puzzling the girl, who could only
+grin two or three seconds at a time, and then stared like a dog that
+waits for his master to send him off again running, the corners of her
+mouth twitching for me to laugh or speak, exactly as a dog might wag his
+tail.  I studied her in the light of a harmless sort of unaccountable
+creature; witness at any rate for the fact that I had escaped from
+school.
+
+We loitered half the morning round a cricketers' booth in a field, where
+there was moderately good cricketing.  The people thought it of first-
+rate quality.  I told them I knew a fellow who could bowl out either
+eleven in an hour and a half.  One of the men frightened me by saying,
+'By Gearge!  I'll in with you into a gig, and off with you after that
+ther' faller.'  He pretended to mean it, and started up.  I watched him
+without flinching.  He remarked that if I 'had not cut my lucky from
+school, and tossed my cap for a free life, he was ----' whatever may be
+expressed by a slap on the thigh.  We played a single-wicket side game,
+he giving me six runs, and crestfallen he was to find himself beaten;
+but, as I let him know, one who had bowled to Heriot for hours and stood
+against Saddlebank's bowling, was a tough customer, never mind his age.
+
+This man offered me his friendship.  He made me sit and eat beside him at
+the afternoon dinner of the elevens, and sent platefuls of food to the
+girl, where she was allowed to squat; and said he, 'You and I'll tie a
+knot, and be friends for life.'
+
+I replied, 'With pleasure.'
+
+We nodded over a glass of ale.  In answer to his questions, I stated that
+I liked farms, I would come and see his farm, I would stay with him two
+or three days, I would give him my address if I had one, I was on my way
+to have a look at Riversley Grange.
+
+'Hey!' says he, 'Riversley Grange!  Well, to be sure now!  I'm a tenant
+of Squire Beltham's, and a right sort of landlord, too.'
+
+'Oh!' says I, 'he's my grandfather, but I don't care much about him.'
+
+'Lord!' says he.  'What!  be you the little boy, why, Master Harry
+Richmond that was carried off in the night, and the old squire shut up
+doors for a fortnight, and made out you was gone in a hearse!  Why, I
+know all about you, you see.  And back you are, hurrah!  The squire 'll
+be hearty, that he will.  We've noticed a change in him ever since you
+left.  Gout's been at his leg, off and on, a deal shrewder.  But he rides
+to hounds, and dines his tenants still, that he does; he's one o' th' old
+style.  Everything you eat and drink's off his estate, the day he dines
+his tenants.  No humbug 'bout old Squire Beltham.
+
+I asked him if Sewis was alive.
+
+'Why, old Sewis,' says he, 'you're acquainted with old Sewis?  Why, of
+course you are.  Yes, old Sewis 's alive, Master Harry.  And you bet me
+at single-wicket!  That 'll be something to relate to 'em all.  By
+Gearge, if I didn't think I'd got a nettle in my fist when I saw you
+pitch into my stumps.  Dash it! thinks I.  But th' old squire 'll be
+proud of you, that he will.  My farm lies three miles away.  You look at
+a crow flying due South-east five minutes from Riversley, and he's over
+Throckham farm, and there I 'll drive ye to-night, and to-morrow, clean
+and tidy out o' my wife's soap and water, straight to Riversley.  Done,
+eh?  My name's Eckerthy.  No matter where you comes from, here you are,
+eh, Master Harry?  And I see you last time in a donkey-basket, and here
+you come in breeches and defy me to singlewicket, and you bet me too!'
+
+He laughed for jollity.  An extraordinary number of emotions had
+possession of me: the most intelligible one being a restless vexation at
+myself, as the principal person concerned, for not experiencing anything
+like the farmer's happiness.  I preferred a gipsy life to Riversley.
+Gipsies were on the road, and that road led to my father.  I endeavoured
+to explain to Farmer Eckerthy that I was travelling in this direction
+merely to have a short look at Riversley; but it was impossible; he could
+not understand me.  The more I tried, the more he pressed me to finish my
+glass of ale, which had nothing to do with it.  I drank, nevertheless,
+and I suppose said many funny things in my anxiety that the farmer should
+know what I meant; he laughed enough.
+
+While he was fielding against the opposite eleven, the tramp came into
+the booth, and we had a match of cunning.
+
+'Schoolmaster's out after you, young gentleman,' said he, advising me to
+hurry along the road if I sought to baffle pursuit.
+
+I pretended alarm, and then said, 'Oh, you'll stand by me,' and treated
+him to ale.
+
+He assured me I left as many tracks behind me as if I went spilling a box
+of lucifer-matches.  He was always for my hastening on until I ordered
+fresh ale for him.  The girl and he grimaced at one another in contempt.
+So we remained seeing the game out.  By the time the game ended, the
+tramp had drunk numbers of glasses of ale.
+
+'A fine-flavoured fat goose,' he counted his gains since the commencement
+of our acquaintance, 'bottles of ale and ginger-pop, two half-crowns,
+more ale, and more to follow, let's hope.  You only stick to your
+friends, young gentleman, won't you, sir?  It's a hard case for a poor
+man like me if you don't.  We ain't got such chances every morning of our
+lives.  Do you perceive, sir?  I request you to inform me, do you
+perceive, sir?  I'm muddled a bit, sir, but a man must look after his
+interests.'
+
+I perceived he was so muddled as to be unable to conceal that his
+interests were involved in my capture; but I was merry too.  Farmer
+Eckerthy dealt the tramp a scattering slap on the back when he returned
+to the booth, elated at having beaten the enemy by a single run.
+
+'Master Harry Richmond go to Riversley to his grandfather in your
+company, you scoundrel!' he cried in a rage, after listening to him.
+'I mean to drive him over.  It 's a comfortable ten-mile, and no more.
+But I say, Master Harry, what do you say to a peck o' supper?'
+
+He communicated to me confidentially that he did not like to seem to
+slink away from the others, who had made up their minds to stop and sup;
+so we would drive home by moonlight, singing songs.  And so we did.  I
+sat beside the farmer, the girl scrambled into the hinder part of the
+cart, and the tramp stood moaning, 'Oh dear! oh dear! you goes away to
+Riversley without your best friend.'
+
+I tossed him a shilling.  We sang beginnings and ends of songs.  The
+farmer looked at the moon, and said, 'Lord!  she stares at us!' Then he
+sang:
+
+              'The moon is shining on Latworth lea,
+               And where'll she see such a jovial three
+               As we, boys, we?  And why is she pale?
+               It's because she drinks water instead of ale.'
+
+'Where 's the remainder?  There's the song!--
+
+                   "Oh! handsome Miss Gammon
+                    Has married Lord Mammon,
+                    And jilted her suitors,
+                    All Cupid's sharpshooters,
+                    And gone in a carriage
+                    And six to her marriage,
+     Singing hey!  for I've landed my salmon, my salmon!"
+
+
+Where's the remainder?  I heard it th' only time I ever was in London
+town, never rested till I'd learnt it, and now it's clean gone.  What's
+come to me?'
+
+He sang to 'Mary of Ellingmere' and another maid of some place, and a
+loud song of Britons.
+
+It was startling to me to wake up to twilight in the open air and
+silence, for I was unaware that I had fallen asleep.  The girl had roused
+me, and we crept down from the cart.  Horse and farmer were quite
+motionless in a green hollow beside the roadway.  Looking across fields
+and fir plantations, I beheld a house in the strange light of the hour,
+and my heart began beating; but I was overcome with shyness, and said to
+myself, 'No, no, that's not Riversley; I'm sure it isn't'; though the
+certainty of it was, in my teeth, refuting me.  I ran down the fields to
+the park and the bright little river, and gazed.  When I could say, 'Yes,
+it is Riversley!' I turned away, hurt even to a sense of smarting pain,
+without knowing the cause.  I dare say it is true, as the girl declared
+subsequently, that I behaved like one in a fit.  I dropped, and I may
+have rolled my body and cried.  An indefinite resentment at Riversley was
+the feeling I grew conscious of after very fast walking.  I would not
+have accepted breakfast there.
+
+About mid-day, crossing a stubble-field, the girl met a couple of her
+people-men.  Near evening we entered one of their tents.  The women set
+up a cry, 'Kiomi!  Kiomi !' like a rising rookery.  Their eyes and teeth
+made such a flashing as when you dabble a hand in a dark waterpool.  The
+strange tongue they talked, with a kind of peck of the voice at a word,
+rapid, never high or low, and then a slide of similar tones all round,
+--not musical, but catching and incessant,--gave me an idea that I had
+fallen upon a society of birds, exceedingly curious ones.  They welcomed
+me kindly, each of them looking me in the face a bright second or so.
+I had two helps from a splendid pot of broth that hung over a fire in
+the middle of the tent.
+
+Kiomi was my companion's name.  She had sisters Adeline and Eveleen, and
+brothers Osric and William, and she had a cousin a prizefighter.  'That's
+what I'll be,' said I.  Fiddling for money was not a prospect that
+charmed me, though it was pleasant lying in Kiomi's arms to hear Osric
+play us off to sleep; it was like floating down one of a number of
+visible rivers; I could see them converging and breaking away while I
+floated smoothly, and a wonderful fair country nodded drowsy.  From that
+to cock-crow at a stride.  Sleep was no more than the passage through the
+arch of a canal.  Kiomi and I were on the heath before sunrise, jumping
+gravel-pits, chasing sandpipers, mimicking pewits; it seemed to me I had
+only just heard the last of Osric's fiddle when yellow colour filled in
+along the sky over Riversley.  The curious dark thrill of the fiddle in
+the tent by night seemed close up behind the sun, and my quiet fancies as
+I lay dropping to sleep, followed me like unobtrusive shadows during
+daylight, or, to speak truthfully, till about dinner-time, when I thought
+of nothing but the great stew-pot.  We fed on plenty; nicer food than
+Rippenger's, minus puddings.  After dinner I was ready for mischief.
+My sensations on seeing Kiomi beg of a gentleman were remarkable.
+I reproached her.  She showed me sixpence shining in the palm of her
+hand.  I gave her a shilling to keep her from it.  She had now got one
+and sixpence, she said: meaning, I supposed upon reflection, that her
+begging had produced that sum, and therefore it was a good thing.  The
+money remaining in my pocket amounted to five shillings and a penny.  I
+offered it to Kiomi's mother, who refused to accept it; so did the
+father, and Osric also.  I might think of them, they observed, on my
+return to my own house: they pointed at Riversley.  'No,' said I,
+'I shan't go there, you may be sure.' The women grinned, and the men
+yawned.  The business of the men appeared to be to set to work about
+everything as if they had a fire inside them, and then to stretch out
+their legs and lie on their backs, exactly as if the fire had gone out.
+Excepting Osric's practice on the fiddle, and the father's bringing in
+and leading away of horses, they did little work in my sight but brown
+themselves in the sun.  One morning Osric's brother came to our camp with
+their cousin the prizefighter--a young man of lighter complexion, upon
+whom I gazed, remembering John Thresher's reverence for the heroical
+profession.  Kiomi whispered some story concerning her brother having met
+the tramp.  I did not listen; I was full of a tempest, owing to two
+causes: a studious admiration of the smart young prizefighter's person,
+and wrathful disgust at him for calling Kiomi his wife, and telling her
+he was prepared to marry her as soon as she played her harp like King
+David.  The intense folly of his asking a girl to play like David made me
+despise him, but he was splendidly handsome and strong, and to see him
+put on the gloves for a spar with big William, Kiomi's brother, and evade
+and ward the huge blows, would have been a treat to others besides old
+John of Dipwell Farm.  He had the agile grace of a leopard; his waistcoat
+reminded me of one; he was like a piece of machinery in free action.
+Pleased by my enthusiasm, he gave me a lesson, promising me more.
+
+'He'll be champion some day,' said Kiomi, at gnaw upon an apple he had
+given her.
+
+I knocked the apple on the ground, and stamped on it.  She slapped my
+cheek.  In a minute we stood in a ring.  I beheld the girl actually
+squaring at me.
+
+'Fight away,' I said, to conceal my shame, and imagining I could slip
+from her hits as easily as the prizefighter did from big William's.
+I was mistaken.
+
+'Oh! you think I can't defend myself,' said Kiomi; and rushed in with
+one, two, quick as a cat, and cool as a statue.
+
+'Fight, my merry one; she takes punishment,' the prizefighter sang out.
+'First blood to you, Kiomi; uncork his claret, my duck; straight at the
+nozzle, he sees more lamps than shine in London, I warrant.  Make him
+lively, cook him; tell him who taught you; a downer to him, and I'll
+marry you to-morrow!'
+
+I conceived a fury against her as though she had injured me by appearing
+the man's property--and I was getting the worst of it; her little fists
+shot straight and hard as bars of iron; she liked fighting; she was at
+least my match.  To avoid the disgrace of seriously striking her, or of
+being beaten at an open exchange of blows, I made a feint, and caught her
+by the waist and threw her, not very neatly, for I fell myself in her
+grip.  They had to pluck her from me by force.
+
+'And you've gone a course of tuition in wrestling, squire?' the
+prizefighter said to me rather savagely.
+
+The others were cordial, and did not snarl at me for going to the ropes,
+as he called it.  Kiomi desired to renew the conflict.  I said aloud:
+
+'I never fight girls, and I tell you I don't like their licking me.'
+
+'Then you come down to the river and wash your face,' said she, and
+pulled me by the fingers, and when she had washed my face clear of blood,
+kissed me.  I thought she tasted of the prizefighter.
+
+Late in the afternoon Osric proposed that he and I and the prizefighter
+should take a walk.  I stipulated for Kiomi to be of the party, which was
+allowed, and the gipsy-women shook my hand as though I had been departing
+on a long expedition, entreating me not to forget them, and never to
+think evil of poor gipsy-folk.
+
+'Why, I mean to stay with you,' said I.
+
+They grinned delightedly, and said I must be back to see them break up
+camp in the evening.  Every two or three minutes Kiomi nudged my elbow
+and pointed behind, where I saw the women waving their 
+neckerchiefs.  Out of sight of our tents we came in view of the tramp.
+Kiomi said, 'Hide!' I dived into a furze dell.  The tramp approached,
+calling out for news of me.  Now at Rippenger's school, thanks to Heriot,
+lying was not the fashion; still I had heard boys lie, and they can let
+it out of their mouths like a fish, so lively, simple, and solid, that
+you could fancy a master had asked them for it and they answered, 'There
+it is.' But boys cannot lie in one key spontaneously, a number of them to
+the same effect, as my friends here did.  I was off, they said; all swung
+round to signify the direction of my steps; my plans were hinted at;
+particulars were not stated on the plea that there should be no tellings;
+it was remarked that I ought to have fair play and 'law.' Kiomi said she
+hoped he would not catch me.  The tramp winced with vexation, and the
+gipsies chaffed him.  I thanked them in my heart for their loyal conduct.
+Creeping under cover of the dell I passed round to the road over a knoll
+of firs as quick as my feet could carry me, and had just cried, 'Now I'm
+safe'; when a lady stepping from a carriage on the road, caught me in her
+arms and hugged me blind.  It was my aunt Dorothy.
+
+
+
+
+CHAPTER VIII
+
+JANET ILCHESTER
+
+I was a prisoner, captured by fraud, and with five shillings and a penny
+still remaining to me for an assurance of my power to enjoy freedom.
+Osric and Kiomi did not show themselves on the road, they answered none
+of my shouts.
+
+'She is afraid to look me in the face,' I said, keeping my anger on
+Kiomi.
+
+'Harry, Harry,' said my aunt, 'they must have seen me here; do you
+grieve, and you have me, dear?'
+
+Her eager brown eyes devoured me while I stood panting to be happy, if
+only I might fling my money at Kiomi's feet, and tell her, 'There, take
+all I have; I hate you!'  One minute I was curiously perusing the soft
+shade of a moustache on my aunt's upper lip; the next, we jumped into the
+carriage, and she was my dear aunt Dorothy again, and the world began
+rolling another way.
+
+The gipsies had made an appointment to deliver me over to my aunt; Farmer
+Eckerthy had spoken of me to my grandfather; the tramp had fetched Mr.
+Rippenger on the scene.  Rippenger paid the tramp, I dare say; my
+grandfather paid Rippenger's bill and for Saddlebank's goose; my aunt
+paid the gipsies, and I think it doubtful that they handed the tramp a
+share, so he came to the end of his list of benefits from not asking
+questions.
+
+I returned to Riversley more of a man than most boys of my age, and more
+of a child.  A small child would not have sulked as I did at Kiomi's
+behaviour; but I met my grandfather's ridiculous politeness with a man's
+indifference.
+
+'So you're back, sir, are you!'
+
+'I am, sir.'
+
+'Ran like a hare, 'stead of a fox, eh?'
+
+'I didn't run like either, sir.'
+
+'Do you ride?'
+
+'Yes, sir; a horse.'
+
+That was his greeting and how I took it.  I had not run away from him, so
+I had a quiet conscience.
+
+He said, shortly after, 'Look here; your name is Harry Richmond in my
+house--do you understand?  My servants have orders to call you Master
+Harry Richmond, according to your christening.  You were born here, sir,
+you will please to recollect.  I'll have no vagabond names here'--he
+puffed himself hot, muttering, 'Nor vagabond airs neither.'
+
+I knew very well what it meant.  A sore spirit on my father's behalf kept
+me alive to any insult of him; and feeling that we were immeasurably
+superior to the Beltham blood, I merely said, apart to old Sewis,
+shrugging my shoulders, 'The squire expects me to recollect where I was
+born.  I'm not likely to forget his nonsense.'
+
+Sewis, in reply, counselled me to direct a great deal of my attention to
+the stables, and drink claret with the squire in the evening, things so
+little difficult to do that I moralized reflectively, 'Here 's a way of
+gaining a relative's affection!'  The squire's punctilious regard for
+payments impressed me, it is true.  He had saved me from the disgrace of
+owing money to my detested schoolmaster; and, besides, I was under his
+roof, eating of his bread.  My late adventurous life taught me that I
+incurred an obligation by it.  Kiomi was the sole victim of my anger that
+really seemed to lie down to be trampled on, as she deserved for her
+unpardonable treachery.
+
+By degrees my grandfather got used to me, and commenced saying in
+approval of certain of my performances, 'There's Beltham in that--Beltham
+in that!'  Once out hunting, I took a nasty hedge and ditch in front of
+him; he bawled proudly, 'Beltham all over!' and praised me.  At night,
+drinking claret, he said on a sudden, 'And, egad, Harry, you must jump
+your head across hedges and ditches, my little fellow.  It won't do, in
+these confounded days, to have you clever all at the wrong end.  In my
+time, good in the saddle was good for everything; but now you must get
+your brains where you can--pick here, pick there--and sell 'em like a
+huckster; some do.  Nature's gone--it's damned artifice rules, I tell ye;
+and a squire of our country must be three parts lawyer to keep his own.
+You must learn; by God, sir, you must cogitate; you must stew at books
+and maps, or you'll have some infernal upstart taking the lead of you,
+and leaving you nothing but the whiff of his tail.'  He concluded, 'I'm
+glad to see you toss down your claret, my boy.'
+
+Thus I grew in his favour, till I heard from him that I was to be the
+heir of Riversley and his estates, but on one condition, which he did not
+then mention.  If I might have spoken to him of my father, I should have
+loved him.  As it was, I liked old Sewis better, for he would talk to me
+of the night when my father carried me away, and though he never uttered
+the flattering words I longed to hear, he repeated the story often, and
+made the red hall glow with beams of my father's image.  My walks and
+rides were divided between the road he must have followed toward London,
+bearing me in his arms, and the vacant place of Kiomi's camp.  Kiomi
+stood for freedom, pointing into the darkness I wished to penetrate that
+I might find him.  If I spoke of him to my aunt she trembled.  She said,
+'Yes, Harry, tell me all you are thinking about, whatever you want to
+know'; but her excessive trembling checked me, and I kept my feelings to
+myself--a boy with a puzzle in his head and hunger in his heart.  At
+times I rode out to the utmost limit of the hour giving me the proper
+number of minutes to race back and dress for dinner at the squire's
+table, and a great wrestling I had with myself to turn my little horse's
+head from hills and valleys lying East; they seemed to have the secret of
+my father.  Blank enough they looked if ever I despaired of their knowing
+more than I.  My Winter and Summer were the moods of my mind constantly
+shifting.  I would have a week of the belief that he was near Riversley,
+calling for me; a week of the fear that he was dead; long dreams of him,
+as travelling through foreign countries, patting the foreheads of boys
+and girls on his way; or driving radiantly, and people bowing.
+Radiantly, I say: had there been touches of colour in these visions,
+I should have been lured off in pursuit of him.  The dreams passed
+colourlessly; I put colouring touches to the figures seen in them
+afterward, when I was cooler, and could say, 'What is the use of fancying
+things?' yet knew that fancying things was a consolation.  By such means
+I came to paint the mystery surrounding my father in tender colours.
+I built up a fretted cathedral from what I imagined of him, and could
+pass entirely away out of the world by entering the doors.
+
+Want of boys' society as well as hard head-work produced this mischief.
+My lessons were intermittent Resident tutors arrived to instruct me,
+one after another.  They were clergymen, and they soon proposed to marry
+my aunt Dorothy, or they rebuked the squire for swearing.  The devil was
+in the parsons, he said: in his time they were modest creatures and stuck
+to the bottle and heaven.  My aunt was of the opinion of our neighbours,
+who sent their boys to school and thought I should be sent likewise.
+
+'No, no,' said the squire; 'my life's short when the gout's marching up
+to my middle, and I'll see as much of my heir as I can.  Why, the lad's
+my daughter's son: He shall grow up among his tenantry.  We'll beat the
+country and start a man at last to drive his yard of learning into him
+without rolling sheep's eyes right and left.'
+
+Unfortunately the squire's description of man was not started.  My aunt
+was handsome, an heiress (that is, she had money of her own coming from
+her mother's side of the family), and the tenderest woman alive, with a
+voice sweeter than flutes.  There was a saying in the county that to
+marry a Beltham you must po'chay her.
+
+A great-aunt of mine, the squire's sister, had been carried off.  She
+died childless.  A favourite young cousin of his likewise had run away
+with a poor baronet, Sir Roderick Ilchester, whose son Charles was now
+and then our playmate, and was a scapegrace.  But for me he would have
+been selected by the squire for his heir, he said; and he often
+'confounded' me to my face on that account as he shook my hand, breaking
+out: 'I'd as lief fetch you a cuff o' the head, Harry Richmond, upon my
+honour!' and cursing at his luck for having to study for his living, and
+be what he called a sloppy curate now that I had come to Riversley for
+good.
+
+He informed me that I should have to marry his sister Janet; for that
+they could not allow the money to go out of the family.  Janet Ilchester
+was a quaint girl, a favourite of my aunt Dorothy, and the squire's
+especial pet; red-cheeked, with a good upright figure in walking and
+riding, and willing to be friendly, but we always quarrelled: she
+detested hearing of Kiomi.
+
+'Don't talk of creatures you met when you were a beggar, Harry Richmond,'
+she said.
+
+'I never was a beggar,' I replied.
+
+'Then she was a beggar,' said Janet; and I could not deny it; though the
+only difference I saw between Janet and Kiomi was, that Janet continually
+begged favours and gifts of people she knew, and Kiomi of people who were
+strangers.
+
+My allowance of pocket-money from the squire was fifty pounds a year.
+I might have spent it all in satisfying Janet's wishes for riding-whips,
+knives, pencil-cases, cairngorm buttons, and dogs.  A large part of the
+money went that way.  She was always getting notice of fine dogs for
+sale.  I bought a mastiff for her, a brown retriever, and a little
+terrier.  She was permitted to keep the terrier at home, but I had to
+take care of the mastiff and retriever.  When Janet came to look at them
+she called them by their names; of course they followed me in preference
+to her; she cried with jealousy.  We had a downright quarrel.  Lady
+Ilchester invited me to spend a day at her house, Charley being home for
+his Midsummer holidays.  Charley, Janet, and I fished the river for
+trout, and Janet, to flatter me (of which I was quite aware), while I
+dressed her rod as if she was likely to catch something, talked of
+Heriot, and then said:
+
+'Oh!  dear, we are good friends, aren't we?  Charley says we shall marry
+one another some day, but mama's such a proud woman she won't much like
+your having such a father as you 've got unless he 's dead by that time
+and I needn't go up to him to be kissed.'
+
+I stared at the girl in wonderment, but not too angrily, for I guessed
+that she was merely repeating her brother's candid speculations upon the
+future.  I said: 'Now mind what I tell you, Janet: I forgive you this
+once, for you are an ignorant little girl and know no better.  Speak
+respectfully of my father or you never see me again.'
+
+Here Charley sang out: 'Hulloa! you don't mean to say you're talking of
+your father.'
+
+Janet whimpered that I had called her an ignorant little girl.  If she
+had been silent I should have pardoned her.  The meanness of the girl in
+turning on me when the glaring offence was hers, struck me as
+contemptible beyond words.  Charley and I met half way.  He advised me
+not to talk to his sister of my father.  They all knew, he said, that it
+was no fault of mine, and for his part, had he a rascal for a father, he
+should pension him and cut him; to tell the truth, no objection against
+me existed in his family except on the score of the sort of father I
+owned to, and I had better make up my mind to shake him off before I grew
+a man; he spoke as a friend.  I might frown at him and clench my fists,
+but he did speak as a friend.
+
+Janet all the while was nibbling a biscuit, glancing over it at me with
+mouse-eyes.  Her short frock and her greediness, contrasting with the
+talk of my marrying her, filled me with renewed scorn, though my heart
+was sick at the mention of my father.  I asked her what she knew of him.
+She nibbled her biscuit, mumbling, 'He went to Riversley, pretending he
+was a singing-master.  I know that's true, and more.'
+
+'Oh, and a drawing-master, and a professor of legerdemain,' added her
+brother.  'Expunge him, old fellow; he's no good.'
+
+'No, I'm sure he's no good,' said Janet.
+
+I took her hand, and told her, 'You don't know how you hurt me; but
+you're a child: you don't know anything about the world.  I love my
+father, remember that, and what you want me to do is mean and
+disgraceful; but you don't know better.  I would forfeit everything in
+the world for him.  And when you're of age to marry, marry anybody you
+like--you won't marry me.  And good-bye, Janet.  Think of learning your
+lessons, and not of marrying.  I can't help laughing.' So I said, but
+without the laughter.  Her brother tried hard to get me to notice him.
+
+Janet betook herself to the squire.  Her prattle of our marriage in days
+to come was excuseable.  It was the squire's notion.  He used to remark
+generally that he liked to see things look safe and fast, and he had,
+as my aunt confided to me, arranged with Lady Ilchester, in the girl's
+hearing, that we should make a match.  My grandfather pledged his word to
+Janet that he would restore us to an amicable footing.  He thought it a
+light task.  Invitations were sent out to a large party at Riversley, and
+Janet came with all my gifts on her dress or in her pockets.  The squire
+led the company to the gates of his stables; the gates opened, and a
+beautiful pony, with a side-saddle on, was trotted forth, amid cries of
+admiration.  Then the squire put the bridle-reins in my hands, bidding me
+present it myself.  I asked the name of the person.  He pointed at Janet.
+I presented the pony to Janet, and said, 'It's from the squire.'
+
+She forgot, in her delight, our being at variance.
+
+'No, no, you stupid Harry, I'm to thank you.  He's a darling pony.  I
+want to kiss you.'
+
+I retired promptly, but the squire had heard her.
+
+'Back, sir!' he shouted, swearing by this and that.  'You slink from a
+kiss, and you're Beltham blood?
+
+Back to her, lad.  Take it.  Up with her in your arms or down on your
+knees.  Take it manfully, somehow.  See there, she 's got it ready for
+you.'
+
+'I've got a letter ready for you, Harry, to say--oh!  so sorry for
+offending you,' Janet whispered, when I reached the pony's head; 'and if
+you'd rather not be kissed before people, then by-and-by, but do shake
+hands.'
+
+'Pull the pony's mane,' said I; 'that will do as well.  Observe--I pull,
+and now you pull.'
+
+Janet mechanically followed my actions.  She grimaced, and whimpered,
+'I could pull the pony's mane right out.'
+
+'Don't treat animals like your dolls,' said I.
+
+She ran to the squire, and refused the pony.  The squire's face changed
+from merry to black.
+
+'Young man,' he addressed me, 'don't show that worse half of yours in
+genteel society, or, by the Lord!  you won't carry Beltham buttons for
+long.  This young lady, mind you, is a lady by birth both sides.'
+
+'She thinks she is marriageable,' said I; and walked away, leaving loud
+laughter behind me.
+
+But laughter did not console me for the public aspersion of him I loved.
+I walked off the grounds, and thought to myself it was quite time I
+should be moving.  Wherever I stayed for any length of time I was certain
+to hear abuse of my father.  Why not wander over the country with Kiomi,
+go to sea, mount the Andes, enlist in a Prussian regiment, and hear the
+soldiers tell tales of Frederick the Great?  I walked over Kiomi's heath
+till dark, when one of our grooms on horseback overtook me, saying that
+the squire begged me to jump on the horse and ride home as quick as
+possible.  Two other lads and the coachman were out scouring the country
+to find me, and the squire was anxious, it appeared.  I rode home like a
+wounded man made to feel proud by victory, but with no one to stop the
+bleeding of his wounds: and the more my pride rose, the more I suffered
+pain.  There at home sat my grandfather, dejected, telling me that the
+loss of me a second time would kill him, begging me to overlook his
+roughness, calling me his little Harry and his heir, his brave-spirited
+boy; yet I was too sure that a word of my father to him would have
+brought him very near another ejaculation concerning Beltham buttons.
+
+'You're a fiery young fellow, I suspect,' he said, when he had recovered
+his natural temper.  'I like you for it; pluck's Beltham.  Have a will of
+your own.  Sweat out the bad blood.  Here, drink my health, Harry.
+You're three parts Beltham, at least, and it'll go hard if you're not all
+Beltham before I die.  Old blood always wins that race, I swear.  We 're
+the oldest in the county.
+
+Damn the mixing.  My father never let any of his daughters marry, if he
+could help it, nor'll I, bar rascals.
+
+Here's to you, young Squire Beltham.  Harry Lepel Beltham--does that suit
+ye?  Anon, anon, as they say in the play.  Take my name, and drop the
+Richmond no, drop the subject: we'll talk of it by-and-by.'
+
+So he wrestled to express his hatred of my father without offending me;
+and I studied him coldly, thinking that the sight of my father in
+beggar's clothes, raising a hand for me to follow his steps, would draw
+me forth, though Riversley should beseech me to remain clad in wealth.
+
+
+
+
+CHAPTER IX
+
+AN EVENING WITH CAPTAIN BULSTED
+
+A dream that my father lay like a wax figure in a bed gave me thoughts of
+dying.  I was ill and did not know it, and imagined that my despair at
+the foot of the stairs of ever reaching my room to lie down peacefully
+was the sign of death.  My aunt Dorothy nursed me for a week: none but
+she and my dogs entered the room.  I had only two faint wishes left in
+me: one that the squire should be kept out of my sight, the other that
+she would speak to me of my mother's love for my father.  She happened to
+say, musing, 'Harry, you have your mother's heart.'
+
+I said, 'No, my father's.'
+
+From that we opened a conversation, the sweetest I had ever had away from
+him, though she spoke shyly and told me very little.  It was enough for
+me in the narrow world of my dogs' faces, and the red-leaved creeper at
+the window, the fir-trees on the distant heath, and her hand clasping
+mine.  My father had many faults, she said, but he had been cruelly used,
+or deceived, and he bore a grievous burden; and then she said, 'Yes,' and
+'Yes,' and 'Yes,' in the voice one supposes of a ghost retiring, to my
+questions of his merits.  I was refreshed and satisfied, like the parched
+earth with dews when it gets no rain, and I was soon well.
+
+When I walked among the household again, I found that my week of
+seclusion had endowed me with a singular gift; I found that I could see
+through everybody.  Looking at the squire, I thought to myself, 'My
+father has faults, but he has been cruelly used,' and immediately I
+forgave the old man; his antipathy to my father seemed a craze, and to
+account for it I lay in wait for his numerous illogical acts and words,
+and smiled visibly in contemplation of his rough unreasonable nature, and
+of my magnanimity.  He caught the smile, and interpreted it.
+
+'Grinning at me, Harry; have I made a slip in my grammar, eh?'
+
+Who could feel any further sensitiveness at his fits of irritation,
+reading him as I did?  I saw through my aunt: she was always in dread of
+a renewal of our conversation.  I could see her ideas flutter like birds
+to escape me.  And I penetrated the others who came in my way just as
+unerringly.  Farmer Eckerthy would acknowledge, astonished, his mind was
+running on cricket when I taxed him with it.
+
+'Crops was the cart-load of my thoughts, Master Harry, but there was a
+bit o' cricket in it, too, ne'er a doubt.'
+
+My aunt's maid, Davis, was shocked by my discernment of the fact that she
+was in love, and it was useless for her to pretend the contrary, for I
+had seen her granting tender liberties to Lady Ilchester's footman.
+
+Old Sewis said gravely, 'You've been to the witches, Master Harry'; and
+others were sure 'I had got it from the gipsies off the common.'
+
+The maids were partly incredulous, but I perceived that they disbelieved
+as readily as they believed.  With my latest tutor, the Rev. Simon Hart,
+I was not sufficiently familiar to offer him proofs of my extraordinary
+power; so I begged favours of him, and laid hot-house flowers on his
+table in the name of my aunt, and had the gratification of seeing him
+blush.  His approval of my Latin exercise was verbal, and weak praise in
+comparison; besides I cared nothing for praises not referring to my grand
+natural accomplishment.  'And my father now is thinking of me!'  That was
+easy to imagine, but the certainty of it confirmed me in my conceit.
+
+'How can you tell?--how is it possible for you to know people's
+thoughts?' said Janet Ilchester, whose head was as open to me as a hat.
+She pretended to be rather more frightened of me than she was.
+
+'And now you think you are flattering me!' I said.
+
+She looked nervous.
+
+'And now you're asking yourself what you can do better than I can!'
+
+She said, 'Go on.'
+
+I stopped.
+
+She charged me with being pulled up short.
+
+I denied it.
+
+'Guess, guess!' said she.  'You can't.'
+
+My reply petrified her.  'You were thinking that you are a lady by birth
+on both sides.'
+
+At first she refused to admit it.  'No, it wasn't that, Harry, it wasn't
+really.  I was thinking how clever you are.'
+
+'Yes, after, not before.'
+
+'No, Harry, but you are clever.  I wish I was half as clever.  Fancy
+reading people's ideas!  I can read my pony's, but that's different;
+I know by his ears.  And as for my being a lady, of course I am, and so
+are you--I mean, a gentleman.  I was thinking--now this is really what I
+was thinking--I wished your father lived near, that we might all be
+friends.  I can't bear the squire when he talks .  .  .  .  And you quite
+as good as me, and better.  Don't shake me off, Harry.'
+
+I shook her in the gentlest manner, not suspecting that she had read my
+feelings fully as well as I her thoughts.  Janet and I fell to talking of
+my father incessantly, and were constantly together.  The squire caught
+one of my smiles rising, when he applauded himself lustily for the
+original idea of matching us; but the idea was no longer distasteful to
+me.  It appeared to me that if I must some day be married, a wife who
+would enjoy my narratives, and travel over the four quarters of the
+globe, as Janet promised to do, in search of him I loved, would be the
+preferable person.  I swore her to secresy; she was not to tell her
+brother Charley the subject we conversed on.
+
+'Oh dear, no!' said she, and told him straightway.
+
+Charley, home for his winter holidays, blurted out at the squire's table:
+'So, Harry Richmond, you're the cleverest fellow in the world, are you?
+There's Janet telling everybody your father's the cleverest next to you,
+and she's never seen him!'
+
+'How?  hulloa, what 's that?' sang out the squire.
+
+'Charley was speaking of my father, sir,' I said, preparing for thunder.
+
+We all rose.  The squire looked as though an apoplectic seizure were
+coming on.
+
+'Don't sit at my table again,' he said, after a terrible struggle to be
+articulate.
+
+His hand was stretched at me.  I swung round to depart.  'No, no, not
+you; that fellow,' he called, getting his arm level toward Charley.
+
+I tried to intercede--the last who should have done it.
+
+'You like to hear him, eh?' said the squire.
+
+I was ready to say that I did, but my aunt, whose courage was up when
+occasion summoned it, hushed the scene by passing the decanter to the
+squire, and speaking to him in a low voice.
+
+'Biter's bit.  I've dished myself, that's clear,' said Charley; and he
+spoke the truth, and such was his frankness that I forgave him.
+
+He and Janet were staying at Riversley.  They left next morning, for the
+squire would not speak to him, nor I to Janet.
+
+'I 'll tell you what; there 's no doubt about one thing,' said Charley;
+'Janet's right--some of those girls are tremendously deep: you're about
+the cleverest fellow I've ever met in my life.  I thought of working into
+the squire in a sort of collateral manner, you know.  A cornetcy in the
+Dragoon Guards in a year or two.  I thought the squire might do that for
+me without much damaging you;--perhaps a couple of hundred a year, just
+to reconcile me to a nose out of joint.  For, upon my honour, the squire
+spoke of making me his heir--or words to that effect neatly conjugated--
+before you came back; and rather than be a curate like that Reverend Hart
+of yours, who hands raisins and almonds, and orange-flower biscuits to
+your aunt the way of all the Reverends who drop down on Riversley--I 'd
+betray my bosom friend.  I'm regularly "hoist on my own petard," as they
+say in the newspapers.  I'm a curate and no mistake.  You did it with a
+turn of the wrist, without striking out: and I like neat boxing.  I bear
+no malice when I'm floored neatly.'
+
+Five minutes after he had spoken it would have been impossible for me to
+tell him that my simplicity and not my cleverness had caused his
+overthrow.  From this I learnt that simplicity is the keenest weapon and
+a beautiful refinement of cleverness; and I affected it extremely.  I
+pushed it so far that I could make the squire dance in his seat with
+suppressed fury and jealousy at my way of talking of Venice, and other
+Continental cities, which he knew I must have visited in my father's
+society; and though he raged at me and pshawed the Continent to the
+deuce, he was ready, out of sheer rivalry, to grant anything I pleased to
+covet.  At every stage of my growth one or another of my passions was
+alert to twist me awry, and now I was getting a false self about me and
+becoming liker to the creature people supposed me to be, despising them
+for blockheads in my heart, as boys may who preserve a last trace of the
+ingenuousness denied to seasoned men.
+
+Happily my aunt wrote to Mr. Rippenger for the address of little Gus
+Temple's father, to invite my schoolfellow to stay a month at Riversley.
+Temple came, everybody liked him; as for me my delight was unbounded, and
+in spite of a feeling of superiority due to my penetrative capacity, and
+the suspicion it originated, that Temple might be acting the plain well-
+bred schoolboy he was, I soon preferred his pattern to my own.  He
+confessed he had found me changed at first.  His father, it appeared,
+was working him as hard at Latin as Mr. Hart worked me, and he sat down
+beside me under my tutor and stumbled at Tacitus after his fluent Cicero.
+I offered excuses for him to Mr. Hart, saying he would soon prove himself
+the better scholar.  'There's my old Richie!' said Temple, fondling me on
+the shoulder, and my nonsensical airs fell away from me at once.
+
+We roamed the neighbourhood talking old school-days over, visiting
+houses, hunting and dancing, declaring every day we would write for
+Heriot to join us, instead of which we wrote a valentine to Julia
+Rippenger, and despatched a companion one composed in a very different
+spirit to her father.  Lady Ilchester did us the favour to draw a sea-
+monster, an Andromeda, and a Perseus in the shape of a flying British
+hussar, for Julia's valentine.  It seemed to us so successful that we
+scattered half-a-dozen over the neighbourhood, and rode round it on the
+morning of St.  Valentine's Day to see the effect of them, meeting the
+postman on the road.  He gave me two for myself.  One was transparently
+from Janet, a provoking counterstroke of mine to her; but when I opened
+the other my heart began beating.  The standard of Great Britain was
+painted in colours at the top; down each side, encricled in laurels, were
+kings and queens of England with their sceptres, and in the middle I read
+the initials, A. F-G.  R. R., embedded in blue forget-me-hots.  I could
+not doubt it was from my father.  Riding out in the open air as I
+received it, I could fancy in my hot joy that it had dropped out of
+heaven.
+
+'He's alive; I shall have him with me; I shall have him with me soon!'
+I cried to Temple.  'Oh!  why can't I answer him?  where is he?  what
+address?  Let's ride to London.  Don't you understand, Temple?  This
+letter's from my father.  He knows I'm here.  I'll find him, never mind
+what happens.'
+
+'Yes, but,' said Temple, 'if he knows where you are, and you don't know
+where he is, there's no good in your going off adventuring.  If a fellow
+wants to be hit, the best thing he can do is to stop still.'
+
+Struck by the perspicacity of his views, I turned homeward.  Temple had
+been previously warned by me to avoid speaking of my father at Riversley;
+but I was now in such a boiling state of happiness, believing that my
+father would certainly appear as he had done at Dipwell farm, brilliant
+and cheerful, to bear me away to new scenes and his own dear society,
+that I tossed the valentine to my aunt across the breakfast-table,
+laughing and telling her to guess the name of the sender.  My aunt
+flushed.
+
+'Miss Bannerbridge?' she said.
+
+A stranger was present.  The squire introduced us.
+
+'My grandson, Harry Richmond, Captain William Bulsted, frigate
+Polyphemus; Captain Bulsted, Master Augustus Temple.'
+
+For the sake of conversation, Temple asked him if his ship was fully
+manned.
+
+'All but a mate,' said the captain.
+
+I knew him by reputation as the brother of Squire Gregory Bulsted of
+Bulsted, notorious for his attachment to my aunt, and laughing-stock of
+the county.
+
+'So you've got a valentine,' the captain addressed me.  'I went on shore
+at Rio last year on this very day of the month, just as lively as you
+youngsters for one.  Saltwater keeps a man's youth in pickle.  No
+valentine for me!  Paid off my ship yesterday at Spithead, and here I am
+again on Valentine's Day.'
+
+Temple and I stared hard at a big man with a bronzed skin and a rubicund
+laugh who expected to receive valentines.
+
+My aunt thrust the letter back to me secretly.  'It must be from a lady,'
+said she.
+
+'Why, who'd have a valentine from any but a lady?' exclaimed the captain.
+
+The squire winked at me to watch his guest.  Captain Bulsted fed
+heartily; he was thoroughly a sailor-gentleman, between the old school
+and the new, and, as I perceived, as far gone in love with my aunt as his
+brother was.  Presently Sewis entered carrying a foaming tankard of old
+ale, and he and the captain exchanged a word or two upon Jamaica.
+
+'Now, when you've finished that washy tea of yours, take a draught of our
+October, brewed here long before you were a lieutenant, captain,' said
+the squire.
+
+'Thank you, sir,' the captain replied; 'I know that ale; a moment, and I
+will gladly.  I wish to preserve my faculties; I don't wish to have it
+supposed that I speak under fermenting influences.  Sewis, hold by, if
+you please.'
+
+My aunt made an effort to retire.
+
+'No, no, fair play; stay,' said the squire, trying to frown, but
+twinkling; my aunt tried to smile, and sat as if on springs.
+
+'Miss Beltham,' the captain bowed to her, and to each one as he spoke,
+'Squire Beltham, Mr. Harry Richmond; Mr. Temple; my ship was paid off
+yesterday, and till a captain's ship is paid off, he 's not his own
+master, you are aware.  If you think my behaviour calls for comment,
+reflect, I beseech you, on the nature of a sailor's life.  A three-years'
+cruise in a cabin is pretty much equivalent to the same amount of time
+spent in a coffin, I can assure you; with the difference that you're hard
+at work thinking all the time like the--hum.'
+
+'Ay, he thinks hard enough,' the squire struck in.
+
+'Pardon me, sir; like the--hum--plumb-line on a leeshore, I meant to
+observe.  This is now the third--the fourth occasion on which I have
+practised the observance of paying my first visit to Riversley to know my
+fate, that I might not have it on my conscience that I had missed a day,
+a minute, as soon as I was a free man on English terra firma.  My brother
+Greg and I were brought up in close association with Riversley.  One of
+the Beauties of Riversley we lost!  One was left, and we both tried our
+luck with her; honourably, in turn, each of us, nothing underhand; above-
+board, on the quarter-deck, before all the company.  I 'll say it of my
+brother, I can say it of myself.  Greg's chances, I need not remark, are
+superior to mine; he is always in port.  If he wins, then I tell him--"
+God bless you, my boy; you've won the finest woman, the handsomest, and
+the best, in or out of Christendom!"  But my chance is my property,
+though it may be value only one farthing coin of the realm, and there is
+always pity for poor sinners in the female bosom.  Miss Beltham, I
+trespass on your kind attention.  If I am to remain a bachelor and you a
+maiden lady, why, the will of heaven be done!  If you marry another,
+never mind who the man, there's my stock to the fruit of the union, never
+mind what the sex.  But, if you will have one so unworthy of you as me,
+my hand and heart are at your feet, ma'am, as I have lost no time in
+coming to tell you.' So Captain Bulsted concluded.  Our eyes were
+directed on my aunt.  The squire bade her to speak out, for she had his
+sanction to act according to her judgement and liking.
+
+She said, with a gracefulness that gave me a little aching of pity for
+the poor captain: 'I am deeply honoured by you, Captain Bulsted, but it
+is not my intention to marry.'
+
+The captain stood up, and bowing humbly, replied 'I am ever your servant,
+ma'am.'
+
+My aunt quitted the room.
+
+'Now for the tankard, Sewis,' said the captain.
+
+Gradually the bottom of the great tankard turned up to the ceiling.  He
+drank to the last drop in it.
+
+The squire asked him whether he found consolation in that.
+
+The captain sighed prodigiously and said: 'It 's a commencement, sir.'
+
+'Egad, it's a commencement 'd be something like a final end to any dozen
+of our fellows round about here.  I'll tell you what: if stout stomachs
+gained the day in love-affairs, I suspect you'd run a good race against
+the male half of our county, William.  And a damned good test of a man's
+metal, I say it is!  What are you going to do to-day?'
+
+'I am going to get drunk, sir.'
+
+'Well, you might do worse.  Then, stop here, William, and give my old
+Port the preference.  No tongue in the morning, I promise you, and
+pleasant dreams at night.' The captain thanked him cordially, but
+declined, saying that he would rather make a beast of himself in another
+place.
+
+The squire vainly pressed his hospitality by assuring him of perfect
+secresy on our part, as regarded my aunt, and offering him Sewis and one
+of the footmen to lift him to bed.  'You are very good, squire,' said the
+captain; 'nothing but a sense of duty restrains me.  I am bound to convey
+the information to my brother that the coast is clear for him.'
+
+'Well, then, fall light, and for'ard,' said the squire, shaking him by
+the hand.  Forty years ago a gentleman, a baronet, had fallen on the back
+of his head and never recovered.
+
+'Ay, ay, launch stern foremost, if you like!' said the captain, nodding;
+'no, no, I don't go into port pulled by the tail, my word for it, squire;
+and good day to you, sir.'
+
+'No ill will about this bothering love-business of yours, William?'
+
+'On my soul, sir, I cherish none.'
+
+Temple and I followed him out of the house, fascinated by his manners and
+oddness.  He invited us to jump into the chariot beside him.  We were
+witnesses of the meeting between him and his brother, a little sniffling
+man, as like the captain as a withered nut is like a milky one.
+
+'Same luck, William?' said Squire Gregory.
+
+'Not a point of change in the wind, Greg,' said the captain.
+
+They wrenched hands thereupon, like two carpet-shakers, with a report,
+and much in a similar attitude.
+
+'These young gentlemen will testify to you solemnly, Greg, that I took no
+unfair advantage,' said the captain; 'no whispering in passages, no
+appointments in gardens, no letters.  I spoke out.  Bravely, man!  And
+now, Greg, referring to the state of your cellar, our young friends here
+mean to float with us to-night.  It is now half-past eleven A.M. Your
+dinner-hour the same as usual, of course?  Therefore at four P.M. the
+hour of execution.  And come, Greg, you and I will visit the cellar.  A
+dozen and half of light and half-a-dozen of the old family--that will be
+about the number of bottles to give me my quietus, and you yours--all of
+us!  And you, young gentlemen, take your guns or your rods, and back and
+be dressed by the four bell, or you 'll not find the same man in Billy
+Bulsted.'
+
+Temple was enraptured with him.  He declared he had been thinking
+seriously for a long time of entering the Navy, and his admiration of
+the captain must have given him an intuition of his character, for he
+persuaded me to send to Riversley for our evening-dress clothes,
+appearing in which at the dinner-table, we received the captain's
+compliments, as being gentlemen who knew how to attire ourselves to suit
+an occasion.  The occasion, Squire Gregory said, happened to him too
+often for him to distinguish it by the cut of his coat.
+
+'I observe, nevertheless, Greg, that you have a black tie round your neck
+instead of a red one,' said the captain.
+
+'Then it came there by accident,' said Squire Gregory.
+
+'Accident!  There's no such thing as accident.  If I wander out of the
+house with a half dozen or so in me, and topple into the brook, am I
+accidentally drowned?  If a squall upsets my ship, is she an accidental
+residue of spars and timber and old iron?  If a woman refuses me, is that
+an accident?  There's a cause for every disaster: too much cargo, want of
+foresight, want of pluck.  Pooh!  when I'm hauled prisoner into a foreign
+port in time of war, you may talk of accidents.  Mr. Harry Richmond, Mr.
+Temple, I have the accidental happiness of drinking to your healths in a
+tumbler of hock wine.  Nominative, hic, haec, hoc.'
+
+Squire Gregory carried on the declension, not without pride.  The
+Vocative confused him.
+
+'Claret will do for the Vocative,' said the captain, gravely; 'the more
+so as there is plenty of it at your table, Greg.  Ablative hoc, hac, hoc,
+which sounds as if the gentleman had become incapable of speech beyond
+the name of his wine.  So we will abandon the declension of the article
+for a dash of champagne, which there's no declining, I hope.  Wonderful
+men, those Romans!  They fought their ships well, too.  A question to
+you, Greg.  Those heathen Pagan dogs had a religion that encouraged them
+to swear.  Now, my experience of life pronounces it to be a human
+necessity to rap out an oath here and there.  What do you say?'
+
+Squire Gregory said: 'Drinking, and no thinking, at dinner, William.' The
+captain pledged him.
+
+'I 'll take the opportunity, as we're not on board ship, of drinking to
+you, sir, now,' Temple addressed the captain, whose face was resplendent;
+and he bowed, and drank, and said,
+
+'As we are not on board ship?  I like you!'
+
+Temple thanked him for the compliment.
+
+'No compliment, my lad.  You see me in my weakness, and you have the
+discernment to know me for something better than I seem.  You promise to
+respect me on my own quarter-deck.  You are of the right stuff.  Do I
+speak correctly, Mr. Harry?'
+
+'Temple is my dear friend,' I replied.
+
+'And he would not be so if not of the right stuff!  Good!  That 's a way
+of putting much in little.  By Jove!  a royal style.'
+
+'And Harry's a royal fellow!' said Temple.
+
+We all drank to one another.  The captain's eyes scrutinized me
+speculatingly.
+
+'This boy might have been yours or mine, Greg,' I heard him say in a
+faltering rough tone.
+
+They forgot the presence of Temple and me, but spoke as if they thought
+they were whispering.  The captain assured his brother that Squire
+Beltham had given him as much fair play as one who holds a balance.
+Squire Gregory doubted it, and sipped and kept his nose at his wineglass,
+crabbedly repeating his doubts of it.  The captain then remarked, that
+doubting it, his conscience permitted him to use stratagems, though he,
+the captain, not doubting it, had no such permission.
+
+'I count I run away with her every night of my life,' said Squire
+Gregory.  'Nothing comes of it but empty bottles.'
+
+'Court her, serenade her,' said the captain; 'blockade the port, lay
+siege to the citadel.  I'd give a year of service for your chances, Greg.
+Half a word from her, and you have your horses ready.'
+
+'She's past po'chaises,' Squire Gregory sighed.
+
+'She's to be won by a bold stroke, brother Greg.'
+
+'Oh, Lord, no!  She's past po'chaises.'
+
+'Humph!  it's come to be half-bottle, half-beauty, with your worship,
+Greg, I suspect.'
+
+'No.  I tell you, William, she's got her mind on that fellow.  You can't
+po'chay her.'
+
+'After he jilted her for her sister?  Wrong, Greg, wrong.  You are
+muddled.  She has a fright about matrimony--a common thing at her age,
+I am told.  Where's the man?'
+
+'In the Bench, of course.  Where'd you have him?'
+
+'I, sir?  If I knew my worst enemy to be there, I'd send him six dozen of
+the best in my cellar.'
+
+Temple shot a walnut at me.  I pretended to be meditating carelessly, and
+I had the heat and roar of a conflagration round my head.
+
+Presently the captain said, 'Are you sure the man's in the Bench?'
+
+'Cock,' Squire Gregory replied.
+
+'He had money from his wife.'
+
+'And he had the wheels to make it go.' Here they whispered in earnest.
+
+'Oh, the Billings were as rich as the Belthams,' said the captain, aloud.
+
+'Pretty nigh, William.'
+
+'That's our curse, Greg.  Money settled on their male issue, and money in
+hand; by the Lord!  we've always had the look of a pair of highwaymen
+lurking for purses, when it was the woman, the woman, penniless, naked,
+mean, destitute; nothing but the woman we wanted.  And there was one
+apiece for us.  Greg, old boy, when will the old county show such another
+couple of Beauties!  Greg, sir, you're not half a man, or you'd have
+carried her, with your, opportunities.  The fellow's in the Bench, you
+say?  How are you cocksure of that, Mr. Greg?'
+
+'Company,' was the answer; and the captain turned to Temple and me,
+apologizing profusely for talking over family matters with his brother
+after a separation of three years.  I had guessed but hastily at the
+subject of their conversation until they mentioned the Billings, the
+family of my maternal grandmother.  The name was like a tongue of fire
+shooting up in a cloud of smoke: I saw at once that the man in the Bench
+must be my father, though what the Bench was exactly, and where it was,
+I had no idea, and as I was left to imagination I became, as usual,
+childish in my notions, and brooded upon thoughts of the Man in the Iron
+Mask; things I dared not breathe to Temple, of whose manly sense I stood
+in awe when under these distracting influences.
+
+'Remember our feast in the combe?' I sang across the table to him.
+
+'Never forget it!' said he; and we repeated the tale of the goose at
+Rippenger's school to our entertainers, making them laugh.
+
+'And next morning Richie ran off with a gipsy girl,' said Temple; and I
+composed a narrative of my wanderings with Kiomi, much more amusing than
+the real one.  The captain vowed he would like to have us both on board
+his ship, but that times were too bad for him to offer us a prospect of
+promotion.  'Spin round the decanters,' said he; 'now's the hour for them
+to go like a humming-top, and each man lend a hand: whip hard, my lads.
+It's once in three years, hurrah!  and the cause is a cruel woman.  Toast
+her; but no name.  Here's to the nameless Fair!  For it's not my
+intention to marry, says she, and, ma'am, I'm a man of honour or I'd
+catch you tight, my nut-brown maid, and clap you into a cage, fal-lal,
+like a squirrel; to trot the wheel of mat-trimony.  Shame to the first
+man down!'
+
+'That won't be I,' said Temple.
+
+'Be me, sir, me,' the captain corrected his grammar.
+
+'Pardon me, Captain Bulsted; the verb "To be" governs the nominative case
+in our climate,' said Temple.
+
+'Then I'm nominative hic .  .  .  I say, sir, I'm in the tropics, Mr. Tem
+.  .  .  Mr. Tempus.  Point of honour, not forget a man's name.
+Rippenger, your schoolmaster?  Mr. Rippenger, you've knocked some
+knowledge into this young gentleman.'  Temple and I took counsel together
+hastily; we cried in a breath: ' Here 's to Julia Rippenger, the
+prettiest, nicest girl living!' and we drank to her.
+
+'Julia!' the captain echoed us.  'I join your toast, gentlemen.  Mr.
+Richmond, Mr. Tempus-Julia!  By all that's holy, she floats a sinking
+ship!  Julia consoles me for the fairest, cruellest woman alive.
+A  rough sailor, Julia!  at your feet.'
+
+The captain fell commendably forward.  Squire Gregory had already
+dropped.  Temple and I tried to meet, but did not accomplish it till next
+morning at breakfast.  A couple of footmen carried us each upstairs in
+turn, as if they were removing furniture.
+
+Out of this strange evening came my discovery of my father, and the
+captain's winning of a wife.
+
+
+
+
+CHAPTER X
+
+AN EXPEDITION
+
+I wondered audibly where the Bench was when Temple and I sat together
+alone at Squire Gregory's breakfast-table next morning, very thirsty for
+tea.  He said it was a place in London, but did not add the sort of
+place, only that I should soon be coming to London with him; and I
+remarked, 'Shall I?' and smiled at him, as if in a fit of careless
+affection.  Then he talked runningly of the theatres and pantomimes and
+London's charms.
+
+The fear I had of this Bench made me passingly conscious of Temple's
+delicacy in not repeating its name, though why I feared it there was
+nothing to tell me.  I must have dreamed of it just before waking,
+and I burned for reasonable information concerning it.  Temple respected
+my father too much to speak out the extent of his knowledge on the
+subject, so we drank our tea with the grandeur of London for our theme,
+where, Temple assured me, you never had a headache after a carouse
+overnight: a communication that led me to think the country a far less
+favourable place of abode for gentlemen.  We quitted the house without
+seeing our host or the captain, and greatly admired by the footmen, the
+maids, and the grooms for having drunk their masters under the table,
+which it could not be doubted that we had done, as Temple modestly
+observed while we sauntered off the grounds under the eyes of the
+establishment.  We had done it fairly, too, with none of those Jack the
+Giant-Killer tricks my grandfather accused us of.
+
+The squire would not, and he could not, believe our story until he heard
+the confession from the mouth of the captain.  After that he said we were
+men and heroes, and he tipped us both, much to Janet Ilchester's
+advantage, for the squire was a royal giver, and Temple's money had
+already begun to take the same road as mine.
+
+Temple, in fact, was falling desperately in love; for this reason he
+shrank from quitting Riversley.  I perceived it as clearly as a thing
+seen through a windowpane.  He was always meditating upon dogs, and what
+might be the price of this dog or that, and whether lapdogs were good
+travellers.  The fashionable value of pugs filled him with a sort of
+despair.  'My goodness!' he used an exclamation more suitable to women,
+'forty or fifty pounds you say one costs, Richie?'
+
+I pretended to estimate the probable cost of one.  'Yes, about that; but
+I'll buy you one, one day or other, Temple.'
+
+The dear little fellow  hot; he was too much in earnest to laugh
+at the absurdity of his being supposed to want a pug for himself, and
+walked round me, throwing himself into attitudes with shrugs and loud
+breathings.  'I don't .  .  .  don't think that I .  .  .  I care for
+nothing but Newfoundlands and mastiffs,' said he.  He went on shrugging
+and kicking up his heels.
+
+'Girls like pugs,' I remarked.
+
+'I fancy they do,' said Temple, with a snort of indifference.
+
+Then I suggested, 'A pocket-knife for the hunting-field is a very good
+thing.'
+
+'Do you think so?' was Temple's rejoinder, and I saw he was dreadfully
+afraid of my speaking the person's name for whom it would be such a very
+good thing.
+
+'You can get one for thirty shillings.  We'll get one when we're in
+London.  They're just as useful for women as they are for us, you know.'
+
+'Why, of course they are, if they hunt,' said Temple.
+
+'And we mustn't lose time,' I drew him to the point I had at heart, 'for
+hunting 'll soon be over.  It 's February, mind!'
+
+'Oh, lots of time!' Temple cried out, and on every occasion when I tried
+to make him understand that I was bursting to visit London, he kept
+evading me, simply because he hated saying good-bye to Janet Ilchester.
+His dulness of apprehension in not perceiving that I could not commit a
+breach of hospitality by begging him downright to start, struck me as
+extraordinary.  And I was so acute.  I saw every single idea in his head,
+every shift of, his mind, and how he half knew that he profited by my
+shunning to say flatly I desired to set out upon the discovery of the
+Bench.  He took the benefit of my shamefacedness, for which I daily
+punished his.  I really felt that I was justified in giving my
+irritability an airing by curious allusions to Janet; yet, though I made
+him wince, it was impossible to touch his conscience.  He admitted to
+having repeatedly spoken of London's charms, and 'Oh, yes!  you and I'll
+go back together, Richie,' and saying that satisfied him: he doubled our
+engagements with Janet that afternoon, and it was a riding party, a
+dancing-party, and a drawing of a pond for carp, and we over to Janet,
+and Janet over to us, until I grew so sick of her I was incapable of
+summoning a spark of jealousy in order the better to torture Temple.
+
+Now, he was a quick-witted boy.  Well, I one day heard Janet address my
+big dog, Ajax, in the style she usually employed to inform her hearers,
+and especially the proprietor, that she coveted a thing: 'Oh, you own
+dear precious pet darling beauty!  if I might only feed you every day of
+my life I should be happy!  I curtsey to him every time I see him.  If I
+were his master, the men should all off hats, and the women all curtsey,
+to Emperor Ajax, my dog! my own! my great, dear irresistible love!, Then
+she nodded at me, 'I would make them, though.' And then at Temple, 'You
+see if I wouldn't.'
+
+Ajax was a source of pride to me.  However, I heard Temple murmur, in a
+tone totally unlike himself, 'He would be a great protection to you'; and
+I said to him, 'You know, Temple, I shall be going to London to-morrow or
+the next day, not later: I don't know when I shall be back.  I wish you
+would dispose of the dog just as you like: get him a kind master or
+mistress, that's all.'
+
+I sacrificed my dog to bring Temple to his senses.  I thought it would
+touch him to see how much I could sacrifice just to get an excuse for
+begging him to start.  He did not even thank me.  Ajax soon wore one of
+Janet's collars, like two or three other of the Riversley dogs, and I had
+the satisfaction of hearing Temple accept my grandfather's invitation for
+a further fortnight.  And, meanwhile, I was the one who was charged with
+going about looking lovelorn!  I smothered my feelings and my reflections
+on the wisdom of people.
+
+At last my aunt Dorothy found the means of setting me at liberty on the
+road to London.  We had related to her how Captain Bulsted toasted Julia
+Rippenger, and we had both declared in joke that we were sure the captain
+wished to be introduced to her.  My aunt reserved her ideas on the
+subject, but by-and-by she proposed to us to ride over to Julia, and
+engage her to come and stay at Riversley for some days.  Kissing me, my
+aunt said, 'She was my Harry's friend when he was an outcast.'
+
+The words revived my affection for Julia.  Strong in the sacred sense of
+gratitude, I turned on Temple, reproaching him with selfish forgetfulness
+of her good heart and pretty face.  Without defending himself, as he
+might have done, he entreated me to postpone our journey for a day; he
+and Janet had some appointment.  Here was given me a noble cause and
+matter I need not shrink from speaking of.  I lashed Temple in my aunt's
+presence with a rod of real eloquence that astonished her, and him, and
+myself too; and as he had a sense of guilt not quite explicable in his
+mind, he consented to bear what was in reality my burden; for Julia had
+distinguished me and not him with all the signs of affection, and of the
+two I had the more thoroughly forgotten her; I believe Temple was first
+in toasting her at Squire Gregory's table.  There is nothing like a pent-
+up secret of the heart for accumulating powers of speech; I mean in
+youth.  The mental distilling process sets in later, and then you have
+irony instead of eloquence.  From brooding on my father, and not daring
+to mention his name lest I should hear evil of it, my thoughts were a
+proud family, proud of their origin, proud of their isolation,--and not
+to be able to divine them was for the world to confess itself basely
+beneath their level.  But, when they did pour out, they were tremendous,
+as Temple found.  This oratorical display of mine gave me an ascendancy
+over him.  He adored eloquence, not to say grandiloquence: he was the son
+of a barrister.  'Let 's go and see her at once, Richie,' he said of
+Julia.  'I 'm ready to be off as soon as you like; I'm ready to do
+anything that will please you'; which was untrue, but it was useless to
+tell him so.  I sighed at my sad gift of penetration, and tossed the
+fresh example of it into the treasury of vanity.
+
+'Temple,' said I, dissembling a little; 'I tell you candidly: you won't
+please me by doing anything disagreeable to you.  A dog pulled by the
+collar is not much of a companion.  I start for Julia to-morrow before
+daylight.  If you like your bed best, stop there; and mind you amuse
+Janet for me duing my absence.'
+
+'I'm not going to let any one make comparisons between us,' Temple
+muttered.
+
+He dropped dozens of similar remarks, and sometimes talked downright
+flattery, I had so deeply impressed him.
+
+We breakfasted by candle-light, and rode away on a frosty foggy morning,
+keeping our groom fifty yards to the rear, a laughable sight, with both
+his coat-pockets bulging, a couple of Riversley turnover pasties in one,
+and a bottle of champagne in the other, for our lunch on the road.  Now
+and then, when near him, we galloped for the fun of seeing him nurse the
+bottle-pocket.  He was generally invisible.  Temple did not think it
+strange that we should be riding out in an unknown world with only a
+little ring, half a stone's-throw clear around us, and blots of copse,
+and queer vanishing cottages, and hard grey meadows, fir-trees
+wonderfully magnified, and larches and birches rigged like fairy ships,
+all starting up to us as we passed, and melting instantly.  One could
+have fancied the fir-trees black torches.  And here the shoulder of a
+hill invited us to race up to the ridge: some way on we came to
+crossroads, careless of our luck in hitting the right one: yonder hung a
+village church in the air, and church-steeple piercing ever so high; and
+out of the heart of the mist leaped a brook, and to hear it at one
+moment, and then to have the sharp freezing silence in one's ear, was
+piercingly weird.  It all tossed the mind in my head like hay on a
+pitchfork.  I forgot the existence of everything but what I loved
+passionately,--and that had no shape, was like a wind.
+
+Up on a knoll of firs in the middle of a heath, glowing rosy in the
+frost, we dismounted to lunch, leaning against the warm saddles, Temple
+and I, and Uberly, our groom, who reminded me of a certain tramp of my
+acquaintance in his decided preference of beer to champagne; he drank,
+though, and sparkled after his draught.  No sooner were we on horseback
+again--ere the flanks of the dear friendly brutes were in any way cool--
+than Temple shouted enthusiastically, 'Richie, we shall do it yet!  I've
+been funking, but now I'm sure we shall do it.  Janet said, "What's the
+use of my coming over to dine at Riversley if Harry Richmond and you
+don't come home before ten or eleven o'clock?"  I told her we'd do it by
+dinner-time: Don't you like Janet, Richie?--That is, if our horses' hic-
+haec-hocks didn't get strained on this hard nominative-plural-masculine
+of the article road.  Don't you fancy yourself dining with the captain,
+Richie?  Dative huic, says old Squire Gregory.  I like to see him at
+dinner, because he loves the smell of his wine.  Oh!  it's nothing to
+boast of, but we did drink them under the table, it can't be denied.
+Janet heard of it.  Hulloa! you talk of a hunting-knife.  What do you say
+to a pair of skates?  Here we are in for a frost of six weeks.  It
+strikes me, a pair of skates .  .  .'
+
+This was the champagne in Temple.  In me it did not bubble to speech, and
+I soon drew him on at a pace that rendered conversation impossible.
+Uberly shouted after us to spare the horses' legs.  We heard him twice
+out of the deepening fog.  I called to Temple that he was right, we
+should do it.  Temple hurrahed rather breathlessly.  At the end of an
+hour I pulled up at an inn, where I left the horses to be groomed and
+fed, and walked away rapidly as if I knew the town, Temple following me
+with perfect confidence, and, indeed, I had no intention to deceive him.
+We entered a new station of a railway.
+
+'Oh!' said Temple, 'the rest of the way by rail.'
+
+When the railway clerk asked me what place I wanted tickets for, London
+sprang to my mouth promptly in a murmur, and taking the tickets I replied
+to Temple,
+
+'The rest of the way by rail.  Uberly's sure to stop at that inn';
+but my heart beat as the carriages slid away with us; an affectionate
+commiseration for Temple touched me when I heard him count on our being
+back at Riversley in time to dress for dinner.
+
+He laughed aloud at the idea of our plumping down on Rippenger's school,
+getting a holiday for the boys, tipping them, and then off with Julia,
+exactly like two Gods of the Mythology, Apollo and Mercury.
+
+'I often used to think they had the jolliest lives that ever were lived,'
+he said, and trying to catch glimpses of the country, and musing, and
+singing, he continued to feel like one of those blissful Gods until
+wonder at the passage of time supervened.  Amazement, when he looked at
+my watch, struck him dumb.  Ten minutes later we were in yellow fog, then
+in brown.  Temple stared at both windows and at me; he jumped from his
+seat and fell on it, muttering, 'No; nonsense!  I say!' but he had
+accurately recognized London's fog.  I left him unanswered to bring up
+all his senses, which the railway had outstripped, for the contemplation
+of this fact, that we two were in the city of London.
+
+
+
+CHAPTER XI
+
+THE GREAT FOG AND THE FIRE AT MIDNIGHT
+
+It was London city, and the Bench was the kernel of it to me.  I throbbed
+with excitement, though I sat looking out of the windows into the
+subterranean atmosphere quite still and firm.  When you think long
+undividedly of a single object it gathers light, and when you draw near
+it in person the strange thing to your mind is the absence of that light;
+but I, approaching it in this dense fog, seemed to myself to be only
+thinking of it a little more warmly than usual, and instead of fading it
+reversed the process, and became, from light, luminous.  Not being able,
+however, to imagine the Bench a happy place, I corrected the excess of
+brightness and gave its walls a pine-torch glow; I set them in the middle
+of a great square, and hung the standard of England drooping over them in
+a sort of mournful family pride.  Then, because I next conceived it a
+foreign kind of place, different altogether from that home growth of
+ours, the Tower of London, I topped it with a multitude of domes of
+pumpkin or turban shape, resembling the Kremlin of Moscow, which had
+once leapt up in the eye of Winter, glowing like a million pine-torches,
+and flung shadows of stretching red horses on the black smoke-drift.
+But what was the Kremlin, that had seen a city perish, to this Bench
+where my father languished!  There was no comparing them for tragic
+horror.  And the Kremlin had snow-fields around it; this Bench was caught
+out of sight, hemmed in by an atmosphere thick as Charon breathed; it
+might as well be underground.
+
+'Oh!  it's London,' Temple went on, correcting his incorrigible doubts
+about it.  He jumped on the platform; we had to call out not to lose one
+another.  'I say, Richie, this is London,' he said, linking his arm in
+mine: 'you know by the size of the station; and besides, there's the fog.
+Oh! it's London.  We've overshot it, we're positively in London.'
+
+I could spare no sympathy for his feelings, and I did not respond to his
+inquiring looks.  Now that we were here I certainly wished myself away,
+though I would not have retreated, and for awhile I was glad of the
+discomforts besetting me; my step was hearty as I led on, meditating upon
+asking some one the direction to the Bench presently.  We had to walk,
+and it was nothing but traversing on a slippery pavement atmospheric
+circles of black brown and brown red, and sometimes a larger circle of
+pale yellow; the colours of old bruised fruits, medlars, melons, and the
+smell of them; nothing is more desolate.  Neither of us knew where we
+were, nor where we were going.  We struggled through an interminable
+succession of squalid streets, from the one lamp visible to its neighbour
+in the darkness: you might have fancied yourself peering at the head of
+an old saint on a smoky canvas; it was like the painting of light rather
+than light.  Figures rushed by; we saw no faces.
+
+Temple spoke solemnly: ' Our dinner-hour at home is half-past six.'
+A street-boy overheard him and chaffed him.  Temple got the worst of it,
+and it did him good, for he had the sweetest nature in the world.  We
+declined to be attended by link-boys; they would have hurt our sense of
+independence.  Possessed of a sovereign faith that, by dint of
+resolution, I should ultimately penetrate to the great square enclosing
+the Bench, I walked with the air of one who had the map of London in his
+eye and could thread it blindfold.  Temple was thereby deceived into
+thinking that I must somehow have learnt the direction I meant to take,
+and knew my way, though at the slightest indication of my halting and
+glancing round his suspicions began to boil, and he was for asking some
+one the name of the ground we stood on: he murmured, 'Fellows get lost in
+London.' By this time he clearly understood that I had come to London on
+purpose: he could not but be aware of the object of my coming, and I was
+too proud, and he still too delicate, to allude to it.
+
+The fog choked us.  Perhaps it took away the sense of hunger by filling
+us as if we had eaten a dinner of soot.  We had no craving to eat until
+long past the dinner-hour in Temple's house, and then I would rather have
+plunged into a bath and a bed than have been requested to sit at a feast;
+Temple too, I fancy.  We knew we were astray without speaking of it.
+Temple said, 'I wish we hadn't drunk that champagne.' It seemed to me
+years since I had tasted the delicious crushing of the sweet bubbles in
+my mouth.  But I did not blame them; I was after my father: he, dear
+little fellow, had no light ahead except his devotion to me: he must have
+had a touch of conscious guilt regarding his recent behaviour, enough to
+hold him from complaining formally.  He complained of a London without
+shops and lights, wondered how any one could like to come to it in a fog,
+and so forth; and again regretted our having drunk champagne in the
+morning; a sort of involuntary whimpering easily forgiven to him, for I
+knew he had a gallant heart.  I determined, as an act of signal
+condescension, to accost the first person we met, male or female, for
+Temple's sake.  Having come to this resolve, which was to be an open
+confession that I had misled him, wounding to my pride, I hoped eagerly
+for the hearing of a footfall.  We were in a labyrinth of dark streets
+where no one was astir.  A wretched dog trotted up to us, followed at our
+heels a short distance, and left us as if he smelt no luck about us; our
+cajoleries were unavailing to keep that miserable companion.
+
+'Sinbad escaped from the, pit by tracking a lynx,' I happened to remark.
+Temple would not hear of Sinbad.
+
+'Oh, come, we're not Mussulmen,' said he; 'I declare, Richie, if I saw a
+church open, I'd go in and sleep there.  Were you thinking of tracking
+the dog, then?  Beer may be had somewhere.  We shall have to find an
+hotel.  What can the time be?'
+
+I owed it to him to tell him, so I climbed a lamppost and spelt out the
+hour by my watch.  When I descended we were three.  A man had his hands
+on Temple's shoulders, examining his features.
+
+'Now speak,' the man said, roughly.
+
+I was interposing, but Temple cried, 'All right, Richie, we are two to
+one.'
+
+The man groaned.  I asked him what he wanted.
+
+'My son!  I've lost my son,' the man replied, and walked away; and he
+would give no answer to our questions.
+
+I caught hold of the lamp-post, overcome.  I meant to tell Temple, in
+response to the consoling touch of his hand, that I hoped the poor, man
+would discover his son, but said instead, 'I wish we could see the Bench
+to-night.' Temple exclaimed, 'Ah!' pretending by his tone of voice that
+we had recently discussed our chance of it, and then he ventured to
+inform me that he imagined he had heard of the place being shut up after
+a certain hour of the night.
+
+My heart felt released, and gushed with love for him.  'Very well,
+Temple,' I said: 'then we'll wait till tomorrow, and strike out for some
+hotel now.'
+
+Off we went at a furious pace.  Saddlebank's goose was reverted to by
+both of us with an exchange of assurances that we should meet a dish the
+fellow to it before we slept.
+
+'As for life,' said I, as soon as the sharp pace had fetched my breathing
+to a regular measure, 'adventures are what I call life.'
+
+Temple assented.  'They're capital, if you only see the end of them.'
+
+We talked of Ulysses and Penelope.  Temple blamed him for leaving
+Calypso.  I thought Ulysses was right, otherwise we should have had no
+slaying of the Suitors but Temple shyly urged that to have a Goddess
+caring for you (and she was handsomer than Penelope, who must have been
+an oldish woman) was something to make you feel as you do on a hunting
+morning, when there are half-a-dozen riding-habits speckling the field--
+a whole glorious day your own among them!  This view appeared to me very
+captivating, save for an obstruction in my mind, which was, that
+Goddesses were always conceived by me as statues.  They talked and they
+moved, it was true, but the touch of them was marble; and they smiled and
+frowned, but they had no variety they were never warm.
+
+'If I thought that!' muttered Temple, puffing at the raw fog.  He
+admitted he had thought just the contrary, and that the cold had
+suggested to him the absurdity of leaving a Goddess.
+
+'Look here, Temple,' said I, 'has it never struck you?  I won't say I'm
+like him.  It's true I've always admired Ulysses; he could fight best,
+talk best, and plough, and box, and how clever he was!  Take him all
+round, who wouldn't rather have had him for a father than Achilles?  And
+there were just as many women in love with him.'
+
+'More,' said Temple.
+
+'Well, then,' I continued, thanking him in my heart, for it must have
+cost him something to let Ulysses be set above Achilles, 'Telemachus is
+the one I mean.  He was in search of his father.  He found him at last.
+Upon my honour, Temple, when I think of it, I 'm ashamed to have waited
+so long.  I call that luxury I've lived in senseless.  Yes!  while I was
+uncertain whether my father had enough to eat or not.'
+
+'I say!  hush!' Temple breathed, in pain at such allusions.  'Richie, the
+squire has finished his bottle by about now; bottle number two.  He won't
+miss us till the morning, but Miss Beltham will.  She'll be at your
+bedroom door three or four times in the night, I know.  It's getting
+darker and darker, we must be in some dreadful part of London.'
+
+The contrast he presented to my sensations between our pleasant home and
+this foggy solitude gave me a pang of dismay.  I diverged from my
+favourite straight line, which seemed to pierce into the bowels of the
+earth, sharp to the right.  Soon or late after, I cannot tell, we were in
+the midst of a thin stream of people, mostly composed of boys and young
+women, going at double time, hooting and screaming with the delight of
+loosened animals, not quite so agreeably; but animals never hunted on a
+better scent.  A dozen turnings in their company brought us in front of a
+fire.  There we saw two houses preyed on by the flames, just as if a lion
+had his paws on a couple of human creatures, devouring them; we heard his
+jaws, the cracking of bones, shrieks, and the voracious in-and-out of his
+breath edged with anger.  A girl by my side exclaimed, 'It's not the
+Bench, after all!  Would I have run to see a paltry two-story
+washerwoman's mangling-shed flare up, when six penn'orth of squibs and
+shavings and a cracker make twice the fun!'
+
+I turned to her, hardly able to speak.  'Where 's the Bench, if you
+please?'  She pointed.  I looked on an immense high wall.  The blunt
+flames of the fire opposite threw a sombre glow on it.
+
+The girl said, 'And don't you go hopping into debt, my young cock-
+sparrow, or you'll know one side o' the turnkey better than t' other.'
+She had a friend with her who chid her for speaking so freely.
+
+'Is it too late to go in to-night?' I asked.
+
+She answered that it was, and that she and her friend were the persons to
+show me the way in there.  Her friend answered more sensibly: 'Yes, you
+can't go in there before some time--in the morning.'
+
+I learnt from her that the Bench was a debtors' prison.
+
+The saucy girl of the pair asked me for money.  I handed her a crown-
+piece.
+
+'Now won't you give another big bit to my friend?' said she.
+
+I had no change, and the well-mannered girl bade me never mind, the saucy
+one pressed for it, and for a treat.  She was amusing in her talk of the
+quantity of different fires she had seen; she had also seen accidental-
+death corpses, but never a suicide in the act; and here she regretted the
+failure of her experiences.  This conversation of a good-looking girl
+amazed me.  Presently Temple cried, 'A third house caught, and no engines
+yet!  Richie, there's an old woman in her night-dress; we can't stand
+by.'
+
+The saucy girl joked at the poor half-naked old woman.  Temple stood
+humping and agitating his shoulders like a cat before it springs.  Both
+the girls tried to stop us.  The one I liked best seized my watch, and
+said, 'Leave this to me to take care of,' and I had no time to wrestle
+for it.  I had a glimpse of her face that let me think she was not
+fooling me, the watch-chain flew off my neck, Temple and I clove through
+the crowd of gapers.  We got into the heat, which was in a minute
+scorching.  Three men were under the window; they had sung out to the old
+woman above to drop a blanket--she tossed them a water-jug.  She was
+saved by the blanket of a neighbour.  Temple and I strained at one corner
+of it to catch her.
+
+She came down, the men said, like a singed turkey.  The flames
+illuminated her as she descended.  There was a great deal of laughter in
+the crowd, but I was shocked.  Temple shared the painful impression
+produced on me.  I cannot express my relief when the old woman was
+wrapped in the blanket which had broken her descent, and stood like a
+blot instead of a figure.  I handed a sovereign to the three men,
+complimenting them on the humanity of their dispositions.  They cheered
+us, and the crowd echoed the cheer, and Temple and I made our way back to
+the two girls: both of us lost our pocket-handkerchiefs, and Temple a
+penknife as well.  Then the engines arrived and soused the burning
+houses.  We were all in a crimson mist, boys smoking, girls laughing and
+staring, men hallooing, hats and caps flying about, fights going on,
+people throwing their furniture out of the windows.  The great wall of
+the Bench was awful in its reflection of the labouring flames--it rose
+out of sight like the flame-tops till the columns of water brought them
+down.  I thought of my father, and of my watch.  The two girls were not
+visible.  'A glorious life a fireman's!' said Temple.
+
+The firemen were on the roofs of the houses, handsome as Greek heroes,
+and it really did look as if they were engaged in slaying an enormous
+dragon, that hissed and tongued at them, and writhed its tail, paddling
+its broken big red wings in the pit of wreck and smoke, twisting and
+darkening-something fine to conquer, I felt with Temple.
+
+A mutual disgust at the inconvenience created by the appropriation of our
+pocket-handkerchiefs by members of the crowd, induced us to disentangle
+ourselves from it without confiding to any one our perplexity for supper
+and a bed.  We were now extremely thirsty.  I had visions of my majority
+bottles of Burgundy, lying under John Thresher's care at Dipwell, and
+would have abandoned them all for one on the spot.  After ranging about
+the outskirts of the crowd, seeking the two girls, we walked away, not so
+melancholy but that a draught of porter would have cheered us.  Temple
+punned on the loss of my watch, and excused himself for a joke neither of
+us had spirit to laugh at.  Just as I was saying, with a last glance at
+the fire, 'Anyhow, it would have gone in that crowd,' the nice good girl
+ran up behind us, crying, 'There!' as she put the watch-chain over my
+head.
+
+'There, Temple,' said I, 'didn't I tell you so?' and Temple kindly
+supposed so.
+
+The girl said, 'I was afraid I'd missed you, little fellow, and you'd
+take me for a thief, and thank God, I'm no thief yet.  I rushed into the
+crowd to meet you after you caught that old creature, and I could have
+kissed you both, you're so brave.'
+
+'We always go in for it together,' said Temple.
+
+I made an offer to the girl of a piece of gold.  'Oh, I'm poor,' she
+cried, yet kept her hand off it like a bird alighting on ground, not on
+prey.  When I compelled her to feel the money tight, she sighed, 'If I
+wasn't so poor!  I don't want your gold.  Why are you out so late?'
+
+We informed her of our arrival from the country, and wanderings in the
+fog.
+
+'And you'll say you're not tired, I know,' the girl remarked, and laughed
+to hear how correctly she had judged of our temper.  Our thirst and
+hunger, however, filled her with concern, because of our not being used
+to it as she was, and no place was open to supply our wants.  Her friend,
+the saucy one, accompanied by a man evidently a sailor, joined us, and
+the three had a consultation away from Temple and me, at the end of which
+the sailor, whose name was Joe, raised his leg dancingly, and smacked it.
+We gave him our hands to shake, and understood, without astonishment,
+that we were invited on, board his ship to partake of refreshment.  We
+should not have been astonished had he said on board his balloon.  Down
+through thick fog of a lighter colour, we made our way to a narrow lane
+leading to the river-side, where two men stood thumping their arms across
+their breasts, smoking pipes, and swearing.  We entered a boat and were
+rowed to a ship.  I was not aware how frozen and befogged my mind and
+senses had become until I had taken a desperate and long gulp of smoking
+rum-and-water, and then the whole of our adventures from morning to
+midnight, with the fir-trees in the country fog, and the lamps in the
+London fog, and the man who had lost his son, the fire, the Bench, the
+old woman with her fowl-like cry and limbs in the air, and the row over
+the misty river, swam flashing before my eyes, and I cried out to the two
+girls, who were drinking out of one glass with the sailor Joe, my
+entertainer, 'Well, I'm awake now!' and slept straight off the next
+instant.
+
+
+
+
+CHAPTER XII
+
+WE FIND OURSELVES BOUND ON A VOYAGE
+
+It seemed to me that I had but taken a turn from right to left, or gone
+round a wheel, when I repeated the same words, and I heard Temple
+somewhere near me mumble something like them.  He drew a long breath, so
+did I: we cleared our throats with a sort of whinny simultaneously.  The
+enjoyment of lying perfectly still, refreshed, incurious, unexcited, yet
+having our minds animated, excursive, reaping all the incidents of our
+lives at leisure, and making a dream of our latest experiences, kept us
+tranquil and incommunicative.  Occasionally we let fall a sigh fathoms
+deep, then by-and-by began blowing a bit of a wanton laugh at the end of
+it.  I raised my foot and saw the boot on it, which accounted for an
+uneasy sensation setting in through my frame.
+
+I said softly, 'What a pleasure it must be for horses to be groomed!'
+
+'Just what I was thinking!  ' said Temple.
+
+We started up on our elbows, and one or the other cried:
+
+'There's a chart!  These are bunks!  Hark at the row overhead!  We're in
+a ship!  The ship's moving!  Is it foggy this morning?  It's time to get
+up!  I've slept in my clothes!  Oh, for a dip!  How I smell of smoke!
+What a noise of a steamer!  And the squire at Riversley!  Fancy Uberly's
+tale!'
+
+Temple, with averted face, asked me whether I meant to return to
+Riversley that day.  I assured him I would, on my honour, if possible;
+and of course he also would have to return there.  'Why, you've an
+appointment with Janet Ilchester,' said I, 'and we may find a pug; we'll
+buy the hunting-knife and the skates.  And she shall know you saved an
+old woman's life.'
+
+'No, don't talk about that,' Temple entreated me, biting his lip.
+'Richie, we're going fast through the water.  It reminds me of breakfast.
+I should guess the hour to be nine A.M.'
+
+My watch was unable to assist us; the hands pointed to half-past four,
+and were fixed.  We ran up on deck.  Looking over the stern of the
+vessel, across a line of rippling eddying red gold, we saw the sun low
+upon cushions of beautiful cloud; no trace of fog anywhere; blue sky
+overhead, and a mild breeze blowing.
+
+'Sunrise,' I said.
+
+Temple answered, 'Yes,' most uncertainly.
+
+We looked round.  A steam-tug was towing our ship out toward banks of
+red-reflecting cloud, and a smell of sea air.
+
+'Why, that's the East there!' cried Temple.  We faced about to the sun,
+and behold, he was actually sinking!
+
+'Nonsense!' we exclaimed in a breath.  From seaward to this stupefying
+sunset we stood staring.  The river stretched to broad lengths; gulls
+were on the grey water, knots of seaweed, and the sea-foam curled in
+advance of us.
+
+'By jingo!' Temple spoke out, musing, 'here's a whole day struck out of
+our existence.'
+
+'It can't be!' said I, for that any sensible being could be tricked of a
+piece of his life in that manner I thought a preposterous notion.
+
+But the sight of a lessening windmill in the West, shadows eastward, the
+wide water, and the air now full salt, convinced me we two had slept
+through an entire day, and were passing rapidly out of hail of our native
+land.
+
+'We must get these fellows to put us on shore at once,' said Temple: 'we
+won't stop to eat.  There's a town; a boat will row us there in half-an-
+hour.  Then we can wash, too.  I've got an idea nothing's clean here.
+And confound these fellows for not having the civility to tell us they
+were going to start!'
+
+We were rather angry, a little amused, not in the least alarmed at our
+position.  A sailor, to whom we applied for an introduction to the
+captain, said he was busy.  Another gave us a similar reply, with a
+monstrous grimace which was beyond our comprehension.  The sailor Joe was
+nowhere to be seen.  None of the sailors appeared willing to listen to
+us, though they stopped as they were running by to lend half an ear to
+what we had to say.  Some particular movement was going on in the ship.
+Temple was the first to observe that the steamtug was casting us loose,
+and cried he, 'She'll take us on board and back to London Bridge.  Let's
+hail her.' He sang out, ' Whoop!  ahoy!' I meanwhile had caught sight of
+Joe.
+
+'Well, young gentleman!' he accosted me, and he hoped I had slept well.
+My courteous request to him to bid the tug stand by to take us on board,
+only caused him to wear a look of awful gravity.  'You're such a deuce of
+a sleeper,' he said.  'You see, we had to be off early to make up for
+forty hours lost by that there fog.  I tried to wake you both; no good;.
+so I let you snore away.  We took up our captain mid-way down the river,
+and now you're in his hands, and he'll do what he likes with you, and
+that 's a fact, and my opinion is you 'll see a foreign shore before
+you're in the arms of your family again.'
+
+At these words I had the horrible sensation of being caged, and worse,
+transported into the bargain.
+
+I insisted on seeing the captain.  A big bright round moon was dancing
+over the vessel's bowsprit, and this, together with the tug thumping into
+the distance, and the land receding, gave me--coming on my wrath--
+suffocating emotions.
+
+No difficulties were presented in my way.  I was led up to a broad man in
+a pilot-coat, who stood square, and looked by the bend of his eyebrows as
+if he were always making head against a gale.  He nodded to my respectful
+salute.  'Cabin,' he said, and turned his back to me.
+
+I addressed him, 'Excuse me, I want to go on shore, captain.  I must and
+will go!  I am here by some accident; you have accidentally overlooked me
+here.  I wish to treat you like a gentleman, but I won't be detained.'
+
+Joe spoke a word to the captain, who kept his back as broad to me as a
+school-slate for geography and Euclid's propositions.
+
+'Cabin, cabin,' the captain repeated.
+
+I tried to get round him to dash a furious sentence or so in his face,
+since there was no producing any impression on his back; but he occupied
+the whole of a way blocked with wire-coil, and rope, and boxes, and it
+would have been ridiculous to climb this barricade when by another right-
+about-face he could in a minute leave me volleying at the blank space
+between his shoulders.
+
+Joe touched my arm, which, in as friendly a way as I could assume, I bade
+him not do a second time; for I could ill contain myself as it was, and
+beginning to think I had been duped and tricked, I was ready for
+hostilities.  I could hardly bear meeting Temple on my passage to the
+cabin.  'Captain Jasper Welsh,' he was reiterating, as if sounding it to
+discover whether it had an ominous ring: it was the captain's name, that
+he had learnt from one of the seamen.
+
+Irritated by his repetition of it, I said, I know not why, or how the
+words came: 'A highwayman notorious for his depredations in the vicinity
+of the city of Bristol.'
+
+This set Temple off laughing: 'And so he bought a ship and had traps laid
+down to catch young fellows for ransom.'
+
+I was obliged to request Temple not to joke, but the next moment I had
+launched Captain Jasper Welsh on a piratical exploit; Temple lifted the
+veil from his history, revealing him amid the excesses of a cannibal
+feast.  I dragged him before a British jury; Temple hanged him in view of
+an excited multitude.  As he boasted that there was the end of Captain
+Welsh, I broke the rope.  But Temple spoiled my triumph by depriving him
+of the use of his lower limbs after the fall, for he was a heavy man.  I
+could not contradict it, and therefore pitched all his ship's crew upon
+the gallows in a rescue.  Temple allowed him to be carried off by his
+faithful ruffians, only stipulating that the captain was never after able
+to release his neck from the hangman's slip knot.  The consequence was
+that he wore a shirt-collar up to his eyebrows for concealment by day,
+and a pillow-case over his head at night, and his wife said she was a
+deceived unhappy woman, and died of curiosity.
+
+The talking of even such nonsense as this was a relief to us in our
+impatience and helplessness, with the lights of land heaving far distant
+to our fretful sight through the cabin windows.
+
+When we had to talk reasonably we were not so successful.  Captain Welsh
+was one of those men who show you, whether you care to see them or not,
+all the processes by which they arrive at an idea of you, upon which they
+forthwith shape their course.  Thus, when he came to us in the cabin, he
+took the oil-lamp in his hand and examined our faces by its light; he had
+no reply to our remonstrances and petitions: all he said was, 'Humph!
+well, I suppose you're both gentlemen born'; and he insisted on
+prosecuting his scrutiny without any reference to the tenour of our
+observations.
+
+We entreated him half imperiously to bring his ship to and put us on
+shore in a boat.  He bunched up his mouth, remarking, 'Know their
+grammar: habit o' speaking to grooms, eh? humph.' We offered to pay
+largely.  'Loose o' their cash,' was his comment, and so on; and he was
+the more exasperating to us because he did not look an evil-minded man;
+only he appeared to be cursed with an evil opinion of us.  I tried to
+remove it; I spoke forbearingly.  Temple, imitating me, was sugar-sweet.
+We exonerated the captain from blame, excused him for his error, named
+the case a mistake on both sides.  That long sleep of ours, we said, was
+really something laughable; we laughed at the recollection of it, a
+lamentable piece of merriment.
+
+Our artfulness and patience becoming exhausted, for the captain had
+vouchsafed us no direct answer, I said at last, 'Captain Welsh, here we
+are on board your ship will you tell us what you mean to do with us?'
+
+He now said bluntly, ' I will.'
+
+'You'll behave like a man of honour,' said I, and to that he cried
+vehemently, 'I will.'
+
+'Well, then,' said I, 'call out the boat, if you please; we're anxious to
+be home.'
+
+'So you shall!' the captain shouted, 'and per ship--my barque Priscilla;
+and better men than you left, or I 'm no Christian.'
+
+Temple said briskly, 'Thank you, captain.'
+
+'You may wait awhile with that, my lad,' he answered; and, to our
+astonishment, recommended us to go and clean our faces and prepare to
+drink some tea at his table.
+
+'Thank you very much, captain, we'll do that when we 're on shore,' said
+we.
+
+'You'll have black figure-heads and empty gizzards, then, by that time,'
+he remarked.  We beheld him turning over the leaves of a Bible.
+
+Now, this sight of the Bible gave me a sense of personal security, and a
+notion of hypocrisy in his conduct as well; and perceiving that we had
+conjectured falsely as to his meaning to cast us on shore per ship, his
+barque Priscilla, I burst out in great heat, 'What!  we are prisoners?
+You dare to detain us?'
+
+Temple chimed in, in a similar strain.  Fairly enraged, we flung at him
+without anything of what I thought eloquence.
+
+The captain ruminated up and down the columns of his Bible.
+
+I was stung to feel that we were like two small terriers baiting a huge
+mild bull.  At last he said, 'The story of the Prodigal Son.'
+
+'Oh!' groaned Temple, at the mention of this worn-out old fellow, who has
+gone in harness to tracts ever since he ate the fatted calf.
+
+But the captain never heeded his interruption.
+
+'Young gentlemen, I've finished it while you 've been barking at me.  If
+I 'd had him early in life on board my vessel, I hope I'm not
+presumptuous in saying--the Lord forgive me if I be so!--I'd have stopped
+his downward career--ay, so!--with a trip in the right direction.  The
+Lord, young gentlemen, has not thrown you into my hands for no purpose
+whatsoever.  Thank him on your knees to-night, and thank Joseph Double,
+my mate, when you rise, for he was the instrument of saving you from bad
+company.  If this was a vessel where you 'd hear an oath or smell the
+smell of liquor, I 'd have let you run when there was terra firma within
+stone's throw.  I came on board, I found you both asleep, with those
+marks of dissipation round your eyes, and I swore--in the Lord's name,
+mind you--I'd help pluck you out of the pit while you had none but one
+leg in.  It's said!  It's no use barking.  I am not to be roused.  The
+devil in me is chained by the waist, and a twenty-pound weight on his
+tongue.  With your assistance I'll do the same for the devil in you.
+Since you've had plenty of sleep, I 'll trouble you to commit to memory
+the whole story of the Prodigal Son 'twixt now and morrow's sunrise.
+We 'll have our commentary on it after labour done.  Labour you will in
+my vessel, for your soul's health.  And let me advise you not to talk;
+in your situation talking's temptation to lying.  You'll do me the
+obligation to feed at my table.  And when I hand you back to your
+parents, why, they'll thank me, if you won't.  But it's not thanks I look
+for: it's my bounden Christian duty I look to.  I reckon a couple o'
+stray lambs equal to one lost sheep.'
+
+The captain uplifted his arm, ejaculating solemnly, 'By!' and faltered.
+'You were going to swear!' said Temple, with savage disdain.
+
+'By the blessing of Omnipotence!  I'll save a pair o' pups from turning
+wolves.  And I'm a weak mortal man, that 's too true.'
+
+'He was going to swear,' Temple muttered to me.
+
+I considered the detection of Captain Welsh's hypocrisy unnecessary,
+almost a condescension toward familiarity; but the ire in my bosom was
+boiling so that I found it impossible to roll out the flood of eloquence
+with which I was big.  Soon after, I was trying to bribe the man with all
+my money and my watch.
+
+'Who gave you that watch?' said he.
+
+'Downright Church catechism!' muttered Temple.
+
+'My grandfather,' said I.
+
+The captain's head went like a mechanical hammer, to express something
+indescribable.
+
+'My grandfather,' I continued, 'will pay you handsomely for any service
+you do to me and my friend.'
+
+'Now, that's not far off forgoing,' said the captain, in a tone as much
+as to say we were bad all over.
+
+I saw the waters slide by his cabin-windows.  My desolation, my
+humiliation, my chained fury, tumbled together.  Out it came--
+
+'Captain, do behave to us like a gentleman, and you shall never repent
+it.  Our relatives will be miserable about us.  They--captain!--they
+don't know where we are.  We haven't even a change of clothes.  Of course
+we know we're at your mercy, but do behave like an honest man.  You shall
+be paid or not, just as you please, for putting us on shore, but we shall
+be eternally grateful to you.  Of course you mean kindly to us; we see
+that--'
+
+'I thank the Lord for it!' he interposed.
+
+'Only you really are under a delusion.  It 's extraordinary.  You can't
+be quite in your right senses about us; you must be--I don't mean to
+speak disrespectfully-what we call on shore, cracked about us.  .  .  .
+
+'Doddered, don't they say in one of the shires?' he remarked.
+
+Half-encouraged, and in the belief that I might be getting eloquent, I
+appealed to his manliness.  Why should he take advantage of a couple of
+boys?  I struck the key of his possible fatherly feelings: What misery
+were not our friends suffering now.  ('Ay, a bucketful now saves an ocean
+in time to come!' he flung in his word.) I bade him, with more pathetic
+dignity reflect on the dreadful hiatus in our studies.
+
+'Is that Latin or Greek?' he asked.
+
+I would not reply to the cold-blooded question.  He said the New
+Testament was written in Greek, he knew, and happy were those who could
+read it in the original.
+
+'Well, and how can we be learning to read it on board ship?' said Temple,
+an observation that exasperated me because it seemed more to the point
+than my lengthy speech, and betrayed that he thought so; however, I took
+it up:--
+
+'How can we be graduating for our sphere in life, Captain Welsh, on board
+your vessel?  Tell us that.'
+
+He played thumb and knuckles on his table.  Just when I was hoping that
+good would come of the senseless tune, Temple cried,
+
+'Tell us what your exact intentions are, Captain Welsh.  What do you mean
+to do with us?'
+
+'Mean to take you the voyage out and the voyage home, Providence
+willing,' said the captain, and he rose.
+
+We declined his offer of tea, though I fancy we could have gnawed at a
+bone.
+
+'There's no compulsion in that matter,' he said.  'You share my cabin
+while you're my guests, shipmates, and apprentices in the path of living;
+my cabin and my substance, the same as if you were what the North-
+countrymen call bairns o' mine: I've none o' my own.  My wife was a
+barren woman.  I've none but my old mother at home.  Have your sulks out,
+lads; you'll come round like the Priscilla on a tack, and discover you've
+made way by it.'
+
+We quitted his cabin, bowing stiffly.
+
+Temple declared old Rippenger was better than this canting rascal.
+
+The sea was around us, a distant yellow twinkle telling of land.
+
+'His wife a barren woman!  what's that to us!' Temple went on, exploding
+at intervals.  'So was Sarah.  His cabin and his substance!  He talks
+more like a preacher than a sailor.  I should like to see him in a storm!
+He's no sailor at all.  His men hate him.  It wouldn't be difficult to
+get up a mutiny on board this ship.  Richie, I understand the whole plot:
+he's in want of cabin-boys.  The fellow has impressed us.  We shall have
+to serve till we touch land.  Thank God, there's a British consul
+everywhere; I say that seriously.  I love my country; may she always be
+powerful!  My life is always at her---- Did you feel that pitch of the
+ship?  Of all the names ever given to a vessel, I do think Priscilla is
+without exception the most utterly detestable.  Oh! there again.  No,
+it'll be too bad, Richie, if we 're beaten in this way.'
+
+'If YOU are beaten,' said I, scarcely venturing to speak lest I should
+cry or be sick.
+
+We both felt that the vessel was conspiring to ruin our self-respect.
+I set my head to think as hard as possible on Latin verses (my instinct
+must have drawn me to them as to a species of intellectual biscuit
+steeped in spirit, tough, and comforting, and fundamentally opposed to
+existing circumstances, otherwise I cannot account for the attraction).
+They helped me for a time; they kept off self-pity, and kept the
+machinery of the mind at work.  They lifted me, as it were, to an upper
+floor removed from the treacherously sighing Priscilla.  But I came down
+quickly with a crash; no dexterous management of my mental resources
+could save me from the hemp-like smell of the ship, nor would leaning
+over the taffrail, nor lying curled under a tarpaulin.  The sailors
+heaped pilot-coats upon us.  It was a bad ship, they said, to be sick on
+board of, for no such thing as brandy was allowed in the old Priscilla.
+Still I am sure I tasted some before I fell into a state of semi-
+insensibility.  As in a trance I heard Temple's moans, and the captain's
+voice across the gusty wind, and the forlorn crunching of the ship down
+great waves.  The captain's figure was sometimes stooping over us, more
+great-coats were piled on us; sometimes the wind whistled thinner than
+one fancies the shrieks of creatures dead of starvation and restless,
+that spend their souls in a shriek as long as they can hold it on, say
+nursery-maids; the ship made a truce with the waters and grunted; we took
+two or three playful blows, we were drenched with spray, uphill we
+laboured, we caught the moon in a net of rigging, away we plunged; we
+mounted to plunge again and again.  I reproached the vessel in argument
+for some imaginary inconsistency.  Memory was like a heavy barrel on my
+breast, rolling with the sea.
+
+
+
+
+CHAPTER XIII
+
+WE CONDUCT SEVERAL LEARNED ARGUMENTS WITH THE CAPTAIN OF THE PRISCILLA
+
+Captain Welsh soon conquered us.  The latest meal we had eaten was on the
+frosty common under the fir-trees.  After a tremendous fast, with sea-
+sickness supervening, the eggs and bacon, and pleasant benevolent-
+smelling tea on the captain's table were things not to be resisted by two
+healthy boys who had previously stripped and faced buckets of maddening
+ice-cold salt-water, dashed at us by a jolly sailor.  An open mind for
+new impressions came with the warmth of our clothes.  We ate, bearing
+within us the souls of injured innocents; nevertheless, we were thankful,
+and, to the captain's grace, a long one, we bowed heads decently.  It was
+a glorious breakfast, for which land and sea had prepared us in about
+equal degrees: I confess, my feelings when I jumped out of the cabin were
+almost those of one born afresh to life and understanding.  Temple and I
+took counsel.  We agreed that sulking would be ridiculous, unmanly,
+ungentlemanly.  The captain had us fast, as if we were under a lion's
+paw; he was evidently a well-meaning man, a fanatic deluded concerning
+our characters: the barque Priscilla was bound for a German port, and
+should arrive there in a few days,--why not run the voyage merrily since
+we were treated with kindness?  Neither the squire nor Temple's father
+could complain of our conduct; we were simply victims of an error that
+was assisting us to a knowledge of the world, a youth's proper ambition.
+'And we're not going to be starved,' said Temple.
+
+I smiled, thinking I perceived the reason why I had failed in my oration
+over-night; so I determined that on no future occasion would I let pride
+stand in the way of provender.  Breakfast had completely transformed us
+We held it due to ourselves that we should demand explanations from
+Joseph Double, the mate, and then, after hearing him, furnish them with a
+cordial alacrity to which we might have attached unlimited credence had
+he not protested against our dreaming him to have supplied hot rum-and-
+water on board, we wrote our names and addresses in the captain's log-
+book, and immediately asked permission to go to the mast-head.
+
+He laughed.  Out of his cabin there was no smack of the preacher in him.
+His men said he was a stout seaman, mad on the subject of grog and girls.
+Why, it was on account of grog and girls that he was giving us this dish
+of salt-water to purify us!  Grog and girls!  cried we.  We vowed upon
+our honour as gentlemen we had tasted grog for the first time in our
+lives on board the Priscilla.  How about the girls?  they asked.  We
+informed them we knew none but girls who were ladies.  Thereupon one
+sailor nodded, one sent up a crow, one said the misfortune of the case
+lay in all girls being such precious fine ladies; and one spoke in
+dreadfully blank language, he accused us of treating the Priscilla as a
+tavern for the entertainment of bad company, stating that he had helped
+to row me and my associates from the shore to the ship.
+
+'Poor Mr. Double!' says he; 'there was only one way for him to jump you
+two young gentlemen out o' that snapdragon bowl you was in--or quashmire,
+call it; so he 'ticed you on board wi' the bait you was swallowing, which
+was making the devil serve the Lord's turn.  And I'll remember that
+night, for I yielded to swearing, and drank too!'  The other sailors
+roared with laughter.
+
+I tipped them, not to appear offended by their suspicions.  We thought
+them all hypocrites, and were as much in error as if we had thought them
+all honest.
+
+Things went fairly well with the exception of the lessons in Scripture.
+Our work was mere playing at sailoring, helping furl sails, haul ropes,
+study charts, carry messages, and such like.  Temple made his voice
+shrewdly emphatic to explain to the captain that we liked the work, but
+that such lessons as these out of Scripture were what the eeriest
+youngsters were crammed with.
+
+'Such lessons as these, maybe, don't have the meaning on land they get to
+have on the high seas,' replied the captain: 'and those youngsters you
+talk of were not called in to throw a light on passages: for I may teach
+you ship's business aboard my barque, but we're all children inside the
+Book.'
+
+He groaned heartily to hear that our learning lay in the direction of
+Pagan Gods and Goddesses, and heathen historians and poets; adding, it
+was not new to him, and perhaps that was why the world was as it was.
+Nor did he wonder, he said, at our running from studies of those filthy
+writings loose upon London; it was as natural as dunghill steam.  Temple
+pretended he was forced by the captain's undue severity to defend Venus;
+he said, I thought rather wittily, 'Sailors ought to have a respect for
+her, for she was born in the middle of the sea, and she steered straight
+for land, so she must have had a pretty good idea of navigation.'
+
+But the captain answered none the less keenly, 'She had her idea of
+navigating, as the devil of mischief always has, in the direction where
+there's most to corrupt; and, my lad, she teaches the navigation that
+leads to the bottom beneath us.'
+
+He might be right, still our mien was evil in reciting the lessons from
+Scripture; and though Captain Welsh had intelligence we could not draw
+into it the how and the why of the indignity we experienced.  We had
+rather he had been a savage captain, to have braced our spirits to sturdy
+resistance, instead of a mild, good-humoured man of kind intentions, who
+lent us his linen to wear, fed us at his table, and taxed our most
+gentlemanly feelings to find excuses for him.  Our way of revenging
+ourselves becomingly was to laud the heroes of antiquity, as if they had
+possession of our souls and touched the fountain of worship.  Whenever
+Captain Welsh exclaimed, 'Well done,' or the equivalent, 'That 's an
+idea,' we referred him to Plutarch for our great exemplar.  It was
+Alcibiades gracefully consuming his black broth that won the captain's
+thanks for theological acuteness, or the young Telemachus suiting his
+temper to the dolphin's moods, since he must somehow get on shore on the
+dolphin's back.  Captain Welsh could not perceive in Temple the
+personifier of Alcibiades, nor Telemachus in me; but he was aware of an
+obstinate obstruction behind our compliance.  This he called the devil
+coiled like a snake in its winter sleep.  He hurled texts at it openly,
+or slyly dropped a particularly heavy one, in the hope of surprising it
+with a death-blow.  We beheld him poring over his Bible for texts that
+should be sovereign medicines for us, deadly for the devil within us.
+Consequently, we were on the defensive: bits of Cicero, bits of Seneca,
+soundly and nobly moral, did service on behalf of Paganism; we remembered
+them certainly almost as if an imp had brought them from afar.  Nor had
+we any desire to be in opposition to the cause he supported.  What we
+were opposed to was the dogmatic arrogance of a just but ignorant man,
+who had his one specific for everything, and saw mortal sickness in all
+other remedies or recreations.  Temple said to him,
+
+'If the Archbishop of Canterbury were to tell me Greek and Latin authors
+are bad for me, I should listen to his remarks, because he 's a scholar:
+he knows the languages and knows what they contain.'
+
+Captain Welsh replied,
+
+'If the Archbishop o' Canterbury sailed the sea, and lived in Foul Alley,
+Waterside, when on shore, and so felt what it is to toss on top of the
+waves o' perdition, he'd understand the value of a big, clean, well-
+manned, well-provisioned ship, instead o' your galliots wi' gaudy sails,
+your barges that can't rise to a sea, your yachts that run to port like
+mother's pets at first pipe o' the storm, your trim-built wherries.'
+
+'So you'd have only one sort of vessel afloat!' said I.  'There's the
+difference of a man who's a scholar.'
+
+'I'd have,' said the captain, 'every lad like you, my lad, trained in the
+big ship, and he wouldn't capsize, and be found betrayed by his light
+timbers as I found you.  Serve your apprenticeship in the Lord's three-
+decker; then to command what you may.'
+
+'No, no, Captain Welsh,' says Temple: 'you must grind at Latin and Greek
+when you 're a chick, or you won't ever master the rudiments.  Upon my
+honour, I declare it 's the truth, you must.  If you'd like to try, and
+are of a mind for a go at Greek, we'll do our best to help you through
+the aorists.  It looks harder than Latin, but after a start it 's easier.
+Only, I'm afraid your three-decker's apprenticeship 'll stand in your
+way.'
+
+'Greek 's to be done for me; I can pay clever gentlemen for doing Greek
+for me,' said the captain.  'The knowledge and the love of virtue I must
+do for myself; and not to be wrecked, I must do it early.'
+
+'Well, that's neither learning nor human nature,' said I.
+
+'It's the knowledge o' the right rules for human nature, my lad.'
+
+'Would you kidnap youngsters to serve in your ship, captain?'
+
+'I'd bless the wind that blew them there, foul or not, my lad.'
+
+'And there they'd stick when you had them, captain?'
+
+'I'd think it was the Lord's will they should stick there awhile,
+my lad--yes.'
+
+'And what of their parents?'
+
+'Youngsters out like gossamers on a wind, their parents are where they
+sow themselves, my lad.'
+
+'I call that hard on the real parents, Captain Welsh,' said Temple.
+
+'It's harder on Providence when parents breed that kind o' light
+creature, my lad.'
+
+We were all getting excited, talking our best, such as it was; the
+captain leaning over his side of the table, clasping his hands
+unintentionally preacher-like; we on our side supporting our chins on our
+fists, quick to be at him.  Temple was brilliant; he wanted to convert
+the captain, and avowed it.
+
+'For,' said he, 'you're not like one of those tract-fellows.  You're a
+man we can respect, a good seaman, master of your ship, and hearty, and
+no mewing sanctimoniousness, and we can see and excuse your mistake as to
+us two; but now, there's my father at home--he's a good man, but he 's a
+man of the world, and reads his classics and his Bible.  He's none the
+worse for it, I assure you.'
+
+'Where was his son the night of the fog?' said the captain.
+
+'Well, he happened to be out in it.'
+
+'Where'd he be now but for one o' my men?'
+
+'Who can answer that, Captain Welsh?'
+
+'I can, my lad-stewing in an ante-room of hell-gates, I verily believe.'
+
+Temple sighed at the captain's infatuation, and said, 'I'll tell you of a
+fellow at our school named Drew; he was old Rippenger's best theological
+scholar--always got the prize for theology.  Well, he was a confirmed
+sneak.  I've taken him into a corner and described the torments of dying
+to him, and his look was disgusting--he broke out in a clammy sweat.
+"Don't, don't!"  he'd cry.  "You're just the fellow to suffer intensely,"
+I told him.  And what was his idea of escaping it?  Why, by learning the
+whole of Deuteronomy and the Acts of the Apostles by heart!  His idea of
+Judgement Day was old Rippenger's half-yearly examination.  These are
+facts, you know, Captain Welsh.'
+
+I testified to them briefly.
+
+The captain said a curious thing: 'I'll make an appointment with you in
+leviathan's jaws the night of a storm, my lad.'
+
+'With pleasure,' said Temple.
+
+'The Lord send it!' exclaimed the captain.
+
+His head was bent forward, and he was gazing up into his eyebrows.
+
+Before we knew that anything was coming, he was out on a narrative of a
+scholar of one of the Universities.  Our ears were indifferent to the
+young man's career from the heights of fortune to delirium tremens down
+the cataract of brandy, until the captain spoke of a dark night on the
+Pool of the Thames; and here his voice struggled, and we tried hard to
+catch the thread of the tale.  Two men and a girl were in the boat.  The
+men fought, the girl shrieked, the boat was upset, the three were
+drowned.
+
+All this came so suddenly that nothing but the captain's heavy thump of
+his fist on the table kept us from laughing.
+
+He was quite unable to relate the tale, and we had to gather it from his
+exclamations.  One of the men was mate of a vessel lying in the Pool,
+having only cast anchor that evening; the girl was his sweetheart; the
+other man had once been a fine young University gentleman, and had become
+an outfitter's drunken agent.  The brave sailor had nourished him often
+when on shore, and he, with the fluent tongue which his college had
+trimmed for him, had led the girl to sin during her lover's absence.
+Howsoever, they put off together to welcome him on his arrival, never
+suspecting that their secret had been whispered to Robert Welsh
+beforehand.  Howsoever, Robert gave them hearty greeting, and down to the
+cabin they went, and there sat drinking up to midnight.
+
+'Three lost souls!' said the captain.
+
+'See how they run,' Temple sang, half audibly, and flushed hot, ashamed
+of himself.
+
+''Twas I had to bear the news to his mother,' the captain pursued; 'and it
+was a task, my lads, for I was then little more than your age, and the
+glass was Robert's only fault, and he was my only brother.'
+
+I offered my hand to the captain.  He grasped it powerfully.  'That crew
+in a boat, and wouldn't you know the devil'd be coxswain?' he called
+loudly, and buried his face.
+
+'No,' he said, looking up at us, 'I pray for no storm, but, by the Lord's
+mercy, for a way to your hearts through fire or water.  And now on deck,
+my lads, while your beds are made up.  Three blind things we verily are.'
+
+Captain Welsh showed he was sharp of hearing.  His allusion to the
+humming of the tune of the mice gave Temple a fit of remorse, and he
+apologized.
+
+'Ay,' said the captain, 'it is so; own it: frivolity's the fruit of that
+training that's all for the flesh.  But dip you into some o' my books on
+my shelves here, and learn to see living man half skeleton, like life and
+shadow, and never to living man need you pray forgiveness, my lad.'
+
+By sheer force of character he gained the command of our respect.  Though
+we agreed on deck that he had bungled his story, it impressed us; we felt
+less able to cope with him, and less willing to encounter a storm.
+
+'We shall have one, of course,' Temple said, affecting resignation, with
+a glance aloft.
+
+I was superstitiously of the same opinion, and praised the vessel.
+
+'Oh, Priscilla's the very name of a ship that founders with all hands and
+sends a bottle on shore,' said Temple.
+
+'There isn't a bottle on board,' said I; and this piece of nonsense
+helped us to sleep off our gloom.
+
+
+
+
+CHAPTER XIV
+
+I MEET OLD FRIENDS
+
+Notwithstanding the prognostications it pleased us to indulge, we had a
+tolerably smooth voyage.  On a clear cold Sunday morning we were sailing
+between a foreign river's banks, and Temple and I were alternately
+reading a chapter out of the Bible to the assembled ship's crew, in
+advance of the captain's short exhortation.  We had ceased to look at
+ourselves inwardly, and we hardly thought it strange.  But our hearts
+beat for a view of the great merchant city, which was called a free city,
+and therefore, Temple suggested, must bear certain portions of
+resemblance to old England; so we made up our minds to like it.
+
+'A wonderful place for beer cellars,' a sailor observed to us slyly, and
+hitched himself up from the breech to the scalp.
+
+At all events, it was a place where we could buy linen.
+
+For that purpose, Captain Welsh handed us over to the care of his trusted
+mate Mr. Joseph Double, and we were soon in the streets of the city,
+desirous of purchasing half their contents.  My supply of money was not
+enough for what I deemed necessary purchases.  Temple had split his
+clothes, mine were tarred; we were appearing at a disadvantage, and we
+intended to dine at a good hotel and subsequently go to a theatre.  Yet I
+had no wish to part with my watch.  Mr. Double said it might be arranged.
+It was pawned at a shop for a sum equivalent in our money to about twelve
+pounds, and Temple obliged me by taking charge of the ticket.  Thus we
+were enabled to dress suitably and dine pleasantly, and, as Mr. Double
+remarked, no one could rob me of my gold watch now.  We visited a couple
+of beer-cellars to taste the drink of the people, and discovered three of
+our men engaged in a similar undertaking.  I proposed that it should be
+done at my expense.  They praised their captain, but asked us, as
+gentlemen and scholars, whether it was reasonable to object to liquor
+because your brother was carried out on a high tide?  Mr. Double
+commended them to moderation.  Their reply was to estimate an immoderate
+amount of liquor as due to them, with profound composure.
+
+'Those rascals,' Mr. Double informed us, 'are not in the captain's
+confidence they're tidy seamen, though, and they submit to the captain's
+laws on board and have their liberty ashore.'
+
+We inquired what the difference was between their privileges and his.
+
+'Why,' said he, 'if they're so much as accused of a disobedient act, off
+they 're scurried, and lose fair wages and a kind captain.  And let any
+man Jack of 'em accuse me, and he bounds a india-rubber ball against a
+wall and gets it; all he meant to give he gets.  Once you fix the
+confidence of your superior, you're waterproof.'
+
+We held our peace, but we could have spoken.
+
+Mr. Double had no moral hostility toward theatres.  Supposing he did not
+relish the performance, he could enjoy a spell in the open air, he said,
+and this he speedily decided to do.  Had we not been bound in honour to
+remain for him to fetch us, we also should have retired from a
+representation of which we understood only the word ja.  It was tiresome
+to be perpetually waiting for the return of this word.  We felt somewhat
+as dogs must feel when human speech is addressed to them.  Accordingly,
+we professed, without concealment, to despise the whole performance.
+I reminded Temple of a saying of the Emperor Charles V. as to a knowledge
+of languages.
+
+'Hem!' he went critically; 'it's all very well for a German to talk in
+that way, but you can't be five times an Englishman if you're a
+foreigner.'
+
+We heard English laughter near us.  Presently an English gentleman
+accosted us.
+
+'Mr. Villiers, I believe?' He bowed at me.
+
+'My name is Richmond.'
+
+He bowed again, with excuses, talked of the Play, and telegraphed to a
+lady sitting in a box fronting us.  I saw that she wrote on a slip of
+paper; she beckoned; the gentleman quitted us, and soon after placed a
+twisted note in my hand.  It ran:
+
+'Miss Goodwin (whose Christian name is Clara) wishes very much to know
+how it has fared with Mr. Harry Richmond since he left Venice.'
+
+I pushed past a number of discontented knees, trying, on my way to her
+box, to recollect her vividly, but I could barely recollect her at all,
+until I had sat beside her five minutes.  Colonel Goodwin was asleep in a
+corner of the box.  Awakened by the sound of his native tongue, he
+recognized me immediately.
+
+'On your way to your father?' he said, as he shook my hand.
+
+I thought it amazing he should guess that in Germany.
+
+'Do you know where he is, sir?' I asked.
+
+'We saw him,' replied the colonel; 'when was it, Clara?  A week or ten
+days ago.'
+
+'Yes,' said Miss Goodwin; 'we will talk of that by-and-by.' And she
+overflowed with comments on my personal appearance, and plied me with
+questions, but would answer none of mine.
+
+I fetched Temple into the box to introduce him.  We were introduced in
+turn to Captain Malet, the gentleman who had accosted me below.
+
+'You understand German, then?' said Miss Goodwin.
+
+She stared at hearing that we knew only the word ja, for it made our
+presence in Germany unaccountable.
+
+'The most dangerous word of all,' said Colonel Goodwin, and begged us
+always to repeat after it the negative nein for an antidote.
+
+'You have both seen my father?' I whispered to Miss Goodwin; 'both?  We
+have been separated.  Do tell me everything.  Don't look at the stage-
+they speak such nonsense.  How did you remember me?  How happy I am to
+have met you!  Oh! I haven't forgotten the gondolas and the striped
+posts, and stali and the other word; but soon after we were separated,
+and I haven't seen him since.'
+
+She touched her father's arm.
+
+'At once, if you like,' said he, jumping up erect.
+
+'In Germany was it?' I persisted.
+
+She nodded gravely and leaned softly on my arm while we marched out of
+the theatre to her hotel--I in such a state of happiness underlying
+bewilderment and strong expectation that I should have cried out loud had
+not pride in my partner restrained me.  At her tea-table I narrated the
+whole of my adventure backwards to the time of our parting in Venice,
+hurrying it over as quick as I could, with the breathless termination,
+'And now?'
+
+They had an incomprehensible reluctance to perform their part of the
+implied compact.  Miss Goodwin looked at Captain Malet.  He took his
+leave.  Then she said, 'How glad I am you have dropped that odious name
+of Roy!  Papa and I have talked of you frequently--latterly very often.
+I meant to write to you, Harry Richmond.  I should have done it the
+moment we returned to England.'
+
+'You must know,' said the colonel, 'that I am an amateur inspector of
+fortresses, and my poor Clara has to trudge the Continent with me to pick
+up the latest inventions in artillery and other matters, for which I get
+no thanks at head-quarters--but it 's one way of serving one's country
+when the steel lies rusting.  We are now for home by way of Paris.  I
+hope that you and your friend will give us your company.  I will see this
+Captain Welsh of yours before we start.  Clara, you decided on dragging
+me to the theatre to-night with your usual admirable instinct.'
+
+I reminded Miss Goodwin of my father being in Germany.
+
+'Yes, he is at one of the Courts, a long distance from here,' she said,
+rapidly.  'And you came by accident in a merchant-ship!  You are one of
+those who are marked for extraordinary adventures.  Confess: you would
+have set eyes on me, and not known me.  It's a miracle that I should meet
+my little friend Harry--little no longer my friend all the same, are you
+not?'
+
+I hoped so ardently.
+
+She with great urgency added, 'Then come with us.  Prove that you put
+faith in our friendship.'
+
+In desperation I exclaimed, 'But I must, I must hear of my father.'
+
+She turned to consult the colonel's face.
+
+'Certainly,' he said, and eulogized a loving son.  'Clara will talk to
+you.  I'm for bed.  What was the name of the play we saw this evening?
+Oh!  Struensee, to be sure.  We missed the scaffold.'
+
+He wished us good-night on an appointment of the hour for breakfast, and
+ordered beds for us in the hotel.
+
+Miss Goodwin commenced: 'But really I have nothing to tell you, or very
+little.  You know, Papa has introductions everywhere; we are like
+Continental people, and speak a variety of languages, and I am almost a
+foreigner, we are so much abroad; but I do think English boys should be
+educated at home: I hope you'll go to an English college.'
+
+Noticing my painful look, 'We saw him at the Court of the Prince of
+Eppenwelzen,' she said, as if her brows ached.  'He is very kindly
+treated there; he was there some weeks ago.  The place lies out in the
+Hanover direction, far from here.  He told us that you were with your
+grandfather, and I must see Riversley Grange, and the truth is you must
+take me there.  I suspect you have your peace to make; perhaps I shall
+help you, and be a true Peribanou.  We go over Amsterdam, the Hague,
+Brussels, and you shall see the battlefield, Paris, straight to London.
+Yes, you are fickle; you have not once called me Peribanou.'
+
+Her voluble rattling succeeded in fencing off my questions before I could
+exactly shape them, as I staggered from blind to blind idea, now thinking
+of the sombre red Bench, and now of the German prince's Court.
+
+'Won't you tell me any more to-night?' I said, when she paused.
+
+'Indeed, I have not any more to tell,' she assured me.
+
+It was clear to me that she had joined the mysterious league against my
+father.  I began to have a choking in the throat.  I thanked her and
+wished her good-night while I was still capable of smiling.
+
+At my next interview with Colonel Goodwin he spoke promptly on the
+subject of my wanderings.  I was of an age, he said, to know my own
+interests.  No doubt filial affection was excellent in its way, but in
+fact it was highly questionable whether my father was still at the Court
+of this German prince; my father had stated that he meant to visit
+England to obtain an interview with his son, and I might miss him by a
+harum-scarum chase over Germany.  And besides, was I not offending my
+grandfather and my aunt, to whom I owed so much?  He appealed to my
+warmest feelings on their behalf.  This was just the moment, he said,
+when there was a turning-point in my fortunes.  He could assure me most
+earnestly that I should do no good by knocking at this prince's doors,
+and have nothing but bitterness if I did in the end discover my father.
+'Surely you understand the advantages of being bred a gentleman?' he
+wound up.  'Under your grandfather's care you have a career before you,
+a fine fortune in prospect, everything a young man can wish for.  And I
+must tell you candidly, you run great risk of missing all these things by
+hunting your father to earth.  Give yourself a little time: reflect on
+it.'
+
+'I have,' I cried.  'I have come out to find him, and I must.'
+
+The colonel renewed his arguments and persuasions until he was worn out.
+I thanked him continually for his kindness.  Clara Goodwin besought me in
+a surprising manner to accompany her to England, called herself
+Peribanou, and with that name conjured up my father to my eyes in his
+breathing form.  She said, as her father had done, that I was called on
+now to decide upon my future: she had a presentiment that evil would come
+to me of my unchecked, headstrong will, which she dignified by terming it
+a true but reckless affection: she believed she had been thrown in my
+path to prove herself a serviceable friend, a Peribanou of twenty-six who
+would not expect me to marry her when she had earned my gratitude.
+
+They set Temple on me, and that was very funny.  To hear him with his
+'I say, Richie, come, perhaps it's as well to know where a thing should
+stop; your father knows you're at Riversley, and he'll be after you when
+convenient; and just fancy the squire!' was laughable.  He had some
+anxiety to be home again, or at least at Riversley.  I offered him to
+Miss Goodwin.
+
+She reproached me and coaxed me; she was exceedingly sweet.  'Well,' she
+said, in an odd, resigned fashion, 'rest a day with us; will you refuse
+me that?'
+
+I consented; she knew not with what fretfulness.  We went out to gaze at
+the shops and edifices, and I bought two light bags for slinging over the
+shoulder, two nightshirts, toothbrushes, and pocket-combs, and a large
+map of Germany.  By dint of vehement entreaties I led her to point to the
+territory of the Prince of Eppenwelzen-Sarkeld.  'His income is rather
+less than that of your grandfather, friend Harry,' she remarked.  I
+doated on the spot until I could have dropped my finger on it blindfold.
+
+Two or three pitched battles brought us to a friendly arrangement.  The
+colonel exacted my promise that if I saw my father at Sarkeld in
+Eppenwelzen I would not stay with him longer than seven days: and that if
+he was not there I would journey home forthwith.  When I had yielded the
+promise frankly on my honour, he introduced me to a banker of the city,
+who agreed to furnish me money to carry me on to England in case I should
+require it.  A diligence engaged to deliver me within a few miles of
+Sarkeld.  I wrote a letter to my aunt Dorothy, telling her facts, and one
+to the squire, beginning, 'We were caught on our arrival in London by the
+thickest fog ever remembered,' as if it had been settled on my departure
+from Riversley that Temple and I were bound for London.  Miss Goodwin was
+my post-bag.  She said when we had dined, about two hours before the
+starting of the diligence, 'Don't you think you ought to go and wish that
+captain of the vessel you sailed in goodbye?'  I fell into her plot so
+far as to walk down to the quays on the river-side and reconnoitre the
+ship.  But there I saw my prison.  I kissed my hand to Captain Welsh's
+mainmast rather ironically, though not without regard for him.  Miss
+Goodwin lifted her eyelids at our reappearance.  As she made no
+confession of her treason I did not accuse her, and perhaps it was owing
+to a movement of her conscience that at our parting she drew me to her
+near enough for a kiss to come of itself.
+
+Four-and-twenty German words of essential service to a traveller in
+Germany constituted our knowledge of the language, and these were on
+paper transcribed by Miss Goodwin's own hand.  In the gloom of the
+diligence, packed between Germans of a size that not even Tacitus had
+prepared me for, smoked over from all sides, it was a fascinating study.
+Temple and I exchanged the paper half-hourly while the light lasted.
+When that had fled, nothing was left us to combat the sensation that we
+were in the depths of a manure-bed, for the windows were closed, the
+tobacco-smoke thickened, the hides of animals wrapping our immense
+companions reeked; fire occasionally glowed in their pipe-bowls; they
+were silent, and gave out smoke and heat incessantly, like inanimate
+forces of nature.  I had most fantastic ideas,--that I had taken root and
+ripened, and must expect my head to drop off at any instant: that I was
+deep down, wedged in the solid mass of the earth.  But I need not repeat
+them: they were accurately translated in imagination from my physical
+miseries.  The dim revival of light, when I had well-nigh ceased to hope
+for it, showed us all like malefactors imperfectly hanged, or drowned
+wretches in a cabin under water.  I had one Colossus bulging over my
+shoulder!  Temple was blotted out.  His face, emerging from beneath a
+block of curly bearskin, was like that of one frozen in wonderment.
+Outside there was a melting snow on the higher hills; the clouds over
+them grew steel-blue.  We were going through a valley in a fir-forest.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Attacked my conscience on the cowardly side
+Days when you lay on your back and the sky rained apples
+Dogmatic arrogance of a just but ignorant man
+He put no question to anybody
+I can pay clever gentlemen for doing Greek for me
+Irony instead of eloquence
+Simplicity is the keenest weapon
+The most dangerous word of all--ja
+There's ne'er a worse off but there's a better off
+Vessel was conspiring to ruin our self-respect
+
+
+
+
+End of this Project Gutenberg Etext of Adventures of Harry Richmond, v2
+by George Meredith
+

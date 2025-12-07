@@ -1,0 +1,3477 @@
+The Project Gutenberg Etext of Vittoria by George Meredith, v7
+#47 in our series by George Meredith
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before distributing this or any other
+Project Gutenberg file.
+
+We encourage you to keep this file, exactly as it is, on your
+own disk, thereby keeping an electronic path open for future
+readers.  Please do not remove this.
+
+This header should be the first thing seen when anyone starts to
+view the etext. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the
+information they need to understand what they may and may not
+do with the etext.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get etexts, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Vittoria, v7
+
+Author: George Meredith
+
+Release Date: September, 2003 [Etext #4441]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on January 24, 2002]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: ASCII
+
+The Project Gutenberg Etext of Vittoria by George Meredith, v7
+*****This file should be named 4441.txt or 4441.zip*****
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep etexts in compliance with any particular paper edition.
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2001 as we release over 50 new Etext
+files per month, or 500 more Etexts in 2000 for a total of 4000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts.  We need
+funding, as well as continued efforts by volunteers, to maintain
+or increase our production and reach our goals.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of November, 2001, contributions are being solicited from people
+and organizations in: Alabama, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Oklahoma,
+Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fundraising
+requirements for other states are met, additions to this list will be
+made and fundraising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+
+
+
+
+VITTORIA
+
+
+By George Meredith
+
+
+
+CONTENTS:
+
+BOOK 7.
+XXXIII.   EPISODES OF THE REVOLT AND THE WAR--COUNT KARL LENKENSTEIN--
+          THE STORY OF THE GUIDASCARPI--THE VICTORY OF THE VOLUNTEERS
+XXXIV.    EPISODES OF THE REVOLT AND THE WAR--THE DEEDS OF BARTO RIZZO--
+          THE MEETING AT ROVEREDO
+XXXV.     CLOSE OF THE LOMBARD CAMPAIGN--VITTORIA'S PERPLEXITY
+XXXVI.    A FRESH ENTANGLEMENT
+XXXVII.   ON LAGO MAGGIORE
+XXXVIII.  VIOLETTA D'ISORELLA
+XXXIX.    ANNA OF LENKENSTEIN
+
+
+
+CHAPTER XXXIII
+
+EPISODES OF THE REVOLT AND THE WAR
+
+COUNT KARL LENKENSTEIN--THE STORY OF THE GUIDASCARPI--THE VICTORY OF THE
+VOLUNTEERS
+
+The smoke of a pistol-shot thinned away while there was yet silence.
+
+"It is a saving of six charges of Austrian ammunition," said Pericles.
+
+Vittoria stared at the scene, losing faith in her eyesight.  She could in
+fact see no distinct thing beyond what appeared as an illuminated copper
+medallion, held at a great distance from her, with a dead man and a
+towering female figure stamped on it.
+
+The events following were like a rush of water on her senses.  There was
+fighting up the street of the village, and a struggle in the space where
+Rinaldo had fallen; successive yellowish shots under the rising
+moonlight, cries from Italian lips, quick words of command from German in
+Italian, and one sturdy bull's roar of a voice that called across the
+tumult to the Austro-Italian soldiery, "Venite fratelli!--come, brothers,
+come under our banner!"  She heard "Rinaldo!"  called.
+
+This was a second attack of the volunteers for the rescue of their
+captured comrades.  They fought more desperately than on the hill outside
+the village: they fought with steel.  Shot enfiladed them; yet they bore
+forward in a scattered body up to that spot where Rinaldo lay, shouting
+for him.  There they turned,--they fled.
+
+Then there was a perfect stillness, succeeding the strife as quickly,
+Vittoria thought, as a breath yielded succeeds a breath taken.
+
+She accused the heavens of injustice.
+
+Pericles, prostrate on the floor, moaned that he was wounded.  She said,
+"Bleed to death!"
+
+"It is my soul, it is my soul is wounded for you, Sandra."
+
+"Dreadful craven man!" she muttered.
+
+"When my soul is shaking for your safety, Sandra Belloni!" Pericles
+turned his ear up.  "For myself--not; it is for you, for you."
+
+Assured of the cessation of arms by delicious silence he jumped to his
+feet.
+
+"Ah! brutes to fight.  It is 'immonde;' it is unnatural!"
+
+He tapped his finger on the walls for marks of shot, and discovered a
+shot-hole in the wood-work, that had passed an arm's length above her
+head, into which he thrust his finger in an intense speculative
+meditation, shifting eyes from it to her, and throwing them aloft.
+
+He was summoned to the presence of Count Karl, with whom he found Captain
+Weisspriess, Wilfrid, and officers of jagers and the Italian battalion.
+Barto Rizzo's wife was in a corner of the room.  Weisspriess met him with
+a very civil greeting, and introduced him to Count Karl, who begged him
+to thank Vittoria for the aid she had afforded to General Schoneck's
+emissary in crossing the Piedmontese lines.  He spoke in Italian.  He
+agreed to conduct Pericles to a point on the route of his march, where
+Pericles and his precious prima donna--"our very good friend," he said,
+jovially--could escape the risk of unpleasant mishaps, and arrive at
+Trent and cities of peace by easy stages.  He was marching for the
+neighbourhood of Vicenza.
+
+A little before dawn Vittoria came down to the carriage.  Count Karl
+stood at the door to hand her in.  He was young and handsome, with a soft
+flowing blonde moustache and pleasant eyes, a contrast to his brother
+Count Lenkenstein.  He repeated his thanks to her, which Pericles had not
+delivered; he informed her that she was by no means a prisoner, and was
+simply under the guardianship of friends--"though perhaps, signorina, you
+will not esteem this gentleman to be one of your friends."  He pointed to
+Weisspriess.  The officer bowed, but kept aloof.  Vittoria perceived a
+singular change in him: he had become pale and sedate.  "Poor fellow!  he
+has had his dose," Count Karl said.  "He is, I beg to assure you, one of
+your most vehement admirers."
+
+A piece of her property that flushed her with recollections, yet made her
+grateful, was presently handed to her, though not in her old enemy's
+presence, by a soldier.  It was the silver-hilted dagger, Carlo's
+precious gift, of which Weisspriess had taken possession in the mountain-
+pass over the vale of Meran, when he fought the duel with Angelo.
+Whether intended as a peace-offering, or as a simple restitution, it
+helped Vittoria to believe that Weisspriess was no longer the man he had
+been.
+
+The march was ready, but Barto Rizzo's wife refused to move a foot.  The
+officers consulted.  She, was brought before them.  The soldiers swore
+with jesting oaths that she had been carefully searched for weapons, and
+only wanted a whipping.  "She must have it," said Weisspriess.  Vittoria
+entreated that she might have a place beside her in the carriage.  "It is
+more than I would have asked of you; but if you are not afraid of her,"
+said Count Karl, with an apologetic shrug.
+
+Her heart beat fast when she found herself alone with the terrible woman.
+
+Till then she had never seen a tragic face.  Compared with this tawny
+colourlessness, this evil brow, this shut mouth, Laura, even on the
+battle-field, looked harmless.  It was like the face of a dead savage.
+The eyeballs were full on Vittoria, as if they dashed at an obstacle, not
+embraced an image.  In proportion as they seemed to widen about her,
+Vittoria shrank.  The whole woman was blood to her gaze.
+
+When she was capable of speaking, she said entreatingly:
+
+"I knew his brother."
+
+Not a sign of life was given in reply.
+
+Companionship with this ghost of broad daylight made the flattering
+Tyrolese feathers at both windows a welcome sight.
+
+Precautions had been taken to bind the woman's arms.  Vittoria offered to
+loosen the cords, but she dared not touch her without a mark of assent.
+
+"I know Angelo Guidascarpi, Rinaldo's brother," she spoke again.
+
+The woman's nostrils bent inward, as when the breath we draw is keen as a
+sword to the heart.  Vittoria was compelled to look away from her.
+
+At the mid-day halt Count Karl deigned to justify to her his intended
+execution of Rinaldo--the accomplice in the slaying of his brother Count
+Paula.  He was evidently eager to obtain her good opinion of the Austrian
+military.  "But for this miserable spirit of hatred against us," he said,
+"I should have espoused an Italian lady;" and he asked, "Why not?  For
+that matter, in all but blood we Lenkensteins are half Italian, except
+when Italy menaces the empire.  Can you blame us for then drawing the
+sword in earnest?"
+
+He proffered his version of the death of Count Paul.  She kept her own
+silent in her bosom.
+
+Clelia Guidascarpi, according to his statement, had first been slain by
+her brothers.  Vittoria believed that Clelia had voluntarily submitted to
+death and died by her own hand.  She was betrothed to an Italian nobleman
+of Bologna, the friend of the brothers.  They had arranged the marriage;
+she accepted the betrothal.  "She loved my brother, poor thing!"  said
+Count Karl.  "She concealed it, and naturally.  How could she take a
+couple of wolves into her confidence?  If she had told the pair of
+ruffians that she was plighted to an Austrian, they would have quieted
+her at an earlier period.  A woman! a girl--signorina!  The intolerable
+cowardice amazes me.  It amazes me that you or anyone can uphold the
+character of such brutes.  And when she was dead they lured my brother to
+the house and slew him; fell upon him with daggers, stretched him at the
+foot of her coffin, and then--what then?--ran! ran for their lives.  One
+has gone to his account.  We shall come across the other.  He is among
+that volunteer party which attacked us yesterday.  The body was carried
+off by them; it is sufficient testimony that Angelo Guidascarpi is in the
+neighbourhood.  I should be hunting him now but that I am under orders to
+march South-east."
+
+The story, as Vittoria knew it, had a different, though yet a dreadful,
+colour.
+
+"I could have hanged Rinaldo," Count Karl said further.  "I suppose the
+rascals feared I should use my right, and that is why they sent their mad
+baggage of a woman to spare any damage to the family pride.  If I had
+been a man to enjoy vengeance, the rope would have swung for him.  In
+spite of provocation, I shall simply shoot the other; I pledge my word to
+it.  They shall be paid in coin.  I demand no interest."
+
+Weisspriess prudently avoided her.  Wilfrid held aloof.  She sat in
+garden shade till the bugle sounded.  Tyrolese and Italian soldiers were
+gibing at her haggard companion when she entered the carriage.  Fronting
+this dumb creature once more, Vittoria thought of the story of the
+brothers.  She felt herself reading it from the very page.  The woman
+looked that evil star incarnate which Laura said they were born under.
+
+This is in brief the story of the Guidascarpi.
+
+They were the offspring of a Bolognese noble house, neither wealthy nor
+poor.  In her early womanhood, Clelia was left to the care of her
+brothers.  She declined the guardianship of Countess Ammiani because of
+her love for them; and the three, with their passion of hatred to the
+Austrians inherited from father and mother, schemed in concert to throw
+off the Austrian yoke.  Clelia had soft features of no great mark; by her
+colouring she was beautiful, being dark along the eyebrows, with dark
+eyes, and a surpassing richness of Venetian hair.  Bologna and Venice
+were married in her aspect.  Her brothers conceived her to possess such
+force of mind that they held no secrets from her.  They did not know that
+the heart of their sister was struggling with an image of Power when she
+uttered hatred of it.  She was in truth a woman of a soft heart, with a
+most impressionable imagination.
+
+There were many suitors for the hand of Clelia Guidascarpi, though her
+dowry was not the portion of a fat estate.  Her old nurse counselled the
+brothers that they should consent to her taking a husband.  They
+fulfilled this duty as one that must be done, and she became sorrowfully
+the betrothed of a nobleman of Bologna; from which hour she had no
+cheerfulness.  The brothers quitted Bologna for Venice, where there was
+the bed of a conspiracy.  On their return they were shaken by rumours of
+their sister's misconduct.  An Austrian name was allied to hers in busy
+mouths.  A lady, their distant relative, whose fame was light, had
+withdrawn her from the silent house, and made display of her.  Since she
+had seen more than an Italian girl should see, the brothers proposed to
+the nobleman her betrothed to break the treaty; but he was of a mind to
+hurry on the marriage, and recollecting now that she was but a woman, the
+brothers fixed a day for her espousals, tenderly, without reproach.  She
+had the choice of taking the vows or surrendering her hand.  Her old
+nurse prayed for the day of her espousals to come with a quicker step.
+
+One night she surprised Count Paul Lenkenstein at Clelia's window.
+Rinaldo was in the garden below.  He moved to the shadow of a cypress,
+and was seen moving by the old nurse.  The lover took the single kiss he
+had come for, was led through the chamber, and passed unchallenged into
+the street.  Clelia sat between locked doors and darkened windows,
+feeling colder to the brothers she had been reared with than to all other
+men upon the earth.  They sent for her after a lapse of hours.  Her old
+nurse was kneeling at their feet.  Rinaldo asked for the name of her
+lover.  She answered with it.  Angelo said, "It will be better for you to
+die: but if you cannot do so easy a thing as that, prepare widow's
+garments."  They forced her to write three words to Count Paul, calling
+him to her window at midnight.  Rinaldo fetched a priest: Angelo laid out
+two swords.  An hour before the midnight, Clelia's old nurse raised the
+house with her cries.  Clelia was stretched dead in her chamber.  The
+brothers kissed her in turn, and sat, one at her head, one at her feet.
+At midnight her lover stood among them.  He was gravely saluted, and
+bidden to look upon the dead body.  Angelo said to him, "Had she lived
+you should have wedded her hand.  She is gone of her own free choice, and
+one of us follows her."  With the sweat of anguish on his forehead, Count
+Paul drew sword.  The window was barred; six male domestics of the
+household held high lights in the chamber; the priest knelt beside one
+corpse, awaiting the other.
+
+Vittoria's imagination could not go beyond that scene, but she looked out
+on the brother of the slain youth with great pity, and with a strange
+curiosity.  The example given by Clelia of the possible love of an
+Italian girl for the white uniform, set her thinking whether so monstrous
+a fact could ever be doubled in this world.  "Could it happen to me?"
+she asked herself, and smiled, as she half-fashioned the words on her
+lips, "It is a pretty uniform."
+
+Her reverie was broken by a hiss of "Traitress!" from the woman opposite.
+
+She  guiltily, tried to speak, and sat trembling.  A divination
+of intense hatred had perhaps read the thought within her breast: or it
+was a mere outburst of hate.  The woman's face was like the wearing away
+of smoke from a spot whence shot has issued.  Vittoria walked for the
+remainder of the day.  That fearful companion oppressed her.  She felt
+that one who followed armies should be cast in such a frame, and now
+desired with all her heart to render full obedience to Carlo, and abide
+in Brescia, or even in Milan--a city she thought of shyly.
+
+The march was hurried to the <DW72>s of the Vicentino, for enemies were
+thick in this district.  Pericles refused to quit the soldiers, though
+Count Karl used persuasion.  The young nobleman said to Vittoria, "Be on
+your guard when you meet my sister Anna.  I tell you, we can be as
+revengeful as any of you: but you will exonerate me.  I do my duty; I
+seek to do no more."
+
+At an inn that they reached toward evening she saw the innkeeper shoot a
+little ball of paper at an Italian corporal, who put his foot on it and
+picked it up.  The soldier subsequently passed through the ranks of his
+comrades, gathering winks and grins.  They were to have rested at the
+inn, but Count Karl was warned by scouts, which was sufficient to make
+Pericles cling to him in avoidance of the volunteers, of whom mainly he
+was in terror.  He looked ague-stricken.  He would not listen to her, or
+to reason in any shape.  "I am on the sea--shall I trust a boat?  I stick
+to a ship," he said.  The soldiers marched till midnight.  It was
+arranged that the carriage should strike off for Schio at dawn.  The
+soldiers bivouacked on the <DW72> of one of the low undulations falling to
+the Vicentino plain.  Vittoria spread her cloak, and lay under bare sky,
+not suffering the woman to be ejected from the carriage.  Hitherto Luigi
+had avoided her.  Under pretence of doubling Count Karl's cloak as a
+pillow for her head, he whispered, "If the signorina hears shots let her
+lie on the ground flat as a sheet."  The peacefulness surrounding her
+precluded alarm.  There was brilliant moonlight, and the host of stars,
+all dim; and first they beckoned her up to come away from trouble, and
+then, through long gazing, she had the fancy that they bent and swam
+about her, making her feel that she lay in the hollows of a warm hushed
+sea.  She wished for her lover.
+
+Men and officers were lying at a stone's-throw distant.  The Tyrolese had
+lit a fire for cooking purposes, by which four of them stood, and,
+lifting hands, sang one of their mountain songs, that seemed to her to
+spring like clear water into air, and fall wavering as a feather falls,
+or the light about a stone in water.  It lulled her to a half-sleep,
+during which she fancied hearing a broad imitation of a cat's-call from
+the mountains, that was answered out of the camp, and a talk of officers
+arose in connection with the response, and subsided.  The carriage was in
+the shadows of the fire.  In a little while Luigi and the driver began
+putting the horses to, and she saw Count Karl and Weisspriess go up to
+Luigi, who declared loudly that it was time.  The woman inside was
+aroused.  Weisspriess helped to drag her out.  Luigi kept making much
+noise, and apologized for it by saying that he desired to awaken his
+master, who was stretched in a secure circle among the Tyrolese.
+Presently Vittoria beheld the woman's arms thrown out free; the next
+minute they were around the body of Weisspriess, and a shrewd cry issued
+from Count Karl.  Shots rang from the outposts; the Tyrolese sprang to
+arms; "Sandra!" was shouted by Pericles; and once more she heard the
+'Venite fratelli!' of the bull's voice, and a stream of volunteers dashed
+at the Tyrolese with sword and dagger and bayonet.  The Austro-Italians
+stood in a crescent line--the ominous form of incipient military
+insubordination.  Their officers stormed at them, and called for Count
+Karl and for Weisspriess.  The latter replied like a man stifling, but
+Count Karl's voice was silent.
+
+"Weisspriess! here, to me!"  the captain sang out in Italian.
+
+"Ammiani! here, to me!"  was replied.
+
+Vittoria struck her hands together in electrical gladness at her lover's
+voice and name.  It rang most cheerfully.  Her home was in the conflict
+where her lover fought, and she muttered with ecstasy, "We have met! we
+have met!"  The sound of the keen steel, so exciting to dream of,
+paralyzed her nerves in a way that powder, more terrible for a woman's
+imagination, would not have done, and she could only feebly advance.  It
+was a spacious moonlight, but the moonlight appeared to have got of a
+brassy hue to her eyes, though the sparkle of the steel was white; and
+she felt too, and wondered at it, that the cries and the noise went to
+her throat, as if threatening to choke her.  Very soon she found herself
+standing there, watching for the issue of the strife, almost as dead as a
+weight in scales, incapable of clear vision.
+
+Matched against the Tyrolese alone, the volunteers had an equal fight in
+point of numbers, and the advantage of possessing a leader; for Count
+Karl was down, and Weisspriess was still entangled in the woman's arms.
+When at last Wilfrid got him free, the unsupported Tyrolese were giving
+ground before Carlo Ammiani and his followers.  These fought with stern
+fury, keeping close up to their enemy, rarely shouting.  They presented
+something like the line of a classic bow, with its arrow-head; while the
+Tyrolese were huddled in groups, and clubbed at them, and fell back for
+space, and ultimately crashed upon their betraying brothers in arms,
+swinging rifles and flying.  The Austro-Italians rang out a Viva for
+Italy, and let them fly: they were swept from the scene.
+
+Vittoria heard her lover addressing his followers.  Then he and Angelo
+stood over Count Karl, whom she had forgotten.  Angelo ran up to her, but
+gave place the moment Carlo came; and Carlo drew her by the hand swiftly
+to an obscure bend of the rolling ground, and stuck his sword in the
+earth, and there put his arms round her and held her fast.
+
+"Obey me now," were his first words.
+
+"Yes," she answered.
+
+He was harsh of eye and tongue, not like the gentle youth she had been
+torn from at the door of La Scala.
+
+"Return; make your way to Brescia.  My mother is in Brescia.  Milan is
+hateful.  I throw myself into Vicenza.  Can I trust you to obey?"
+
+"Carlo, what evil have you heard of me?"
+
+"I listen to no tales."
+
+"Let me follow you to Vicenza and be your handmaid, my beloved."
+
+"Say that you obey."
+
+"I have said it."
+
+He seemed to shut her in his heart, so closely was she enfolded.
+
+"Since La Scala," she murmured; and he bent his lips to her ear,
+whispering, "Not one thought of another woman! and never till I die."
+
+"And I only of you, Carlo, and for you, my lover, my lover!"
+
+"You love me absolutely?"
+
+"I belong to you."
+
+"I could be a coward and pray for life to live to hear you say it."
+
+"I feel I breathe another life when you are away from me."
+
+"You belong to me; you are my own?"
+
+"You take my voice, beloved."
+
+"And when I claim you, I am to have you?"
+
+"Am I not in your hands?"
+
+"The very instant I make my claim you will say yes?"
+
+"I shall not have strength for more than to nod."
+
+Carlo shuddered at the delicious image of her weakness.
+
+"My Sandra!  Vittoria, my soul!  my bride!"
+
+"O my Carlo!  Do you go to Vicenza?  And did you know I was among these
+people?"
+
+"You will hear everything from little Leone Rufo, who is wounded and
+accompanies you to Brescia.  Speak of nothing.  Speak my name, and look
+at me.  I deserve two minutes of blessedness."
+
+"Ah! my dearest, if I am sweet to you, you might have many!"
+
+"No; they begin to hum a reproach at me already, for I must be marching.
+Vicenza will soon bubble on a fire, I suspect.  Comfort my mother; she
+wants a young heart at her elbow.  If she is alone, she feeds on every
+rumour; other women scatter in emotions what poisons her.  And when my
+bride is with her, I am between them."
+
+"Yes, Carlo, I will go," said Vittoria, seeing her duty at last through
+tenderness.
+
+Carlo sprang from her side to meet Angelo, with whom he exchanged some
+quick words.  The bugle was sounding, and Barto Rizzo audible.  Luigi
+came to, her, ruefully announcing that the volunteers had sacked the
+carriage behaved worse than the Austrians; and that his padrone, the
+signor Antonio-Pericles, was off like a gossamer.  Angelo induced her to
+remain on the spot where she stood till the carriage was seen on the
+Schio road, when he led her to it, saying that Carlo had serious work to
+do.  Count Karl Lenkenstein was lying in the carriage, supported by
+Wilfrid and by young Leone Rufo, who sat laughing, with one eye under a
+cross-bandage and an arm slung in a handkerchief.  Vittoria desired to
+wait that she might see her lover once more; but Angelo entreated her
+that she should depart, too earnestly to leave her in doubt of there
+being good reason for it and for her lover's absence.  He pointed to
+Wilfrid: "Barto Rizzo captured this man; Carlo has released him.  Take
+him with you to attend on his superior officer."  She drew Angelo's
+observation to the first morning colours over the peaks.  He looked up,
+and she knew that he remembered that morning of their flight from the
+inn.  Perhaps he then had the image of his brother in his mind, for the
+colours seemed to be plucking at his heart, and he said, "I have lost
+him."
+
+"God help you, my friend!"  said Vittoria, her throat choking.
+
+Angelo pointed at the insensible nobleman: "These live.  I do not grudge
+him his breath or his chances; but why should these men take so much
+killing?  Weisspriess has risen, as though I struck the blow of a babe.
+But we one shot does for us!  Nevertheless, signorina," Angelo smiled
+firmly, "I complain of nothing while we march forward."
+
+He kissed his hand to her, and turned back to his troop.  The carriage
+was soon under the shadows of the mountains.
+
+
+
+
+CHAPTER XXXIV
+
+EPISODES OF THE REVOLT AND THE WAR
+
+THE DEEDS OF BARTO RIZZO--THE MEETING AT ROVEREDO
+
+At Schio there was no medical attendance to be obtained for Count Karl,
+and he begged so piteously to be taken on to Roveredo, that, on his
+promising to give Leone Rufo a pass, Vittoria decided to work her way
+round to Brescia by the Alpine route.  She supposed Pericles to have gone
+off among the Tyrolese, and wished in her heart that Wilfrid had gone
+likewise, for he continued to wear that look of sad stupefaction which
+was the harshest reproach to her.  Leone was unconquerably gay in spite
+of his wounds.  He narrated the doings of the volunteers, with proud
+eulogies of Carlo Ammiani's gallant leadership; but the devices of Barto
+Rizzo appeared to have struck his imagination most.  "He is positively a
+cat--a great cat," Leone said.  "He can run a day; he can fast a week; he
+can climb a house; he can drop from a crag; and he never lets go his
+hold.  If he says a thing to his wife, she goes true as a bullet to the
+mark.  The two make a complete piece of artillery.  We are all for Barto,
+though our captain Carlo is often enraged with him.  But there's no
+getting on without him.  We have found that."
+
+Rinaldo and Angelo Guidascarpi and Barto Rizzo had done many daring
+feats.  They had first, heading about a couple of dozen out of a force
+of sixty, endeavoured to surprise the fortress Rocca d'Anfo in Lake Idro
+--an insane enterprise that touched on success, and would have been an
+achievement had all the men who followed them been made of the same
+desperate stuff.  Beaten off, they escaped up the Val di Ledro, and
+secretly entered Trent, where they hoped to spread revolt, but the
+Austrian commandant knew what a quantity of dry wood was in the city, and
+stamped his heel on sparks.  A revolt was prepared notwithstanding the
+proclamation of imprisonment and death.  Barto undertook to lead a troop
+against the Buon Consiglio barracks, while Angelo and Rinaldo cleared the
+ramparts.  It chanced, whether from treachery or extra-vigilance was
+unknown, that the troops paid domiciliary visits an hour before the
+intended outbreak, and the three were left to accomplish their task
+alone.  They remained in the city several days, hunted from house to
+house, and finally they were brought to bay at night on the roof of a
+palace where the Lenkenstein ladies were residing.  Barto took his dagger
+between his teeth and dropped to the balcony of Lena's chamber.  The
+brothers soon after found the rooftrap opened to them, and Lena and Anna
+conducted them to the postern-door.  There Angelo asked whom they had to
+thank.  The terrified ladies gave their name; upon hearing which, Rinaldo
+turned and said that he would pay for a charitable deed to the extent of
+his power, and would not meanly allow them to befriend persons who were
+to continue strangers to them.  He gave the name of Guidascarpi, and
+relieved his brother, as well as himself, of a load of obligation, for
+the ladies raised wild screams on the instant.  In falling from the walls
+to the road, Rinaldo hurt his foot.  Barto lifted him on his back, and
+journeyed with him so till at the appointed place he met his wife, who
+dressed the foot, and led them out of the line of pursuit, herself
+bending under the beloved load.  Her adoration of Rinaldo was deep as a
+mother's, pure as a virgin's, fiery as a saint's.  Leone Rufo dwelt on it
+the more fervidly from seeing Vittoria's expression of astonishment.  The
+woman led them to a cave in the rocks, where she had stored provision and
+sat two days expecting the signal from Trent.  They saw numerous bands of
+soldiers set out along the valleys--merry men whom it was Barto's
+pleasure to beguile by shouts, as a relief for his parched weariness upon
+the baking rock.  Accident made it an indiscretion.  A glass was levelled
+at them by a mounted officer, and they had quickly to be moving.  Angelo
+knew the voice of Weisspriess in the word of command to the soldiers, and
+the call to him to surrender.  Weisspriess followed them across the
+mountain track, keeping at their heels, though they doubled and adopted
+all possible contrivances to shake him off.  He was joined by Count Karl
+Lenkenstein on the day when Carlo Ammiani encountered them, with the rear
+of Colonel Corte's band marching for Vicenza.  In the collision between
+the Austrians and the volunteers, Rinaldo was taken fighting upon his
+knee-cap.  Leone cursed the disabled foot which had carried the hero in
+action, to cast him at the mercy of his enemies; but recollection of that
+sight of Rinaldo fighting far ahead and alone, half-down-like a scuttled
+ship, stood like a flower in the lad's memory.  The volunteers devoted
+themselves to liberate or avenge him.  It was then that Barto Rizzo sent
+his wife upon her mission.  Leone assured Vittoria that Angelo was aware
+of its nature, and approved it--hoped that the same might be done for
+himself.  He shook his head when she asked if Count Ammiani approved it
+likewise.
+
+"Signorina, Count Ammiani has a grudge against Barto, though he can't
+help making use of him.  Our captain Carlo is too much of a mere soldier.
+He would have allowed Rinaldo to be strung up, and Barto does not owe him
+obedience in those things."
+
+"But why did this Barto Rizzo employ a woman's hand?"
+
+"The woman was capable.  No man could have got permission to move freely
+among the rascal Austrians, even in the character of a deserter.  She
+did, and she saved him from the shame of execution.  And besides, it was
+her punishment.  You are astonished?  Barto Rizzo punishes royally.  He
+never forgives, and he never persecutes; he waits for his opportunity.
+That woman disobeyed him once--once only; but once was enough.  It
+occurred in Milan, I believe.  She released an Austrian, or did something
+--I don't know the story exactly--and Barto said to her, 'Now you can
+wash out your crime and send your boy to heaven unspotted, with one
+blow.'  I saw her set out to do it.  She was all teeth and eyes, like a
+frightened horse; she walked like a Muse in a garden."
+
+Vittoria discovered that her presence among the Austrians had been known
+to Carlo.  Leone alluded slightly to Barto Rizzo's confirmed suspicion of
+her, saying that it was his weakness to be suspicious of women.  The
+volunteers, however, were all in her favour, and had jeered at Barto on
+his declaring that she might, in proof of her willingness to serve the
+cause, have used her voice for the purpose of subjugating the wavering
+Austro-Italians, who wanted as much coaxing as women.  Count Karl had
+been struck to earth by Barto Rizzo.  "Not with his boasted neatness, I
+imagine," Leone said.  In fact, the dagger had grazed an ivory portrait
+of a fair Italian head wreathed with violets in Count Karl's breast.
+
+Vittoria recognized the features of Violetta d'Isorella as the original
+of the portrait.
+
+They arrived at Roveredo late in the evening.  The wounded man again
+entreated Vittoria to remain by him till a messenger should bring one of
+his sisters from Trent.  "See," she said to Leone, "how I give grounds
+for suspicion of me; I nurse an enemy."
+
+"Here is a case where Barto is distinctly to blame," the lad replied.
+"The poor fellow must want nursing, for he can't smoke."
+
+Anna von Lenkenstein came from Trent to her brother's summons.  Vittoria
+was by his bedside, and the sufferer had fallen asleep with his head upon
+her arm.  Anna looked upon this scene with more hateful amazement than
+her dull eyelids could express.  She beckoned imperiously for her to come
+away, but Vittoria would not allow him to be disturbed, and Anna sat and
+faced her.  The sleep was long.  The eyes of the two women met from time
+to time, and Vittoria thought that Barto Rizzo's wife, though more
+terrible, was pleasanter to behold, and less brutal, than Anna.  The
+moment her brother stirred, Anna repeated her imperious gesture,
+murmuring, "Away! out of my sight!"  With great delicacy of touch she
+drew the arm from the pillow and thrust it back, and then motioning in an
+undisguised horror, said, "Go."  Vittoria rose to go.
+
+"Is it my Lena?" came from Karl's faint lips.
+
+"It is your Anna."
+
+"I should have known," he moaned.
+
+Vittoria left them.
+
+Some hours later, Countess Lena appeared, bringing a Trentino doctor.
+She said when she beheld Vittoria, "Are you our evil genius, then?"
+Vittoria felt that she must necessarily wear that aspect to them.
+
+Still greater was Lena's amazement when she looked on Wilfrid.  She
+passed him without a sign.
+
+Vittoria had to submit to an interview with both sisters before her
+departure.  Apart from her distress on their behalf, they had always
+seemed as very weak, flippant young women to her, and she could have
+smiled in her heart when Anna pointed to a day of retribution in the
+future.
+
+"I shall not seek to have you assassinated," Anna said; "do not suppose
+that I mean the knife or the pistol.  But your day will come, and I can
+wait for it.  You murdered my brother Paul: you have tried to murder my
+brother Karl.  I wish you to leave this place convinced of one thing:--
+you shall be repaid for it."
+
+There was no direct allusion either to Weisspriess or to Wilfrid.
+
+Lena spoke of the army.  "You think our cause is ruined because we have
+insurrection on all sides of us: you do not know our army.  We can fight
+the Hungarians with one hand, and you Italians with the other--with a
+little finger.  On what spot have we given way?  We have to weep, it is
+true; but tears do not testify to defeat; and already I am inclined to
+pity those fools who have taken part against us.  Some have experienced
+the fruits of their folly."
+
+This was the nearest approach to a hint at Wilfrid's misconduct.
+
+Lena handed Leone's pass to Vittoria, and drawing out a little pocket
+almanac, said, "You proceed to Milan, I presume.  I do not love your
+society; mademoiselle Belloni or Campa: yet I do not mind making an
+appointment--the doctor says a month will set my brother on his feet
+again,--I will make an appointment to meet you in Milan or Como, or
+anywhere in your present territories, during the month of August.  That
+affords time for a short siege and two pitched battles."
+
+She appeared to be expecting a retort.
+
+Vittoria replied, "I could beg one thing on my knees of you, Countess
+Lena."
+
+"And that is--?"  Lena threw her head up superbly.
+
+"Pardon my old friend the service he did me through friendship."
+
+The sisters interchanged looks.  Lena flushed angrily.
+
+Anna said, "The person to whom yon allude is here."
+
+"He is attending on your brother."
+
+"Did he help this last assassin to escape, perchance?"
+
+Vittoria sickened at the cruel irony, and felt that she had perhaps done
+ill in beginning to plead for Wilfrid.
+
+"He is here; let him speak for himself: but listen to him, Countess
+Lena."
+
+"A dishonourable man had better be dumb," interposed Anna.
+
+"Ah! it is I who have offended you."
+
+"Is that his excuse?"
+
+Vittoria kept her eyes on the fiercer sister, who now declined to speak.
+
+"I will not excuse my own deeds; perhaps I cannot.  We Italians are in a
+hurricane; I cannot reflect.  It may be that I do not act more thinkingly
+than a wild beast."
+
+"You have spoken it," Anna exclaimed.
+
+"Countess Lena, he fights in your ranks as a common soldier.  He
+encounters more than a common soldier's risks."
+
+"The man is brave,--we knew that," said Anna.
+
+"He is more than brave, he is devoted.  He fights against us, without
+hope of reward from you.  Have I utterly ruined him?"
+
+"I imagine that you may regard it as a fact that you have utterly ruined
+him," said Anna, moving to break up the parting interview.  Lena turned
+to follow her.
+
+"Ladies, if it is I who have hardened your hearts, I am more guilty than
+I thought."  Vittoria said no more.  She knew that she had been speaking
+badly, or ineffectually, by a haunting flatness of sound, as of an
+unstrung instrument, in her ears: she was herself unstrung and
+dispirited, while the recollection of Anna's voice was like a sombre
+conquering monotony on a low chord, with which she felt insufficient to
+compete.
+
+Leone was waiting in the carriage to drive to the ferry across the Adige.
+There was news in Roveredo of the king's advance upon Rivoli; and Leone
+sat trying to lift and straighten out his wounded arm, with grimaces of
+laughter at the pain of the effort, which resolutely refused to
+acknowledge him to be an able combatant.  At the carriage-door Wilfrid
+bowed once over Vittoria's hand.
+
+"You see that," Anna remarked to her sister.
+
+"I should have despised him if he had acted indifference," replied Lena.
+
+She would have suspected him--that was what her heart meant; the artful
+show of indifference had deceived her once.  The anger within her drew
+its springs much more fully from his refusal to respond to her affection,
+when she had in a fit of feminine weakness abased herself before him on
+the night of the Milanese revolt, than from the recollection of their
+days together in Meran.  She had nothing of her sister's unforgivingness.
+And she was besides keenly curious to discover the nature of the charm
+Vittoria threw on him, and not on him solely.  Vittoria left Wilfrid to
+better chances than she supposed.  "Continue fighting with your army,"
+she said, when they parted.  The deeper shade which traversed his
+features told her that, if she pleased, her sway might still be active;
+but she had no emotion to spare for sentimental regrets.  She asked
+herself whether a woman who has cast her lot in scenes of strife does not
+lose much of her womanhood and something of her truth; and while her
+imagination remained depressed, her answer was sad.  In that mood she
+pitied Wilfrid with a reckless sense of her inability to repay him for
+the harm she had done him.  The tragedies written in fresh blood all
+about her, together with that ever-present image of the fate of Italy
+hanging in the balance, drew her away from personal reflections.  She
+felt as one in a war-chariot, who has not time to cast more than a glance
+on the fallen.  At the place where the ferry is, she was rejoiced by
+hearing positive news of the proximity of the Royal army.  There were
+none to tell her that Charles Albert had here made his worst move by
+leaving Vicenza to the operations of the enemy, that he might become
+master of a point worthless when Vicenza fell into the enemy's hands.
+The old Austrian Field-Marshal had eluded him at Mantua on that very
+night when Vittoria had seen his troops in motion.  The daring Austrian
+flank-march on Vicenza, behind the fortresses of the Quadrilateral, was
+the capital stroke of the campaign.  But the presence of a Piedmontese
+vanguard at Rivoli flushed the Adige with confidence, and Vittoria went
+on her way sharing the people's delight.  She reached Brescia to hear
+that Vicenza had fallen.  The city was like a landscape smitten black by
+the thunder-cloud.  Vittoria found Countess Ammiani at her husband's
+tomb, stiff, colourless, lifeless as a monument attached to the tomb.
+
+
+
+
+CHAPTER XXXV
+
+CLOSE OF THE LOMBARD CAMPAIGN--VITTORIA'S PERPLEXITY
+
+The fall of Vicenza turned a tide that had overflowed its barriers with
+force enough to roll it to the Adriatic.  From that day it was as if a
+violent wind blew East over Lombardy; flood and wind breaking here and
+there a tree, bowing everything before them.  City, fortress, and battle-
+field resisted as the eddy whirls.  Venice kept her brave colours
+streaming aloft in a mighty grasp despite the storm, but between Venice
+and Milan there was this unutterable devastation,--so sudden a change,
+so complete a reversal of the shield, that the Lombards were at first
+incredulous even in their agony, and set their faces against it as at a
+monstrous eclipse, as though the heavens were taking false oath of its
+being night when it was day.  From Vicenza and Rivoli, to Sommacampagna,
+and across Monte Godio to Custozza, to Volta on the right of the Mincio,
+up to the gates of Milan, the line of fire travelled, with a fantastic
+overbearing swiftness that, upon the map, looks like the zig-zag elbowing
+of a field-rocket.  Vicenza fell on the 11th of June; the Austrians
+entered Milan on the 6th of August.  Within that short time the Lombards
+were struck to the dust.
+
+Countess Ammiani quitted Brescia for Bergamo before the worst had
+happened; when nothing but the king's retreat upon the Lombard capital,
+after the good fight at Volta, was known.  According to the king's
+proclamation the Piedmontese army was to defend Milan, and hope was not
+dead.  Vittoria succeeded in repressing all useless signs of grief in the
+presence of the venerable lady, who herself showed none, but simply
+recommended her accepted daughter to pray daily.  "I can neither confess
+nor pray," Vittoria said to the priest, a comfortable, irritable
+ecclesiastic, long attached to the family, and little able to deal with
+this rebel before Providence, that would not let her swollen spirit be
+bled.  Yet she admitted to him that the countess possessed resources
+which she could find nowhere; and she saw the full beauty of such
+inimitable grave endurance.  Vittoria's foolish trick of thinking for
+herself made her believe, nevertheless, that the countess suffered more
+than she betrayed, was less consoled than her spiritual comforter
+imagined.  She continued obstinate and unrepentant, saying, "If my
+punishment is to come, it will at least bring experience with it, and I
+shall know why I am punished.  The misery now is that I do not know, and
+do not see, the justice of the sentence."
+
+Countess Ammiani thought better of her case than the priest did; or she
+was more indulgent, or half indifferent.  This girl was Carlo's choice;
+--a strange choice, but the times were strange, and the girl was robust.
+The channels of her own and her husband's house were drying on all sides;
+the house wanted resuscitating.  There was promise that the girl would
+bear children of strong blood.  Countess Ammiani would not for one moment
+have allowed the spiritual welfare of the children to hang in dubitation,
+awaiting their experience of life; but a certain satisfaction was shown
+in her faint smile when her confessor lamented over Vittoria's proud
+stony state of moral revolt.  She said to her accepted daughter, "I shall
+expect you to be prepared to espouse my son as soon as I have him by my
+side;" nor did Vittoria's silent bowing of her face assure her that
+strict obedience was implied.  Precise words--"I will," and "I will not
+fail"--were exacted.  The countess showed some emotion after Vittoria had
+spoken.  "Now, may God end this war quickly, if it is to go against us,"
+she exclaimed, trembling in her chair visibly a half-minute, with dropped
+eyelids and lips moving.
+
+Carlo had sent word that he would join his mother as early as he was
+disengaged from active service, and meantime requested her to proceed to
+a villa on Lago Maggiore.  Vittoria obtained permission from the countess
+to order the route of the carriage through Milan, where she wished to
+take up her mother and her maid Giacinta.  For other reasons she would
+have avoided the city.  The thought of entering it was painful with the
+shrewdest pain.  Dante's profoundly human line seemed branded on the
+forehead of Milan.
+
+The morning was dark when they drove through the streets of Bergamo.
+Passing one of the open places, Vittoria beheld a great concourse of
+volunteer youth and citizens, all of them listening to the voice of one
+who stood a few steps above them holding a banner.  She gave an outcry of
+bitter joy.  It was the Chief.  On one side of him was Agostino, in the
+midst of memorable heads that were unknown to her.  The countess refused
+to stay, though Vittoria strained her hands together in extreme entreaty
+that she might for a few moments hear what the others were hearing.
+"I speak for my son, and I forbid it," Countess Ammiani said.  Vittoria
+fell back and closed her eyes to cherish the vision.  All those faces
+raised to the one speaker under the dark sky were beautiful.  He had
+breathed some new glory of hope in them, making them shine beneath the
+overcast heavens, as when the sun breaks from an evening cloud and
+flushes the stems of a company of pine-trees.
+
+Along the road to Milan she kept imagining his utterance until her heart
+rose with music.  A delicious stream of music, thin as poor tears, passed
+through her frame, like a life reviving.  She reached Milan in a mood to
+bear the idea of temporary defeat.  Music had forsaken her so long that
+celestial reassurance seemed to return with it.
+
+Her mother was at Zotti's, very querulous, but determined not to leave
+the house and the few people she knew.  She had, as she told her
+daughter, fretted so much on her account that she hardly knew whether she
+was glad to see her.  Tea, of course, she had given up all thoughts of;
+but now coffee was rising, and the boasted sweet bread of Lombardy was
+something to look at!  She trusted that Emilia would soon think of
+singing no more, and letting people rest: she might sing when she wanted
+money.  A letter recently received from Mr. Pericles said that Italy was
+her child's ruin, and she hoped Emilia was ready to do as he advised,
+and hurry to England, where singing did not upset people, and people
+lived like real Christians, not----Vittoria flapped her hand, and would
+not hear of the unchristian crimes of the South.  As regarded the
+expected defence of Milan, the little woman said, that if it brought on a
+bombardment, she would call it unpardonable wickedness, and only hoped
+that her daughter would repent.
+
+Zotti stood by, interpreting the English to himself by tones.  "The
+amiable donnina is not of our persuasion," he observed.  "She remains
+dissatisfied with patriotic Milan.  I have exhibited to her my dabs of
+bread through all the processes of making and baking.  It is in vain.
+She rejects analogy.  She is wilful as a principessina: 'Tis so! 'tis not
+so! 'tis my will!  be silent, thou!  Signora, I have been treated in that
+way by your excellent mother."
+
+"Zotti has not been paid for three weeks, and he certainly has not
+mentioned it or looked it, I will say, Emilia."
+
+"Zotti has had something to think of during the last three weeks," said
+Vittoria, touching him kindly on the arm.
+
+The confectioner lifted his fingers and his big brown eyes after them,
+expressive of the unutterable thoughts.  He informed her that he had laid
+in a stock of flour, in the expectation that Carlo Alberto would defend
+the city: The Milanese were ready to aid him, though some, as Zotti
+confessed, had ceased to effervesce; and a great number who were
+perfectly ready to fight regarded his tardy appeal to Italian patriotism
+very coldly.  Zotti set out in person to discover Giacinta.  The girl
+could hardly fetch her breath when she saw her mistress.  She was in
+Laura's service, and said that Laura had brought a wounded Englishman
+from the field of Custozza.  Vittoria hurried to Laura, with whom she
+found Merthyr, blue-white as a corpse, having been shot through the body.
+His sister was in one of the Lombard hamlets, unaware of his fall; Beppo
+had been sent to her.
+
+They noticed one another's embrowned complexions, but embraced silently.
+"Twice widowed!"  Laura said when they sat together.  Laura hushed all
+speaking of the war or allusion to a single incident of the miserable
+campaign, beyond the bare recital of Vittoria's adventures; yet when
+Vicenza by chance was mentioned, she burst out: "They are not cities,
+they are living shrieks.  They have been made impious for ever.  Burn
+them to ashes, that they may not breathe foul upon heaven!  "She had
+clung to the skirts of the army as far as the field of Custozza.  "He,"
+she said, pointing to the room where Merthyr lay,--"he groans less than
+the others I have nursed.  Generally, when they looked at me, they
+appeared obliged to recollect that it was not I who had hurt them.  Poor
+souls! some ended in great torment.  'I think of them as the happiest;
+for pain is a cloak that wraps you about, and I remember one middle-aged
+man who died softly at Custozza, and said, 'Beaten!'  To take that
+thought as your travelling companion into the gulf, must be worse than
+dying of agony; at least, I think so."
+
+Vittoria was too well used to Laura's way of meeting disaster to expect
+from her other than this ironical fortitude, in which the fortitude
+leaned so much upon the irony.  What really astonished her was the
+conception Laura had taken of the might of Austria.  Laura did not
+directly speak of it, but shadowed it in allusive hints, much as if she
+had in her mind the image of an iron roller going over a field of flowers
+--hateful, imminent, irresistible.  She felt as a leaf that has been
+flying before the gale.
+
+Merthyr's wound was severe: Vittoria could not leave him.  Her resolution
+to stay in Milan brought her into collision with Countess Ammiani, when
+the countess reminded her of her promise, sedately informing her that she
+was no longer her own mistress, and had a primary duty to fulfil.  She
+offered to wait three days, or until the safety of the wounded man was
+medically certified to.  It was incomprehensible to her that Vittoria
+should reject her terms; and though it was true that she would not have
+listened to a reason, she was indignant at not hearing one given in
+mitigation of the offence.  She set out alone on her journey, deeply
+hurt.  The reason was a feminine sentiment, and Vittoria was naturally
+unable to speak it.  She shrank with pathetic horror from the thought of
+Merthyr's rising from his couch to find her a married woman, and desired
+most earnestly that her marriage should be witnessed by him.  Young women
+will know how to reconcile the opposition of the sentiment.  Had Merthyr
+been only slightly wounded, and sound enough to seem to be able to bear
+a bitter shock, she would not have allowed her personal feelings to cause
+chagrin to the noble lady.  The sight of her dear steadfast friend
+prostrate in the cause of Italy, and who, if he lived to rise again,
+might not have his natural strength to bear the thought of her loss with
+his old brave firmness, made it impossible for her to act decisively in
+one direct line of conduct.
+
+Countess Ammiani wrote brief letters from Luino and Pallanza on Lago
+Maggiore.  She said that Carlo was in the Como mountains; he would expect
+to find his bride, and would accuse his mother; "but his mother will be
+spared those reproaches," she added, "if the last shot fired kills, as it
+generally does, the bravest and the dearest."
+
+"If it should!"--the thought rose on a quick breath in Vittoria's bosom,
+and the sentiment which held her away dispersed like a feeble smoke, and
+showed her another view of her features.  She wept with longing for love
+and dependence.  She was sick of personal freedom, tired of the exercise
+of her will, only too eager to give herself to her beloved.  The
+blessedness of marriage, of peace and dependence, came on her imagination
+like a soft breeze from a hidden garden, like sleep.  But this very
+longing created the resistance to it in the depths of her soul.  'There
+was a light as of reviving life, or of pain comforted, when it was she
+who was sitting by Merthyr's side, and when at times she saw the hopeless
+effort of his hand to reach to hers, or during the long still hours she
+laid her head on his pillow, and knew that he breathed gratefully.  The
+sweetness of helping him, and of making his breathing pleasant to him,
+closed much of the world which lay beyond her windows to her thoughts,
+and surprised her with an unknown emotion, so strange to her that when it
+first swept up her veins she had the fancy of her having been touched by
+a supernatural hand, and heard a flying accord of instruments.  She was
+praying before she knew what prayer was.  A crucifix hung over Merthyr's
+head.  She had looked on it many times, and looked on it still, without
+seeing more than the old sorrow.  In the night it was dim.  She found
+herself trying to read the features of the thorn-crowned Head in the
+solitary night.  She and it were alone with a life that was faint above
+the engulphing darkness.  She prayed for the life, and trembled, and shed
+tears, and would have checked them; they seemed to be bearing away her
+little remaining strength.  The tears streamed.  No answer was given to
+her question, "Why do I weep?"  She wept when Merthyr had passed the
+danger, as she had wept when the hours went by, with shrouded visages;
+and though she felt the difference m the springs of her tears, she
+thought them but a simple form of weakness showing shade and light.
+
+These tears were a vanward wave of the sea to follow; the rising of her
+voice to heaven was no more than a twitter of the earliest dawn before
+the coming of her soul's outcry.
+
+"I have had a weeping fit," she thought, and resolved to remember it
+tenderly, as being associated with her friend's recovery, and a singular
+masterful power absolutely to look on the Austrians marching up the
+streets of Milan, and not to feel the surging hatred, or the nerveless
+despair, which she had supposed must be her alternatives.
+
+It is a mean image to say that the entry of the Austrians into the
+reconquered city was like a river of oil permeating a lake of vinegar,
+but it presents the fact in every sense.  They demanded nothing more than
+submission, and placed a gentle foot upon the fallen enemy; and wherever
+they appeared they were isolated.  The deepest wrath of the city was,
+nevertheless, not directed against them, but against Carlo Alberto, who
+had pledged his honour to defend it, and had forsaken it.  Vittoria
+committed a public indiscretion on the day when the king left Milan to
+its fate: word whereof was conveyed to Carlo Ammiani, and he wrote to
+her.
+
+"It is right that I should tell you what I have heard," the letter said.
+"I have heard that my bride drove up to the crowned traitor, after he had
+unmasked himself, and when he was quitting the Greppi palace, and that
+she kissed his hand before the people--poor bleeding people of Milan!
+This is what I hear in the Val d'Intelvi:--that she despised the misery
+and just anger of the people, and, by virtue of her name and mine,
+obtained a way for him.  How can she have acted so as to give a colour to
+this infamous scandal?  True or false, it does not affect my love for
+her.  Still, my dearest, what shall I say?  You keep me divided in two
+halves.  My heart is out of me; and if I had a will, I think I should be
+harsh with you.  You are absent from my mother at a time when we are
+about to strike another blow.  Go to her.  It is kindness; it is charity:
+I do not say duty.  I remember that I did write harshly to you from
+Brescia.  Then our march was so clear in view that a little thing ruffled
+me.  Was it a little thing?  But to applaud the Traitor now!  To uphold
+him who has spilt our blood only to hand the country over to the old
+gaolers!  He lent us his army like a Jew, for huge interest.  Can you not
+read him?  If not, cease, I implore you, to think at all for yourself.
+
+"Is this a lover's letter?  I know that my beloved will see the love in
+it.  To me your acts are fair and good as the chronicle of a saint.  I
+find you creating suspicion--almost justifying it in others, and putting
+your name in the mouth of a madman who denounces you.  I shall not speak
+more of him.  Remember that my faith in you is unchangeable, and I pray
+you to have the same in me.
+
+"I sent you a greeting from the Chief.  He marched in the ranks from
+Bergamo.  I saw him on the line of march strip off his coat to shelter a
+young lad from the heavy rain.  He is not discouraged; none are who have
+been near him.
+
+"Angelo is here, and so is our Agostino; and I assure you he loads and
+fires a carbine much more deliberately than he composes a sonnet.  I am
+afraid that your adored Antonio-Pericles fared badly among our fellows,
+but I could gather no particulars.
+
+"Oh!  the bright two minutes when I held you right in my heart.  That
+spot on the Vicentino is alone unclouded.  If I live I will have that bit
+of ground.  I will make a temple of it.  I could reach it blindfolded."
+
+A townsman of Milan brought this letter to Vittoria.  She despatched
+Luigi with her reply, which met the charge in a straightforward
+affirmative.
+
+"I was driving to Zotti's by the Greppi palace, when I saw the king come
+forth, and the people hooted him.  I stood up, and petitioned to kiss his
+hand.  The people knew me.  They did not hoot any more for some time.
+
+"So that you have heard the truth, and you must judge me by it.  I cannot
+even add that I am sorry, though I strive to wish that I had not been
+present.  I might wish it really, if I did not feel it to be a cowardly
+wish.
+
+"Oh, my Carlo! my lover! my husband! you would not have me go against my
+nature?  I have seen the king upon the battle-field.  He has deigned to
+speak to me of Italy and our freedom.  I have seen him facing our enemy;
+and to see him hooted by the people, and in misfortune and with sad eyes!
+--he looked sad and nothing else--and besides, I am sure I know the king.
+I mean that I understand him.  I am half ashamed to write so boldly, even
+to you.  I say to myself you should know me, at least; and if I am guilty
+of a piece of vanity, you should know that also.  Carlo Alberto is quite
+unlike other men.  He worships success as, much; but they are not, as he
+is, so much bettered by adversity.  Indeed I do not believe that he has
+exact intentions of any sort, or ever had the intention to betray us, or
+has done so in reality, that is, meaningly, of his own will.  Count
+Medole and his party did, as you know, offer Lombardy to him; and Venice
+gave herself--brave, noble Venice!  Oh! if we two were there--Venice has
+England's sea-spirit.  But, did we not flatter the king?  And ask
+yourself, my Carlo, could a king move in such an enterprise as a common
+person?  Ought we not to be in union with Sardinia?  How can we be if we
+reject her king?  Is it not the only positive army that, we can look to--
+I mean regular army?  Should we not; make some excuses for one who is not
+in our position?
+
+"I feel that I push my questions like waves that fall and cannot get
+beyond--they crave so for answers agreeing to them.  This should make me
+doubt myself, perhaps; but they crowd again, and seem so conclusive until
+I have written them down.  I am unworthy to struggle with your intellect;
+but I say to myself, how unworthy of you I should be if I did not use my
+own, such as it is!  The poor king; had to conclude an armistice to save
+his little kingdom.  Perhaps we ought to think of that sternly.  My heart
+is; filled with pity.
+
+"It cannot but be right that you should know the worst; of me.  I call
+you my husband, and tremble to be permitted to lean my head on your bosom
+for hours, my sweet lover!  And yet my cowardice, if I had let the king
+go by without a reverential greeting from me, in his adversity, would
+have rendered me insufferable to myself.  You are hearing me, and I am
+compelled to say, that rather than behave so basely I would forfeit your
+love, and be widowed till death should offer us for God to join us.  Does
+your face change to me?
+
+"Dearest, and I say it when the thought of you sets me almost swooning.
+I find my hands clasped, and I am muttering I know not what, and I am
+blushing.  The ground seems to rock; I can barely breathe; my heart is
+like a bird caught in the hands of a cruel boy: it will not rest.  I fear
+everything.  I hear a whisper, 'Delay not an instant!' and it is like a
+furnace; 'Hasten to him!  Speed!' and I seem to totter forward and drop--
+I think I have lost you--I am like one dead.
+
+"I remain here to nurse our dear friend Merthyr.  For that reason I am
+absent from your mother.  It is her desire that we should be married.
+
+"Soon, soon, my own soul!
+
+"I seem to be hanging on a tree for you, swayed by such a teazing wind.
+
+"Oh, soon!  or I feel that I shall hate any vestige of will that I have
+in this head of mine.  Not in the heart--it is not there!
+
+"And sometimes I am burning to sing.  The voice leaps to my lips; it is
+quite like a thing that lives apart--my prisoner.
+
+"It is true, Laura is here with Merthyr.
+
+"Could you come at once?--not here, but to Pallanza?  We shall both make
+our mother happy.  This she wishes, this she lives for, this consoles
+her--and oh, this gives me peace!  Yes, Merthyr is recovering!  I can
+leave him without the dread I had; and Laura confesses to the feminine
+sentiment, if her funny jealousy of a rival nurse is really simply
+feminine.  She will be glad of our resolve, I am sure.  And then you will
+order all my actions; and I shall be certain that they are such as I
+would proudly call mine; and I shall be shut away from the world.  Yes;
+let it be so!  Addio.  I reserve all sweet names for you.  Addio.  In
+Pallanza:--no not Pallanza--Paradise!
+
+"Hush! and do not smile at me:--it was not my will, I discover, but my
+want of will, that distracted me.
+
+"See my last signature of--not Vittoria; for I may sign that again and
+still be Emilia Alessandra Ammiani.
+
+                                        "SANDRA BELLONI"
+
+The letter was sealed; Luigi bore it away, and a brief letter to Countess
+Ammiani, in Pallanza, as well.
+
+Vittoria was relieved of her anxiety concerning Merthyr by the arrival of
+Georgiana, who had been compelled to make her way round by Piacenza and
+Turin, where she had left Gambier, with Beppo in attendance on him.
+Georgiana at once assumed all the duties of head-nurse, and the more
+resolutely because of her brother's evident moral weakness in sighing for
+the hand of a fickle girl to smooth his pillow.  "When he is stronger you
+can sit beside him a little," she said to Vittoria, who surrendered her
+post without a struggle, and rarely saw him, though Laura told her that
+his frequent exclamation was her name, accompanied by a soft look at his
+sister--"which would have stirred my heart like poor old Milan last
+March," Laura added, with a lift of her shoulders.
+
+Georgiana's icy manner appeared infinitely strange to Vittoria when she
+heard from Merthyr that his sister had become engaged to Captain Gambier.
+
+"Nothing softens these women," said Laura, putting Georgiana in a class.
+
+"I wish you could try the effect of your winning Merthyr," Vittoria
+suggested.
+
+"I remember that when I went to my husband, I likewise wanted every woman
+of my acquaintance to be married."  Laura sighed deeply.  "What is this
+poor withered body of mine now?  It feels like an old volcano, cindery,
+with fire somewhere:--a charming bride!  My dear, if I live till my
+children make me a grandmother, I shall look on the love of men and women
+as a toy that I have played with.  A new husband?  I must be dragged
+through the Circles of Dante before I can conceive it, and then I should
+loathe the stranger."
+
+News came that the volunteers were crushed.  It was time for Vittoria to
+start for Pallanza, and she thought of her leave-taking; a final leave-
+taking, in one sense, to the friends who had cared too much for her.
+Laura delicately drew Georgiana aside in the sick-room, which she would
+not quit, and alluded to the necessity for Vittoria's departure without
+stating exactly wherefore: but Georgiana was a Welshwoman.  Partly to
+show her accurate power of guessing, and chiefly that she might reprove
+Laura's insulting whisper, which outraged and irritated her as much as if
+"Oh! your poor brother!"  had been exclaimed, she made display of
+Merthyr's manly coldness by saying aloud, "You mean, that she is going to
+her marriage."  Laura turned her face to Merthyr.  He had striven to rise
+on his elbow, and had dropped flat in his helplessness.  Big tears were
+rolling down his cheeks.  His articulation failed him, beyond a
+reiterated "No, no," pitiful to hear, and he broke into childish sobs.
+Georgiana hurried Laura from the room.  By-and-by the doctor was promptly
+summoned, and it was Georgiana herself, miserably humbled, who obtained
+Vittoria's sworn consent to keep the life in Merthyr by lingering yet
+awhile.
+
+Meantime Luigi brought a letter from Pallanza in Carlo's handwriting.
+This was the burden of it:
+
+"I am here, and you are absent.  Hasten!"
+
+
+
+
+CHAPTER XXXVI
+
+A FRESH ENTANGLEMENT
+
+The Lenkenstein ladies returned to Milan proudly in the path of the army
+which they had followed along the city walls on the black March midnight.
+The ladies of the Austrian aristocracy generally had to be exiles from
+Vienna, and were glad to flock together even in an alien city.  Anna and
+Lena were aware of Vittoria's residence in Milan, through the interchange
+of visits between the Countess of Lenkenstein and her sister Signora
+Piaveni.  They heard also of Vittoria's prospective and approaching
+marriage to Count Ammiani.  The Duchess of Graatli, who had forborne a
+visit to her unhappy friends, lest her Austrian face should wound their
+sensitiveness, was in company with the Lenkensteins one day, when Irma di
+Karski called on them.  Irma had come from Lago Maggiore, where she had
+left her patron, as she was pleased to term Antonio-Pericles.  She was
+full of chatter of that most worthy man's deplorable experiences of
+Vittoria's behaviour to him during the war, and of many things besides.
+According to her account, Vittoria had enticed him from place to place
+with promises that the next day, and the next day, and the day after, she
+would be ready to keep her engagement to go to London, and at last she
+had given him the slip and left him to be plucked like a pullet by a
+horde of volunteer banditti, out of whose hands Antonio-Pericles-"one of
+our richest millionaires in Europe, certainly our richest amateur," said
+Irma--escaped in fit outward condition for the garden of Eden.
+
+Count Karl was lying on the sofa, and went into endless invalid's
+laughter at the picture presented by Irma of the 'wild man' wanderings
+of poor infatuated Pericles, which was exaggerated, though not
+intentionally, for Irma repeated the words and gestures of Pericles in
+the recital of his tribulations.  Being of a somewhat similar physical
+organization, she did it very laughably.  Irma declared that Pericles was
+cured of his infatuation.  He had got to Turin, intending to quit Italy
+for ever, when--"he met me," said Irma modestly.
+
+"And heard that the war was at an end," Count Karl added.
+
+"And he has taken the superb Villa Ricciardi, on Lago Maggiore, where he
+will have a troupe of singers, and perform operas, in which I believe I
+may possibly act as prima donna.  The truth is, I would do anything to
+prevent him from leaving the country."
+
+But Irma had more to say; with "I bear no malice," she commenced it.  The
+story she had heard was that Count Ammiani, after plighting himself to a
+certain signorina, known as Vittoria Campa, had received tidings that she
+was one of those persons who bring discredit on Irma's profession.
+"Gifted by nature, I can acknowledge," said Irma; "but devoured by vanity
+--a perfect slave to the appetite for praise; ready to forfeit anything
+for flattery!  Poor signor Antonio-Pericles!--he knows her."  And now
+Count Ammiani, persuaded to reason by his mother, had given her up.
+There was nothing more positive, for Irma had seen him in the society of
+Countess Violetta d'Isorella.
+
+Anna and Lena glanced at their brother Karl.
+
+"I should not allude to what is not notorious," Irma pursued.  "They are
+always together.  My dear Antonio-Pericles is most amusing in his
+expressions of delight at it.  For my part, though she served me an evil
+turn once,--you will hardly believe, ladies, that in her jealousy of me
+she was guilty of the most shameful machinations to get me out of the way
+on the night of the first performance of Camilla,--but, for my part, I
+bear no malice.  The creature is an inveterate rebel, and I dislike her
+for that, I do confess."
+
+"The signorina Vittoria Campa is my particular and very dear friend,"
+said the duchess.
+
+"She is not the less an inveterate rebel," said Anna.
+
+Count Karl gave a long-drawn sigh.  "Alas, that she should have brought
+discredit on Fraulein di Karski's profession!"
+
+The duchess hurried straightway to Laura, with whom was Count
+Serabiglione, reviewing the present posture of affairs from the
+condescending altitudes of one that has foretold it.  Laura and Amalia
+embraced and went apart.  During their absence Vittoria came down to the
+count and listened to a familiar illustration of his theory of the
+relations which should exist between Italy and Austria, derived from the
+friendship of those two women.
+
+"What I wish you to see, signorina, is that such an alliance is possible;
+and, if we supply the brains, as we do, is by no means likely to be
+degrading.  These bears are absolutely on their knees to us for good
+fellowship.  You have influence, you have amazing wit, you have
+unparalleled beauty, and, let me say it with the utmost sadness, you have
+now had experience.  Why will you not recognize facts?  Italian unity!
+I have exposed the fatuity--who listens?  Italian freedom!  I do not
+attempt to reason with my daughter.  She is pricked by an envenomed fly
+of Satan.  Yet, behold her and the duchess!  It is the very union I
+preach; and I am, I declare to you, signorina, in great danger.  I feel
+it, but I persist.  I am in danger" (Count Serabiglione bowed his head
+low) "of the transcendent sin of scorn of my species."
+
+The little nobleman swayed deploringly in his chair.  "Nothing is so
+perilous for a soul's salvation as that.  The one sane among madmen!
+The one whose reason is left to him among thousands who have forsaken it!
+I beg you to realize the idea.  The Emperor, as I am given to understand,
+is about to make public admission of my services.  I shall be all the
+more hated.  Yet it is a considerable gain.  I do not deny that I esteem
+it as a promotion for my services.  I shall not be the first martyr in
+this world, signorina."
+
+Count Serabiglione produced a martyr's smile.
+
+"The profits of my expected posts will be," he was saying, with a
+reckoning eye cast upward into his cranium for accuracy, when Laura
+returned, and Vittoria ran out to the duchess.  Amalia repeated Irma's
+tattle.  A curious little twitching of the brows at Violetta d'Isorella's
+name marked the reception of it.
+
+"She is most lovely," Vittoria said.
+
+"And absolutely reckless."
+
+"She is an old friend of Count Ammiani's."
+
+"And you have an old friend here.  But the old friend of a young woman--
+I need not say further than that it is different."
+
+The duchess used the privilege of her affection, and urged Vittoria not
+to trifle with her lover's impatience.
+
+Admitted to the chamber where Merthyr lay, she was enabled to make
+allowance for her irresolution.  The face of the wounded man was like a
+lake-water taking light from Vittoria's presence.
+
+"This may go on for weeks," she said to Laura.
+
+Three days later, Vittoria received an order from the Government to quit
+the city within a prescribed number of hours, and her brain was racked to
+discover why Laura appeared so little indignant at the barbarous act of
+despotism.  Laura undertook to break the bad news to Merthyr.  The
+parting was as quiet and cheerful as, in the opposite degree, Vittoria
+had thought it would be melancholy and regretful.  "What a Government!"
+Merthyr said, and told her to let him hear of any changes.  "All changes
+that please my friends please me."
+
+Vittoria kissed his forehead with one grateful murmur of farewell to the
+bravest heart she had ever known.  The going to her happiness seemed more
+like going to something fatal until she reached the Lago Maggiore.  There
+she saw September beauty, and felt as if the splendour encircling her
+were her bridal decoration.  But no bridegroom stood to greet her on the
+terrace-steps between the potted orange and citron-trees.  Countess
+Ammiani extended kind hands to her at arms' length.
+
+"You have come," she said.  "I hope that it is not too late."
+
+Vittoria was a week without sight of her lover: nor did Countess Ammiani
+attempt to explain her words, or speak of other than common daily things.
+In body and soul Vittoria had taken a chill.  The silent blame resting on
+her in this house called up her pride, so that she would not ask any
+questions; and when Carlo came, she wanted warmth to melt her.  Their
+meeting was that of two passionless creatures.  Carlo kissed her loyally,
+and courteously inquired after her health and the health of friends in
+Milan, and then he rallied his mother.  Agostino had arrived with him,
+and the old man, being in one of his soft moods, unvexed by his conceits,
+Vittoria had some comfort from him of a dull kind.  She heard Carlo
+telling his mother that he must go in the morning.  Agostino replied to
+her quick look at him, "I stay;" and it seemed like a little saved from
+the wreck, for she knew that she could speak to Agostino as she could not
+to the countess.  When his mother prepared to retire, Carlo walked over
+to his bride, and repeated rapidly and brightly his inquiries after
+friends in Milan.  She, with a pure response to his natural-unnatural
+manner, spoke of Merthyr Powys chiefly: to which he said several times,
+"Dear fellow!"  and added, "I shall always love Englishmen for his sake."
+
+This gave her one throb.  "I could not leave him, Carlo."
+
+"Certainly not, certainly not," said Carlo.  "I should have been happy to
+wait on him myself.  I was busy; I am still.  I dare say you have guessed
+that I have a new journal in my head: the Pallanza Iris is to be the name
+of it;--to be printed in three colours, to advocate three principles, in
+three styles.  The Legitimists, the Moderates, and the Republicans are to
+proclaim themselves in its columns in prose, poetry, and hotch-potch.
+Once an editor, always an editor.  The authorities suspect that something
+of the sort is about to be planted, so I can only make occasional visits
+here:--therefore, as you will believe,"--Carlo let his voice fall--"I
+have good reason to hate them still.  They may cease to persecute me
+soon."
+
+He insisted upon lighting his mother to her room.  Vittoria and Agostino
+sat talking of the Chief and the minor events of the war--of Luciano,
+Marco, Giulio, and Ugo Corte--till the conviction fastened on them that
+Carlo would not return, when Agostino stood up and said, yawning wearily,
+"I'll talk further to you, my child, tomorrow."
+
+She begged that it might be now.
+
+"No; to-morrow," said he.
+
+"Now, now!" she reiterated, and brought down a reproof from his fore-
+finger.
+
+"The poetic definition of 'now' is that it is a small boat, my daughter,
+in which the female heart is constantly pushing out to sea and sinking.
+'To-morrow' is an island in the deeps, where grain grows.  When I land
+you there, I will talk to you."
+
+She knew that he went to join Carlo after he had quitted her.
+
+Agostino was true to his promise next day.  He brought her nearer to what
+she had to face, though he did not help her vision much.  Carlo had gone
+before sunrise.
+
+They sat on the terrace above the lake, screened from the sunlight by
+thick myrtle bushes.  Agostino smoked his loosely-rolled cigarettes, and
+Vittoria sipped chocolate and looked upward to the summit of Motterone,
+with many thoughts and images in her mind.
+
+He commenced by giving her a love-message from Carlo.  "Hold fast to it
+that he means it: conduct is never a straight index where the heart's
+involved," said the chuckling old man; "or it is not in times like ours.
+You have been in the wrong, and your having a good excuse will not help
+you before the deciding fates.  Woman that you are! did you not think
+that because we were beaten we were going to rest for a very long while,
+and that your Carlo of yesterday was going to be your Carlo of to-day?"
+
+Vittoria tacitly confessed to it.
+
+"Ay," he pursued, "when you wrote to him in the Val d'Intelvi, you
+supposed you had only to say, 'I am ready,' which was then the case.  You
+made your summer and left the fruits to hang, and now you are astounded
+that seasons pass and fruits drop.  You should have come to this place,
+if but for a pair of days, and so have fixed one matter in the chapter.
+This is how the chapter has run on.  I see I talk to a stunned head; you
+are thinking that Carlo's love for you can't have changed: and it has
+not, but occasion has gone and times have changed.  Now listen.  The
+countess desired the marriage.  Carlo could not go to you in Milan with
+the sword in his hand.  Therefore you had to come to him.  He waited for
+you, perhaps for his own preposterous lover's sake as much as to make his
+mother's heart easy.  If she loses him she loses everything, unless he
+leaves a wife to her care and the hope that her House will not be
+extinct, which is possibly not much more the weakness of old aristocracy
+than of human nature.
+
+"Meantime, his brothers in arms had broken up and entered Piedmont, and
+he remained waiting for you still.  You are thinking that he had not
+waited a month.  But if four months finished Lombardy, less than one
+month is quite sufficient to do the same for us little beings.  He met
+the Countess d'Isorella here.  You have to thank her for seeing him at
+all, so don't wrinkle your forehead yet.  Luciano Romara is drilling his
+men in Piedmont; Angelo Guidascarpi has gone there.  Carlo was
+considering it his duty to join Luciano, when he met this lady, and she
+has apparently succeeded in altering his plans.  Luciano and his band
+will go to Rome.  Carlo fancies that another blow will be struck for
+Lombardy.  This lady should know; the point is, whether she can be
+trusted.  She persists in declaring that Carlo's duty is to remain, and--
+I cannot tell how, for I am as a child among women--she has persuaded him
+of her sincerity.  Favour me now with your clearest understanding, and
+deliver it from feminine sensations of any description for just two
+minutes."
+
+Agostino threw away the end of a cigarette and looked for firmness in
+Vittoria's eyes.
+
+"This Countess d'Isorella is opposed to Carlo's marriage at present.  She
+says that she is betraying the king's secrets, and has no reliance on a
+woman.  As a woman you will pardon her, for it is the language of your
+sex.  You are also denounced by Barto Rizzo, a madman--he went mad as
+fire, and had to be chained at Varese.  In some way or other Countess
+d'Isorella got possession of him; she has managed to subdue him.  A
+sword-cut he received once in Verona has undoubtedly affected his brain,
+or caused it to be affected under strong excitement.  He is at her villa,
+and she says--perhaps with some truth--that Carlo would in several ways
+lose his influence by his immediate marriage with you.  The reason must
+have weight; otherwise he would fulfil his mother's principal request,
+and be at the bidding of his own desire.  There; I hope I have spoken
+plainly."
+
+Agostino puffed a sigh of relief at the conclusion of his task.
+
+Vittoria had been too strenuously engaged in defending the steadiness of
+her own eyes to notice the shadow of an assumption of frankness in his.
+
+She said that she understood.
+
+She got away to her room like an insect carrying a load thrice its own
+size.  All that she could really gather from Agostino's words was, that
+she felt herself rocking in a tower, and that Violetta d'Isorella was
+beautiful.  She had striven hard to listen to him with her wits alone,
+and her sensations subsequently revenged themselves in this fashion.  The
+tower rocked and struck a bell that she discovered to be her betraying
+voice uttering cries of pain.  She was for hours incapable of meeting
+Agostino again.  His delicate intuition took the harshness off the
+meeting.  He led her even to examine her state of mind, and to discern
+the fancies from the feelings by which she was agitated.  He said
+shrewdly and bluntly, "You can master pain, but not doubt.  If you show a
+sign of unhappiness, remember that I shall know you doubt both what I
+have told you, and Carlo as well."
+
+Vittoria fenced: "But is there such a thing as happiness?"
+
+"I should imagine so," said Agostino, touching her cheek, "and
+slipperiness likewise.  There's patience at any rate; only you must dig
+for it.  You arrive at nothing, but the eternal digging constitutes the
+object gained.  I recollect when I was a raw lad, full of ambition, in
+love, and without a franc in my pockets, one night in Paris, I found
+myself looking up at a street lamp; there was a moth in it.  He couldn't
+get out, so he had very little to trouble his conscience.  I think he was
+near happiness: he ought to have been happy.  My luck was not so good, or
+you wouldn't see me still alive, my dear."
+
+Vittoria sighed for a plainer speaker.
+
+
+
+
+CHAPTER XXXVII
+
+ON LAGO MAGGIORE
+
+Carlo's hours were passed chiefly across the lake, in the Piedmontese
+valleys.  When at Pallanza he was restless, and he shunned the two or
+three minutes of privacy with his betrothed which the rigorous Italian
+laws besetting courtship might have allowed him to take.  He had
+perpetually the look of a man starting from wine.  It was evident that
+he and Countess d'Isorella continued to hold close communication, for she
+came regularly to the villa to meet him.  On these occasions Countess
+Ammiani accorded her one ceremonious interview, and straightway locked
+herself in her room.  Violetta's grace of ease and vivacity soared too
+high to be subject to any hostile judgement of her character.  She seemed
+to rely entirely on the force of her beauty, and to care little for those
+who did not acknowledge it.  She accepted public compliments quite
+royally, nor was Agostino backward in offering them.  "And you have a
+voice, you know," he sometimes said aside to Vittoria; but she had
+forgotten how easily she could swallow great praise of her voice; she had
+almost forgotten her voice.  Her delight was to hang her head above
+inverted mountains in the lake, and dream that she was just something
+better than the poorest of human creatures.  She could not avoid putting
+her mind in competition with this brilliant woman's, and feeling
+eclipsed; and her weakness became pitiable.  But Countess d'Isorella
+mentioned once that Pericles was at the Villa Ricciardi, projecting
+magnificent operatic entertainments.  The reviving of a passion to sing
+possessed Vittoria like a thirst for freedom, and instantly confused all
+the reflected images within her, as the fury of a sudden wind from the
+high Alps scourges the glassy surface of the lake.  She begged Countess
+Ammiani's permission that she might propose to Pericles to sing in his
+private operatic company, in any part, at the shortest notice.
+
+"You wish to leave me?" said the countess, and resolutely conceived it.
+
+Speaking to her son on this subject, she thought it necessary to make
+some excuse for a singer's instinct, who really did not live save on the
+stage.  It amused Carlo; he knew when his mother was really angry with
+persons she tried to shield from the anger of others; and her not seeing
+the wrong on his side in his behaviour to his betrothed was laughable.
+Nevertheless she had divined the case more correctly than he: the lover
+was hurt.  After what he had endured, he supposed, with all his
+forgiveness, that he had an illimitable claim upon his bride's patience.
+He told his another to speak to her openly.
+
+"Why not you, my Carlo?" said the countess.
+
+"Because, mother, if I speak to her, I shall end by throwing out my arms
+and calling for the priest."
+
+"I would clap hands to that."
+
+"We will see; it may be soon or late, but it can't be now."
+
+"How much am I to tell her, Carlo?"
+
+"Enough to keep her from fretting."
+
+The countess then asked herself how much she knew.  Her habit of
+receiving her son's word and will as supreme kept her ignorant of
+anything beyond the outline of his plans; and being told to speak openly
+of them to another, she discovered that her acquiescing imagination
+supplied the chief part of her knowledge.  She was ashamed also to have
+it thought, even by Carlo, that she had not gathered every detail of his
+occupation, so that she could not argue against him, and had to submit to
+see her dearest wishes lightly swept aside.
+
+"I beg you to tell me what you think of Countess d'Isorella; not the
+afterthought," she said to Vittoria.
+
+"She is beautiful, dear Countess Ammiani."
+
+"Call me mother now and then.  Yes; she is beautiful.  She has a bad
+name."
+
+"Envy must have given it, I think."
+
+"Of course she provokes envy.  But I say that her name is bad, as envy
+could not make it.  She is a woman who goes on missions, and carries a
+husband into society like a passport.  You have only thought of her
+beauty?"
+
+"I can see nothing else," said Vittoria, whose torture at the sight of
+the beauty was appeased by her disingenuous pleading on its behalf.
+
+"In my time Beauty was a sinner," the countess resumed.  "My confessor
+has filled my ears with warnings that it is a net to the soul, a weapon
+for devils.  May the saints of Paradise make bare the beauty of this
+woman.  She has persuaded Carlo that she is serving the country.  You
+have let him lie here alone in a fruitless bed, silly girl.  He stayed
+for you while his comrades called him to Vercelli, where they are
+assembled.  The man whom he salutes as his Chief gave him word to go
+there.  They are bound for Rome.  Ah me!  Rome is a great name, but
+Lombardy is Carlo's natal home, and Lombardy bleeds.  You were absent--
+how long you were absent!  If you could know the heaviness of those days
+of his waiting for you.  And it was I who kept him here!  I must have
+omitted a prayer, for he would have been at Vercelli now with Luciano and
+Emilio, and you might have gone to him; but he met this woman, who has
+convinced him that Piedmont will make a Winter march, and that his
+marriage must be delayed."  The countess raised her face and drooped her
+hands from the wrists, exclaiming, "If I have lately omitted one prayer,
+enlighten me, blessed heaven!  I am blind; I cannot see for my son; I am
+quite blind.  I do not love the woman; therefore I doubt myself.  You, my
+daughter, tell me your thought of her, tell me what you think.  Young
+eyes observe; young heads are sometimes shrewd in guessing."
+
+Vittoria said, after a pause, "I will believe her to be true, if she
+supports the king."  It was hardly truthful speaking on her part.
+
+"How can Carlo have been persuaded!"  the countess sighed.
+
+"By me?"  Victoria asked herself, and for a moment she was exulting.
+
+She spoke from that emotion when it had ceased to animate her.
+
+"Carlo was angry with the king.  He echoed Agostino, but Agostino does
+not sting as he did, and Carlo cannot avoid seeing what the king has
+sacrificed.  Perhaps the Countess d'Isorella has shown him promises of
+fresh aid in the king's handwriting.  Suffering has made Carlo Alberto
+one with the Republicans, if he had other ambitions once.  And Carlo
+dedicates his blood to Lombardy: he does rightly.  Dear countess--my
+mother!  I have made him wait for me; I will be patient in waiting for
+him.  I know that Countess d'Isorella is intimate with the king.  There
+is a man named Barto Rizzo, who thinks me a guilty traitress, and she is
+making use of this man.  That must be her reason for prohibiting the
+marriage.  She cannot be false if she is capable of uniting extreme
+revolutionary agents and the king in one plot, I think; I do not know."
+Vittoria concluded her perfect expression of confidence with this atoning
+doubtfulness.
+
+Countess Ammiani obtained her consent that she would not quit her side.
+
+After Violetta had gone, Carlo, though he shunned secret interviews,
+addressed his betrothed as one who was not strange to his occupation and
+the trial his heart was undergoing.  She could not doubt that she was
+beloved, in spite of the colourlessness and tonelessness of a love that
+appealed to her intellect.  He showed her a letter he had received from
+Laura, laughing at its abuse of Countess d'Isorella, and the sarcasms
+levelled at himself.
+
+In this letter Laura said that she was engaged in something besides
+nursing.
+
+Carlo pointed his finger to the sentence, and remarked, "I must have your
+promise--a word from you is enough--that you will not meddle with any
+intrigue."
+
+Vittoria gave the promise, half trusting it to bring the lost bloom of
+their love to him; but he received it as a plain matter of necessity.
+Certain of his love, she wondered painfully that it should continue so
+barren of music.
+
+"Why am I to pledge myself that I will be useless?" she asked.  "You
+mean, my Carlo, that I am to sit still, and watch, and wait."
+
+He answered, "I will tell you this much: I can be struck vitally through
+you.  In the game I am playing, I am able to defend myself.  If you enter
+it, distraction begins.  Stay with my mother."
+
+"Am I to know nothing?"
+
+"Everything--in good time."
+
+"I might--might I not help you, my Carlo?"
+
+"Yes; and nobly too.  And I show you the way."
+
+Agostino and Carlo made an expedition to Turin.  Before he went, Carlo
+took her in his arms.
+
+"Is it coming?"  she said, shutting her eyelids like a child expecting
+the report of firearms.
+
+He pressed his lips to the closed eyes.  "Not yet; but are you growing
+timid?"
+
+His voice seemed to reprove her.
+
+She could have told him that keeping her in the dark among unknown
+terrors ruined her courage; but the minutes were too precious, his touch
+too sweet.  In eyes and hands he had become her lover again.  The
+blissful minutes rolled away like waves that keep the sunshine out at
+sea.
+
+Her solitude in the villa was beguiled by the arrival of the score of an
+operatic scena, entitled "HAGAR," by Rocco Ricci, which she fancied that
+either Carlo or her dear old master had sent, and she devoured it.  She
+thought it written expressly for her.  With HAGAR she communed during the
+long hours, and sang herself on to the verge of an imagined desert beyond
+the mountain-shadowed lake and the last view of her beloved Motterone.
+Hagar's face of tears in the Brerawas known to her; and Hagar in her
+'Addio' gave the living voice to that dumb one.  Vittoria revelled in the
+delicious vocal misery.  She expanded with the sorrow of poor Hagar,
+whose tears refreshed her, and parted her from her recent narrowing self-
+consciousness.  The great green mountain fronted her like a living
+presence.  Motterone supplied the place of the robust and venerable
+patriarch, whom she reproached, and worshipped, but with a fathomless
+burdensome sense of cruel injustice, deeper than the tears or the voice
+which spoke of it: a feeling of subjected love that was like a mother's
+giving suck to a detested child.  Countess Ammiani saw the abrupt
+alteration of her step and look with a dim surprise.  "What do you
+conceal from me?"  she asked, and supplied the answer by charitably
+attributing it to news that the signora Piaveni was coming.
+
+When Laura came, the countess thanked her, saying, "I am a wretched
+companion for this boiling head."
+
+Laura soon proved to her that she had been the best, for after very few
+hours Vittoria was looking like the Hagar on the canvas.
+
+A woman such as Violetta d'Isorella was of the sort from which Laura
+shrank with all her feminine power of loathing; but she spoke of her with
+some effort at personal tolerance until she heard of Violetta's
+stipulation for the deferring of Carlo's marriage, and contrived to guess
+that Carlo was reserved and unfamiliar with his betrothed.  Then she
+cried out, "Fool that he is! Is it ever possible to come to the end of
+the folly of men?  She has inflamed his vanity.  She met him when you
+were holding him waiting, and no doubt she commenced with lamentations
+over the country, followed by a sigh, a fixed look, a cheerful air, and
+the assurance to him that she knew it--uttered as if through the keyhole
+of the royal cabinet--she knew that Sardinia would break the Salasco
+armistice in a mouth:--if only, if the king could be sure of support from
+the youth of Lombardy."
+
+"Do you suspect the unhappy king?" Vittoria interposed.
+
+"Grasp your colours tight," said Laura, nodding sarcastic approbation of
+such fidelity, and smiling slightly.  "There has been no mention of the
+king.  Countess d'Isorella is a spy and a tool of the Jesuits, taking pay
+from all parties--Austria as well, I would swear.  Their object is to
+paralyze the march on Rome, and she has won Carlo for them.  I am told
+that Barto Rizzo is another of her conquests.  Thus she has a madman and
+a fool, and what may not be done with a madman and a fool?  However, I
+have set a watch on her.  She must have inflamed Carlo's vanity.  He has
+it, just as they all have.  There's trickery: I would rather behold the
+boy charging at the head of a column than putting faith in this base
+creature.  She must have simulated well," Laura went on talking to
+herself.
+
+"What trickery?"  said Vittoria.
+
+"He was in love with the woman when he was a lad," Laura replied, and
+pertinently to Vittoria's feelings.  This threw the moist shade across
+her features.
+
+Beppo in Turin and Luigi on the lake were the watch set on Countess
+d'Isorella; they were useless except to fortify Laura's suspicions.  The
+Duchess of Graatli wrote mere gossip from Milan.  She mentioned that Anna
+of Lenkenstein had visited with her the tomb of her brother Count Paul at
+Bologna, and had returned in double mourning; and that Madame Sedley--
+"the sister of our poor ruined Pierson"--had obtained grace, for herself
+at least, from Anna, by casting herself at Anna's feet,--and that they
+were now friends.
+
+Vittoria felt ashamed of Adela.
+
+When Carlo returned, the signora attacked him boldly with all her
+weapons; reproached him; said, "Would my husband have treated me in such
+a manner?"  Carlo twisted his moustache and stroked his young beard for
+patience.  They passed from room to balcony and terrace, and Laura
+brought him back into company without cessation of her fire of questions
+and sarcasms, saying, "No, no; we will speak of these things publicly."
+She appealed alternately to Agostino, Vittoria, and Countess Ammiani for
+support, and as she certainly spoke sense, Carlo was reduced to gloom and
+silence.  Laura then paused.  "Surely you have punished your bride
+enough?"  she said; and more softly, "Brother of my Giacomo! you are
+under an evil spell."
+
+Carlo started up in anger.  Bending to Vittoria, he offered her his hand
+to lead her out, They went together.
+
+"A good sign," said the countess.
+
+"A bad sign!" Laura sighed.  "If he had taken me out for explanation!
+But tell me, my Agostino, are you the woman's dupe?"
+
+"I have been," Agostino admitted frankly.
+
+"You did really put faith in her?"
+
+"She condescends to be so excessively charming."
+
+"You could not advance a better reason."
+
+"It is one of our best; perhaps our very best, where your sex is
+concerned, signora."
+
+"You are her dupe no more?"
+
+"No more.  Oh, dear no!"
+
+"You understand her now, do you?"
+
+"For the very reason, signora, that I have been her dupe.  That is, I am
+beginning to understand her.  I am not yet in possession of the key."
+
+"Not yet in possession!"  said Laura contemptuously; "but, never mind.
+Now for Carlo."
+
+"Now for Carlo.  He declares that he never has been deceived by her."
+
+"He is perilously vain," sighed the signora.
+
+"Seriously"--Agostino drew out the length of his beard--"I do not suppose
+that he has been--boys, you know, are so acute.  He fancies he can make
+her of service, and he shows some skill."
+
+"The skill of a fish to get into the net!"
+
+"My dearest signora, you do not allow for the times.  I remember"--
+Agostino peered upward through his eyelashes in a way that he had--
+"I remember seeing in a meadow a gossamer running away with a spider-
+thread.  It was against all calculation.  But, observe: there were
+exterior agencies at work: a stout wind blew.  The ordinary reckoning is
+based on calms.  Without the operation of disturbing elements, the
+spider-thread would have gently detained the gossamer."
+
+"Is that meant for my son?"  Countess Ammiani asked slowly, with
+incredulous emphasis.
+
+Agostino and Laura, laughing in their hearts at the mother's mysterious
+veneration for Carlo, had to explain that 'gossamer' was a poetic,
+generic term, to embrace the lighter qualities of masculine youth.
+
+A woman's figure passed swiftly by the window, which led Laura to suppose
+that the couple outside had parted.  She ran forth, calling to one of
+them, but they came hand in hand, declaring that they had seen neither
+woman nor man.  "And I am happy," Vittoria whispered.  She looked happy,
+pale though she was.
+
+"It is only my dreadful longing for rest which makes me pale," she said
+to Laura, when they were alone.  "Carlo has proved to me that he is wiser
+than I am."
+
+"A proof that you love Carlo, perhaps," Laura rejoined.
+
+"Dearest, he speaks more gently of the king."
+
+"It may be cunning, or it may be carelessness."
+
+"Will nothing satisfy you, wilful sceptic?  He is quite alive to the
+Countess d'Isorella's character.  He told me how she dazzled him once."
+
+"Not how she has entangled him now?"
+
+"It is not true.  He told me what I should like to dream over without
+talking any more to anybody.  Ah, what a delight! to have known him, as
+you did, when he was a boy.  Can one who knew him then mean harm to him?
+I am not capable of imagining it.  No; he will not abandon poor broken
+Lombardy, and he is right; and it is my duty to sit and wait.  No shadow
+shall come between us.  He has said it, and I have said it.  We have but
+one thing to fear, which is contemptible to fear; so I am at peace."
+
+"Love-sick," was Laura's mental comment.  Yet when Carlo explained his
+position to her next day, she was milder in her condemnation of him, and
+even admitted that a man must be guided by such brains as he possesses.
+He had conceived that his mother had a right to claim one month from him
+at the close of the war; he said this reddening.  Laura nodded.  He
+confessed that he was irritated when he met the Countess d'Isorella, with
+whom, to his astonishment, he found Barto Rizzo.  She had picked him up,
+weak from a paroxysm, on the high-road to Milan.  "And she tamed the
+brute," said Carlo, in admiration of her ability; "she saw that he was
+plot-mad, and she set him at work on a stupendous plot; agents running
+nowhere, and scribblings concentring in her work-basket.  You smile at
+me, as if I were a similar patient, signora.  But I am my own agent.
+I have personally seen all my men in Turin and elsewhere.  Violetta has
+not one grain of love for her country; but she can be made to serve it.
+As for me, I have gone too far to think of turning aside and drilling
+with Luciano.  He may yet be diverted from Rome, to strike another blow
+for Lombardy.  The Chief, I know, has some religious sentiment about
+Rome.  So might I have; it is the Head of Italy.  Let us raise the body
+first.  And we have been beaten here.  Great Gods!  we will have another
+fight for it on the same spot, and quickly.  Besides, I cannot face
+Luciano and tell him why I was away from him in the dark hour.  How can I
+tell him that I was lingering to bear a bride to the altar? while he and
+the rest--poor fellows!  Hard enough to have to mention it to you,
+signora!"
+
+She understood his boyish sense of shame.  Making smooth allowances for a
+feeling natural to his youth and the circumstances, she said, "I am your
+sister, for you were my husband's brother in arms, Carlo.  We two speak
+heart to heart: I sometimes fancy you have that voice: you hurt me with
+it more than you know; gladden me too!  My Carlo, I wish to hear why
+Countess d'Isorella objects to your marriage."
+
+"She does not object."
+
+"An answer that begins by quibbling is not propitious.  She opposes it."
+
+"For this reason: you have not forgotten the bronze butterfly?"
+
+"I see more clearly," said Laura, with a start.
+
+"There appears to be no cure for the brute's mad suspicion of her," Carlo
+pursued: "and he is powerful among the Milanese.  If my darling takes my
+name, he can damage much of my influence, and--you know what there is to
+be dreaded from a fanatic."
+
+Laura nodded, as if in full agreement with him, and said, after
+meditating a minute, "What sort of a lover is this!"
+
+She added a little laugh to the singular interjection.
+
+"Yes, I have also thought of a secret marriage," said Carlo, stung by her
+penetrating instinct so that he was enabled to read the meaning in her
+mind.
+
+"The best way, when you are afflicted by a dilemma of such a character,
+my Carlo," the signora looked at him, "is to take a chess-table and make
+your moves on it.  'King--my duty;' 'Queen--my passion;' 'Bishop--my
+social obligation;' 'Knight--my what-you-will and my round-the-corner
+wishes.'  Then, if you find that queen may be gratified without
+endangering king, and so forth, why, you may follow your inclinations;
+and if not, not.  My Carlo, you are either enviably cool, or you are an
+enviable hypocrite."
+
+"The matter is not quite so easily settled as that," said Carlo.
+
+On the whole, though against her preconception, Laura thought him an
+honest lover, aud not the player of a double game.  She saw that Vittoria
+should have been with him in the critical hour of defeat, when his
+passions were down, and heaven knows what weakness of our common manhood,
+that was partly pride, partly love-craving, made his nature waxen to
+every impression; a season, as Laura knew, when the mistress of a loyal
+lover should not withhold herself from him.  A nature tender like
+Carlo's, and he bearing an enamoured heart, could not, as Luciano Romara
+had done, pass instantly from defeat to drill.  And vain as Carlo was
+(the vanity being most intricate and subtle, like a nervous fluid), he
+was very open to the belief that he could diplomatize as well as fight,
+and lead a movement yet better than follow it.  Even so the signora tried
+to read his case.
+
+They were all, excepting Countess Ammiani ("who will never, I fear, do me
+this honour," Violetta wrote, and the countess said, "Never," and quoted
+a proverb), about to pass three or four days at the villa of Countess
+d'Isorella.  Before they set out, Vittoria received a portentous envelope
+containing a long scroll, that was headed "YOUR CRIMES," and detailing a
+lest of her offences against the country, from the revelation of the plot
+in her first letter to Wilfrid, to services rendered to the enemy during
+the war, up to the departure of Charles Albert out of forsaken Milan.
+
+"B. R."  was the undisguised signature at the end of the scroll.
+
+Things of this description restored her old war-spirit to Vittoria.  She
+handed the scroll to Laura; Laura, in great alarm, passed it on to Carlo.
+He sent for Angelo Guidascarpi in haste, for Carlo read it as an ante-
+dated justificatory document to some mischievous design, and he desired
+that hands as sure as his own, and yet more vigilant eyes, should keep
+watch over his betrothed.
+
+
+
+
+CHAPTER XXXVIII
+
+VIOLETTA D'ISORELLA
+
+The villa inhabited by Countess d'Isorella was on the water's edge,
+within clear view of the projecting Villa Ricciardi, in that darkly-
+wooded region of the lake which leads up to the Italian-Swiss canton.
+
+Violetta received here an envoy from Anna of Lenkenstein, direct out of
+Milan: an English lady, calling herself Mrs. Sedley, and a particular
+friend of Countess Anna.  At the first glance Violetta saw that her
+visitor had the pretension to match her arts against her own; so, to
+sound her thoroughly, she offered her the hospitalities of the villa
+for a day or more.  The invitation was accepted.  Much to Violetta's
+astonishment, the lady betrayed no anxiety to state the exact terms of
+her mission: she appeared, on the contrary, to have an unbounded
+satisfaction in the society of her hostess, and prattled of herself and
+Antonio-Pericles, and her old affection for Vittoria, with the wiliest
+simplicity, only requiring to be assured at times that she spoke
+intelligible Italian and exquisite French.  Violetta supposed her to feel
+that she commanded the situation.  Patient study of this woman revealed
+to Violetta the amazing fact that she was dealing with a born bourgeoise,
+who, not devoid of petty acuteness, was unaffectedly enjoying her noble
+small-talk, and the prospect of a footing in Italian high society.
+Violetta smiled at the comedy she had been playing in, scarcely
+reproaching herself for not having imagined it.  She proceeded to the
+point of business without further delay.
+
+Adela Sedley had nothing but a verbal message to deliver.  The Countess
+Anna of Lenkenstein offered, on her word of honour as a noblewoman, to
+make over the quarter of her estate and patrimony to the Countess
+d'Isorella, if the latter should succeed in thwarting--something.
+
+Forced to speak plainly, Adela confessed she thought she knew the nature
+of that something.
+
+To preclude its being named, Violetta then diverged from the subject.
+
+"We will go round to your friend the signor Antonio-Pericles at Villa
+Ricciardi," she said.  "You will see that he treats me familiarly, but
+he is not a lover of mine.  I suspect your 'something' has something to
+do with the Jesuits."
+
+Adela Sedley replied to the penultimate sentence: "It would not surprise
+me, indeed, to hear of any number of adorers."
+
+"I have the usual retinue, possibly," said Violetta.
+
+"Dear countess, I could be one of them myself!"  Adela burst out with
+tentative boldness.
+
+"Then, kiss me."
+
+And behold, they interchanged that unsweet feminine performance.
+
+Adela's lips were unlocked by it.
+
+"How many would envy me, dear Countess d'Isorella!"
+
+She really conceived that she was driving into Violetta's heart by the
+great high-road of feminine vanity.  Violetta permitted her to think as
+she liked.
+
+"Your countrywomen, madame, do not make large allowances for beauty,
+I hear."
+
+"None at all.  But they are so stiff!  so frigid!  I know one, a Miss
+Ford, now in Italy, who would not let me have a male friend, and a
+character, in conjunction."
+
+"You are acquainted with Count Karl Lenkenstein?"
+
+Adela blushingly acknowledged it.
+
+"The whisper goes that I was once admired by him," said Violetta.
+
+"And by Count Ammiani."
+
+"By count?  by milord?  by prince?  by king?"
+
+"By all who have good taste."
+
+"Was it jealousy, then, that made Countess Anna hate me?"
+
+"She could not--or she cannot now."
+
+"Because I have not taken possession of her brother."
+
+"I could not--may I say it?--I could not understand his infatuation until
+Countess Anna showed me the portrait of Italy's most beautiful living
+woman.  She told me to look at the last of the Borgia family."
+
+Violetta laughed out clear music.  "And now you see her?"
+
+"She said that it had saved her brother's life.  It has a star and a
+scratch on the left cheek from a dagger.  He wore it on his heart, and an
+assassin struck him there: a true romance.  Countess Anna said to me that
+it had saved one brother, and that it should help to avenge the other.
+She has not spoken to me of Jesuits."
+
+"Nothing at all of the Jesuits?"  said Violetta carelessly.  "Perhaps she
+wishes to use my endeavours to get the Salaseo armistice prolonged, and
+tempts me, knowing I am a prodigal.  Austria is victorious, you know, but
+she wants peace.  Is that the case?  I do not press you to answer."
+
+Adela replied hesitatingly: "Are you aware, countess, whether there is
+any truth in the report that Countess Lena has a passion for Count
+Ammiani?"
+
+"Ah, then," said Violetta, "Countess Lena's sister would naturally wish
+to prevent his contemplated marriage!  We may have read the riddle at
+last.  Are you discreet?  If you are, you will let it be known that I had
+the honour of becoming intimate with you in Turin--say, at the Court.  We
+shall meet frequently there during winter, I trust, if you care to make a
+comparison of the Italian with the Austrian and the English nobility."
+
+An eloquent "Oh!" escaped from Adela's bosom.  She had certainly not
+expected to win her way with this estimable Italian titled lady thus
+rapidly.  Violetta had managed her so well that she was no longer sure
+whether she did know the exact nature of her mission, the words of which
+she had faithfully transmitted as having been alone confided to her.  It
+was with chagrin that she saw Pericles put his fore-finger on a salient
+dimple of the countess's cheek when he welcomed them.  He puffed and blew
+like one working simultaneously at bugle and big drum on hearing an
+allusion to Victoria.  The mention of the name of that abominable
+traitress was interdicted at Villa Ricciardi, he said; she had dragged
+him at two armies' tails to find his right senses at last: Pericles was
+cured of his passion for her at last.  He had been mad, but he was cured
+--and so forth, in the old strain.  His preparations for a private
+operatic performance diverted him from these fierce incriminations, and
+he tripped busily from spot to spot, conducting the ladies over the
+tumbled lower floors of the spacious villa, and calling their admiration
+on the desolation of the scene.  Then they went up to the maestro's room.
+Pericles became deeply considerate for the master's privacy.  "He is my
+slave; the man has ruined himself for la Vittoria; but I respect the
+impersonation of art," he said under his breath to the ladies as they
+stood at the door; "hark!  "The piano was touched, and the voice of Irma
+di Karski broke out in a shrill crescendo.  Rocco Ricci within gave
+tongue to the vehement damnatory dance of Pericles outside.  Rocco struck
+his piano again encouragingly for a second attempt, but Irma was sobbing.
+She was heard to say: "This is the fifteenth time you have pulled me down
+in one morning.  You hate me; you do; you hate me."  Rocco ran his
+fingers across the keys, and again struck the octave for Irma.  Pericles
+wiped his forehead, when, impenitent and unteachable, she took the notes
+in the manner of a cock.  He thumped at the door violently and entered.
+
+"Excellent!  horrid!  brava!  abominable!  beautiful!  My Irma, you have
+reached the skies.  You ascend like a firework, and crown yourself at the
+top.  No more to-day; but descend at your leisure, my dear, and we will
+try to mount again by-and-by, and not so fast, if you please.  Ha!  your
+voice is a racehorse.  You will learn to ride him with temper and
+judgement, and you will go.  Not so, my Rocco?  Irma, you want repose, my
+dear.  One thing I guarantee to you--you will please the public.  It is a
+minor thing that you should please me."
+
+Countess d'Isorella led Irma away, and had to bear with many fits of
+weeping, and to assent to the force of all the charges of vindictive
+conspiracy and inveterate malice with which the jealous creature assailed
+Vittoria's name.  The countess then claimed her ear for half-a-minute.
+
+"Have you had any news of Countess Anna lately?"
+
+Irma had not; she admitted it despondently.  "There is such a vile
+conspiracy against me in Italy--and Italy is a poor singer's fame--that
+I should be tempted to do anything.  And I detest la Vittoria.  She has
+such a hold on this Antonio-Pericles, I don't see how I can hurt her,
+unless I meet her and fly at her throat."
+
+"You naturally detest her," said the countess.  "Repeat Countess Anna's
+proposal to you."
+
+"It was insulting--she offered me money."
+
+"That you should persuade me to assist you in preventing la Vittoria's
+marriage to Count Ammiani?"
+
+"Dear lady, you know I did not try to persuade you."
+
+"You knew that you would not succeed, my Irma.  But Count Ammiani will
+not marry her; so you will have a right to claim some reward.  I do not
+think that la Vittoria is quite idle.  Look out for yourself, my child.
+If you take to plotting, remember it is a game of two."
+
+"If she thwarts me in one single step, I will let loose that madman on
+her," said Irma, trembling.
+
+"You mean the signor Antonio-Pericles?"
+
+"No; I mean that furious man I saw at your villa, dear countess."
+
+"Ah!  Barto Rizzo.  A very furious man.  He bellowed when he heard her
+name, I remember.  You must not do it.  But, for Count Ammiani's sake,
+I desire to see his marriage postponed, at least."
+
+"Where is she?"  Irma inquired.
+
+The countess shrugged.  "Even though I knew, I could not prudently tell
+you in your present excited state."
+
+She went to Pericles for a loan of money.  Pericles remarked that there
+was not much of it in Turin.  "But, countess, you whirl the gold-pieces
+like dust from your wheels; and a spy, my good soul, a lovely secret
+emissary, she will be getting underpaid if she allows herself to want
+money.  There is your beauty; it is ripe, but it is fresh, and it is
+extraordinary.  Yes; there is your beauty."  Before she could obtain a
+promise of the money, Violetta had to submit to be stripped to her
+character, which was hard; but on the other hand, Pericles exacted no
+interest on his money, and it was not often that he exacted a return of
+it in coin.  Under these circumstances, ladies in need of money can find
+it in their hearts to pardon mere brutality of phrase.  Pericles promised
+to send it to the countess on one condition; which condition he
+cancelled, saying dejectedly, "I do not care to know where she is.  I
+will not know."
+
+"She has the score of Hagar, wherever she is," said Violetta, "and when
+she hears that you have done the scene without her aid, you will have
+stuck a dagger in her bosom."
+
+"Not," Pericles cried in despair, "not if she should hear Irma's Hagar!
+To the desert with Irma.  It is the place for a crab-apple.  Bravo,
+Abraham!  you were wise."
+
+Pericles added that Montini was hourly expected, and that there was to be
+a rehearsal in the evening.
+
+When she had driven home, Violetta found Barto Rizzo's accusatory paper
+laid on her writing-desk.  She gathered the contents in a careless
+glance, and walked into the garden alone, to look for Carlo.
+
+He was leaning on the balustrade of the terrace, near the water-gate,
+looking into the deep clear lake-water.  Violetta placed herself beside
+him without a greeting.
+
+"You are watching fish for coolness, my Carlo?"
+
+"Yes," he said, and did not turn to her face.
+
+"You were very angry when you arrived?"
+
+She waited for his reply.
+
+"Why do you not speak, Carlino?"
+
+"I am watching fish for coolness," he said.
+
+"Meantime," said Violetta, "I am scorched."
+
+He looked up, and led her to an arch of shade, where he sat quite silent.
+
+"Can anything be more vexing than this?"  she was reduced to exclaim.
+
+"Ah!" said he, "you would like the catalogue to be written out for you in
+a big bold hand, possibly, with a terrific initials at the end of the
+page."
+
+"Carlo, you have done worse than that.  When I saw you first here, what
+crimes did you not accuse me of? what names did you not scatter on my
+head? and what things did I not, confess to?  I bore the unkindness, for
+you were beaten, and you wanted a victim.  And, my dear friend,
+considering that I am after all a woman, my forbearance has subsequently
+been still greater."
+
+"How?"  he asked.  Her half-pathetic candour melted him.
+
+"You must, have a lively memory for the uses of forgetfulness, Carlo,
+When you had scourged me well, you thought it proper to raise me up and
+give me comfort.  I was wicked for serving the king, and therefore the
+country, as a spy; but I was to persevere, and cancel my iniquities by
+betraying those whom I served to you.  That was your instructive precept.
+Have I done it or not?  Answer, too have I done it for any payment beyond
+your approbation? I persuaded you to hope for Lombardy, and without any
+vaunting of my own patriotism.  You have seen and spoken to the men I
+directed you to visit.  If their heads master yours, I shall be
+reprobated for it, I know surely; but I am confident as yet that you can
+match them.  In another month I expect to see the king over the Ticino
+once more, and Carlo in Brescia with his comrades.  You try to penetrate
+my eyes.  That's foolish; I can make them glass.  Read me by what I say
+and what I do.  I do not entreat you to trust me; I merely beg that you
+will trust your own judgement of me by what I have helped you to do
+hitherto.  You and I, my dear boy, have had some trifling together. Admit
+that another woman would have refused to surrender you as I did when your
+unruly Vittoria was at last induced to come to you from Milan.  Or,
+another woman would have had her revenge on discovering that she had been
+a puppet of soft eyes and a lover's quarrel with his mistress.  Instead
+of which, I let you go.  I am opposed to the marriage, it's true; and you
+know why."
+
+Carlo had listened to Violetta, measuring the false and the true in this
+recapitulation of her conduct with cool accuracy until she alluded to
+their personal relations.  Thereat his brows darkened.
+
+"We had I some trifling together," he said, musingly.
+
+"Is it going to be denied in these sweeter days?" Violetta reddened.
+
+"The phrase is elastic.  Suppose my bride were to hear it?"
+
+"It was addressed to your ears, Carlo."
+
+"It cuts two ways.  Will you tell me when it was that I last had the
+happiness of saluting you, lip to lip?"
+
+"In Brescia--before I had espoused an imbecile--two nights before my
+marriage--near the fountain of the Greek girl with a pitcher."
+
+Pride and anger nerved the reply.  It was uttered in a rapid low breath.
+Coming altogether unexpectedly, it created an intense momentary revulsion
+of his feelings by conjuring up his boyish love in a scene more living
+than the sunlight.
+
+He lifted her hand to his mouth.  He was Italian enough, though a lover,
+to feel that she deserved more.  She had reddened deliciously, and
+therewith hung a dewy rosy moisture on her underlids.  Raising her eyes,
+she looked like a cut orange to a thirsty lip.  He kissed her, saying,
+"Pardon."
+
+"Keep it secret, you mean?" she retorted.  "Yes, I pardon that wish of
+yours.  I can pardon much to my beauty."
+
+She stood up as majestically as she had spoken.
+
+"You know, my Violetta, that I am madly in love."
+
+"I have learnt it."
+
+"You know it:--what else would .  . ?  If I were not lost in love, could
+I see you as I do and let Brescia be the final chapter?"
+
+Violetta sighed.  "I should have preferred its being so rather than this
+superfluous additional line to announce an end, like a foolish staff on
+the edge of a cliff.  You thought that you were saluting a leper, or a
+saint?"
+
+"Neither.  If ever we can talk together again, as we have done," Carlo
+said gloomily, "I will tell you what I think of myself."
+
+"No, but Richelieu might have behaved .  .  .  .  Ah! perhaps not quite
+in the same way," she corrected her flowing apology for him.  "But then,
+he was a Frenchman.  He could be flighty without losing his head.  Dear
+Italian Carlo!  Yes, in the teeth of Barto Rizzo, and for the sake of the
+country, marry her at once.  It will be the best thing for you; really
+the best.  You want to know from me the whereabout of Barto Rizzo.  He
+may be in the mountain over Stresa, or in Milan.  He also has thrown off
+my yoke, such as it was!  I do assure you, Carlo, I have no command over
+him: but, mind, I half doat on the wretch.  No man made me desperately in
+love with myself before he saw me, when I stopped his raving in the
+middle of the road with one look of my face.  There was foam on his beard
+and round his eyes; the poor wretch took out his handkerchief, and he
+sobbed.  I don't know how many luckless creatures he had killed on his
+way; but when I took him into my carriage--king, emperor, orator on
+stilts, minister of police not one has flattered me as he did, by just
+gazing at me.  Beauty can do as much as music, my Carlo."
+
+Carlo thanked heaven that Violetta had no passion in her nature.  She had
+none: merely a leaning toward evil, a light sense of shame, a desire for
+money, and in her heart a contempt for the principles she did not
+possess, but which, apart from the intervention of other influences,
+could occasionally sway her actions.  Friendship, or rather the shadowy
+recovery of a past attachment that had been more than friendship,
+inclined her now and then to serve a master who failed distinctly to
+represent her interests; and when she met Carlo after the close of the
+war, she had really set to work in hearty kindliness to rescue him from
+what she termed "shipwreck with that disastrous Republican crew."  He had
+obtained greater ascendency over her than she liked; yet she would have
+forgiven it, as well as her consequent slight deviation from direct
+allegiance to her masters in various cities, but for Carlo's commanding
+personal coolness.  She who had tamed a madman by her beauty, was
+outraged, and not unnaturally, by the indifference of a former lover.
+
+Later in the day, Laura and Vittoria, with Agostino, reached the villa;
+and Adela put her lips to Vittoria's ear, whispering: "Naughty! when are
+you to lose your liberty to turn men's heads?"  and then she heaved a
+sigh with Wilfrid's name.  She had formed the acquaintance of Countess
+d'Isorella in Turin, she said, and satisfactorily repeated her lesson,
+but with a blush.  She was little more than a shade to Vittoria, who
+wondered what she had to live for.  After the early evening dinner, when
+sunlight and the colours of the sun were beyond the western mountains,
+they pushed out on the lake.  A moon was overhead, seeming to drop lower
+on them as she filled with light.
+
+Agostino and Vittoria fell upon their theme of discord, as usual--the
+King of Sardinia.
+
+"We near the vesper hour, my daughter," said Agostino; "you would provoke
+me to argumentation in heaven itself.  I am for peace.  I remember
+looking down on two cats with arched backs in the solitary arena of the
+Verona amphitheatre.  We men, my Carlo, will not, in the decay of time,
+so conduct ourselves."
+
+Vittoria looked on Laura and thought of the cannon-sounding hours, whose
+echoes rolled over their slaughtered hope.  The sun fell, the moon shone,
+and the sun would rise again, but Italy lay face to earth.  They had seen
+her together before the enemy.  That recollection was a joy that stood,
+though the winds beat at it, and the torrents.  She loved her friend's
+worn eyelids and softly-shut mouth; the after-glow of battle seemed on
+them; the silence of the field of carnage under heaven;--and the patient
+turning of Laura's eyes this way and that to speakers upon common things,
+covered the despair of her heart as with a soldier's cloak.
+
+Laura met the tender study of Vittoria's look, and smiled.
+
+They neared the Villa Ricciardi, and heard singing.  The villa was
+lighted profusely, so that it made a little mock-sunset on the lake.
+
+"Irma!" said Vittoria, astonished at the ring of a well-known voice that
+shot up in firework fashion, as Pericles had said of it.  Incredulous,
+she listened till she was sure; and then glanced hurried questions at all
+eyes.  Violetta laughed, saying, "You have the score of Rocco Ricci's
+Hagar."
+
+The boat drew under the blazing windows, and half guessing, half hearing,
+Vittoria understood that Pericles was giving an entertainment here, and
+had abjured her.  She was not insensible to the slight.  This feeling,
+joined to her long unsatisfied craving to sing, led her to be intolerant
+of Irma's style, and visibly vexed her.
+
+Violetta whispered: "He declares that your voice is cracked: show him!
+Burst out with the 'Addio' of Hagar.  May she not, Carlo?  Don't you
+permit the poor soul to sing?  She cannot contain herself."
+
+Carlo, Adela, Agostino, and Violetta prompted her, and, catching a pause
+in the villa, she sang the opening notes of Hagar's 'Addio' with her old
+glorious fulness of tone and perfect utterance.
+
+The first who called her name was Rocco Ricci, but Pericles was the first
+to rush out and hang over the boat.  "Witch! traitress! infernal ghost!
+heart of ice!" and in English "humbug!" and in French "coquin!":--these
+were a few of the titles he poured on her.  Rocco Ricci and Montini
+kissed hands to her, begging her to come to them.  She was very willing
+outwardly, and in her heart most eager; but Carlo bade the rowers push
+off.  Then it was pitiful to hear the shout of abject supplication from
+Pericles.  He implored Count Ammiani's pardon, Vittoria's pardon, for
+telling her what she was; and as the boat drew farther away, he offered
+her sums of money to enter the villa and sing the score of Hagar.  He
+offered to bear the blame of her bad behaviour to him, said he would
+forget it and stamp it out; that he would pay for the provisioning of a
+regiment of volunteers for a whole month; that he would present her
+marriage trousseau to her--yes, and let her marry.  "Sandra! my dear! my
+dear!" he cried, and stretched over the parapet speechless, like a puppet
+slain.
+
+So strongly did she comprehend the sincerity of his passion for her voice
+that she could or would see nothing extravagant in this demonstration,
+which excited unrestrained laughter in every key from her companions in
+the boat.  When the boat was about a hundred yards from the shore, and in
+full moonlight, she sang the great "Addio" of Hagar.  At the close of it,
+she had to feel for her lover's hand blindly.  No one spoke, either at
+the Villa Ricciardi, or about her.  Her voice possessed the mountain-
+shadowed lake.
+
+The rowers pulled lustily home through chill air.
+
+Luigi and Beppo were at the villa, both charged with news from Milan.
+Beppo claiming the right to speak first, which Luigi granted with a
+magnificent sweep of his hand, related that Captain Weisspriess, of the
+garrison, had wounded Count Medole in a duel severely.  He brought a
+letter to Vittoria from Merthyr, in which Merthyr urged her to prevent
+Count Ammiani's visiting Milan for any purpose whatever, and said that he
+was coming to be present at, her marriage.  She was reading this while
+Luigi delivered his burden; which was, that in a subsequent duel, the
+slaughtering captain had killed little Leone Rufo, the gay and gallant
+boy, Carlo's comrade, and her friend.
+
+Luigi laughed scornfully at his rival, and had edged away--out of sight
+before he could be asked who had sent him.  Beppo ignominiously confessed
+that he had not heard of this second duel.  At midnight he was on
+horseback, bound for Milan, with a challenge to the captain from Carlo,
+who had a jealous fear that Luciano at Vercelli might have outstripped
+him.  Carlo requested the captain to guarantee him an hour's immunity in
+the city on a stated day, or to name any spot on the borders of Piedmont
+for the meeting.  The challenge was sent with Countess Ammiani's
+approbation and Laura's.  Vittoria submitted.
+
+That done, Carlo gave up his heart to his bride.  A fight in prospect was
+the hope of wholesome work after his late indecision and double play.
+They laughed at themselves, accused hotly, and humbly excused themselves,
+praying for mutual pardon.
+
+She had behaved badly in disobeying his mandate from Brescia.
+
+Yes, but had he not been over-imperious?
+
+True; still she should have remembered her promise in the Vicentino.
+
+She did indeed; but how could she quit her wounded friend Merthyr?
+
+Perhaps not: then, why had she sent word to him from Milan that she would
+be at Pallanza?
+
+This question knocked at a sealed chamber.  She was silent, and Carlo had
+to brood over something as well.  He gave her hints of his foolish pique,
+his wrath and bitter baffled desire for her when, coming to Pallanza, he
+came to an empty house.  But he could not help her to see, for he did not
+himself feel, that he had been spurred by silly passions, pique, and
+wrath, to plunge instantly into new political intrigue; and that some of
+his worst faults had become mixed up with his devotion to his country.
+Had he taken Violetta for an ally in all purity of heart?  The kiss he
+had laid on the woman's sweet lips had shaken his absolute belief in
+that.  He tried to set his brain travelling backward, in order to
+contemplate accurately the point of his original weakness.  It being
+almost too severe a task for any young head, Carlo deemed it sufficient
+that he should say--and this he felt--that he was unworthy of his
+beloved.
+
+Could Vittoria listen to such stuff?  She might have kissed him to stop
+the flow of it, but kissings were rare between them; so rare, that when
+they had put mouth to mouth, a little quivering spire of flame, dim at
+the base, stood to mark the spot in their memories.  She moved her hand,
+as to throw aside such talk.  Unfretful in blood, chaste and keen, she at
+least knew the foolishness of the common form of lovers' trifling when
+there is a burning love to keep under, and Carlo saw that she did, and
+adored her for this highest proof of the passion of her love.
+
+"In three days you will be mine, if I do not hear from Milan?  within
+five, if I do?"  he said.
+
+Vittoria gave him the whole beauty of her face a divine minute, and bowed
+it assenting.  Carlo then led her to his mother, before whom he embraced
+her for the comfort of his mother's heart.  They decided that there
+should be no whisper of the marriage until the couple were one.  Vittoria
+obtained the countess's permission to write for Merthyr to attend her at
+the altar.  She had seen Weisspriess fall in combat, and she had perfect
+faith in her lover's right hand.
+
+
+
+
+CHAPTER XXXIX
+
+ANNA OF LENKENSTEIN
+
+Captain Weisspriess replied to Carlo Ammiani promptly, naming Camerlata
+by Como, as the place where he would meet him.
+
+He stated at the end of some temperate formal lines, that he had given
+Count Ammiani the preference over half-a-dozen competitors for the honour
+of measuring swords with him; but that his adversary must not expect him
+to be always ready to instruct the young gentlemen of the Lombardo-
+Venetian province in the arts of fence; and therefore he begged to
+observe, that his encounter with Count Ammiani would be the last occasion
+upon which he should hold himself bound to accept a challenge from Count
+Ammiani's countrymen.
+
+It was quite possible, the captain said, drawing a familiar illustration
+from the gaming-table, to break the stoutest Bank in the world by a
+perpetual multiplication of your bets, and he was modest enough to
+remember that he was but one man against some thousands, to contend with
+all of whom would be exhausting.
+
+Consequently the captain desired Count Ammiani to proclaim to his
+countrymen that the series of challenges must terminate; and he requested
+him to advertize the same in a Milanese, a Turin, and a Neapolitan
+journal.
+
+"I am not a butcher," he concluded.  "The task you inflict upon me is
+scarcely bearable.  Call it by what name you will, it is having ten shots
+to one, which was generally considered an equivalent to murder.  My sword
+is due to you, Count Ammiani; and, as I know you to be an honourable
+nobleman, I would rather you were fighting in Venice, though your cause
+is hopeless, than standing up to match yourself against me.  Let me add,
+that I deeply respect the lady who is engaged to be united to you, and
+would not willingly cross steel either with her lover or her husband.  I
+shall be at Camerlata at the time appointed.  If I do not find you there,
+I shall understand that you have done me the honour to take my humble
+advice, and have gone where your courage may at least appear to have done
+better service.  I shall sheathe my sword and say no more about it."
+
+All of this, save the concluding paragraph, was written under the eyes of
+Countess Anna of Lenkenstein.
+
+He carried it to his quarters, where he appended the as he deemed it--
+conciliatory passage: after which he handed it to Beppo, in a square of
+the barracks, with a buon'mano that Beppo received bowing, and tossed to
+an old decorated regimental dog of many wounds and a veteran's gravity.
+For this offence a Styrian grenadier seized him by the shoulders, lifting
+him off his feet and swinging him easily, while the dog arose from his
+contemplation of the coin and swayed an expectant tail.  The Styrian had
+dashed Beppo to earth before Weisspriess could interpose, and the dog had
+got him by the throat.  In the struggle Beppo tore off the dog's medal
+for distinguished conduct on the field of battle.  He restored it as soon
+as he was free, and won unanimous plaudits from officers and soldiers for
+his kindly thoughtfulness and the pretty manner with which he dropped on
+one knee, and assuaged the growls, and attached the medal to the old
+dog's neck.  Weisspriess walked away.  Beppo then challenged his Styrian
+to fight.  The case was laid before a couple of sergeants, who shook
+their heads on hearing his condition to be that of a serving-man, the
+Styrian was ready to waive considerations of superiority; but the "judge"
+pronounced their veto.  A soldier in the Imperial Royal service, though
+he was merely a private in the ranks, could not accept a challenge from
+civilians below the rank of notary, secretary, hotel- or inn-keeper, and
+suchlike: servants and tradesmen he must seek to punish in some other
+way; and they also had their appeal to his commanding officer.  So went
+the decision of the military tribunal: until the Styrian, having
+contrived to make Beppo understand, by the agency of a single Italian
+verb, that he wanted a blow, Beppo spun about and delivered a stinging
+smack on the Styrian's cheek; which altered the view of the case, for,
+under peculiar circumstances--supposing that he did not choose to cut him
+down--a soldier might condescend to challenge his civilian inferiors:
+"in our regiment," said the sergeants, meaning that they had relaxed the
+stringency of their laws.
+
+Beppo met his Styrian outside the city walls, and laid him flat.  He
+declined to fight a second; but it was represented to him, by the aid of
+an interpreter, that the officers of the garrison were subjected to
+successive challenges, and that the first trial of his skill might have
+been nothing finer than luck; and besides, his adversary had a right to
+call a champion.  "We all do it," the soldiers assured him.  "Now your
+blood's up you're ready for a dozen of us;" which was less true of a
+constitution that was quicker in expending its heat.  He stood out
+against a young fellow almost as limber as himself, much taller, and
+longer in the reach, by whom he was quickly disabled with cuts on thigh
+and head.  Seeing this easy victory over him, the soldiers, previously
+quite civil, cursed him for having got the better of their fallen
+comrade, and went off discussing how be had done the trick, leaving him
+to lie there.  A peasant carried him to a small suburban inn, where he
+remained several days oppressed horribly by a sense that he had forgotten
+something.  When he recollected what it was, he entrusted the captain's
+letter to his landlady;--a good woman, but she chanced to have a scamp
+of a husband, who snatched it from her and took it to his market.  Beppo
+supposed the letter to be on its Way to Pallauza, when it was in General
+Schoneck's official desk; and soon after the breath of a scandalous
+rumour began to circulate.
+
+Captain Weisspriess had gone down to Camerlata, accompanied by a Colonel
+Volpo, of an Austro-Italian regiment, and by Lieutenant Jenna.  At
+Camerlata a spectacled officer, Major Nagen, joined them.  Weisspriess
+was the less pleased with his company on hearing that he had come to
+witness the meeting, in obedience to an express command of a person who
+was interested in it.  Jenna was the captain's friend: Volpo was
+seconding him for the purpose of getting Count Ammiani to listen to
+reason from the mouth of a countryman.  There could be no doubt in the
+captain's mind that this Major Nagen was Countess Anna's spy as well as
+his rival, and he tried to be rid of him; but in addition to the
+shortness of sight which was Nagen's plea for pushing his thin
+transparent nose into every corner, he enjoyed at will an intermittent
+deafness, and could hear anything without knowing of it.  Brother
+officers said of Major Nagen that he was occasionally equally senseless
+in the nose, which had been tweaked without disturbing the repose of his
+features.  He waited half-an-hour on the ground after the appointed time,
+and then hurried to Milan.  Weisspriess waited an hour.  Satisfied that
+Count Ammiani was not coming, he exacted from Volpo and from Jenna their
+word of honour as Austrian officers that they would forbear-to cast any
+slur on the courage of his adversary, and would be so discreet on the
+subject as to imply that the duel was a drawn affair.  They pledged
+themselves accordingly.  "There's Nagen, it's true," said Weisspriess, as
+a man will say and feel that he has done his best to prevent a thing
+inevitable.
+
+Milan, and some of the journals of Milan, soon had Carlo Ammiani's name
+up for challenging Weisspriess and failing to keep his appointment.  It
+grew to be discussed as a tremendous event.  The captain received fifteen
+challenges within two days; among these a second one from Luciano Romara,
+whom he was beginning to have a strong desire to encounter.  He repressed
+it, as quondam drunkards fight off the whisper of their lips for liquor.
+"No more blood," was his constant inward cry.  He wanted peace; but as he
+also wanted Countess Anna of Lenkenstein and her estates, it may possibly
+be remarked of him that what he wanted he did not want to pay for.
+
+At this period Wilfrid had resumed the Austrian uniform as a common
+soldier in the ranks of the Kinsky regiment.  General Schoneck had
+obtained the privilege for him from the Marshal, General Pierson refusing
+to lift a finger on his behalf.  Nevertheless the uncle was not sorry to
+hear the tale of his nephew's exploits during the campaign, or of the
+eccentric intrepidity of the white umbrella; and both to please him, and
+to intercede for Wilfrid, the tatter's old comrades recited his deeds as
+a part of the treasured familiar history of the army in its late arduous
+struggle.
+
+General Pierson was chiefly anxious to know whether Countess Lena would
+be willing to give her hand to Wilfrid in the event of his restoration to
+his antecedent position in the army.  He found her extremely excited
+about Carlo Ammiani, her old playmate, and once her dear friend.  She
+would not speak of Wilfrid at all.  To appease the chivalrous little
+woman, General Pierson hinted that his nephew, being under the protection
+of General Schoneck, might get some intelligence from that officer.  Lena
+pretended to reject the notion of her coming into communication with
+Wilfrid for any earthly purpose.  She said to herself, however, that her
+object was pre-eminently unselfish; and as the General pointedly refused
+to serve her in a matter that concerned an Italian nobleman, she sent
+directions to Wilfrid to go before General Schoeneck the moment he was
+off duty, and ask his assistance, in her name, to elucidate the mystery
+of Count Ammiani's behaviour.  The answer was a transmission of Captain
+Weisspriess's letter to Carlo.  Lena caused the fact of this letter
+having missed its way to be circulated in the journals, and then she
+carried it triumphantly to her sister, saying:
+
+"There!  I knew these reports were abase calumny."
+
+"Reports, to what effect?"  said Anna.
+
+"That Carlo Ammiani had slunk from a combat with your duellist."
+
+"Oh! I knew that myself," Anna remarked.
+
+"You were the loudest in proclaiming it."
+
+"Because I intend to ruin him."
+
+"Carlo Ammiani?  What has he done to you?"
+
+Anna's eyes had fallen on the additional lines of the letter which she
+had not dictated.  She frowned and exclaimed:
+
+"What is this?  Does the man play me false?  Read those lines, Lena, and
+tell me, does the man mean to fight in earnest who can dare to write
+them?  He advises Ammiani to go to Venice.  It's treason, if it is not
+cowardice.  And see here--he has the audacity to say that he deeply
+respects the lady Ammiani is going to marry.  Is Ammiani going to marry
+her?  I think not."
+
+Anna dashed the letter to the floor.
+
+"But I will make use of what's within my reach," she said, picking it up.
+
+"Carlo Ammiani will marry her, I presume," said Lena.
+
+"Not before he has met Captain Weisspriess, who, by the way, has obtained
+his majority.  And, Lena, my dear, write to inform him that we wish to
+offer him our congratulations.  He will be a General officer in good
+time."
+
+"Perhaps you forget that Count Ammiani is a perfect swordsman, Anna."
+
+"Weisspriess remembers it for me, perhaps;--is that your idea, Lena?"
+
+"He might do so profitably.  You have thrown him on two swords."
+
+"Merely to provoke the third.  He is invincible.  If he were not, where
+would his use be?"
+
+"Oh, how I loathe revenge!"  cried Lena.
+
+"You cannot love!"  her sister retorted.  "That woman calling herself
+Vittoria Campa shall suffer.  She has injured and defied me.  How was it
+that she behaved to us at Meran?  She is mixed up with assassins; she is
+insolent--a dark-minded slut; and she catches stupid men.  My brother, my
+country, and this weak Weisspriess, as I saw him lying in the Ultenthal,
+cry out against her.  I have no sleep.  I am not revengeful.  Say it, say
+it, all of you! but I am not.  I am not unforgiving.  I worship justice,
+and a black deed haunts me.  Let the wicked be contrite and washed in
+tears, and I think I can pardon them.  But I will have them on their
+knees.  I hate that woman Vittoria more than I hate Angelo Guidascarpi.
+Look, Lena.  If both were begging for life to me, I would send him to the
+gallows and her to her bedchamber; and all because I worship justice, and
+believe it to be the weapon of the good and pious.  You have a baby's
+heart; so has Karl.  He declines to second Weisspriess; he will have
+nothing to do with duelling; he would behold his sisters mocked in the
+streets and pass on.  He talks of Paul's death like a priest.  Priests
+are worthy men; a great resource!  Give me a priests lap when I need it.
+Shall I be condemned to go to the priest and leave that woman singing?
+If I did, I might well say the world's a snare, a sham, a pitfall, a
+horror!  It's what I don't think in any degree.  It's what you think,
+though.  Yes, whenever you are vexed you think it.  So do the priests,
+and so do all who will not exert themselves to chastise.  I, on the
+contrary, know that the world is not made up of nonsense.  Write to
+Weisspriess immediately; I must have him here in an hour."
+
+Weisspriess, on visiting the ladies to receive their congratulations,
+was unprepared for the sight of his letter to Carlo Ammiani, which Anna
+thrust before him after he had saluted her, bidding him read it aloud.
+He perused it in silence.  He was beginning to be afraid of his mistress.
+
+"I called you Austria once, for you were always ready," Anna said, and
+withdrew from him, that the sung of her words might take effect.
+
+"God knows, I have endeavoured to earn the title in my humble way,"
+Weisspriess appealed to Lena.
+
+"Yes, Major Weisspriess, you have," she said.  "Be Austria still, and
+forbear toward these people as much as you can.  To beat them is enough,
+in my mind.  I am rejoiced that you have not met Count Ammiani, for if
+you had, two friends of mine, equally dear and equally skilful, would
+have held their lives at one another's mercy."
+
+"Equally!"  said Weisspriess, and pulled out the length of his moustache.
+
+"Equally courageous," Lena corrected herself.  "I never distrusted Count
+Ammiani's courage, nor could distrust yours."
+
+"Equally dear!"  Weisspriess tried to direct a concentrated gaze on her.
+
+Lena evaded an answer by speaking of the rumour of Count Ammiani's
+marriage.
+
+Weisspriess was thinking with all the sagacious penetration of the
+military mind, that perhaps this sister was trying to tell him that she
+would be willing to usurp the piece of the other in his affections; and
+if so, why should she not?
+
+"I may cherish the idea that I am dear to you, Countess Lena?"
+
+"When you are formally betrothed to my sister, you will know you are very
+dear to me, Major Weisspriess."
+
+"But," said he, perceiving his error, "how many persons am I to call out
+before she will consent to a formal betrothal?"
+
+Lena was half smiling at the little tentative bit of sentiment she had so
+easily turned aside.  Her advice to him was to refuse to fight, seeing
+that he had done sufficient for glory and his good name.
+
+He mentioned Major Nagen as a rival.
+
+Upon this she said: "Hear me one minute.  I was in my sister's bed-room
+on the first night when she knew of your lying wounded in the Ultenthal.
+She told you just now that she called you Austria.  She adores our
+Austria in you.  The thought that you had been vanquished seemed like our
+Austria vanquished, and she is so strong for Austria that it is really
+out of her power to fancy you as defeated without suspecting foul play.
+So when she makes you fight, she thinks you safe.  Many are to go down
+because you have gone down.  Do you not see?  And now, Major Weisspriess,
+I need not expose my sister to you any more, I hope, or depreciate Major
+Nagen for your satisfaction."
+
+Weisspriess had no other interview with Anna for several days.  She
+shunned him openly.  Her carriage moved off when he advanced to meet her
+at the parade, or review of arms; and she did not scruple to speak in
+public with Major Nagen, in the manner of those who have begun to speak
+together in private.  The offender received his punishment gracefully,
+as men will who have been taught that it flatters them.  He refused every
+challenge.  From Carlo Ammiani there came not a word.
+
+It would have been a deadly lull to any fiery temperament engaged in
+plotting to destroy a victim, but Anna had the patience of hatred--that
+absolute malignity which can measure its exultation rather by the
+gathering of its power to harm than by striking.  She could lay it aside,
+or sink it to the bottom of her emotions, at will, when circumstances
+appeared against it.  And she could do this without fretful regrets,
+without looking to the future.  The spirit of her hatred extracted its
+own nourishment from things, like an organized creature.  When foiled she
+became passive, and she enjoyed--forced herself compliantly to enjoy--her
+redoubled energy of hatred voluptuously, if ever a turn in events made
+wreck of her scheming.  She hated Vittoria for many reasons, all of them
+vague within her bosom because the source of them was indefinite and lay
+in the fact of her having come into collision with an opposing nature,
+whose rivalry was no visible rivalry, whose triumph was an ignorance of
+scorn--a woman who attracted all men, who scattered injuries with
+insolent artlessness, who never appealed to forgiveness, and was a low-
+born woman daring to be proud.  By repute Anna was implacable, but she
+had, and knew she had, the capacity for magnanimity of a certain kind;
+and her knowledge of the existence of this unsuspected fund within her
+justified in some degree her reckless efforts to pull her enemy down on
+her knees.  It seemed doubly right that she should force Vittoria to
+penitence, as being good for the woman, and an end that exonerated her
+own private sins committed to effect it.
+
+Yet she did not look clearly forward to the day of Vittoria's imploring
+for mercy.  She had too many vexations to endure: she was an insufficient
+schemer, and was too frequently thwarted to enjoy that ulterior prospect.
+Her only servile instruments were Major Nagen, and Irma, who came to her
+from the Villa Ricciardi, hot to do her rival any deadly injury; but
+though willing to attempt much, these were apparently able to perform
+little more than the menial work of vengeance.  Major Nagen wrote in the
+name of Weisspriess to Count Ammiani, appointing a second meeting at
+Como, and stating that he would be at the villa of the Duchess of Graatli
+there.  Weisspriess was unsuspectingly taken down to the place by Anna
+and Lena.  There was a gathering of such guests as the duchess alone
+among her countrywomen could assemble, under the patronage of the
+conciliatory Government, and the duchess projected to give a series of
+brilliant entertainments in the saloons of the Union, as she named her
+house-roof.  Count Serabiglione arrived, as did numerous Moderates and
+priest-party men, Milanese garrison officers and others.  Laura Piaveni
+travelled with Countess d'Isorella and the happy Adela Sedley, from Lago
+Maggiore.
+
+Laura came, as she cruelly told her friend, for the purpose of making
+Victoria's excuses to the duchess.  "Why can she not come herself?"
+Amalia persisted in asking, and began to be afflicted with womanly
+curiosity.  Laura would do nothing but shrug and smile, and repeat her
+message.  A little after sunset, when the saloons were lighted,
+Weisspriess, sitting by his Countess Anna's side, had a slip of paper
+placed in his hands by one of the domestics.  He quitted his post
+frowning with astonishment, and muttered once, "My appointment!"  Laura
+noticed that Anna's heavy eyelids lifted to shoot an expressive glance at
+Violetta d'Isorella.  She said: "Can that have been anything hostile, do
+you suppose?"  and glanced slyly at her friend.
+
+"No, no," said Amalia; "the misunderstanding is explained, and Major
+Weisspriess is just as ready as Count Ammiani to listen to reason.
+Besides, Count Ammiani is not so unfriendly but that if he came so near
+he would come up to me, surely."
+
+Laura brought Amalia's observation to bear upon Anna and Violetta by
+turning pointedly from one to the other as she said: "As for reason,
+perhaps you have chosen the word.  If Count Ammiani attended an
+appointment this time, he would be unreasonable."
+
+A startled "Why?"--leaped from Anna's lips.  She reddened at her
+impulsive clumsiness.
+
+Laura raised her shoulders slightly: "Do you not know?" The expression of
+her face reproved Violetta, as for remissness in transmitting secret
+intelligence.  "You can answer why, countess," she addressed the latter,
+eager to exercise her native love of conflict with this doubtfully-
+faithful countrywoman;--the Austrian could feel that she had beaten her
+on the essential point, and afford to give her any number of dialectical
+victories.
+
+"I really cannot answer why," Violetta said; "unless Count Ammiani is,
+as I venture to hope, better employed."
+
+"But the answer is charming and perfect," said Laura.
+
+"Enigmatical answers are declared to be so when they come from us women,"
+the duchess remarked; "but then, I fancy, women must not be the hearers,
+or they will confess that they are just as much bewildered and irritated
+as I am.  Do speak out, my dearest.  How is he better employed?"
+
+Laura passed her eyes around the group of ladies.  "If any hero of yours
+had won the woman he loves, he would be right in thinking it folly to be
+bound by the invitation to fight, or feast, or what you will, within a
+space of three months or so; do you not agree with me?"
+
+The different emotions on many visages made the scene curious.
+
+"Count Ammiani has married her!"  exclaimed the duchess.
+
+"My old friend Carlo is really married!" said Lena.
+
+Anna stared at Violetta.
+
+The duchess, recovering from her wonder, confirmed the news by saying
+that she now knew why M. Powys had left Milan in haste, three or four
+days previously, as she was aware that the bride had always wished him
+to be present at the ceremony of her marriage.
+
+"Signora, may I ask you, were you present?"  Violetta addressed Laura.
+
+"I will answer most honestly that I was not," said Laura.
+
+"The marriage was a secret one; perhaps?"
+
+"Even for friends, you see."
+
+"Necessarily, no doubt," Lena said, with an idea of easing her sister's
+stupefaction by a sarcasm foreign to her sentiments.
+
+Adela Sedley, later in exactly comprehending what had been spoken,
+glanced about for some one who would not be unsympathetic to her
+exclamation, and suddenly beheld her brother entering the room with
+Weisspriess.  "Wilfrid!  Wilfrid! do you know she is married?"
+
+"So they tell me," Wilfrid replied, while making his bow to the duchess.
+He was much broken in appearance, but wore his usual collected manner.
+Who had told him of the marriage?  A person downstairs, he said; not
+Count Ammiani; not signor Balderini; no one whom he saw present, no one
+whom he knew.
+
+"A very mysterious person," said the duchess.
+
+"Then it's true after all," cried Laura.  "I did but guess it."  She
+assured Violetta that she had only guessed it.
+
+"Does Major Weisspriess know it to be true?"  The question came from
+Anna.
+
+Weisspriess coolly verified it, on the faith of a common servant's
+communication.
+
+The ladies could see that some fresh piece of mystery lay between him and
+Wilfrid.
+
+"With whom have you had an interview, and what have you heard?"  asked
+Lena, vexed by Wilfrid's pallid cheeks.
+
+Both men stammered and protested, out of conceit, and were as foolish as
+men are when pushed to play at mutual concealment.
+
+The duchess's chasseur, Jacob Baumwalder Feckelwitz, stepped up to his
+mistress and whispered discreetly.  She gazed straight at Laura.  After
+hesitation she shook her head, and the chasseur retired.  Amalia then
+came to the rescue of the unhappy military wits that were standing a
+cross-fire of sturdy interrogation.
+
+"Do you not perceive what it is?"  she said to Anna.  "Major Weisspriess
+meets Private Pierson at the door of my house, and forgets that he is
+well-born and my guest.  I may be revolutionary, but I declare that in
+plain clothes Private Pierson is the equal of Major Weisspriess.  If
+bravery made men equals, who would be Herr Pierson's superior?  Ire has
+done me the honour, at a sacrifice of his pride, I am sure, to come here
+and meet his sister, and rejoice me with his society.  Major Weisspriess,
+if I understand the case correctly, you are greatly to blame."
+
+"I beg to assert," Weisspriess was saying as the duchess turned her
+shoulder on him.
+
+"There is really no foundation," Wilfrid began, with similar simplicity.
+
+"What will sharpen the wits of these soldiers!"  the duchess murmured
+dolefully to Laura.
+
+"But Major Weisspriess was called out of his room by a message--was that
+from Private Pierson?" said Anna.
+
+"Assuredly; I should presume so," the duchess answered for them.
+
+"Ay; undoubtedly," Weisspriess supported her.
+
+"Then," Laura smiled encouragement to Wilfrid, "you know nothing of Count
+Ammiani's marriage after all?"
+
+Wilfrid launched his reply on a sharp repression of his breath, "Nothing
+whatever."
+
+"And the common servant's communication was not made to you?"  Anna
+interrogated Weisspriess.
+
+"I simply followed in the track of Pierson," said that officer, masking
+his retreat from the position with a duck of his head and a smile, tooth
+on lip.
+
+"How could you ever suppose, child, that a common servant would be sent
+to deliver such tidings? and to Major Weisspriess!" the duchess
+interposed.
+
+This broke up the Court of inquiry.
+
+Weisspriess shortly after took his leave, on the plea that he wished to
+prove his friendliness by accompanying Private Pierson, who had to be on
+duty early next day in Milan.  Amalia had seen him breaking from Anna in
+extreme irritation, and he had only to pledge his word that he was really
+bound for Milan to satisfy her.  "I believe you to be at heart humane,"
+she said meaningly.
+
+"Duchess, you may be sure that I would not kill an enemy save on the
+point of my sword," he answered her.
+
+"You are a gallant man," said Amalia, and pride was in her face as she
+looked on him.
+
+She willingly consented to Wilfrid's sudden departure, as it was evident
+that some shot had hit him hard.
+
+On turning to Laura, the duchess beheld an aspect of such shrewd disgust
+that she was provoked to exclaim: "What on earth is the matter now?"
+
+Laura would favour her with no explanation until they were alone in the
+duchess's boudoir, when she said that to call Weisspriess a gallant man
+was an instance of unblushing adulation of brutal strength: "Gallant for
+slaying a boy?  Gallant because he has force of wrist?"
+
+"Yes; gallant;--an honour to his countrymen: and an example to some of
+yours," Amalia rejoined.
+
+"See," cried Laura, "to what a degeneracy your excess of national
+sentiment reduces you!"
+
+While she was flowing on, the duchess leaned a hand across her shoulder,
+and smiling kindly, said she would not allow her to utter words that she
+would have to eat.  "You saw my chasseur step up to me this evening, my
+Laura?  Well, not to torment you, he wished to sound an alarm cry after
+Angelo Guidascarpi.  I believe my conjecture is correct, that Angelo
+Guidascarpi was seen by Major Weisspriess below, and allowed to pass
+free.  Have you no remark to make?"
+
+"None," said Laura.
+
+"You cannot admit that he behaved like a gallant man?" Laura sighed
+deeply.  "Perhaps it was well for you to encourage him!"
+
+The mystery of Angelo's interview with Weisspriess was cleared the next
+night, when in the midst of a ball-room's din, Aennchen, Amalia's
+favourite maid, brought a letter to Laura from Countess Ammiani.  These
+were the contents:
+
+"DEAREST SIGNORA,
+
+"You now learn a new and blessed thing.  God make the marriage fruitful!
+I have daughter as well as son.  Our Carlo still hesitated, for hearing
+of the disgraceful rumours in Milan, he fancied a duty lay there for him
+to do.  Another menace came to my daughter from the madman Barto Rizzo.
+God can use madmen to bring about the heavenly designs.  We decided that
+Carlo's name should cover her.  My son was like a man who has awakened
+up.  M. Powys was our good genius.  He told her that he had promised you
+to bring it about.  He, and Angelo, and myself, were the witnesses.  So
+much before heaven!  I crossed the lake with them to Stress.  I was her
+tirewoman, with Giacinta, to whom I will give a husband for the tears of
+joy she dropped upon the bed.  Blessed be it!  I placed my daughter in my
+Carlo's arms.  Both kissed their mother at parting.
+
+"This is something fixed.  I had great fears during the war.  You do not
+yet know what it is to have a sonless son in peril.  Terror and remorse
+haunted me for having sent the last Ammiani out to those fields,
+unattached to posterity.
+
+"An envelope from Milan arrived on the morning of his nuptials.  It was
+intercepted by me.  The German made a second appointment at Como.  Angelo
+undertook to assist me in saving my son's honour.  So my Carlo had
+nothing to disturb his day.  Pray with me, Laura Piaveni, that the day
+and the night of it may prove fresh springs of a river that shall pass
+our name through the happier mornings of Italy!  I commend you to God, my
+dear, and am your friend,
+
+                                   "MARCCELLINA, COUNTESS AMMIANI.
+
+"P.S.  Countess Alessandra will be my daughter's name."
+
+The letter was read and re-read before the sweeter burden it contained
+would allow Laura to understand that Countess Ammiani had violated a seal
+and kept a second hostile appointment hidden from her son.
+
+"Amalia, you detest me," she said, when they had left the guests for a
+short space, and the duchess had perused the letter, "but acknowledge
+Angelo Guidascarpi's devotion.  He came here in the midst of you Germans,
+at the risk of his life, to offer battle for his cousin."
+
+The duchess, however, had much more to say for the magnanimity of Major
+Weisspriess, who, if he saw him, had spared him; she compelled Laura to
+confess that Weisspriess must have behaved with some nobleness, which
+Laura did, humming and I 'brumming,' and hinting at the experience he had
+gained of Angelo's skill.  Her naughtiness provoked first, and then
+affected Amalia; in this mood the duchess had the habit of putting on a
+grand air of pitying sadness.  Laura knew it well, and never could make
+head against it.  She wavered, as a stray floating thing detached from an
+eddy whirls and passes on the flood.  Close on Amalia's bosom she sobbed
+out: "Yes; you Austrians have good qualities some: many! but you choose
+to think us mean because we can't readily admit them when we are under
+your heels.  Just see me; what a crumb feeds me!  I am crying with
+delight at a marriage!"
+
+The duchess clasped her fondly.
+
+"It's not often one gets you so humble, my Laura."
+
+"I am crying with delight at a marriage!  Amalia, look at me: you would
+suppose it a mighty triumph.  A marriage! two little lovers lying cheek
+to cheek! and me blessing heaven for its goodness! and there may be dead
+men unburied still on the accursed Custozza hill-top!"
+
+Amalia let her weep.  The soft affection which the duchess bore to her
+was informed with a slight touch of envy of a complexion that could be
+torn with tears one minute, and the next be fit to show in public.  No
+other thing made her regard her friend as a southern--that is, a foreign-
+woman.
+
+"Be patient," Laura said.
+
+"Cry; you need not be restrained," said Amalia.
+
+"You sighed."
+
+"No!"
+
+"A sort of sigh.  My fit's over.  Carlo's marriage is too surprising and
+delicious.  I shall be laughing presently.  I hinted at his marriage--
+I thought it among the list of possible things, no more--to see if that
+crystal pool, called Violetta d'Isorella, could be discoloured by
+stirring.  Did you watch her face?  I don't know what she wanted with
+Carlo, for she's cold as poison--a female trifler; one of those women
+whom I, and I have a chaste body, despise as worse than wantons; but she
+certainly did not want him to be married.  It seems like a victory--
+though we're beaten.  You have beaten us, my dear!"
+
+"My darling! it is your husband kisses you," said Amalia, kissing Laura's
+forehead from a full heart.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+But is there such a thing as happiness
+Conduct is never a straight index where the heart's involved
+Deep as a mother's, pure as a virgin's, fiery as a saint's
+Foolish trick of thinking for herself
+Fortitude leaned so much upon the irony
+Grand air of pitying sadness
+Ironical fortitude
+Longing for love and dependence
+Love of men and women as a toy that I have played with
+Pain is a cloak that wraps you about
+She was sick of personal freedom
+Watch, and wait
+Went into endless invalid's laughter
+Why should these men take so much killing?
+You can master pain, but not doubt
+
+
+
+
+End of this Project Gutenberg Etext of Vittoria, v7
+by George Meredith
+

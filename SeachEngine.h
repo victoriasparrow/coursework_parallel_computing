@@ -37,10 +37,10 @@ struct ParsedQuery {
 
 struct SearchEngine {
     std::atomic<uint32_t> nextToken{1};
-    ConcurrentHashMap<std::string, uint32_t> tokenToID{1430027};
-    ConcurrentHashMap<std::string, uint32_t> docToID{18000};
-    ConcurrentHashMap<uint32_t,std::string> idToDoc{18000};
-    ConcurrentHashMap<uint32_t,std::vector<Posting>> InvertedIndex{1430027};
+    ConcurrentHashMap<std::string, uint32_t> tokenToID{357503};
+    ConcurrentHashMap<std::string, uint32_t> docToID{7001};
+    ConcurrentHashMap<uint32_t,std::string> idToDoc{7001};
+    ConcurrentHashMap<uint32_t,std::vector<Posting>> InvertedIndex{357503};
 
     std::vector<std::string> fileNames;
 

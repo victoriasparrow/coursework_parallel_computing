@@ -1,0 +1,3369 @@
+Project Gutenberg Etext of The Ordeal of Richard Feverel by Meredith, v1
+#12 in our series by George Meredith
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before distributing this or any other
+Project Gutenberg file.
+
+We encourage you to keep this file, exactly as it is, on your
+own disk, thereby keeping an electronic path open for future
+readers.  Please do not remove this.
+
+This header should be the first thing seen when anyone starts to
+view the etext. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the
+information they need to understand what they may and may not
+do with the etext.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get etexts, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: The Ordeal of Richard Feverel, v1
+
+Author: George Meredith
+
+Release Date: September, 2003 [Etext #4406]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on December 28, 2001]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: ASCII
+
+Project Gutenberg Etext The Ordeal of Richard Feverel by Meredith, v1
+*********This file should be named 4406.txt or 4406.zip********
+
+Corrected EDITIONS of our etexts get a new NUMBER, gm12v11.txt
+VERSIONS based on separate sources get new LETTER, gm12v10a.txt
+
+Project Gutenberg Etexts are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep etexts in compliance with any particular paper edition.
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2001 as we release over 50 new Etext
+files per month, or 500 more Etexts in 2000 for a total of 4000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts.  We need
+funding, as well as continued efforts by volunteers, to maintain
+or increase our production and reach our goals.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of November, 2001, contributions are being solicited from people
+and organizations in: Alabama, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Oklahoma,
+Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fundraising
+requirements for other states are met, additions to this list will be
+made and fundraising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by Pat Castevans  <patcat@ctnet.net>
+and David Widger  <widger@cecomet.net>
+
+
+
+
+
+THE ORDEAL OF RICHARD FEVEREL
+
+By George Meredith
+
+1905
+
+
+
+CONTENTS OF THE ENTIRE SERIES:
+
+I.        THE INMATES OF RAYNHAM ABBEY
+II.       THE FOURTEENTH BIRTHDAY TO TRY THE STRENGTH OF THE SYSTEM
+III.      THE MAGIAN CONFLICT
+IV.       ARSON
+V.        ADRIAN PLIES HIS HOOK
+VI.       JUVENILE STRATAGEMS
+VII.      DAPHNE'S BOWER
+VIII.     THE BITTER CUP
+IX.       A FINE DISTINCTION
+X.        RICHARD PASSES THROUGH HIS PRELIMINARY ORDEAL
+XI.       THE LAST ACT OF THE BAKEWELL COMEDY IS CLOSED IN A LETTER
+XII.      THE BLOSSOMING SEASON
+XIII.     THE MAGNETIC AGE
+XIV.      AN ATTRACTION
+XV.       FERDINAND AND MIRANDA
+XVI.      UNMASKING OF MASTER RIPTON THOMPSON
+XVII.     GOOD WINE AND GOOD BLOOD
+XVIII.    THE SYSTEM ENCOUNTERS THE WILD OATS SPECIAL PLEA
+XIX.      A DIVERSION PLAYED ON A PENNY WHISTLE
+XX.       CELEBRATES THE TIME-HONOURED TREATMENT OF A DRAGON BY THE HERO
+XXI.      RICHARD IS SUMMONED TO TOWN TO HEAR A SERMON
+XXII.     INDICATES THE APPROACHES OF FEVER
+XXIII.    CRISIS IN THE APPLE-DISEASE
+XXIV.     OF THE SPRING PRIMROSE AND THE AUTUMNAL
+XXV.      IN WHICH THE HERO TAKES A STEP
+XXVI.     RECORDS THE RAPID DEVELOPMENT OF THE HERO
+XXVII.    CONTAINS AN INTERCESSION FOR THE HEROINE
+XXVIII.   PREPARATIONS FOR ACTION WERE CONDUCTED UNDER THE APRIL OF LOVERS
+XIX.      IN WHICH THE LAST ACT OF THE COMEDY TAKES THE PLACE OF THE FIRST
+XXX.      CELEBRATES THE BREAKFAST
+XXXI.     THE PHILOSOPHER APPEARS IN PERSON
+XXXII.    PROCESSION OF THE CAKE
+XXXIII.   NURSING THE DEVIL
+XXXIV.    CONQUEST OF AN EPICURE
+XXXV.     CLARE'S MARRIAGE
+XXXVI.    A DINNER-PARTY AT RICHMOND
+XXXVII.   MRS. BERRY ON MATRIMONY
+XXXVIII.  AN ENCHANTRESS
+XXXIX.    THE LITTLE BIRD AND THE FALCON: A BERRY TO THE RESCUE!
+XL.       CLARE'S DIARY
+XLI.      AUSTIN RETURNS
+XLII.     NATURE SPEAKS
+XLIII.    AGAIN THE MAGIAN CONFLICT
+XLIV.     THE LAST SCENE
+XLV.      LADY BLANDISH TO AUSTIN WENTWORTH
+
+
+
+
+
+BOOK 1.
+
+I.        THE INMATES OF RAYNHAM ABBEY
+
+II.       SHOWING HOW THE FATES SELECTED THE FOURTEENTH BIRTHDAY TO TRY
+          THE STRENGTH OF THE SYSTEM
+
+III.      THE MAGIAN CONFLICT
+
+IV.       ARSON
+
+V.        ADRIAN PLIES HIS HOOK
+
+VI.       JUVENILE STRATAGEMS
+
+VII.      DAPHNE'S BOWER
+
+VIII.     THE BITTER CUP
+
+IX.       A FINE DISTINCTION
+
+X.        RICHARD PASSES THROUGH HIS PRELIMINARY ORDEAL, AND IS THE
+          OCCASION OF AN APHORISM
+
+XI.       IN WHICH THE LAST ACT OF THE BAKEWELL COMEDY IS CLOSED IN
+          A LETTER
+
+
+
+
+CHAPTER I
+
+Some years ago a book was published under the title of "The Pilgrim's
+Scrip."  It consisted of a selection of original aphorisms by an
+anonymous gentleman, who in this bashful manner gave a bruised heart to
+the world.
+
+He made no pretension to novelty.  "Our new thoughts have thrilled dead
+bosoms," he wrote; by which avowal it may be seen that youth had
+manifestly gone from him, since he had ceased to be jealous of the
+ancients.  There was a half-sigh floating through his pages for those
+days of intellectual coxcombry, when ideas come to us affecting the
+embraces of virgins, and swear to us they are ours alone, and no one else
+have they ever visited: and we believe them.
+
+For an example of his ideas of the sex he said:
+
+"I expect that Woman will be the last thing civilized by Man."
+
+Some excitement was produced in the bosoms of ladies by so monstrous a
+scorn of them.
+
+One adventurous person betook herself to the Heralds' College, and there
+ascertained that a Griffin between two Wheatsheaves, which stood on the
+title-page of the book, formed the crest of Sir Austin Absworthy Bearne
+Feverel, Baronet, of Raynham Abbey, in a certain Western county folding
+Thames: a man of wealth and honour, and a somewhat lamentable history.
+
+The outline of the baronet's story was by no means new.  He had a wife,
+and he had a friend.  His marriage was for love; his wife was a beauty;
+his friend was a sort of poet.  His wife had his whole heart, and his
+friend all his confidence.  When he selected Denzil Somers from among his
+college chums, it was not on account of any similarity of disposition
+between them, but from his intense worship of genius, which made him
+overlook the absence of principle in his associate for the sake of such
+brilliant promise.  Denzil had a small patrimony to lead off with, and
+that he dissipated before he left college; thenceforth he was dependent
+upon his admirer, with whom he lived, filling a nominal post of bailiff
+to the estates, and launching forth verse of some satiric and sentimental
+quality; for being inclined to vice, and occasionally, and in a quiet
+way, practising it, he was of course a sentimentalist and a satirist,
+entitled to lash the Age and complain of human nature.  His earlier
+poems, published under the pseudonym of Diaper Sandoe, were so pure and
+bloodless in their love passages, and at the same time so biting in their
+moral tone, that his reputation was great among the virtuous, who form
+the larger portion of the English book-buying public.  Election-seasons
+called him to ballad-poetry on behalf of the Tory party.  Dialer
+possessed undoubted fluency, but did tittle, though Sir Austin was ever
+expecting much of him.
+
+A languishing, inexperienced woman, whose husband in mental and in moral
+stature is more than the ordinary height above her, and who, now that her
+first romantic admiration of his lofty bearing has worn off, and her
+fretful little refinements of taste and sentiment are not instinctively
+responded to, is thrown into no wholesome household collision with a
+fluent man, fluent in prose and rhyme.  Lady Feverel, when she first
+entered on her duties at Raynham, was jealous of her husband's friend.
+By degrees she tolerated him.  In time he touched his guitar in her
+chamber, and they played Rizzio and Mary together.
+
+              "For I am not the first who found
+               The name of Mary fatal!"
+
+says a subsequent sentimental alliterative love-poem of Diaper's.
+
+Such was the outline of the story.  But the baronet could fill it up.  He
+had opened his soul to these two.  He had been noble Love to the one, and
+to the other perfect Friendship.  He had bid them be brother and sister
+whom he loved, and live a Golden Age with him at Raynham.  In fact, he
+had been prodigal of the excellences of his nature, which it is not good
+to be, and, like Timon, he became bankrupt, and fell upon bitterness.
+
+The faithless lady was of no particular family; an orphan daughter of an
+admiral who educated her on his half-pay, and her conduct struck but at
+the man whose name she bore.
+
+After five years of marriage, and twelve of friendship, Sir Austin was
+left to his loneliness with nothing to ease his heart of love upon save a
+little baby boy in a cradle.  He forgave the man: he put him aside as
+poor for his wrath.  The woman he could not forgive; she had sinned every
+way.  Simple ingratitude to a benefactor was a pardonable transgression,
+for he was not one to recount and crush the culprit under the heap of his
+good deeds.  But her he had raised to be his equal, and he judged her as
+his equal.  She had blackened the world's fair aspect for him.
+
+In the presence of that world, so different to him now, he preserved his
+wonted demeanor, and made his features a flexible mask.  Mrs. Doria
+Forey, his widowed sister, said that Austin might have retired from his
+Parliamentary career for a time, and given up gaieties and that kind of
+thing; her opinion, founded on observation of him in public and private,
+was, that the light thing who had taken flight was but a feather on her
+brother's Feverel-heart, and his ordinary course of life would be
+resumed.  There are times when common men cannot bear the weight of just
+so much.  Hippias Feverel, one of his brothers, thought him immensely
+improved by his misfortune, if the loss of such a person could be so
+designated; and seeing that Hippias received in consequence free quarters
+at Raynham, and possession of the wing of the Abbey she had inhabited, it
+is profitable to know his thoughts.  If the baronet had given two or
+three blazing dinners in the great hall he would have deceived people
+generally, as he did his relatives and intimates.  He was too sick for
+that: fit only for passive acting.
+
+The nursemaid waking in the night beheld a solitary figure darkening a
+lamp above her little sleeping charge, and became so used to the sight as
+never to wake with a start.  One night she was strangely aroused by a
+sound of sobbing.  The baronet stood beside the cot in his long black
+cloak and travelling cap.  His fingers shaded a lamp, and reddened
+against the fitful darkness that ever and anon went leaping up the wall.
+She could hardly believe her senses to see the austere gentleman, dead
+silent, dropping tear upon tear before her eyes.  She lay stone-still in
+a trance of terror and mournfulness, mechanically counting the tears as
+they fell, one by one.  The hidden face, the fall and flash of those
+heavy drops in the light of the lamp he held, the upright, awful figure,
+agitated at regular intervals like a piece of clockwork by the low
+murderous catch of his breath: it was so piteous to her poor human nature
+that her heart began wildly palpitating.  Involuntarily the poor girl
+cried out to him, "Oh, sir!" and fell a-weeping.  Sir Austin turned the
+lamp on her pillow, and harshly bade her go to sleep, striding from the
+room forthwith.  He dismissed her with a purse the next day.
+
+Once, when he was seven years old, the little fellow woke up at night to
+see a lady bending over him.  He talked of this the neat day, but it was
+treated as a dream; until in the course of the day his uncle Algernon was
+driven home from Lobourne cricket-ground with a broken leg.  Then it was
+recollected that there was a family ghost; and, though no member of the
+family believed in the ghost, none would have given up a circumstance
+that testified to its existence; for to possess a ghost is a distinction
+above titles.
+
+Algernon Feverel lost his leg, and ceased to be a gentleman in the
+Guards.  Of the other uncles of young Richard, Cuthbert, the sailor,
+perished in a spirited boat expedition against a slaving <DW64> chief up
+the Niger.  Some of the gallant lieutenant's trophies of war decorated
+the little boy's play-shed at Raynham, and he bequeathed his sword to
+Richard, whose hero he was.  The diplomatist and beau, Vivian, ended his
+flutterings from flower to flower by making an improper marriage, as is
+the fate of many a beau, and was struck out of the list of visitors.
+Algernon generally occupied the baronet's disused town-house, a wretched
+being, dividing his time between horse and card exercise: possessed, it
+was said, of the absurd notion that a man who has lost his balance by
+losing his leg may regain it by sticking to the bottle.  At least,
+whenever he and his brother Hippias got together, they never failed to
+try whether one leg, or two, stood the bottle best.  Much of a puritan as
+Sir Austin was in his habits, he was too good a host, and too thorough a
+gentleman, to impose them upon his guests.  The brothers, and other
+relatives, might do as they would while they did not disgrace the name,
+and then it was final: they must depart to behold his countenance no
+more.
+
+Algernon Feverel was a simple man, who felt, subsequent to his
+misfortune, as he had perhaps dimly fancied it before, that his career
+lay in his legs, and was now irrevocably cut short.  He taught the boy
+boxing, and shooting, and the arts of fence, and superintended the
+direction of his animal vigour with a melancholy vivacity.  The remaining
+energies of Algernon's mind were devoted to animadversions on swift
+bowling.  He preached it over the county, struggling through laborious
+literary compositions, addressed to sporting newspapers, on the Decline
+of Cricket.  It was Algernon who witnessed and chronicled young Richard's
+first fight, which was with young Tom Blaize of Belthorpe Farm, three
+years the boy's senior.
+
+Hippias Feverel was once thought to be the genius of the family.  It was
+his ill luck to have strong appetites and a weak stomach; and, as one is
+not altogether fit for the battle of life who is engaged in a perpetual
+contention with his dinner, Hippias forsook his prospects at the Bar,
+and, in the embraces of dyspepsia, compiled his ponderous work on the
+Fairy Mythology of Europe.  He had little to do with the Hope of Raynham
+beyond what he endured from his juvenile tricks.
+
+A venerable lady, known as Great-Aunt Grantley, who had money to bequeath
+to the heir, occupied with Hippias the background of the house and shared
+her candles with him.  These two were seldom seen till the dinner hour,
+for which they were all day preparing, and probably all night
+remembering, for the Eighteenth Century was an admirable trencherman, and
+cast age aside while there was a dish on the table.
+
+Mrs. Doris Foray was the eldest of the three sisters of the baronet, a
+florid affable woman, with fine teeth, exceedingly fine light wavy hair,
+a Norman nose, and a reputation for understanding men; and that, with
+these practical creatures, always means the art of managing them.  She
+had married an expectant younger son of a good family, who deceased
+before the fulfilment of his prospects; and, casting about in her mind
+the future chances of her little daughter and sole child, Clare, she
+marked down a probability.  The far sight, the deep determination, the
+resolute perseverance of her sex, where a daughter is to be provided for
+and a man to be overthrown, instigated her to invite herself to Raynham,
+where, with that daughter, she fixed herself.
+
+The other two Feverel ladies were the wife of Colonel Wentworth and the
+widow of Mr. Justice Harley: and the only thing remarkable about them was
+that they were mothers of sons of some distinction.
+
+Austin Wentworth's story was of that wretched character which to be
+comprehended, that justice should be dealt him, must be told out and
+openly; which no one dares now do.
+
+For a fault in early youth, redeemed by him nobly, according to his
+light, he was condemned to undergo the world's harsh judgment: not for
+the fault--for its atonement.
+
+"--Married his mother's housemaid," whispered Mrs. Doria, with a ghastly
+look, and a shudder at young men of republican sentiments, which he was
+reputed to entertain.  "'The compensation for Injustice,' says the
+'Pilgrim's Scrip,' is, that in that dark Ordeal we gather the worthiest
+around us."
+
+And the baronet's fair friend, Lady Blandish, and some few true men and
+women, held Austin Wentworth high.
+
+He did not live with his wife; and Sir Austin, whose mind was bent on the
+future of our species, reproached him with being barren to posterity,
+while knaves were propagating.
+
+The principal characteristic of the second nephew, Adrian Harley, was his
+sagacity.  He was essentially the wise youth, both in counsel and in
+action.
+
+"In action," the "Pilgrim's Scrip" observes, "Wisdom goes by majorities."
+
+Adrian had an instinct for the majority, and, as the world invariably
+found him enlisted in its ranks, his appellation of wise youth was
+acquiesced in without irony.
+
+The wise youth, then, had the world with him, but no friends.  Nor did he
+wish for those troublesome appendages of success.  He caused himself to
+be required by people who could serve him; feared by such as could
+injure.  Not that he went out of the way to secure his end, or risked the
+expense of a plot.  He did the work as easily as he ate his daily bread.
+Adrian was an epicurean; one whom Epicurus would have scourged out of his
+garden, certainly: an epicurean of our modern notions.  To satisfy his
+appetites without rashly staking his character, was the wise youth's
+problem for life.  He had no intimates except Gibbon and Horace, and the
+society of these fine aristocrats of literature helped him to accept
+humanity as it had been, and was; a supreme ironic procession, with
+laughter of Gods in the background.  Why not laughter of mortals also?
+Adrian had his laugh in his comfortable corner.  He possessed peculiar
+attributes of a heathen God.  He was a disposer of men: he was polished,
+luxurious, and happy--at their cost.  He lived in eminent self-content,
+as one lying on soft cloud, lapt in sunshine.  Nor Jove, nor Apollo, cast
+eye upon the maids of earth with cooler fire of selection, or pursued
+them in the covert with more sacred impunity.  And he enjoyed his
+reputation for virtue as something additional.  Stolen fruits are said to
+be sweet; undeserved rewards are exquisite.
+
+The best of it was, that Adrian made no pretences.  He did not solicit
+the favourable judgment of the world.  Nature and he attempted no other
+concealment than the ordinary mask men wear.  And yet the world would
+proclaim him moral, as well as wise, and the pleasing converse every way
+of his disgraced cousin Austin.
+
+In a word, Adrian Harley had mastered his philosophy at the early age of
+one-and-twenty.  Many would be glad to say the same at that age twice-
+told: they carry in their breasts a burden with which Adrian's was not
+loaded.  Mrs. Doria was nearly right about his heart.  A singular mishap
+(at his birth, possibly, or before it) had unseated that organ, and
+shaken it down to his stomach, where it was a much lighter, nay, an
+inspiring weight, and encouraged him merrily onward.  Throned there it
+looked on little that did not arrive to gratify it.  Already that region
+was a trifle prominent in the person of the wise youth, and carried, as
+it were, the flag of his philosophical tenets in front of him.  He was
+charming after dinner, with men or with women: delightfully sarcastic:
+perhaps a little too unscrupulous in his moral tone, but that his moral
+reputation belied him, and it must be set down to generosity of
+disposition.
+
+Such was Adrian Harley, another of Sir Austin's intellectual favourites,
+chosen from mankind to superintend the education of his son at Raynham.
+Adrian had been destined for the Church.  He did not enter into Orders.
+He and the baronet had a conference together one day, and from that time
+Adrian became a fixture in the Abbey.  His father died in his promising
+son's college term, bequeathing him nothing but his legal complexion, and
+Adrian became stipendiary officer in his uncle's household.
+
+A playfellow of Richard's occasionally, and the only comrade of his age
+that he ever saw, was Master Ripton Thompson, the son of Sir Austin's
+solicitor, a boy without a character.
+
+A comrade of some description was necessary, for Richard was neither to
+go to school nor to college.  Sir Austin considered that the schools were
+corrupt, and maintained that young lads might by parental vigilance be
+kept pretty secure from the Serpent until Eve sided with him: a period
+that might be deferred, he said.  He had a system of education for his
+son.  How it worked we shall see.
+
+
+
+
+CHAPTER II
+
+October, shone royally on Richard's fourteenth birthday.  The brown
+beechwoods and golden birches glowed to a brilliant sun.  Banks of
+moveless cloud hung about the horizon, mounded to the west, where slept
+the wind.  Promise of a great day for Raynham, as it proved to be, though
+not in the manner marked out.
+
+Already archery-booths and cricketing-tents were rising on the lower
+grounds towards the river, whither the lads of Bursley and Lobourne, in
+boats and in carts, shouting for a day of ale and honour, jogged merrily
+to match themselves anew, and pluck at the lining laurel from each
+other's brows, line manly Britons.  The whole park was beginning to be
+astir and resound with holiday cries.  Sir Austin Feverel, a thorough
+good Tory, was no game-preserver, and could be popular whenever he chose,
+which Sir Males Papworth, on the other side of the river, a fast-handed
+Whig and terror to poachers, never could be.  Half the village of
+Lobourne was seen trooping through the avenues of the park.  Fiddlers and
+gipsies clamoured at the gates for admission: white smocks, and slate,
+surmounted by hats of serious brim, and now and then a scarlet cloak,
+smacking of the old country, dotted the grassy sweeps to the levels.
+
+And all the time the star of these festivities was receding further and
+further, and eclipsing himself with his reluctant serf Ripton, who kept
+asking what they were to do and where they were going, and how late it
+was in the day, and suggesting that the lads of Lobourne would be calling
+out for them, and Sir Austin requiring their presence, without getting
+any attention paid to his misery or remonstrances.  For Richard had been
+requested by his father to submit to medical examination like a boor
+enlisting for a soldier, and he was in great wrath.
+
+He was flying as though he would have flown from the shameful thought of
+what had been asked of him.  By-and-by he communicated his sentiments to
+Ripton, who said they were those of a girl: an offensive remark,
+remembering which, Richard, after they had borrowed a couple of guns at
+the bailiff's farm, and Ripton had fired badly, called his friend a fool.
+
+Feeling that circumstances were making him look wonderfully like one,
+Ripton lifted his head and retorted defiantly, "I'm not!"
+
+This angry contradiction, so very uncalled for, annoyed Richard, who was
+still smarting at the loss of the birds, owing to Ripton's bad shot, and
+was really the injured party.  He, therefore bestowed the abusive epithet
+on Ripton anew, and with increase of emphasis.
+
+"You shan't call me so, then, whether I am or not," says Ripton, and
+sucks his lips.
+
+This was becoming personal.  Richard sent up his brows, and stared at his
+defier an instant.  He then informed him that he certainly should call
+him so, and would not object to call him so twenty times.
+
+"Do it, and see!" returns Ripton, rocking on his feet, and breathing
+quick.
+
+With a gravity of which only boys and other barbarians are capable,
+Richard went through the entire number, stressing the epithet to increase
+the defiance and avoid monotony, as he progressed, while Ripton bobbed
+his head every time in assent, as it were, to his comrade's accuracy, and
+as a record for his profound humiliation.  The dog they had with them
+gazed at the extraordinary performance with interrogating wags of the
+tail.
+
+Twenty times, duly and deliberately, Richard repeated the obnoxious word.
+
+At the twentieth solemn iteration of Ripton's capital shortcoming, Ripton
+delivered a smart back-hander on Richard's mouth, and squared
+precipitately; perhaps sorry when the deed was done, for he was a kind-
+hearted lad, and as Richard simply bowed in acknowledgment of the blow he
+thought he had gone too far.  He did not know the young gentleman he was
+dealing with.  Richard was extremely cool.
+
+"Shall we fight here?" he said.
+
+"Anywhere you like," replied Ripton.
+
+"A little more into the wood, I think.  We may be interrupted."  And
+Richard led the way with a courteous reserve that somewhat chilled
+Ripton's ardour for the contest.  On the skirts of the wood, Richard
+threw off his jacket and waistcoat, and, quite collected, waited for
+Ripton to do the same.  The latter boy was flushed and restless; older
+and broader, but not so tight-limbed and well-set.  The Gods, sole
+witnesses of their battle, betted dead against him.  Richard had mounted
+the white cockade of the Feverels, and there was a look in him that asked
+for tough work to extinguish.  His brows, slightly lined upward at the
+temples, converging to a knot about the well-set straight nose; his full
+grey eyes, open nostrils, and planted feet, and a gentlemanly air of calm
+and alertness, formed a spirited picture of a young combatant.  As for
+Ripton, he was all abroad, and fought in school-boy style--that is, he
+rushed at the foe head foremost, and struck like a windmill.  He was a
+lumpy boy.  When he did hit, he made himself felt; but he was at the
+mercy of science.  To see him come dashing in, blinking and puffing and
+whirling his arms abroad while the felling blow went straight between
+them, you perceived that he was fighting a fight of desperation, and knew
+it.  For the dreaded alternative glared him in the face that, if he
+yielded, he must look like what he had been twenty times calumniously
+called; and he would die rather than yield, and swing his windmill till
+he dropped.  Poor boy! he dropped frequently.  The gallant fellow fought
+for appearances, and down he went.  The Gods favour one of two parties.
+Prince Turnus was a noble youth; but he had not Pallas at his elbow.
+Ripton was a capital boy; he had no science.  He could not prove he was
+not a fool!  When one comes to think of it, Ripton did choose the only
+possible way, and we should all of us have considerable difficulty in
+proving the negative by any other.  Ripton came on the unerring fist
+again and again; and if it was true, as he said in short colloquial
+gasps, that he required as much beating as an egg to be beaten
+thoroughly, a fortunate interruption alone saved our friend from
+resembling that substance.  The boys heard summoning voices, and beheld
+Mr. Morton of Poer Hall and Austin Wentworth stepping towards them.
+
+A truce was sounded, jackets were caught up, guns shouldered, and off
+they trotted in concert through the depths of the wood, not stopping till
+that and half-a-dozen fields and a larch plantation were well behind
+them.
+
+When they halted to take breath, there was a mutual study of faces.
+Ripton's was much discoloured, and looked fiercer with its natural war-
+paint than the boy felt.  Nevertheless, he squared up dauntlessly on the
+new ground, and Richard, whose wrath was appeased, could not refrain from
+asking him whether he had not really had enough.
+
+"Never!" shouts the noble enemy.
+
+"Well, look here," said Richard, appealing to common sense, "I'm tired of
+knocking you down.  I'll say you're not a fool, if you'll give me your
+hand."
+
+Ripton demurred an instant to consult with honour, who bade him catch at
+his chance.
+
+He held out his hand.  "There!" and the boys grasped hands and were fast
+friends.  Ripton had gained his point, and Richard decidedly had the best
+of it.  So, they were on equal ground.  Both, could claim a victory,
+which was all the better for their friendship.
+
+Ripton washed his face and comforted his nose at a brook, and was now
+ready to follow his friend wherever he chose to lead.  They continued to
+beat about for birds.  The birds on the Raynham estates were found
+singularly cunning, and repeatedly eluded the aim of these prime shots,
+so they pushed their expedition into the lands of their neighbors, in
+search of a stupider race, happily oblivious of the laws and conditions
+of trespass; unconscious, too, that they were poaching on the demesne of
+the notorious Farmer Blaize, the free-trade farmer under the shield of
+the Papworths, no worshipper of the Griffin between two Wheatsheaves;
+destined to be much allied with Richard's fortunes from beginning to end.
+Farmer Blaize hated poachers, and, especially young chaps poaching, who
+did it mostly from impudence.  He heard the audacious shots popping right
+and left, and going forth to have a glimpse at the intruders, and
+observing their size, swore he would teach my gentlemen a thing, lords or
+no lords.
+
+Richard had brought down a beautiful cock-pheasant, and was exulting over
+it, when the farmer's portentous figure burst upon them, cracking an
+avenging horsewhip.  His salute was ironical.
+
+"Havin' good sport, gentlemen, are ye?"
+
+"Just bagged a splendid bird!" radiant Richard informed him.
+
+"Oh!"  Farmer Blaize gave an admonitory flick of the whip.
+
+"Just let me clap eye on't, then."
+
+"Say, please," interposed Ripton, who was not blind to doubtful aspects.
+
+Farmer Blaize threw up his chin, and grinned grimly.
+
+"Please to you, sir?  Why, my chap, you looks as if ye didn't much mind
+what come t'yer nose, I reckon.  You looks an old poacher, you do.  Tall
+ye what 'tis'!"  He changed his banter to business, "That bird's mine!
+Now you jest hand him over, and sheer off, you dam young scoundrels!  I
+know ye!"  And he became exceedingly opprobrious, and uttered contempt of
+the name of Feverel.
+
+Richard opened his eyes.
+
+If you wants to be horsewhipped, you'll stay where y'are!" continued the
+farmer.  "Giles Blaize never stands nonsense!"
+
+"Then we'll stay," quoth Richard.
+
+"Good! so be't!  If you will have't, have't, my men!"
+
+As a preparatory measure, Farmer Blaize seized a wing of the bird, on
+which both boys flung themselves desperately, and secured it minus the
+pinion.
+
+"That's your game," cried the farmer.  "Here's a taste of horsewhip for
+ye.  I never stands nonsense!" and sweetch went the mighty whip, well
+swayed.  The boys tried to close with him.  He kept his distance and
+lashed without mercy.  Black blood was made by Farmer Blaize that day!
+The boys wriggled, in spite of themselves.  It was like a relentless
+serpent coiling, and biting, and stinging their young veins to madness.
+Probably they felt the disgrace of the contortions they were made to go
+through more than the pain, but the pain was fierce, for the farmer laid
+about from a practised arm, and did not consider that he had done enough
+till he was well breathed and his ruddy jowl inflamed.  He paused, to
+receive the remainder of the cock-pheasant in his face.
+
+"Take your beastly bird," cried Richard.
+
+"Money, my lads, and interest," roared the farmer, lashing out again.
+
+Shameful as it was to retreat, there was but that course open to them.
+They decided to surrender the field.
+
+"Look! you big brute," Richard shook his gun, hoarse with passion, "I'd
+have shot you, if I'd been loaded.  Mind if I come across you when I'm
+loaded, you coward, I'll fire!"  The un-English nature of this threat
+exasperated Farmer Blaize, and he pressed the pursuit in time to bestow a
+few farewell stripes as they were escaping tight-breeched into neutral
+territory.  At the hedge they parleyed a minute, the farmer to inquire if
+they had had a mortal good tanning and were satisfied, for when they
+wanted a further instalment of the same they were to come for it to
+Belthorpe Farm, and there it was in pickle: the boys meantime exploding
+in menaces and threats of vengeance, on which the farmer contemptuously
+turned his back.  Ripton had already stocked an armful of flints for the
+enjoyment of a little skirmishing.  Richard, however, knocked them all
+out, saying, "No! Gentlemen don't fling stones; leave that to the
+blackguards."
+
+"Just one shy at him!" pleaded Ripton, with his eye on Farmer Blaize's
+broad mark, and his whole mind drunken with a sudden revelation of the
+advantages of light troops in opposition to heavies.
+
+"No," said Richard, imperatively, "no stones," and marched briskly away.
+Ripton followed with a sigh.  His leader's magnanimity was wholly beyond
+him.  A good spanking mark at the farmer would have relieved Master
+Ripton; it would have done nothing to console Richard Feverel for the
+ignominy he had been compelled to submit to.  Ripton was familiar with
+the rod, a monster much despoiled of his terrors by intimacy.  Birch-
+fever was past with this boy.  The horrible sense of shame, self-
+loathing, universal hatred, impotent vengeance, as if the spirit were
+steeped in abysmal blackness, which comes upon a courageous and sensitive
+youth condemned for the first time to taste this piece of fleshly
+bitterness, and suffer what he feels is a defilement, Ripton had
+weathered and forgotten.  He was seasoned wood, and took the world pretty
+wisely; not reckless of castigation, as some boys become, nor
+oversensitive as to dishonour, as his friend and comrade beside him was.
+
+Richard's blood was poisoned.  He had the fever on him severely.  He
+would not allow stone-flinging, because it was a habit of his to
+discountenance it.  Mere gentlemanly considerations has  scarce shielded
+Farmer Blaize, and certain very ungentlemanly schemes were coming to
+ghastly heads in the tumult of his brain; rejected solely from their
+glaring impracticability even to his young intelligence.  A sweeping and
+consummate vengeance for the indignity alone should satisfy him.
+Something tremendous must be done; and done without delay.  At one moment
+he thought of killing all the farmer's cattle; next of killing him;
+challenging him to single combat with the arms, and according to the
+fashion of gentlemen.  But the farmer was a coward; he would refuse.
+Then he, Richard Feverel, would stand by the farmer's bedside, and rouse
+him; rouse him to fight with powder and ball in his own chamber, in the
+cowardly midnight, where he might tremble, but dare not refuse.
+
+"Lord!" cried simple Ripton, while these hopeful plots were raging in his
+comrade's brain, now sparkling for immediate execution, and anon lapsing
+disdainfully dark in their chances of fulfilment, "how I wish you'd have
+let me notch him, Ricky!  I'm a safe shot.  I never miss.  I should feel
+quite jolly if I'd spanked him once.  We should have had the beat of him
+at that game.  I say!" and a sharp thought drew Ripton's ideas nearer
+home, "I wonder whether my nose is as bad as he says!  Where can I see
+myself?"
+
+To these exclamations Richard was deaf, and he trudged steadily forward,
+facing but one object.
+
+After tearing through innumerable hedges, leaping fences, jumping <DW18>s,
+penetrating brambly copses, and getting dirty, ragged, and tired, Ripton
+awoke from his dream of Farmer Blaize and a blue nose to the vivid
+consciousness of hunger; and this grew with the rapidity of light upon
+him, till in the course of another minute he was enduring the extremes of
+famine, and ventured to question his leader whither he was being
+conducted.  Raynham was out of sight.  They were a long way down the
+valley, miles from Lobourne, in a country of sour pools, yellow brooks,
+rank pasturage, desolate heath.  Solitary cows were seen; the smoke of a
+mud cottage; a cart piled with peat; a donkey grazing at leisure,
+oblivious of an unkind world; geese by a horse-pond, gabbling as in the
+first loneliness of creation; uncooked things that a famishing boy cannot
+possibly care for, and must despise.  Ripton was in despair.
+
+"Where are you going to?" he inquired with a voice of the last time of
+asking, and halted resolutely.
+
+Richard now broke his silence to reply, "Anywhere."
+
+"Anywhere!" Ripton took up the moody word.  "But ain't you awfully
+hungry?" he gasped vehemently, in a way that showed the total emptiness
+of his stomach.
+
+"No," was Richard's brief response.
+
+"Not hungry!" Ripton's amazement lent him increased vehemence.  "Why, you
+haven't had anything to eat since breakfast!  Not hungry?  I declare I'm
+starving.  I feel such a gnawing I could eat dry bread and cheese!"
+
+Richard sneered: not for reasons that would have actuated a similar
+demonstration of the philosopher.
+
+"Come," cried Ripton, "at all events, tell us where you're going to
+stop."
+
+Richard faced about to make a querulous retort.  The injured and hapless
+visage that met his eye disarmed him.  The lad's nose, though not exactly
+of the dreaded hue, was really becoming discoloured.  To upbraid him
+would be cruel.  Richard lifted his head, surveyed the position, and
+exclaiming "Here!" dropped down on a withered bank, leaving Ripton to
+contemplate him as a puzzle whose every new move was a worse perplexity.
+
+
+
+
+CHAPTER III
+
+Among boys there are laws of honour and chivalrous codes, not written or
+formally taught, but intuitively understood by all, and invariably acted
+upon by the loyal and the true.  The race is not nearly civilized, we
+must remember.  Thus, not to follow your leader whithersoever he may
+think proper to lead; to back out of an expedition because the end of it
+frowns dubious, and the present fruit of it is discomfort; to quit a
+comrade on the road, and return home without him: these are tricks which
+no boy of spirit would be guilty of, let him come to any description of
+mortal grief in consequence.  Better so than have his own conscience
+denouncing him sneak.  Some boys who behave boldly enough are not
+troubled by this conscience, and the eyes and the lips of their fellows
+have to supply the deficiency.  They do it with just as haunting, and
+even more horrible pertinacity, than the inner voice, and the result, if
+the probation be not very severe and searching, is the same.  The leader
+can rely on the faithfulness of his host: the comrade is sworn to serve.
+Master Ripton Thompson was naturally loyal.  The idea of turning off and
+forsaking his friend never once crossed his mind, though his condition
+was desperate, and his friend's behaviour that of a Bedlamite.  He
+announced several times impatiently that they would be too late for
+dinner.  His friend did not budge.  Dinner seemed nothing to him.  There
+he lay plucking grass, and patting the old dog's nose, as if incapable of
+conceiving what a thing hunger was.  Ripton took half-a-dozen turns up
+and down, and at last flung himself down beside the taciturn boy,
+accepting his fate.
+
+Now, the chance that works for certain purposes sent a smart shower from
+the sinking sun, and the wet sent two strangers for shelter in the lane
+behind the hedge where the boys reclined.  One was a travelling tinker,
+who lit a pipe and spread a tawny umbrella.  The other was a burly young
+countryman, pipeless and tentless.  They saluted with a nod, and began
+recounting for each other's benefit the daylong-doings of the weather, as
+it had affected their individual experience and followed their
+prophecies.  Both had anticipated and foretold a bit of rain before
+night, and therefore both welcomed the wet with satisfaction.  A
+monotonous betweenwhiles kind of talk they kept droning, in harmony with
+the still hum of the air.  From the weather theme they fell upon the
+blessings of tobacco; how it was the poor man's friend, his company, his
+consolation, his comfort, his refuge at night, his first thought in the
+morning.
+
+"Better than a wife!" chuckled the tinker.  "No curtain-lecturin' with a
+pipe.  Your pipe an't a shrew."
+
+"That be it!" the other chimed in.  "Your pipe doan't mak' ye out wi' all
+the cash Saturday evenin'."
+
+"Take one," said the tinker, in the enthusiasm of the moment, handing a
+grimy short clay.  Speed-the-Plough filled from the tinker's pouch, and
+continued his praises.
+
+"Penny a day, and there y'are, primed!  Better than a wife?  Ha, ha!"
+
+"And you can get rid of it, if ye wants for to, and when ye wants," added
+tinker.
+
+"So ye can!"  Speed-the-Plough took him up.  "And ye doan't want for to.
+Leastways, t'other case.  I means pipe."
+
+"And," continued tinker, comprehending him perfectly, it don't bring
+repentance after it."
+
+"Not nohow, master, it doan't!  And"--Speed-the-Plough cocked his eye--
+"it doan't eat up half the victuals, your pipe doan't."
+
+Here the honest yeoman gesticulated his keen sense of a clincher, which
+the tinker acknowledged; and having, so to speak, sealed up the subject
+by saying the best thing that could be said, the two smoked for some time
+in silence to the drip and patter of the shower.
+
+Ripton solaced his wretchedness by watching them through the briar hedge.
+He saw the tinker stroking a white cat, and appealing to her, every now
+and then, as his missus, for an opinion or a confirmation; and he thought
+that a curious sight.  Speed-the-Plough was stretched at full length,
+with his boots in the rain, and his head amidst the tinker's pots,
+smoking, profoundly contemplative.  The minutes seemed to be taken up
+alternately by the grey puffs from their mouths.
+
+It was the tinker who renewed the colloquy.  Said he, "Times is bad!"
+
+His companion assented, "Sure-ly!"
+
+"But it somehow comes round right," resumed the tinker.  "Why, look here.
+Where's the good o' moping?  I sees it all come round right and tight.
+Now I travels about.  I've got my beat.  'Casion calls me t'other day to
+Newcastle!--Eh?"
+
+"Coals!" ejaculated Speed-the-Plough sonorously.
+
+"Coals!" echoed the tinker.  "You ask what I goes there for, mayhap?
+Never you mind.  One sees a mort o' life in my trade.  Not for coals it
+isn't.  And I don't carry 'em there, neither.  Anyhow, I comes back.
+London's my mark.  Says I, I'll see a bit o' the sea, and steps aboard a
+collier.  We were as nigh wrecked as the prophet Paul."
+
+"--A--who's him?" the other wished to know.
+
+"Read your Bible," said the tinker.  "We pitched and tossed--'tain't that
+game at sea 'tis on land, I can tell ye! I thinks, down we're a-going--
+say your prayers, Bob Tiles!  That was a night, to be sure!  But God's
+above the devil, and here I am, ye see." Speed-the-Plough lurched round
+on his elbow and regarded him indifferently.  "D'ye call that doctrin'?
+He bean't al'ays, or I shoo'n't be scrapin' my heels wi' nothin' to do,
+and, what's warse, nothin' to eat.  Why, look heer.  Luck's luck, and bad
+luck's the con-trary.  Varmer Bollop, t'other day, has's rick burnt down.
+Next night his gran'ry's burnt.  What do he tak' and go and do?  He takes
+and goes and hangs unsel', and turns us out of his employ.  God warn't
+above the devil then, I thinks, or I can't make out the reckonin'."
+
+The tinker cleared his throat, and said it was a bad case.
+
+"And a darn'd bad case.  I'll tak' my oath on't!" cried Speed-the-Plough.
+"Well, look heer!  Heer's another darn'd bad case.  I threshed for Varmer
+Blaize Blaize o' Beltharpe afore I goes to Varmer Bollop.  Varmer Blaize
+misses pilkins.  He swears our chaps steals pilkins.  'Twarn't me steals
+'em.  What do he tak' and go and do?  He takes and tarns us off, me and
+another, neck and crop, to scuffle about and starve, for all he keers.
+God warn't above the devil then, I thinks.  Not nohow, as I can see!"
+
+The tinker shook his head, and said that was a bad case also.
+
+"And you can't mend it," added Speed-the-Plough.  "It's bad, and there it
+be.  But I'll tell ye what, master.  Bad wants payin' for."  He nodded
+and winked mysteriously.  "Bad has its wages as well's honest work, I'm
+thinkin'.  Varmer Bollop I don't owe no grudge to: Varmer Blaize I do.
+And I shud like to stick a Lucifer in his rick some dry windy night."
+Speed-the-Plough screwed up an eye villainously.  "He wants hittin' in
+the wind,--jest where the pocket is, master, do Varmer Blaize, and he'll
+cry out 'O Lor'!' Varmer Blaize will.  You won't get the better o' Varmer
+Blaize by no means, as I makes out, if ye doan't hit into him jest
+there."
+
+The tinker sent a rapid succession of white clouds from his mouth, and
+said that would be taking the devil's side of a bad case.  Speed-the-
+Plough observed energetically that, if Farmer Blaize was on the other, he
+should be on that side.
+
+There was a young gentleman close by, who thought with him.  The hope of
+Raynham had lent a careless half-compelled attention to the foregoing
+dialogue, wherein a common labourer and a travelling tinker had
+propounded and discussed one of the most ancient theories of transmundane
+dominion and influence on mundane affairs.  He now started to his feet,
+and came tearing through the briar hedge, calling out for one of them to
+direct them the nearest road to Bursley.  The tinker was kindling
+preparations for his tea, under the tawny umbrella.  A loaf was set
+forth, oh which Ripton's eyes, stuck in the edge, fastened ravenously.
+Speed-the-Plough volunteered information that Bursley was a good three
+mile from where they stood, and a good eight mile from Lobourne.
+
+"I'll give you half-a-crown for that loaf, my good fellow," said Richard
+to the tinker.
+
+"It's a bargain;" quoth the tinker, "eh, missus?"
+
+His cat replied by humping her back at the dog.
+
+The half-crown was tossed down, and Ripton, who had just succeeded in
+freeing his limbs from the briar, prickly as a hedgehog, collared the
+loaf.
+
+"Those young squires be sharp-set, and no mistake," said the tinker to
+his companion.  "Come! we'll to Bursley after 'em, and talk it out over a
+pot o' beer."  Speed-the-Plough was nothing loath, and in a short time
+they were following the two lads on the road to Bursley, while a
+horizontal blaze shot across the autumn and from the Western edge of the
+rain-cloud.
+
+
+
+
+CHAPTER IV
+
+Search for the missing boys had been made everywhere over Raynham, and
+Sir Austin was in grievous discontent.  None had seen them save Austin
+Wentworth and Mr. Morton.  The baronet sat construing their account of
+the flight of the lads when they were hailed, and resolved it into an act
+of rebellion on the part of his son.  At dinner he drank the young heir's
+health in ominous silence.  Adrian Harley stood up in his place to
+propose the health.  His speech was a fine piece of rhetoric.  He warmed
+in it till, after the Ciceronic model, inanimate objects were
+personified, and Richard's table-napkin and vacant chair were invoked to
+follow the steps of a peerless father, and uphold with his dignity the
+honour of the Feverels.  Austin Wentworth, whom a soldier's death
+compelled to take his father's place in support of the toast, was tame
+after such magniloquence.  But the reply, the thanks which young Richard
+should have delivered in person were not forthcoming.  Adrian's oratory
+had given but a momentary life to napkin and chair.  The company of
+honoured friends, and aunts and uncles, remotest cousins, were glad to
+disperse and seek amusement in music and tea.  Sir Austin did his utmost
+to be hospitable cheerful, and requested them to dance.  If he had
+desired them to laugh he would have been obeyed, and in as hearty a
+manner.
+
+"How triste!" said Mrs. Doria Forey to Lobourne's curate, as that most
+enamoured automaton went through his paces beside her with professional
+stiffness.
+
+"One who does not suffer can hardly assent," the curate answered, basking
+in her beams.
+
+"Ah, you are good!" exclaimed the lady.  "Look at my Clare.  She will not
+dance on her cousin's birthday with anyone but him.  What are we to do to
+enliven these people?"
+
+"Alas, madam! you cannot do for all what you do for one," the curate
+sighed, and wherever she wandered in discourse, drew her back with silken
+strings to gaze on his enamoured soul.
+
+He was the only gratified stranger present.  The others had designs on
+the young heir.  Lady Attenbury of Longford House had brought her highly-
+polished specimen of market-ware, the Lady Juliana Jaye, for a first
+introduction to him, thinking he had arrived at an age to estimate and
+pine for her black eyes and pretty pert mouth.  The Lady Juliana had to
+pair off with a dapper Papworth, and her mama was subjected to the
+gallantries of Sir Miles, who talked land and steam-engines to her till
+she was sick, and had to be impertinent in self-defence.  Lady Blandish,
+the delightful widow, sat apart with Adrian, and enjoyed his sarcasms on
+the company.  By ten at night the poor show ended, and the rooms were
+dark, dark as the prognostics multitudinously hinted by the disappointed
+and chilled guests concerning the probable future of the hope of Raynham.
+Little Clare kissed her mama, curtsied to the lingering curate, and went
+to bed like a very good girl.  Immediately the maid had departed, little
+Clare deliberately exchanged night, attire for that of day.  She was
+noted as an obedient child.  Her light was allowed to burn in her room
+for half-an-hour, to counteract her fears of the dark.  She took the
+light, and stole on tiptoe to Richard's room.  No Richard was there.  She
+peeped in further and further.  A trifling agitation of the curtains shot
+her back through the door and along the passage to her own bedchamber
+with extreme expedition.  She was not much alarmed, but feeling guilty
+she was on her guard.  In a short time she was prowling about the
+passages again.  Richard had slighted and offended the little lady, and
+was to be asked whether he did not repent such conduct toward his cousin;
+not to be asked whether he had forgotten to receive his birthday kiss
+from her; for, if he did not choose to remember that, Miss Clare would
+never remind him of it, and to-night should be his last chance of a
+reconciliation.  Thus she meditated, sitting on a stair, and presently
+heard Richard's voice below in the hall, shouting for supper.
+
+"Master Richard has returned," old Benson the butler tolled out
+intelligence to Sir Austin.
+
+"Well?" said the baronet.
+
+"He complains of being hungry," the butler hesitated, with a look of
+solemn disgust.
+
+"Let him eat."
+
+Heavy Benson hesitated still more as he announced that the boy had called
+for wine.  It was an unprecedented thing.  Sir Austin's brows were
+portending an arch, but Adrian suggested that he wanted possibly to drink
+his birthday, and claret was conceded.
+
+The boys were in the vortex of a partridge-pie when Adrian strolled in to
+them.  They had now changed characters.  Richard was uproarious.  He
+drank a health with every glass; his cheeks were flushed and his eyes
+brilliant.  Ripton looked very much like a rogue on the tremble of
+detection, but his honest hunger and the partridge-pie shielded him
+awhile from Adrian's scrutinizing glance.  Adrian saw there was matter
+for study, if it were only on Master Ripton's betraying nose, and sat
+down to hear and mark.
+
+"Good sport, gentlemen, I trust to hear?" he began his quiet banter, and
+provoked a loud peal of laughter from Richard.
+
+"Ha, ha!  I say, Rip: 'Havin' good sport, gentlemen, are ye?' You
+remember the farmer!  Your health, parson!  We haven't had our sport yet.
+We're going to have some first-rate sport.  Oh, well!  we haven't much
+show of birds.  We shot for pleasure, and returned them to the
+proprietors.  You're fond of game, parson!  Ripton is a dead shot in what
+Cousin Austin calls the Kingdom of 'would-have-done' and 'might-have-
+been.'  Up went the birds, and cries Rip, 'I've forgotten to load!'  Oh,
+ho!--Rip! some more claret.--Do just leave that nose of yours alone.--
+Your health, Ripton Thompson!  The birds hadn't the decency to wait for
+him, and so, parson, it's their fault, and not Rip's, you haven't a dozen
+brace at your feet.  What have you been doing at home, Cousin Rady?"
+
+"Playing Hamlet, in the absence of the Prince of Denmark.  The day
+without you, my dear boy, must be dull, you know."
+
+   "'He speaks: can I trust what he says is sincere?
+     There's an edge to his smile that cuts much like a sneer.'
+
+"Sandoe's poems!  You know the couplet, Mr. Rady.  Why shouldn't I quote
+Sandoe?  You know you like him, Rady.  But, if you've missed me, I'm
+sorry.  Rip and I have had a beautiful day.  We've made new
+acquaintances.  We've seen the world.  I'm the monkey that has seen the
+world, and I'm going to tell you all about it.  First, there's a
+gentleman who takes a rifle for a fowling-piece.  Next, there's a farmer
+who warns everybody, gentleman and beggar, off his premises.  Next,
+there's a tinker and a ploughman, who think that God is always fighting
+with the devil which shall command the kingdoms of the earth.  The
+tinker's for God, and the ploughman"--
+
+"I'll drink your health, Ricky," said Adrian, interrupting.
+
+"Oh, I forgot, parson;--I mean no harm, Adrian.  I'm only telling what
+I've heard."
+
+"No harm, my dear boy," returned Adrian.  "I'm perfectly aware that
+Zoroaster is not dead.  You have been listening to a common creed.  Drink
+the Fire-worshippers, if you will."
+
+"Here's to Zoroaster, then!" cried Richard.  "I say, Rippy!  we'll drink
+the Fire-worshippers to-night won't we?"
+
+A fearful conspiratorial frown, that would not have disgraced Guido
+Fawkes, was darted back from the, plastic features of Master Ripton.
+
+Richard gave his lungs loud play.
+
+"Why, what did you say about Blaizes, Rippy?  Didn't you say it was fun?"
+
+Another hideous and silencing frown was Ripton's answer.  Adrian matched
+the innocent youths, and knew that there was talking under the table.
+"See," thought he, "this boy has tasted his first scraggy morsel of life
+today, and already he talks like an old stager, and has, if I mistake
+not, been acting too.  My respected chief," he apostrophized Sir Austin,
+"combustibles are only the more dangerous for compression.  This boy will
+be ravenous for Earth when he is let loose, and very soon make his share
+of it look as foolish as yonder game-pie!"--a prophecy Adrian kept to
+himself.
+
+Uncle Algernon shambled in to see his nephew before the supper was
+finished, and his more genial presence brought out a little of the plot.
+
+"Look here, uncle!" said Richard.  "Would you let a churlish old brute of
+a farmer strike you without making him suffer for it?"
+
+"I fancy I should return the compliment, my lad," replied his uncle.
+
+"Of course you would!  So would I.  And he shall suffer for it."  The boy
+looked savage, and his uncle patted him down.
+
+"I've boxed his son; I'll box him," said Richard, shouting for more wine.
+
+"What, boy!  Is it old Blaize has been putting you up!"
+
+"Never mind, uncle!"  The boy nodded mysteriously.
+
+'Look there!'  Adrian read on Ripton's face, he says 'never mind,' and lets
+it out!
+
+"Did we beat to-day, uncle?"
+
+"Yes, boy; and we'd beat them any day they bowl fair.  I'd beat them on
+one leg.  There's only Watkins and Featherdene among them worth a
+farthing."
+
+"We beat!" cries Richard.  "Then we'll have some more wine, and drink
+their healths."
+
+The bell was rung; wine ordered.  Presently comes in heavy Benson, to say
+supplies are cut off.  One bottle, and no more.  The Captain whistled:
+Adrian shrugged.
+
+The bottle, however, was procured by Adrian subsequently.  He liked
+studying intoxicated urchins.
+
+One subject was at Richard's heart, about which he was reserved in the
+midst of his riot.  Too proud to inquire how his father had taken his
+absence, he burned to hear whether he was in disgrace.  He led to it
+repeatedly, and it was constantly evaded by Algernon and Adrian.  At
+last, when the boy declared a desire to wish his father good-night,
+Adrian had to tell him that he was to go straight to bed from the supper-
+table.  Young Richard's face fell at that, and his gaiety forsook him.
+He marched to his room without another word.
+
+Adrian gave Sir Austin an able version of his son's behaviour and
+adventures; dwelling upon this sudden taciturnity when he heard of his
+father's resolution not to see him.  The wise youth saw that his chief
+was mollified behind his moveless mask, and went to bed, and Horace,
+leaving Sir Austin in his study.  Long hours the baronet sat alone.  The
+house had not its usual influx of Feverels that day.  Austin Wentworth
+was staying at Poer Hall, and had only come over for an hour.  At
+midnight the house breathed sleep.  Sir Austin put on his cloak and cap,
+and took the lamp to make his rounds.  He apprehended nothing special,
+but with a mind never at rest he constituted himself the sentinel of
+Raynham.  He passed the chamber where the Great-Aunt Grantley lay, who
+was to swell Richard's fortune, and so perform her chief business on
+earth.  By her door he murmured, "Good creature! you sleep with a sense
+of duty done," and paced on, reflecting, "She has not made money a demon
+of discord," and blessed her.  He had his thoughts at Hippias's somnolent
+door, and to them the world might have subscribed.
+
+A monomaniac at large, watching over sane people in slumber!  thinks
+Adrian Harley, as he hears Sir Austin's footfall, and truly that was a
+strange object to see.--Where is the fortress that has not one weak gate?
+where the man who is sound at each particular angle?  Ay, meditates the
+recumbent cynic, more or less mad is not every mother's son?  Favourable
+circumstances--good air, good company, two or three good rules rigidly
+adhered to--keep the world out of Bedlam.  But, let the world fly into a
+passion, and is not Bedlam the safest abode for it?
+
+Sir Austin ascended the stairs, and bent his steps leisurely toward the
+chamber where his son was lying in the left wing of the Abbey.  At the
+end of the gallery which led to it he discovered a dim light.  Doubting
+it an illusion, Sir Austin accelerated his pace.  This wing had aforetime
+a bad character.  Notwithstanding what years had done to polish it into
+fair repute, the Raynham kitchen stuck to tradition, and preserved
+certain stories of ghosts seen there, that effectually blackened it in
+the susceptible minds of new house-maids and under-crooks, whose fears
+would not allow the sinner to wash his sins.  Sir Austin had heard of the
+tales circulated by his domestics underground.  He cherished his own
+belief, but discouraged theirs, and it was treason at Raynham to be
+caught traducing the left wing.  As the baronet advanced, the fact of a
+light burning was clear to him.  A slight descent brought him into the
+passage, and he beheld a poor human candle standing outside his son's
+chamber.  At the same moment a door closed hastily.  He entered Richard's
+room.  The boy was absent.  The bed was unpressed: no clothes about:
+nothing to show that he had been there that night.  Sir Austin felt
+vaguely apprehensive.  Has he gone to my room to await me? thought the
+father's heart.  Something like a tear quivered in his arid eyes as he
+meditated and hoped this might be so.  His own sleeping-room faced that
+of his son.  He strode to it with a quick heart.  It was empty.  Alarm
+dislodged anger from his jealous heart, and dread of evil put a thousand
+questions to him that were answered in air.  After pacing up and down his
+room he determined to go and ask the boy Thompson, as he called Ripton,
+what was known to him.
+
+The chamber assigned to Master Ripton Thompson was at the northern
+extremity of the passage, and overlooked Lobourne and the valley to the
+West.  The bed stood between the window and the door.  Six Austin found
+the door ajar, and the interior dark.  To his surprise, the boy
+Thompson's couch, as revealed by the rays of his lamp, was likewise
+vacant.  He was turning back when he fancied he heard the sibilation of a
+whispering in the room.  Sir Austin cloaked the lamp and trod silently
+toward the window.  The heads of his son Richard and the boy Thompson
+were seen crouched against the glass, holding excited converse together.
+Sir Austin listened, but he listened to a language of which he possessed
+not the key.  Their talk was of fire, and of delay: of expected agrarian
+astonishment: of a farmer's huge wrath: of violence exercised upon
+gentlemen, and of vengeance: talk that the boys jerked out by fits, and
+that came as broken links of a chain impossible to connect.  But they
+awake curiosity.  The baronet condescended to play the spy upon his son.
+
+Over Lobourne and the valley lay black night and innumerable stars.
+
+"How jolly I feel!" exclaimed Ripton, inspired by claret; and then, after
+a luxurious pause--"I think that fellow has pocketed his guinea, and cut
+his lucky."
+
+Richard allowed a long minute to pass, during which the baronet waited
+anxiously for his voice, hardly recognizing it when he heard its altered
+tones.
+
+"If he has, I'll go; and I'll do it myself."
+
+"You would?" returned Master Ripton.  "Well, I'm hanged!--I say, if you
+went to school, wouldn't you get into rows!  Perhaps he hasn't found the
+place where the box was stuck in.  I think he funks it.  I almost wish
+you hadn't done it, upon my honour--eh?  Look there! what was that?  That
+looked like something.--I say!  do you think we shall ever be found out?"
+
+Master Ripton intoned this abrupt interrogation verb seriously.
+
+"I don't think about it," said Richard, all his faculties bent on signs
+from Lobourne.
+
+"Well, but," Ripton persisted, "suppose we are found out?"
+
+"If we are, I must pay for it."
+
+Sir Austin breathed the better for this reply.  He was beginning to
+gather a clue to the dialogue.  His son was engaged in a plot, and was,
+moreover, the leader of the plot.  He listened for further enlightenment.
+
+"What was the fellow's name?" inquired Ripton.
+
+His companion answered, "Tom Bakewell."
+
+"I'll tell you what," continued Ripton.  "You let it all clean out to
+your cousin and uncle at supper.--How capital claret is with partridge-
+pie!  What a lot I ate!--Didn't you see me frown?"
+
+The young sensualist was in an ecstasy of gratitude to his late
+refection, and the slightest word recalled him to it.  Richard answered
+him:
+
+"Yes; and felt your kick.  It doesn't matter.  Rady's safe, and uncle
+never blabs."
+
+"Well, my plan is to keep it close.  You're never safe if you don't.--I
+never drank much claret before," Ripton was off again.  "Won't I now,
+though! claret's my wine.  You know, it may come out any day, and then
+we're done for," he rather incongruously appended.
+
+Richard only took up the business-thread of his friend's rambling
+chatter, and answered:
+
+"You've got nothing to do with it, if we are."
+
+"Haven't I, though!  I didn't stick-in the box but I'm an accomplice,
+that's clear.  Besides," added Ripton, "do you think I should leave you
+to bear it all on your shoulders?  I ain't that sort of chap, Ricky, I
+can tell you."
+
+Sir Austin thought more highly of the boy Thompson.  Still it looked a
+detestable conspiracy, and the altered manner of his son impressed him
+strangely.  He was not the boy of yesterday.  To Sir Austin it seemed as
+if a gulf had suddenly opened between them.  The boy had embarked, and
+was on the waters of life in his own vessel.  It was as vain to call him
+back as to attempt to erase what Time has written with the Judgment
+Blood!  This child, for whom he had prayed nightly in such a fervour and
+humbleness to God, the dangers were about him, the temptations thick on
+him, and the devil on board piloting.  If a day had done so much, what
+would years do?  Were prayers and all the watchfulness he had expended of
+no avail?
+
+A sensation of infinite melancholy overcame the poor gentleman--a thought
+that he was fighting with a fate in this beloved boy.
+
+He was half disposed to arrest the two conspirators on the spot, and make
+them confess, and absolve themselves; but it seemed to him better to keep
+an unseen eye over his son: Sir Austin's old system prevailed.
+
+Adrian characterized this system well, in saying that Sir Austin wished
+to be Providence to his son.
+
+If immeasurable love were perfect wisdom, one human being might almost
+impersonate Providence to another.  Alas! love, divine as it is, can do
+no more than lighten the house it inhabits--must take its shape,
+sometimes intensify its narrowness--can spiritualize, but not expel, the
+old lifelong lodgers above-stairs and below.
+
+Sir Austin decided to continue quiescent.
+
+The valley still lay black beneath the large autumnal stars, and the
+exclamations of the boys were becoming fevered and impatient.  By-and-by
+one insisted that he had seen a twinkle.  The direction he gave was out
+of their anticipations.  Again the twinkle was announced.  Both boys
+started to their feet.  It was a twinkle in the right direction now.
+
+"He's done it!" cried Richard, in great heat.  "Now you may say old
+Blaize'll soon be old Blazes, Rip.  I hope he's asleep."
+
+"I'm sure he's snoring!--Look there!  He's alight fast enough.  He's dry.
+He'll burn.--I say," Ripton re-assumed the serious intonation, "do you
+think they'll ever suspect us?"
+
+"What if they do?  We must brunt it."
+
+"Of course we will.  But, I say! I wish you hadn't given them the scent,
+though.  I like to look innocent.  I can't when I know people suspect me.
+Lord! look there!  Isn't it just beginning to flare up!"
+
+The farmer's grounds were indeed gradually standing out in sombre
+shadows.
+
+"I'll fetch my telescope," said Richard.  Ripton, somehow not liking to
+be left alone, caught hold of him.
+
+"No; don't go and lose the best of it.  Here, I'll throw open the window,
+and we can see."
+
+The window was flung open, and the boys instantly stretched half their
+bodies out of it; Ripton appearing to devour the rising flames with his
+mouth: Richard with his eyes.
+
+Opaque and statuesque stood the figure of the baronet behind them.  The
+wind was low.  Dense masses of smoke hung amid the darting snakes of
+fire, and a red malign light was on the neighbouring leafage.  No figures
+could be seen.  Apparently the flames had nothing to contend against, for
+they were making terrible strides into the darkness.
+
+"Oh!" shouted Richard, overcome by excitement, "if I had my telescope!
+We must have it!  Let me go and fetch it!  I Will!"
+
+The boys struggled together, and Sir Austin stepped back.  As he did so,
+a cry was heard in the passage.  He hurried out, closed the chamber, and
+came upon little Clare lying senseless along the door.
+
+
+
+
+CHAPTER V
+
+In the morning that followed this night, great gossip was interchanged
+between Raynham and Lobourne.  The village told how Farmer Blaize, of
+Belthorpe Farm, had his Pick feloniously set fire to; his stables had
+caught fire, himself had been all but roasted alive in the attempt to
+rescue his cattle, of which numbers had perished in the flames.  Raynham
+counterbalanced arson with an authentic ghost seen by Miss Clare in the
+left wing of the Abbey--the ghost of a lady, dressed in deep mourning, a
+scar on her forehead and a bloody handkerchief at her breast, frightful
+to behold! and no wonder the child was frightened out of her wits, and
+lay in a desperate state awaiting the arrival of the London doctors.  It
+was added that the servants had all threatened to leave in a body, and
+that Sir Austin to appease them had promised to pull down the entire left
+wing, like a  gentleman; for no decent creature, said Lobourne, could
+consent to live in a haunted house.
+
+Rumour for the nonce had a stronger spice of truth than usual.  Poor
+little Clare lay ill, and the calamity that had befallen Farmer Blaize,
+as regards his rick, was not much exaggerated.  Sir Austin caused an
+account of it be given him at breakfast, and appeared so scrupulously
+anxious to hear the exact extent of injury sustained by the farmer that
+heavy Benson went down to  inspect the scene.  Mr. Benson returned, and,
+acting under Adrian's malicious advice, framed a formal report of the
+catastrophe, in which the farmer's breeches figured, and certain cooling
+applications to a part of the farmer's person.  Sir Austin perused it
+without a smile.  He took occasion to have it read out before the two
+boys, who listened very demurely, as to ordinary newspaper incident; only
+when the report particularized the garments damaged, and the unwonted
+distressing position Farmer Blaize was reduced to in his bed, indecorous
+fit of sneezing laid hold of Master Ripton Thompson, and Richard bit his
+lip and burst into loud laughter, Ripton joining him, lost to
+consequences.
+
+"I trust you feel for this poor man," said Sir Austin to his son,
+somewhat sternly.  He saw no sign of feeling.
+
+It was a difficult task for Sir Austin to keep his old countenance toward
+the hope of Raynham, knowing him the accomplice-incendiary, and believing
+the deed to have been unprovoked and wanton.  But he must do so, he knew,
+to let the boy have a fair trial against himself.  Be it said, moreover,
+that the baronet's possession of his son's secret flattered him.  It
+allowed him to act, and in a measure to feel, like Providence; enabled
+him to observe and provide for the movements of creatures in the dark.
+He therefore treated the boy as he commonly did, and Richard saw no
+change in his father to make him think he was suspected.
+
+The youngster's game was not so easy against Adrian.   Adrian did not
+shoot or fish.  Voluntarily he did nothing to work off the destructive
+nervous fluid, or whatever it may be, which is in man's nature; so that
+two culprit boys once in his power were not likely to taste the gentle
+hand of mercy; and Richard and Ripton paid for many a trout and partridge
+spared.  At every minute of the day Ripton was thrown into sweats of
+suspicion that discovery was imminent, by some stray remark or message
+from Adrian.  He was as a fish with the hook in his gills, mysteriously
+caught without having nibbled; and dive into what depths he would he was
+sensible of a summoning force that compelled him perpetually towards the
+gasping surface, which he seemed inevitably approaching when the dinner-
+bell sounded.  There the talk was all of Farmer Blaize.  If it dropped,
+Adrian revived it, and his caressing way with Ripton was just such as a
+keen sportsman feels toward the creature that had owned his skill, and is
+making its appearance for the world to acknowledge the same.  Sir Austin
+saw the manoeuvres, and admired Adrian's shrewdness.  But he had to check
+the young natural lawyer, for the effect of so much masked examination
+upon Richard was growing baneful.  This fish also felt the hook in his
+gills, but this fish was more of a pike, and lay in different waters,
+where there were old stumps and black roots to wind about, and defy alike
+strong pulling and delicate handling.  In other words, Richard showed
+symptoms of a disposition to take refuge in lies.
+
+"You know the grounds, my dear boy," Adrian observed to him.  "Tell me;
+do you think it easy to get to the rick unperceived?  I hear they suspect
+one of the farmer's turned-off hands."
+
+"I tell you I don't know the grounds," Richard sullenly replied.
+
+"Not?"  Adrian counterfeited courteous astonishment.  "I thought Mr.
+Thompson said you were over there yesterday?"
+
+Ripton, glad to speak the truth, hurriedly assured Adrian that it was not
+he had said so.
+
+"Not?  You had good sport, gentlemen, hadn't you?"
+
+"Oh, yes!" mumbled the wretched victims, reddening as they remembered, in
+Adrian's slightly drawled rusticity of tone, Farmer Blaize's first
+address to them.
+
+"I suppose you were among the Fire-worshippers last night, too?"
+persisted Adrian.  "In some countries, I hear, they manage their best
+sport at night-time, and beat up for game with torches.  It must be a
+fine sight.  After all, the country would be dull if we hadn't a rip here
+and there to treat us to a little conflagration."
+
+"A rip!" laughed Richard, to his friend's disgust and alarm at his
+daring.  "You don't mean this Rip, do you?"
+
+"Mr. Thompson fire a rick?  I should as soon suspect you, my dear boy.--
+You are aware, young gentlemen, that it is rather a serious thing eh?  In
+this country, you know, the landlord has always been the pet of the Laws.
+By the way," Adrian continued, as if diverging to another topic, "you met
+two gentlemen of the road in your explorations yesterday, Magians.  Now,
+if I were a magistrate of the county, like Sir Miles Papworth, my
+suspicions would light upon those gentlemen.  A tinker and a ploughman, I
+think you said, Mr. Thompson.  Not?  Well, say two ploughmen."
+
+"More likely two tinkers," said Richard.
+
+"Oh! if you wish to exclude the ploughman--was he out of employ?"
+
+Ripton, with Adrian's eyes inveterately fixed on him, stammered an
+affirmative.
+
+"The tinker, or the ploughman?"
+
+"The ploughm--" Ingenuous Ripton looking about, as if to aid himself
+whenever he was able to speak the truth, beheld Richard's face blackening
+at him, and swallowed back half the word.
+
+"The ploughman!"  Adrian took him up cheerily.  "Then we have here a
+ploughman out of employ.  Given a ploughman out of employ, and a rick
+burnt.  The burning of a rick is an act of vengeance, and a ploughman out
+of employ is a vengeful animal.  The rick and the ploughman are advancing
+to a juxtaposition.  Motive being established, we have only to prove
+their proximity at a certain hour, and our ploughman voyages beyond
+seas."
+
+"Is it transportation for rick-burning?" inquired Ripton aghast.
+
+Adrian spoke solemnly: "They shave your head.  You are manacled.  Your
+diet is sour bread and cheese-parings.  You work in strings of twenties
+and thirties.  ARSON is branded on your backs in an enormous A.
+Theological works are the sole literary recreation of the well-conducted
+and deserving.  Consider the fate of this poor fellow, and what an act of
+vengeance brings him to!  Do you know his name?"
+
+"How should I know his name?" said Richard, with an assumption of
+innocence painful to see.
+
+Sir Austin remarked that no doubt it would soon be known, and Adrian
+perceived that he was to quiet his line, marvelling a little at the
+baronet's blindness to what was so clear.  He would not tell, for that
+would ruin his influence with Richard; still he wanted some present
+credit for his discernment and devotion.  The boys got away from dinner,
+and, after deep consultation, agreed upon a course of conduct, which was
+to commiserate with Farmer Blaize loudly, and make themselves look as
+much like the public as it was possible for two young malefactors to
+look, one of whom already felt Adrian's enormous A devouring his back
+with the fierceness of the Promethean eagle, and isolating him forever
+from mankind.  Adrian relished their novel tactics sharply, and led them
+to lengths of lamentation for Farmer Blaize.  Do what they might, the
+hook was in their gills.  The farmer's whip had reduced them to bodily
+contortions; these were decorous compared with the spiritual writhings
+they had to perform under Adrian's manipulation.  Ripton was fast
+becoming a coward, and Richard a liar, when next morning Austin Wentworth
+came over from Poer Hall bringing news that one Mr. Thomas Bakewell,
+yeoman, had been arrested on suspicion of the crime of Arson and lodged
+in jail, awaiting the magisterial pleasure of Sir Miles Papworth.
+Austin's eye rested on Richard as he spoke these terrible tidings. The
+hope of Raynham returned his look, perfectly calm, and had, moreover, the
+presence of mind not to look at Ripton.
+
+
+
+
+CHAPTER VI
+
+As soon as they could escape, the boys got together into an obscure
+corner of the park, and there took counsel of their extremity.
+
+"Whatever shall we do now?" asked Ripton of his leader.
+
+Scorpion girt with fire was never in a more terrible prison-house than
+poor Ripton, around whom the raging element he had assisted to create
+seemed to be drawing momently narrower circles.
+
+"There's only one chance," said Richard, coming to a dead halt, and
+folding his arms resolutely.
+
+His comrade inquired with the utmost eagerness what that chance might be.
+
+Richard fixed his eyes on a flint, and replied: "We must rescue that
+fellow from jail."
+
+Ripton gazed at his leader, and fell back with astonishment.  "My dear
+Ricky! but how are we to do it?"
+
+Richard, still perusing his flint, replied: "We must manage to get a file
+in to him and a rope.  It can be done, I tell you.  I don't care what I
+pay.  I don't care what I do.  He must be got out."
+
+"Bother that old Blaize!" exclaimed Ripton, taking off his cap to wipe
+his frenzied forehead, and brought down his friend's reproof.
+
+"Never mind old Blaize now.  Talk about letting it out!  Look at you.
+I'm ashamed of you.  You talk about Robin Hood and King Richard!  Why,
+you haven't an atom of courage.  Why, you let it out every second of the
+day.  Whenever Rady begins speaking you start; I can see the perspiration
+rolling down you.  Are you afraid?--And then you contradict yourself.
+You never keep to one story.  Now, follow me.  We must risk everything to
+get him out.  Mind that!  And keep out of Adrian's way as much as you
+can.  And keep to one story."
+
+With these sage directions the young leader marched his companion-culprit
+down to inspect the jail where Tom Bakewell lay groaning over the results
+of the super-mundane conflict, and the victim of it that he was.
+
+In Lobourne Austin Wentworth had the reputation of the poor man's friend;
+a title he earned more largely ere he went to the reward God alone can
+give to that supreme virtue.  Dame Bakewell, the mother of Tom, on
+hearing of her son's arrest, had run to comfort him and render him what
+help she could; but this was only sighs and tears, and, oh deary me!
+which only perplexed poor Tom, who bade her leave an unlucky chap to his
+fate, and not make himself a thundering villain.  Whereat the dame begged
+him to take heart, and he should have a true comforter.  "And though it's
+a  gentleman that's coming to you, Tom--for he never refuses a poor
+body," said Mrs. Bakewell, "it's a true Christian, Tom! and the Lord
+knows if the sight of him mayn't be the saving of you, for he's light to
+look on, and a sermon to listen to, he is!"
+
+Tom was not prepossessed by the prospect of a sermon, and looked a sullen
+dog enough when Austin entered his cell.  He was surprised at the end of
+half-an-hour to find himself engaged in man-to-man conversation with a
+gentleman and a Christian.  When Austin rose to go Tom begged permission
+to shake his hand.
+
+"Take and tell young master up at the Abbey that I an't the chap to
+peach.  He'll know.  He's a young gentleman as'll make any man do as he
+wants 'em!  He's a mortal wild young gentleman!  And I'm a Ass!  That's
+where 'tis.  But I an't a blackguard.  Tell him that, sir!"
+
+This was how it came that Austin eyed young Richard seriously while he
+told the news at Raynham.  The boy was shy of Austin more than of Adrian.
+Why, he did not know; but he made it a hard task for Austin to catch him
+alone, and turned sulky that instant.  Austin was not clever like Adrian:
+he seldom divined other people's ideas, and always went the direct road
+to his object; so instead of beating about and setting the boy on the
+alert at all points, crammed to the muzzle with lies, he just said, "Tom
+Bakewell told me to let you know he does not intend to peach on you," and
+left him.
+
+Richard repeated the intelligence to Ripton, who cried aloud that Tom was
+a brick.
+
+"He shan't suffer for it," said Richard, and pondered on a thicker rope
+and sharper file.
+
+"But will your cousin tell?" was Ripton's reflection.
+
+"He!" Richard's lip expressed contempt.  "A ploughman refuses to peach,
+and you ask if one of our family will?"
+
+Ripton stood for the twentieth time reproved on this point.
+
+The boys had examined the outer walls of the jail, and arrived at the
+conclusion that Tom's escape might be managed if Tom had spirit, and the
+rope and file could be anyway reached to him.  But to do this, somebody
+must gain admittance to his cell, and who was to be taken into their
+confidence?
+
+"Try your cousin," Ripton suggested, after much debate.
+
+Richard, smiling, wished to know if he meant Adrian.
+
+"No, no!" Ripton hurriedly reassured him.  "Austin."
+
+The same idea was knocking at Richard's head.
+
+"Let's get the rope and file first," said he, and to Bursley they went
+for those implements to defeat the law, Ripton procuring the file at one
+shop and Richard the rope at another, with such masterly cunning did they
+lay their measures for the avoidance of every possible chance of
+detection.  And better to assure this, in a wood outside Bursley Richard
+stripped to his shirt and wound the rope round his body, tasting the
+tortures of anchorites and penitential friars, that nothing should be
+risked to make Tom's escape a certainty.  Sir Austin saw the marks at
+night as his son lay asleep, through the half-opened folds of his bed-
+gown.
+
+It was a severe stroke when, after all their stratagems and trouble,
+Austin Wentworth refused the office the boys had zealously designed for
+him.  Time pressed.  In a few days poor Tom would have to face the
+redoubtable Sir Miles, and get committed, for rumours of overwhelming
+evidence to convict him were rife about Lobourne, and Farmer Blaize's
+wrath was unappeasable.  Again and again young Richard begged his cousin
+not to see him disgraced, and to help him in this extremity.  Austin
+smiled on him.
+
+"My dear Ricky," said he, "there are two ways of getting out of a scrape:
+a long way and a short way.  When you've tried the roundabout method, and
+failed, come to me, and I'll show you the straight route."
+
+Richard was too entirely bent upon the roundabout method to consider this
+advice more than empty words, and only ground his teeth at Austin's
+unkind refusal.
+
+He imparted to Ripton, at the eleventh hour, that they must do it
+themselves, to which Ripton heavily assented.
+
+On the day preceding poor Tom's doomed appearance before the magistrate,
+Dame Bakewell had an interview with Austin, who went to Raynham
+immediately, and sought Adrian's counsel upon what was to be done.
+Homeric laughter and nothing else could be got out of Adrian when he
+heard of the doings of these desperate boys: how they had entered Dame
+Bakewell's smallest of retail shops, and purchased tea, sugar, candles,
+and comfits of every description, till the shop was clear of customers:
+how they had then hurried her into her little back-parlour, where Richard
+had torn open his shirt and revealed the coils of rope, and Ripton
+displayed the point of a file from a serpentine recess in his jacket: how
+they had then told the astonished woman that the rope she saw and the
+file she saw were instruments for the liberation of her son; that there
+existed no other means on earth to save him, they, the boys, having
+unsuccessfully attempted all: how upon that Richard had tried with the
+utmost earnestness to persuade her to disrobe and wind the rope round her
+own person: and Ripton had aired his eloquence to induce her to secrete
+the file: how, when she resolutely objected to the rope, both boys began
+backing the file, and in an evil hour, she feared, said Dame Bakewell,
+she had rewarded the gracious permission given her by Sir Miles Papworth
+to visit her son, by tempting Tom to file the Law.  Though, thanks be to
+the Lord!  Dame Bakewell added, Tom had turned up his nose at the file,
+and so she had told young Master Richard, who swore very bad for a young
+gentleman.
+
+"Boys are like monkeys," remarked Adrian, at the close of his explosions,
+"the gravest actors of farcical nonsense that the world possesses.  May I
+never be where there are no boys!  A couple of boys left to themselves
+will furnish richer fun than any troop of trained comedians.  No: no Art
+arrives at the artlessness of nature in matters of comedy.  You can't
+simulate the ape.  Your antics are dull.  They haven't the charming
+inconsequence of the natural animal.  Lack at these two!  Think of the
+shifts they are put to all day long!  They know I know all about it, and
+yet their serenity of innocence is all but unruffled in my presence.
+You're sorry to think about the end of the business, Austin?  So am I!  I
+dread the idea of the curtain going down.  Besides, it will do Ricky a
+world of good.  A practical lesson is the best lesson."
+
+"Sinks deepest," said Austin, "but whether he learns good or evil from it
+is the question at stake."
+
+Adrian stretched his length at ease.
+
+"This will be his first nibble at experience, old Time's fruit, hateful
+to the palate of youth! for which season only hath it any nourishment!
+Experience!  You know Coleridge's capital simile?--Mournful you call it?
+Well! all wisdom is mournful.  'Tis therefore, coz, that the wise do love
+the Comic Muse.  Their own high food would kill them.  You shall find
+great poets, rare philosophers, night after night on the broad grin
+before a row of yellow lights and mouthing masks.  Why?  Because all's
+dark at home.  The stage is the pastime of great minds.  That's how it
+comes that the stage is now down.  An age of rampant little minds, my
+dear Austin!  How I hate that cant of yours about an Age of Work--you,
+and your Mortons, and your parsons Brawnley, rank radicals all of you,
+base materialists!  What does Diaper Sandoe sing of your Age of Work?
+Listen!
+
+         'An Age of betty tit for tat,
+            An Age of busy gabble:
+          An Age that's like a brewer's vat,
+            Fermenting for the rabble!
+
+         'An Age that's chaste in Love, but lax
+            To virtuous abuses:
+          Whose gentlemen and ladies wax
+            Too dainty for their uses.
+
+         'An Age that drives an Iron Horse,
+            Of Time and Space defiant;
+          Exulting in a Giant's Force,
+            And trembling at the Giant.
+
+         'An Age of Quaker hue and cut,
+            By Mammon misbegotten;
+          See the mad Hamlet mouth and strut!
+            And mark the Kings of Cotton!
+
+         'From this unrest, lo, early wreck'd,
+            A Future staggers crazy,
+          Ophelia of the Ages, deck'd
+            With woeful weed and daisy!'"
+
+Murmuring, "Get your parson Brawnley to answer that!"  Adrian changed the
+resting-place of a leg, and smiled.  The Age was an old battle-field
+between him and Austin.
+
+"My parson Brawnley, as you call him, has answered it," said Austin, "not
+by hoping his best, which would probably leave the Age to go mad to your
+satisfaction, but by doing it.  And he has and will answer your Diaper
+Sandoe in better verse, as he confutes him in a better life."
+
+"You don't see Sandoe's depth," Adrian replied.  "Consider that phrase,
+'Ophelia of the Ages'!  Is not Brawnley, like a dozen other leading
+spirits--I think that's your term just the metaphysical Hamlet to drive
+her mad?  She, poor maid! asks for marriage and smiling babes, while my
+lord lover stands questioning the Infinite, and rants to the Impalpable."
+
+Austin laughed.  "Marriage and smiling babes she would have in abundance,
+if Brawnley legislated.  Wait till you know him.  He will be over at Poer
+Hall shortly, and you will see what a Man of the Age means.  But now,
+pray, consult with me about these boys."
+
+"Oh, those boys!"  Adrian tossed a hand.  "Are there boys of the Age as
+well as men?  Not?  Then boys are better than men: boys are for all Ages.
+What do you think, Austin?  They've been studying Latude's Escape.  I
+found the book open in Ricky's room, on the top of Jonathan Wild.
+Jonathan preserved the secrets of his profession, and taught them
+nothing.  So they're going to make a Latude of Mr. Tom Bakewell.  He's to
+be Bastille Bakewell, whether he will or no.  Let them.  Let the wild
+colt run free!  We can't help them.  We can only look on.  We should
+spoil the play."
+
+Adrian always made a point of feeding the fretful beast Impatience with
+pleasantries--a not congenial diet; and Austin, the most patient of human
+beings, began to lose his self-control.
+
+"You talk as if Time belonged to you, Adrian.  We have but a few hours
+left us.  Work first, and joke afterwards.  The boy's fate is being
+decided now."
+
+"So is everybody's, my dear Austin!" yawned the epicurean.
+
+"Yes, but this boy is at present under our guardianship--under yours
+especially."
+
+"Not yet! not yet!" Adrian interjected languidly.  "No getting into
+scrapes when I have him.  The leash, young hound! the collar, young colt!
+I'm perfectly irresponsible at present."
+
+"You may have something different to deal with when you are responsible,
+if you think that."
+
+"I take my young prince as I find him, coz: a Julian, or a Caracalla: a
+Constantine, or a Nero.  Then, if he will play the fiddle to a
+conflagration, he shall play it well: if he must be a disputatious
+apostate, at any rate he shall understand logic and men, and have the
+habit of saying his prayers."
+
+"Then you leave me to act alone?" said Austin, rising.
+
+"Without a single curb!" Adrian gesticulated an acquiesced withdrawal.
+"I'm sure you would not, still more certain you cannot, do harm.  And be
+mindful of my prophetic words: Whatever's done, old Blaize will have to
+be bought off.  There's the affair settled at once.  I suppose I must go
+to the chief to-night and settle it myself.  We can't see this poor devil
+condemned, though it's nonsense to talk of a boy being the prime
+instigator."
+
+Austin cast an eye at the complacent languor of the wise youth, his
+cousin, and the little that he knew of his fellows told him he might talk
+forever here, and not be comprehended.  The wise youth's two ears were
+stuffed with his own wisdom.  One evil only Adrian dreaded, it was clear
+--the action of the law.
+
+As he was moving away, Adrian called out to him, "Stop, Austin!  There!
+don't be anxious!  You invariably take the glum side.  I've done
+something.  Never mind what.  If you go down to Belthorpe, be civil, but
+not obsequious.  You remember the tactics of Scipio Africanus against the
+Punic elephants?  Well, don't say a word--in thine ear, coz: I've turned
+Master Blaize's elephants.  If they charge, 'twill bye a feint, and back
+to the destruction of his serried ranks!  You understand.  Not?  Well,
+'tis as well.  Only, let none say that I sleep.  If I must see him to-
+night, I go down knowing he has not got us in his power."  The wise youth
+yawned, and stretched out a hand for any book that might be within his
+reach.  Austin left him to look about the grounds for Richard.
+
+
+
+
+CHAPTER VII
+
+A little laurel-shaded temple of white marble looked out on the river
+from a knoll bordering the Raynham beechwoods, and was dubbed by Adrian
+Daphne's Bower.  To this spot Richard had retired, and there Austin found
+him with his head buried in his hands, a picture of desperation, whose
+last shift has been defeated.  He allowed Austin to greet him and sit by
+him without lifting his head.  Perhaps his eyes were not presentable.
+
+"Where's your friend?" Austin began.
+
+"Gone!" was the answer, sounding cavernous from behind hair and fingers.
+An explanation presently followed, that a summons had come for him in the
+morning from Mr. Thompson; and that Mr. Ripton had departed against his
+will.
+
+In fact, Ripton had protested that he would defy his parent and remain by
+his friend in the hour of adversity and at the post of danger.  Sir
+Austin signified his opinion that a boy should obey his parent, by giving
+orders to Benson for Ripton's box to be packed and ready before noon; and
+Ripton's alacrity in taking the baronet's view of filial duty was as
+little feigned as his offer to Richard to throw filial duty to the winds.
+He rejoiced that the Fates had agreed to remove him from the very hot
+neighbourhood of Lobourne, while he grieved, like an honest lad, to see
+his comrade left to face calamity alone.  The boys parted amicably, as
+they could hardly fail to do, when Ripton had sworn fealty to the
+Feverals with a warmth that made him declare himself bond, and due to
+appear at any stated hour and at any stated place to fight all the
+farmers in England, on a mandate from the heir of the house.
+
+"So you're left alone," said Austin, contemplating the boy's shapely
+head.  "I'm glad of it.  We never know what's in us till we stand by
+ourselves."
+
+There appeared to be no answer forthcoming.  Vanity, however, replied at
+last, "He wasn't much support."
+
+"Remember his good points now he's gone, Ricky."
+
+"Oh! he was staunch," the boy grumbled.
+
+"And a staunch friend is not always to be found.  Now, have you tried
+your own way of rectifying this business, Ricky?"
+
+"I have done everything."
+
+"And failed!"
+
+There was a pause, and then the deep-toned evasion--
+
+"Tom Bakewell's a coward!"
+
+"I suppose, poor fellow," said Austin, in his kind way, "he doesn't want
+to get into a deeper mess.  I don't think he's a coward."
+
+"He is a coward," cried Richard.  "Do you think if I had a file I would
+stay in prison?  I'd be out the first night!  And he might have had the
+rope, too--a rope thick enough for a couple of men his size and weight.
+Ripton and I and Ned Markham swung on it for an hour, and it didn't give
+way.  He's a coward, and deserves his fate.  I've no compassion for a
+coward."
+
+"Nor I much," said Austin.
+
+Richard had raised his head in the heat of his denunciation of poor Tom.
+He would have hidden it had he known the thought in Austin's clear eyes
+while he faced them.
+
+"I never met a coward myself," Austin continued.  "I have heard of one or
+two.  One let an innocent man die for him."
+
+"How base!"  exclaimed the boy.
+
+"Yes, it was bad," Austin acquiesced.
+
+"Bad!" Richard scorned the poor contempt.  "How I would have spurned him!
+He was a coward!"
+
+"I believe he pleaded the feelings of his family in his excuse, and tried
+every means to get the man off.  I have read also in the confessions of a
+celebrated philosopher, that in his youth he committed some act of
+pilfering, and accused a young servant-girl of his own theft, who was
+condemned and dismissed for it, pardoning her guilty accuser."
+
+"What a coward!" shouted Richard.  "And he confessed it publicly?"
+
+"You may read it yourself."
+
+"He actually wrote it down, and printed it?"
+
+"You have the book in your father's library.  Would you have done so
+much?"
+
+Richard faltered.  No!  he admitted that he never could have told people.
+
+"Then who is to call that man a coward?"  said Austin.  "He expiated his
+cowardice as all who give way in moments of weakness, and are not
+cowards, must do.  The coward chooses to think 'God does not see.'  I
+shall escape.'  He who is not a coward, and has succumbed, knows that God
+has seen all, and it is not so hard a task for him to make his heart bare
+to the world.  Worse, I should fancy it, to know myself an impostor when
+men praised me."
+
+Young Richard's eyes were wandering on Austin's gravely cheerful face.  A
+keen intentness suddenly fixed them, and he dropped his head.
+
+"So I think you're wrong, Ricky, in calling this poor Tom a coward
+because he refuses to try your means of escape," Austin resumed.  "A
+coward hardly objects to drag in his accomplice.  And, where the person
+involved belongs to a great family, it seems to me that for a poor
+plough-lad to volunteer not to do so speaks him anything but a coward."
+
+Richard was dumb.  Altogether to surrender his rope and file was a
+fearful sacrifice, after all the time, trepidation, and study he had
+spent on those two saving instruments.  If he avowed Tom's manly
+behaviour, Richard Feverel was in a totally new position.  Whereas, by
+keeping Tom a coward, Richard Feverel was the injured one, and to seem
+injured is always a luxury; sometimes a necessity, whether among boys or
+men.
+
+In Austin the Magian conflict would not have lasted long.  He had but a
+blind notion of the fierceness with which it raged in young Richard.
+Happily for the boy, Austin was not a preacher.  A single instance, a
+cant phrase, a fatherly manner, might have wrecked him, by arousing
+ancient or latent opposition.  The born preacher we feel instinctively to
+be our foe.  He may do some good to the wretches that have been struck
+down and lie gasping on the battlefield: he rouses antagonism in the
+strong.  Richard's nature, left to itself, wanted little more than an
+indication of the proper track, and when he said, "Tell me what I can do,
+Austin?" he had fought the best half of the battle.  His voice was
+subdued.  Austin put his hand on the boy's shoulder.
+
+"You must go down to Farmer Blaize."
+
+"Well!" said Richard, sullenly divining the deed of penance.
+
+"You'll know what to say to him when you're there."
+
+The boy bit his lip and frowned.  "Ask a favour of that big brute,
+Austin?  I can't!"
+
+"Just tell him the whole case, and that you don't intend to stand by and
+let the poor fellow suffer without a friend to help him out of his
+scrape."
+
+"But, Austin," the boy pleaded, "I shall have to ask him to help off Tom
+Bakewell!  How can I ask him, when I hate him?"
+
+Austin bade him go, and think nothing of the consequences till he got
+there.
+
+Richard groaned in soul.
+
+"You've no pride, Austin."
+
+"Perhaps not."
+
+"You don't know what it is to ask a favour of a brute you hate."
+
+Richard stuck to that view of the case, and stuck to it the faster the
+more imperatively the urgency of a movement dawned upon him.
+
+"Why," continued the boy, "I shall hardly be able to keep my fists off
+him!"
+
+"Surely you've punished him enough, boy?" said Austin.
+
+"He struck me!" Richard's lip quivered.  "He dared not come at me with
+his hands.  He struck me with a whip.  He'll be telling everybody that he
+horsewhipped me, and that I went down and begged his pardon.  Begged his
+pardon!  A Feverel beg his pardon!  Oh, if I had my will!"
+
+"The man earns his bread, Ricky.  You poached on his grounds.  He turned
+you off, and you fired his rick."
+
+"And I'll pay him for his loss.  And I won't do any more."
+
+"Because you won't ask a favour of him?"
+
+"No! I will not ask a favour of him."
+
+Austin looked at the boy steadily.  "You prefer to receive a favour from
+poor Tom Bakewell?"
+
+At Austin's enunciation of this obverse view of the matter Richard raised
+his brow.  Dimly a new light broke in upon him.  "Favour from Tom
+Bakewell, the ploughman?  How do you mean, Austin?"
+
+"To save yourself an unpleasantness you permit a country lad to sacrifice
+himself for you?  I confess I should not have so much pride."
+
+"Pride!" shouted Richard, stung by the taunt, and set his sight hard at
+the blue ridges of the hills.
+
+Not knowing for the moment what else to do, Austin drew a picture of Tom
+in prison, and repeated Tom's volunteer statement.  The picture, though
+his intentions were far from designing it so, had to Richard, whose
+perception of humour was infinitely keener, a horrible chaw-bacon smack
+about it.  Visions of a grinning lout, open from ear to ear, unkempt,
+coarse, splay-footed, rose before him and afflicted him with the
+strangest sensations of disgust and comicality, mixed up with pity and
+remorse--a sort of twisted pathos.  There lay Tom; hobnail Tom! a bacon-
+munching, reckless, beer-swilling animal! and yet a man; a dear brave
+human heart notwithstanding; capable of devotion and unselfishness.  The
+boy's better spirit was touched, and it kindled his imagination to
+realize the abject figure of poor clodpole Tom, and surround it with a
+halo of mournful light.  His soul was alive.  Feelings he had never known
+streamed in upon him as from an ethereal casement, an unwonted
+tenderness, an embracing humour, a consciousness of some ineffable glory,
+an irradiation of the features of humanity.  All this was in the bosom of
+the boy, and through it all the vision of an actual hob-nail Tom, coarse,
+unkempt, open from ear to ear; whose presence was a finger of shame to
+him and an oppression of clodpole; yet toward whom he felt just then a
+loving-kindness beyond what he felt for any living creature.  He laughed
+at him, and wept over him.  He prized him, while he shrank from him.  It
+was a genial strife of the angel in him with constituents less divine;
+but the angel was uppermost and led the van--extinguished loathing,
+humanized laughter, transfigured pride--pride that would persistently
+contemplate the corduroys of gaping Tom, and cry to Richard, in the very
+tone of Adrian's ironic voice, "Behold your benefactor!"
+
+Austin sat by the boy, unaware of the sublimer tumult he had stirred.
+Little of it was perceptible in Richard's countenance.  The lines of his
+mouth were slightly drawn; his eyes hard set into the distance.  He
+remained thus many minutes.  Finally he jumped to his legs, saying, "I'll
+go at once to old Blaize and tell him."
+
+Austin grasped his hand, and together they issued out of Daphne's Bower,
+in the direction of Lobourne.
+
+
+
+
+CHAPTER VIII
+
+Farmer Blaize was not so astonished at the visit of Richard Feverel as
+that young gentleman expected him to be.  The farmer, seated in his easy-
+chair in the little low-roofed parlour of an old-fashioned farm-house,
+with a long clay pipe on the table at his elbow, and a veteran pointer at
+his feet, had already given audience to three distinguished members of
+the Feverel blood, who had come separately, according to their accustomed
+secretiveness, and with one object.  In the morning it was Sir Austin
+himself.  Shortly after his departure, arrived Austin Wentworth; close on
+his heels, Algernon, known about Lobourne as the Captain, popular
+wherever he was known.  Farmer Blaize reclined m considerable elation.
+He had brought these great people to a pretty low pitch.  He had welcomed
+them hospitably, as a British yeoman should; but not budged a foot in his
+demands: not to the baronet: not to the Captain: not to good young Mr.
+Wentworth.  For Farmer Blaize was a solid Englishman; and, on hearing
+from the baronet a frank confession of the hold he had on the family, he
+determined to tighten his hold, and only relax it in exchange for
+tangible advantages--compensation to his pocket, his wounded person, and
+his still more wounded sentiments: the total indemnity being, in round
+figures, three hundred pounds, and a spoken apology from the prime
+offender, young Mister Richard.  Even then there was a reservation.
+Provided, the farmer said, nobody had been tampering with any of his
+witnesses.  In that ease Farmer Blaize declared the money might go, and
+he would transport Tom Bakewell, as he had sworn he would.  And it goes
+hard, too, with an accomplice, by law, added the farmer, knocking the
+ashes leisurely out of his pipe.  He had no wish to bring any disgrace
+anywhere; he respected the inmates of Raynham Abbey, as in duty bound; he
+should be sorry to see them in trouble.  Only no tampering with his
+witnesses.  He was a man for Law.  Rank was much: money was much: but Law
+was more.  In this country Law was above the sovereign.  To tamper with
+the Law was treason to the realm.
+
+"I come to you direct," the baronet explained.  "I tell you candidly what
+way I discovered my son to be mixed up in this miserable affair.  I
+promise you indemnity for your loss, and  an apology that shall, I trust,
+satisfy your feelings, assuring you that to tamper with witnesses is not
+the province of a Feverel.  All I ask of you in return is, not to press
+the prosecution.  At present it rests with you.  I am bound to do all
+that lies in my power for this imprisoned man.  How and wherefore my son
+was prompted to suggest, or assist in, such an act, I cannot explain, for
+I do not know."
+
+"Hum!" said the farmer.  "I think I do."
+
+"You know the cause?" Sir Austin stared.  "I beg you to confide it to
+me."
+
+"'Least, I can pretty nigh neighbour it with a gues," said the farmer.  "
+We an't good friends, Sir Austin, me and your son, just now--not to say
+cordial.  I, ye see, Sir Austin, I'm a man as don't like young gentlemen
+a-poachin' on his grounds without his permission,--in special when birds
+is plentiful on their own.  It appear he do like it.  Consequently I has
+to flick this whip--as them fellers at the races: All in this 'ere Ring's
+mine! as much as to say; and who's been hit, he's had fair warnin'.  I'm
+sorry for't, but that's just the case."
+
+Sir Austin retired to communicate with his son, when he should find him.
+
+Algernon's interview passed off in ale and promises.  He also assured
+Farmer Blaize that no Feverel could be affected by his proviso.
+
+No less did Austin Wentworth.  The farmer was satisfied.
+
+"Money's safe, I know," said he; "now for the 'pology!" and Farmer Blaize
+thrust his legs further out, and his head further back.
+
+The farmer naturally reflected that the three separate visits had been
+conspired together.  Still the baronet's frankness, and the baronet's not
+having reserved himself for the third and final charge, puzzled him.  He
+was considering whether they were a deep, or a shallow lot, when young
+Richard was announced.
+
+A pretty little girl with the roses of thirteen springs in her cheeks,
+and abundant beautiful bright tresses, tripped before the boy, and
+loitered shyly by the farmer's arm-chair to steal a look at the handsome
+new-comer.  She was introduced to Richard as the farmer's niece, Lucy
+Desborough, the daughter of a lieutenant in the Royal Navy, and, what was
+better, though the farmer did not pronounce it so loudly, a real good
+girl.
+
+Neither the excellence of her character, nor her rank in life, tempted
+Richard to inspect the little lady.  He made an awkward bow, and sat
+down.
+
+The farmer's eyes twinkled.  "Her father," he continued, "fought and fell
+for his coontry.  A man as fights for's coontry's a right to hould up his
+head--ay! with any in the land.  Desb'roughs o' Dorset! d'ye know that
+family, Master Feverel?"
+
+Richard did not know them, and, by his air, did not desire to become
+acquainted with any offshoot of that family.
+
+"She can make puddens and pies," the farmer went on, regardless of his
+auditor's gloom.  "She's a lady, as good as the best of 'em.  I don't
+care about their being Catholics--the Desb'roughs o' Dorset are
+gentlemen.  And she's good for the pianer, too!  She strums to me of
+evenin's.  I'm for the old tunes: she's for the new.  Gal-like!  While
+she's with me she shall be taught things use'l.  She can parley-voo a
+good 'un and foot it, as it goes; been in France a couple of year.  I
+prefer the singin' of 't to the talkin' of 't.  Come, Luce! toon up--eh?
+--Ye wun't?  That song abort the Viffendeer--a female"--Farmer Blaize
+volunteered the translation of the title--"who wears the--you guess what!
+and marches along with the French sojers: a pretty brazen bit o' goods, I
+sh'd fancy."
+
+Mademoiselle Lucy corrected her uncle's French, but objected to do more.
+The handsome cross boy had almost taken away her voice for speech, as it
+was, and sing in his company she could not; so she stood, a hand on her
+uncle's chair to stay herself from falling, while she wriggled a dozen
+various shapes of refusal, and shook her head at the farmer with fixed
+eyes.
+
+"Aha!" laughed the farmer, dismissing her, "they soon learn the
+difference 'twixt the young 'un and the old 'un.  Go along, Luce!  and
+learn yer lessons for to-morrow."
+
+Reluctantly the daughter of the Royal Navy glided away.  Her uncle's head
+followed her to the door, where she dallied to catch a last impression of
+the young stranger's lowering face, and darted through.
+
+Farmer Blaize laughed and chuckled.  "She an't so fond of her uncle as
+that, every day!  Not that she an't a good nurse--the kindest little soul
+you'd meet of a winter's walk!  She'll read t' ye, and make drinks, and
+sing, too, if ye likes it, and she won't be tired.  A obstinate good 'un,
+she be!  Bless her!"
+
+The farmer may have designed, by these eulogies of his niece, to give his
+visitor time to recover his composure, and establish a common topic.  His
+diversion only irritated and confused our shame-eaten youth.  Richard's
+intention had been to come to the farmer's threshold: to summon the
+farmer thither, and in a loud and haughty tone then and there to take
+upon himself the whole burden of the charge against Tom Bakewell.  He had
+strayed, during his passage to Belthorpe, somewhat back to his old
+nature; and his being compelled to enter the house of his enemy, sit in
+his chair, and endure an introduction to his family, was more than he
+bargained for.  He commenced blinking hard in preparation for the
+horrible dose to which delay and the farmer's cordiality added
+inconceivable bitters.  Farmer Blaize was quite at his ease; nowise in a
+hurry.  He spoke of the weather and the harvest: of recent doings up at
+the Abbey: glanced over that year's cricketing; hoped that no future
+Feverel would lose a leg to the game.  Richard saw and heard Arson in it
+all.  He blinked harder as he neared the cup.  In a moment of silence, he
+seized it with a gasp.
+
+"Mr. Blaize!  I have come to tell you that I am the person who set fire
+to your rick the other night."
+
+An odd consternation formed about the farmer's mouth.  He changed his
+posture, and said, "Ay? that's what ye're come to tell me sir?"
+
+"Yes!" said Richard, firmly.
+
+"And that be all?"
+
+"Yes!" Richard reiterated.
+
+The farmer again changed his posture.  "Then, my lad, ye've come to tell
+me a lie!"
+
+Farmer Blaize looked straight at the boy, undismayed by the dark flush of
+ire he had kindled.
+
+"You dare to call me a liar!" cried Richard, starting up.
+
+"I say," the farmer renewed his first emphasis, and smacked his thigh
+thereto, "that's a lie!"
+
+Richard held out his clenched fist.  "You have twice insulted me.  You
+have struck me: you have dared to call me a liar.  I would have
+apologized--I would have asked your pardon, to have got off that fellow
+in prison.  Yes! I would have degraded myself that another man should not
+suffer for my deed"--
+
+"Quite proper!" interposed the farmer.
+
+"And you take this opportunity of insulting me afresh.  You're a coward,
+sir! nobody but a coward would have insulted me in his own house."
+
+"Sit ye down, sit ye down, young master," said the farmer, indicating the
+chair and cooling the outburst with his hand.  "Sit ye down.  Don't ye be
+hasty.  If ye hadn't been hasty t'other day, we sh'd a been friends yet.
+Sit ye down, sir.  I sh'd be sorry to reckon you out a liar, Mr. Feverel,
+or anybody o' your name.  I respects yer father though we're opp'site
+politics.  I'm willin' to think well o' you.  What I say is, that as you
+say an't the trewth.  Mind!  I don't like you none the worse for't.  But
+it an't what is.  That's all!  You knows it as well's I!"
+
+Richard, disdaining to show signs of being pacified, angrily reseated
+himself.  The farmer spoke sense, and the boy, after his late interview
+with Austin, had become capable of perceiving vaguely that a towering
+passion is hardly the justification for a wrong course of conduct.
+
+"Come," continued the farmer, not unkindly, "what else have you to say?"
+
+Here was the same bitter cup he had already once drained brimming at
+Richard's lips again!  Alas, poor human nature! that empties to the dregs
+a dozen of these evil drinks, to evade the single one which Destiny, less
+cruel, had insisted upon.
+
+The boy blinked and tossed it off.
+
+"I came to say that I regretted the revenge I had taken on you for your
+striking me."
+
+Farmer Blaize nodded.
+
+"And now ye've done, young gentleman?"
+
+Still another cupful!
+
+"I should be very much obliged," Richard formally began, but his stomach
+was turned; he could but sip and sip, and gather a distaste which
+threatened to make the penitential act impossible.  "Very much obliged,"
+he repeated: "much obliged, if you would be so kind," and it struck him
+that had he spoken this at first he would have given it a wording more
+persuasive with the farmer and more worthy of his own pride: more honest,
+in fact: for a sense of the dishonesty of what he was saying caused him
+to cringe and simulate humility to deceive the farmer, and the more he
+said the less he felt his words, and, feeling them less, he inflated them
+more.  "So kind," he stammered, "so kind" (fancy a Feverel asking this
+big brute to be so kind!) "as to do me the favour" (me the favour!) "to
+exert yourself" (it's all to please Austin) "to endeavour to--hem! to"
+(there's no saying it!)--
+
+The cup was full as ever.  Richard dashed at it again.
+
+"What I came to ask is, whether you would have the kindness to try what
+you could do" (what an infamous shame to have to beg like this!) "do to
+save--do to ensure--whether you would have the kindness"   It seemed out
+of all human power to gulp it down.  The draught grew more and more
+abhorrent.  To proclaim one's iniquity, to apologize for one's
+wrongdoing; thus much could be done; but to beg a favour of the offended
+party--that was beyond the self-abasement any Feverel could consent to.
+Pride, however, whose inevitable battle is against itself, drew aside the
+curtains of poor Tom's prison, crying a second time, "Behold your
+Benefactor!" and, with the words burning in his ears, Richard swallowed
+the dose:
+
+"Well, then, I want you, Mr. Blaize,--if you don't mind--will you help me
+to get this man Bakewell off his punishment?"
+
+To do Farmer Blaize justice, he waited very patiently for the boy, though
+he could not quite see why he did not take the gate at the first offer.
+
+"Oh!" said he, when he heard and had pondered on the request.  "Hum! ha!
+we'll see about it t'morrow.  But if he's innocent, you know, we shan't
+mak'n guilty."
+
+"It was I did it!" Richard declared.
+
+The farmer's half-amused expression sharpened a bit.
+
+"So, young gentleman! and you're sorry for the night's work?"
+
+"I shall see that you are paid the full extent of your losses."
+
+"Thank'ee," said the farmer drily.
+
+"And, if this poor man is released to-morrow, I don't care what the
+amount is."
+
+Farmer Blaize deflected his head twice in silence.  "Bribery," one motion
+expressed: "Corruption," the other.
+
+"Now," said he, leaning forward, and fixing his elbows on his knees,
+while he counted the case at his fingers' ends, "excuse the liberty, but
+wishin' to know where this 'ere money's to come from, I sh'd like jest
+t'ask if so be Sir Austin know o' this?"
+
+"My father knows nothing of it," replied Richard.
+
+The farmer flung back in his chair.  "Lie number Two," said his
+shoulders, soured by the British aversion to being plotted at, and not
+dealt with openly.
+
+"And ye've the money ready, young gentleman?"
+
+"I shall ask my father for it."
+
+"And he'll hand't out?"
+
+"Certainly he will!"
+
+Richard had not the slightest intention of ever letting his father into
+his counsels.
+
+"A good three hundred pounds, ye know?" the farmer suggested.
+
+No consideration of the extent of damages, and the size of the sum,
+affected young Richard, who said boldly, "He will not object when I tell
+him I want that sum."
+
+It was natural Farmer Blaize should be a trifle suspicious that a youth's
+guarantee would hardly be given for his father's readiness to disburse
+such a thumping bill, unless he had previously received his father's
+sanction and authority.
+
+"Hum!" said he, "why not 'a told him before?"
+
+The farmer threw an objectionable shrewdness into his query, that caused
+Richard to compress his mouth and glance high.
+
+Farmer Blaize was positive 'twas a lie.
+
+"Hum!  Ye still hold to't you fired the rick?" he asked.
+
+"The blame is mine!" quoth Richard, with the loftiness of a patriot of
+old Rome.
+
+"Na, na!" the straightforward Briton put him aside.  "Ye did't, or ye
+didn't do't.  Did ye do't, or no?"
+
+Thrust in a corner, Richard said, "I did it."
+
+Farmer Blaize reached his hand to the bell.  It was answered in an
+instant by little Lucy, who received orders to fetch in a dependent at
+Belthorpe going by the name of the Bantam, and made her exit as she had
+entered, with her eyes on the young stranger.
+
+"Now," said the farmer, "these be my principles.  I'm a plain man, Mr.
+Feverel.  Above board with me, and you'll find me handsome.  Try to
+circumvent me, and I'm a ugly customer.  I'll show you I've no animosity.
+Your father pays--you apologize.  That's enough for me!  Let Tom Bakewell
+fight't out with the Law, and I'll look on.  The Law wasn't on the spot,
+I suppose? so the Law ain't much witness.  But I am.  Leastwise the
+Bantam is.  I tell you, young gentleman, the Bantam saw't!  It's no moral
+use whatever your denyin' that ev'dence.  And where's the good, sir, I
+ask?  What comes of 't?  Whether it be you, or whether it be Tom
+Bakewell--ain't all one?  If I holds back, ain't it sim'lar?  It's the
+trewth I want!  And here't comes," added the farmer, as Miss Lucy ushered
+in the Bantam, who presented a curious figure for that rare divinity to
+enliven.
+
+
+
+
+CHAPTER IX
+
+In build of body, gait and stature, Giles Jinkson, the Bantam, was a
+tolerably fair representative of the Punic elephant, whose part, with
+diverse anticipations, the generals of the Blaize and Feverel forces,
+from opposing ranks, expected him to play.  Giles, surnamed the Bantam,
+on account of some forgotten sally of his youth or infancy, moved and
+looked elephantine.  It sufficed that Giles was well fed to assure that
+Giles was faithful--if uncorrupted.  The farm which supplied to him
+ungrudging provender had all his vast capacity for work in willing
+exercise: the farmer who held the farm his instinct reverenced as the
+fountain source of beef and bacon, to say nothing of beer, which was
+plentiful at Belthorpe, and good.  This Farmer Blaize well knew, and he
+reckoned consequently that here was an animal always to be relied on--a
+sort of human composition out of dog, horse, and bull, a cut above each
+of these quadrupeds in usefulness, and costing proportionately more, but
+on the whole worth the money, and therefore invaluable, as everything
+worth its money must be to a wise man.  When the stealing of grain had
+been made known at Belthorpe, the Bantam, a fellow-thresher with Tom
+Bakewell, had shared with him the shadow of the guilt.  Farmer Blaize, if
+he hesitated which to suspect, did not debate a second as to which he
+would discard; and, when the Bantam said he had seen Tom secreting
+pilkins in a sack, Farmer Blaize chose to believe him, and off went poor
+Tom, told to rejoice in the clemency that spared his appearance at
+Sessions.
+
+The Bantam's small sleepy orbits saw many things, and just at the right
+moment, it seemed.  He was certainly the first to give the clue at
+Belthorpe on the night of the conflagration, and he may, therefore, have
+seen poor Tom retreating stealthily from the scene, as he averred he did.
+Lobourne had its say on the subject.  Rustic Lobourne hinted broadly at a
+young woman in the case, and, moreover, told a tale of how these fellow-
+threshers had, in noble rivalry, one day turned upon each other to see
+which of the two threshed the best; whereof the Bantam still bore marks,
+and malice, it was said.  However, there he stood, and tugged his
+forelocks to the company, and if Truth really had concealed herself in
+him she must have been hard set to find her unlikeliest hiding-place.
+
+"Now," said the farmer, marshalling forth his elephant with the
+confidence of one who delivers his ace of trumps, "tell this young
+gentleman what ye saw on the night of the fire, Bantam!"
+
+The Bantam jerked a bit of a bow to his patron, and then swung round,
+fully obscuring him from Richard.
+
+Richard fixed his eyes on the floor, while the Bantam in rudest Doric
+commenced his narrative.  Knowing what was to come, and thoroughly nerved
+to confute the main incident, Richard barely listened to his barbarous
+locution: but when the recital arrived at the point where the Bantam
+affirmed he had seen "T'm Baak'll wi's owen hoies," Richard faced him,
+and was amazed to find himself being mutely addressed by a series of
+intensely significant grimaces, signs, and winks.
+
+"What do you mean?  Why are you making those faces at me?" cried the boy
+indignantly.
+
+Farmer Blaize leaned round the Bantam to have a look at him, and beheld
+the stolidest mask ever given to man.
+
+"Bain't makin' no faces at nobody," growled the sulky elephant.
+
+The farmer commanded him to face about and finish.
+
+"A see T'm Baak'll," the Bantam recommenced, and again the contortions of
+a horrible wink were directed at Richard.  The boy might well believe
+this churl was lying, and he did, and was emboldened to exclaim--
+
+"You never saw Tom Bakewell set fire to that rick!"
+
+The Bantam swore to it, grimacing an accompaniment.
+
+"I tell you," said Richard, "I put the lucifers there myself!"
+
+The suborned elephant was staggered.  He meant to telegraph to the young
+gentleman that he was loyal and true to certain gold pieces that had been
+given him, and that in the right place and at the right time he should
+prove so.  Why was he thus suspected?  Why was he not understood?
+
+"A thowt I see 'un, then," muttered the Bantam, trying a middle course.
+
+This brought down on him the farmer, who roared, "Thought!  Ye thought!
+What d'ye mean?  Speak out, and don't be thinkin'.  Thought?  What the
+devil's that?"
+
+"How could he see who it was on a pitch-dark night?" Richard put in.
+
+"Thought!" the farmer bellowed louder.  "Thought--Devil take ye, when ye
+took ye oath on't.  Hulloa!  What are ye screwin' yer eye at Mr. Feverel
+for?--I say, young gentleman, have you spoke to this chap before now?"
+
+"I?" replied Richard.  "I have not seen him before."
+
+Farmer Blaize grasped the two arms of the chair he sat on, and glared his
+doubts.
+
+"Come," said he to the Bantam, "speak out, and ha' done wi't.  Say what
+ye saw, and none o' yer thoughts.  Damn yer thoughts!  Ye saw Tom
+Bakewell fire that there rick!"  The farmer pointed at some musk-pots in
+the window.  "What business ha' you to be a-thinkin'?  You're a witness?
+Thinkin' an't ev'dence.  What'll ye say to morrow before magistrate!
+Mind! what you says today, you'll stick by to-morrow."
+
+Thus adjured, the Bantam hitched his breech.  What on earth the young
+gentleman meant he was at a loss to speculate.  He could not believe that
+the young gentleman wanted to be transported, but if he had been paid to
+help that, why, he would.  And considering that this day's evidence
+rather bound him down to the morrow's, he determined, after much
+ploughing and harrowing through obstinate shocks of hair, to be not
+altogether positive as to the person.  It is possible that he became
+thereby more a mansion of truth than he previously had been; for the
+night, as he said, was so dark that you could not see your hand before
+your face; and though, as he expressed it, you might be mortal sure of
+a man, you could not identify him upon oath, and the party he had taken
+for Tom Bakewell, and could have sworn to, might have been the young
+gentleman present, especially as he was ready to swear it upon oath.
+
+So ended the Bantam.
+
+No sooner had he ceased, than Farmer Blaize jumped up from his chair, and
+made a fine effort to lift him out of the room from the point of his toe.
+He failed, and sank back groaning with the pain of the exertion and
+disappointment.
+
+"They're liars, every one!" he cried.  "Liars, perj'rers, bribers, and
+c'rrupters!--Stop!" to the Bantam, who was slinking away.  "You've done
+for yerself already!  You swore to it!"
+
+"A din't!" said the Bantam, doggedly.
+
+"You swore to't!" the farmer vociferated afresh.
+
+The Bantam played a tune upon the handle of the door, and still affirmed
+that he did not; a double contradiction at which the farmer absolutely
+raged in his chair, and was hoarse, as he called out a third time that
+the Bantam had sworn to it.
+
+"Noa!" said the Bantam, ducking his poll.  "Noa!" he repeated in a lower
+note; and then, while a sombre grin betokening idiotic enjoyment of his
+profound casuistical quibble worked at his jaw:
+
+"Not up'n o-ath!" he added, with a twitch of the shoulder and an angular
+jerk of the elbow.
+
+Farmer Blaize looked vacantly at Richard, as if to ask him what he
+thought of England's peasantry after the sample they had there.  Richard
+would have preferred not to laugh, but his dignity gave way to his sense
+of the ludicrous, and he let fly a shout.  The farmer was in no laughing
+mood.  He turned a wide eye back to the door, "Lucky for'm," he
+exclaimed, seeing the Bantam had vanished, for his fingers itched to
+break that stubborn head.  He grew very puffy, and addressed Richard
+solemnly:
+
+"Now, look ye here, Mr. Feverel!  You've been a-tampering with my
+witness.  It's no use denyin'!  I say y' 'ave, sir!  You, or some of ye.
+I don't care about no Feverel!  My witness there has been bribed.  The
+Bantam's been bribed," and he shivered his pipe with an energetic thump
+on the table--"bribed!  I knows it!  I could swear to't!"--
+
+"Upon oath?" Richard inquired, with a grave face.
+
+"Ay, upon oath!" said the farmer, not observing the impertinence.
+
+"I'd take my Bible oath on't!  He's been corrupted, my principal witness!
+Oh! it's dam cunnin', but it won't do the trick.  I'll transport Tom
+Bakewell, sure as a gun.  He shall travel, that man shall.  Sorry for
+you, Mr. Feverel--sorry you haven't seen how to treat me proper--you, or
+yours.  Money won't do everything--no!  it won't.  It'll c'rrupt a
+witness, but it won't clear a felon.  I'd ha' 'soused you, sir!  You're a
+boy and'll learn better.  I asked no more than payment and apology; and
+that I'd ha' taken content--always provided my witnesses weren't tampered
+with.  Now you must stand yer luck, all o' ye."
+
+Richard stood up and replied, "Very well, Mr. Blaize."
+
+"And if," continued the farmer, "Tom Bakewell don't drag you into't after
+'m, why, you're safe, as I hope ye'll be, sincere!"
+
+"It was not in consideration of my own safety that I sought this
+interview with you," said Richard, head erect.
+
+"Grant ye that," the farmer responded.  "Grant ye that!  Yer bold enough,
+young gentleman--comes of the blood that should be!  If y' had only ha'
+spoke trewth!--I believe yer father--believe every word he said.  I do
+wish I could ha' said as much for Sir Austin's son and heir."
+
+"What!" cried Richard, with an astonishment hardly to be feigned, "you
+have seen my father?"
+
+But Farmer Blaize had now such a scent for lies that he could detect them
+where they did not exist, and mumbled gruffly,
+
+"Ay, we knows all about that!"
+
+The boy's perplexity saved him from being irritated.  Who could have told
+his father?  An old fear of his father came upon him, and a touch of an
+old inclination to revolt.
+
+"My father knows of this?" said he, very loudly, and staring, as he
+spoke, right through the farmer.  "Who has played me false?  Who would
+betray me to him?  It was Austin!  No one knew it but Austin.  Yes, and
+it was Austin who persuaded me to come here and submit to these
+indignities.  Why couldn't he be open with me?  I shall never trust him
+again!"
+
+"And why not you with me, young gentleman?" said the farmer.  "I sh'd
+trust you if ye had."
+
+Richard did not see the analogy.  He bowed stiffly and bade him good
+afternoon.
+
+Farmer Blaize pulled the bell.  "Company the young gentleman out, Lucy,"
+he waved to the little damsel in the doorway.  "Do the honours.  And, Mr.
+Richard, ye might ha' made a friend o' me, sir, and it's not too late so
+to do.  I'm not cruel, but I hate lies.  I whipped my boy Tom, bigger
+than you, for not bein' above board, only yesterday,--ay! made 'un stand
+within swing o' this chair, and take's measure.  Now, if ye'll come down
+to me, and speak trewth before the trial--if it's only five minutes
+before't; or if Sir Austin, who's a gentleman, 'll say there's been no
+tamperin' with any o' my witnesses, his word for't--well and good!  I'll
+do my best to help off Tom Bakewell.  And I'm glad, young gentleman,
+you've got a conscience about a poor man, though he's a villain.  Good
+afternoon, sir."
+
+Richard marched hastily out of the room, and through the garden, never so
+much as deigning a glance at his wistful little guide, who hung at the
+garden gate to watch him up the lane, wondering a world of fancies about
+the handsome proud boy.
+
+
+
+
+CHAPTER X
+
+To have determined upon an act something akin to heroism in its way, and
+to have fulfilled it by lying heartily, and so subverting the whole
+structure built by good resolution, seems a sad downfall if we forget
+what human nature, in its green weedy spring, is composed of.  Young
+Richard had quitted his cousin Austin fully resolved to do his penance
+and drink the bitter cup; and he had drunk it; drained many cups to the
+dregs; and it was to no purpose.  Still they floated before him, brimmed,
+trebly bitter.  Away from Austin's influence, he was almost the same boy
+who had slipped the guinea into Tom Bakewell's hand, and the lucifers
+into Farmer Blaize's rick.  For good seed is long ripening; a good boy is
+not made in a minute.  Enough that the seed was in him.  He chafed on his
+road to Raynham at the scene he had just endured, and the figure of
+Belthorpe's fat tenant burnt like hot copper on the tablet of his brain,
+insufferably condescending, and, what was worse, in the right.  Richard,
+obscured as his mind's eye was by wounded pride, saw that clearly, and
+hated his enemy for it the more.
+
+Heavy Benson's tongue was knelling dinner as Richard arrived at the
+Abbey.  He hurried up to his room to dress.  Accident, or design, had
+laid the book of Sir Austin's aphorisms open on the dressing-table.
+Hastily combing his hair, Richard glanced down and read--
+
+     "The Dog returneth to his vomit: the Liar must eat his Lie."
+
+Underneath was interjected in pencil: "The Devil's mouthful!"
+
+Young Richard ran downstairs feeling that his father had struck him in
+the face.
+
+Sir Austin marked the scarlet stain on his son's cheekbones.  He sought
+the youth's eye, but Richard would not look, and sat conning his plate,
+an abject copy of Adrian's succulent air at that employment.  How could
+he pretend to the relish of an epicure when he was painfully endeavouring
+to masticate The Devil's mouthful?
+
+Heavy Benson sat upon the wretched dinner.  Hippias usually the silent
+member, as if awakened by the unnatural stillness, became sprightly, like
+the goatsucker owl at night and spoke much of his book, his digestion,
+and his dreams, and was spared both by Algernon and Adrian.  One
+inconsequent dream he related, about fancying himself quite young and
+rich, and finding himself suddenly in a field cropping razors around him,
+when, just as he had, by steps dainty as those of a French dancing-
+master, reached the middle, he to his dismay beheld a path clear of the
+blood,  thirsty steel-crop, which he might have taken at first had he
+looked narrowly; and there he was.
+
+Hippias's brethren regarded him with eyes that plainly said they wished
+he had remained there.  Sir Austin, however, drew forth his note-book,
+and jotted down a reflection.  A composer of aphorisms can pluck blossoms
+even from a razor-prop.  Was not Hippias's dream the very counterpart of
+Richard's position?  He, had he looked narrowly, might have taken the
+clear path: he, too, had been making dainty steps till he was surrounded
+by the grinning blades.  And from that text Sir Austin preached to his
+son when they were alone.  Little Clare was still too unwell to be
+permitted to attend the dessert, and father and son were soon closeted
+together.
+
+It was a strange meeting.  They seemed to have been separated so long.
+The father took his son's hand; they sat without a word passing between
+them.  Silence said most.  The boy did not understand his father: his
+father frequently thwarted him: at times he thought his father foolish:
+but that paternal pressure of his hand was eloquent to him of how warmly
+he was beloved.  He tried once or twice to steal his hand away, conscious
+it was melting him.  The spirit of his pride, and old rebellion,
+whispered him to be hard, unbending, resolute.  Hard he had entered his
+father's study: hard he had met his father's eyes.  He could not meet
+them now.  His father sat beside him gently; with a manner that was
+almost meekness, so he loved this boy.  The poor gentleman's lips moved.
+He was praying internally to God for him.
+
+By degrees an emotion awoke in the boy's bosom.  Love is that blessed
+wand which wins the waters from the hardness of the heart.  Richard
+fought against it, for the dignity of old rebellion.  The tears would
+come; hot and struggling over the dams of pride.  Shamefully fast they
+began to fall.  He could no longer conceal them, or check the sobs.  Sir
+Austin drew him nearer and nearer, till the beloved head was on his
+breast.
+
+An hour afterwards, Adrian Harley, Austin Wentworth, and Algernon Feverel
+were summoned to the baronet's study.
+
+Adrian came last.  There was a style of affable omnipotence about the
+wise youth as he slung himself into a chair, and made an arch of the
+points of his fingers, through which to gaze on his blundering kinsmen.
+Careless as one may be whose sagacity has foreseen, and whose benevolent
+efforts have forestalled, the point of danger at the threshold, Adrian
+crossed his legs, and only intruded on their introductory remarks so far
+as to hum half audibly at intervals
+
+          "Ripton and Richard were two pretty men,"
+
+in parody of the old ballad.  Young Richard's red eyes, and the baronet's
+ruffled demeanour, told him that an explanation had taken place, and a
+reconciliation.  That was well.  The baronet would now pay cheerfully.
+Adrian summed and considered these matters, and barely listened when the
+baronet called attention to what he had to say: which was elaborately to
+inform all present, what all present very well knew, that a rick had been
+fired, that his son was implicated as an accessory to the fact, that the
+perpetrator was now imprisoned, and that Richard's family were, as it
+seemed to him, bound in honour to do their utmost to effect the man's
+release.
+
+Then the baronet stated that he had himself been down to Belthorpe, his
+son likewise: and that he had found every disposition in Blaize to meet
+his wishes.
+
+The lamp which ultimately was sure to be lifted up to illumine the acts
+of this secretive race began slowly to dispread its rays; and, as
+statement followed statement, they saw that all had known of the
+business: that all had been down to Belthorpe: all save the wise youth
+Adrian, who, with due deference and a sarcastic shrug, objected to the
+proceeding, as putting them in the hands of the man Blaize.  His wisdom
+shone forth in an oration so persuasive and aphoristic that had it not
+been based on a plea against honour, it would have made Sir Austin waver.
+But its basis was expediency, and the baronet had a better aphorism of
+his own to confute him with.
+
+"Expediency is man's wisdom, Adrian Harley.  Doing right is God's."
+
+Adrian curbed his desire to ask Sir Austin whether an attempt to
+counteract the just working of the law was doing right.  The direct
+application of an aphorism was unpopular at Raynham.
+
+"I am to understand then," said he, "that Blaize consents not to press
+the prosecution."
+
+"Of course he won't," Algernon remarked.  "Confound him! he'll have his
+money, and what does he want besides?"
+
+"These agricultural gentlemen are delicate customers to deal with.
+However, if he really consents"--
+
+"I have his promise," said the baronet, fondling his son.
+
+Young Richard looked up to his father, as if he wished to speak.  He said
+nothing, and Sir Austin took it as a mute reply to his caresses; and
+caressed him the more.  Adrian perceived a reserve in the boy's manner,
+and as he was not quite satisfied that his chief should suppose him to
+have been the only idle, and not the most acute and vigilant member of
+the family, he commenced a cross-examination of him by asking who had
+last spoken with the tenant of Belthorpe?
+
+"I think I saw him last," murmured Richard, and relinquished his father's
+hand.
+
+Adrian fastened on his prey.  "And left him with a distinct and
+satisfactory assurance of his amicable intentions?"
+
+"No," said Richard.
+
+"Not?" the Feverels joined in astounded chorus.
+
+Richard sidled away from his father, and repeated a shamefaced "No."
+
+"Was he hostile?" inquired Adrian, smoothing his palms, and smiling.
+
+"Yes," the boy confessed.
+
+Here was quite another view of their position.  Adrian, generally patient
+of results, triumphed strongly at having evoked it, and turned upon
+Austin Wentworth, reproving him for inducing the boy to go down to
+Belthorpe.  Austin looked grieved.  He feared that Richard had faded in
+his good resolve.
+
+"I thought it his duty to go," he observed.
+
+"It was!" said the baronet, emphatically.
+
+"And you see what comes of it, sir," Adrian struck in.  "These
+agricultural gentlemen, I repeat, are delicate customers to deal with.
+For my part I would prefer being in the hands of a policeman.  We are
+decidedly collared by Blaize.  What were his words, Ricky?  Give it in
+his own Doric."
+
+"He said he would transport Tom Bakewell."
+
+Adrian smoothed his palms, and smiled again.  Then they could afford to
+defy Mr. Blaize, he informed them significantly, and made once more a
+mysterious allusion to the Punic elephant, bidding his relatives be at
+peace.  They were attaching, in his opinion, too much importance to
+Richard's complicity.  The man was a fool, and a very extraordinary
+arsonite, to have an accomplice at all.  It was a thing unknown in the
+annals of rick-burning.  But one would be severer than law itself to say
+that a boy of fourteen had instigated to crime a full-grown man.  At that
+rate the boy was 'father of the man' with a vengeance, and one might hear
+next that 'the baby was father of the boy.'  They would find common sense
+a more benevolent ruler than poetical metaphysics.
+
+When he had done, Austin, with his customary directness, asked him what
+he meant.
+
+"I confess, Adrian," said the baronet, hearing him expostulate with
+Austin's stupidity, "I for one am at a loss.  I have heard that this man,
+Bakewell, chooses voluntarily not to inculpate my son.  Seldom have I
+heard anything that so gratified me.  It is a view of innate nobleness in
+the rustic's character which many a gentleman might take example from.
+We are bound to do our utmost for the man."  And, saying that he should
+pay a second visit to Belthorpe, to inquire into the reasons for the
+farmer's sudden exposition of vindictiveness, Sir Austin rose.
+
+Before he left the room, Algernon asked Richard if the farmer had
+vouchsafed any reasons, and the boy then spoke of the tampering with the
+witnesses, and the Bantam's "Not upon oath!" which caused Adrian to choke
+with laughter.  Even the baronet smiled at so cunning a distinction as
+that involved in swearing a thing, and not swearing it upon oath.
+
+"How little," he exclaimed, "does one yeoman know another!  To elevate
+a distinction into a difference is the natural action of their minds.
+I will point that out to Blaize.  He shall see that the idea is native
+born."
+
+Richard saw his father go forth.  Adrian, too, was ill at ease.
+
+"This trotting down to Belthorpe spoils all," said he.  "The affair would
+pass over to-morrow--Blaize has no witnesses.  The old rascal is only
+standing out for more money."
+
+"No, he isn't," Richard corrected him.  "It's not that.  I'm sure he
+believes his witnesses have been tampered with, as he calls it."
+
+"What if they have, boy?" Adrian put it boldly.  "The ground is cut from
+under his feet."
+
+"Blaize told me that if my father would give his word there had been
+nothing of the sort, he would take it.  My father will give his word."
+
+"Then," said Adrian, "you had better stop him from going down."
+
+Austin looked at Adrian keenly, and questioned him whether he thought the
+farmer was justified in his suspicions.  The wise youth was not to be
+entrapped.  He had only been given to understand that the witnesses were
+tolerably unstable, and, like the Bantam, ready to swear lustily, but not
+upon the Book.  How given to understand, he chose not to explain, but he
+reiterated that the chief should not be allowed to go down to Belthorpe.
+
+Sir Austin was in the lane leading to the farm when he heard steps of
+some one running behind him.  It was dark, and he shook off the hand that
+laid hold of his cloak, roughly, not recognizing his son.
+
+"It's I, sir," said Richard panting.  "Pardon me.  You mustn't go in
+there."
+
+"Why not?" said the baronet, putting his arm about him.
+
+"Not now," continued the boy.  "I will tell you all to-night.  I must see
+the farmer myself.  It was my fault, sir.  I-I lied to him--the Liar must
+eat his Lie.  Oh, forgive me for disgracing you, sir.  I did it--I hope I
+did it to save Tom Bakewell.  Let me go in alone, and speak the truth."
+
+"Go, and I will wait for you here," said his father.
+
+The wind that bowed the old elms, and shivered the dead leaves in the
+air, had a voice and a meaning for the baronet during that half-hour's
+lonely pacing up and down under the darkness, awaiting his boy's return.
+The solemn gladness of his heart gave nature a tongue.  Through the
+desolation flying overhead--the wailing of the Mother of Plenty across
+the bare-swept land--he caught intelligible signs of the beneficent order
+of the universe, from a heart newly confirmed in its grasp of the
+principle of human goodness, as manifested in the dear child who had just
+left him; confirmed in its belief in the ultimate victory of good within
+us, without which nature has neither music nor meaning, and is rock,
+stone, tree, and nothing more.
+
+In the dark, the dead leaves beating on his face, he had a word for his
+note-book: "There is for the mind but one grasp of happiness: from that
+uppermost pinnacle of wisdom, whence we see that this world is well
+designed."
+
+
+
+
+CHAPTER XI
+
+Of all the chief actors in the Bakewell Comedy, Master Ripton Thompson
+awaited the fearful morning which was to decide Tom's fate, in
+dolefullest mood, and suffered the gravest mental terrors.  Adrian, on
+parting with him, had taken casual occasion to speak of the position of
+the criminal in modern Europe, assuring him that International Treaty now
+did what Universal Empire had aforetime done, and that among Atlantic
+barbarians now, as among the Scythians of old, an offender would find
+precarious refuge and an emissary haunting him.
+
+In the paternal home, under the roofs of Law, and removed from the
+influence of his conscienceless young chief, the staggering nature of the
+act he had put his hand to, its awful felonious aspect, overwhelmed
+Ripton.  He saw it now for the first time.  "Why, it's next to murder!"
+he cried out to his amazed soul, and wandered about the house with a
+prickly skin.  Thoughts of America, and commencing life afresh as an
+innocent gentleman, had crossed his disordered brain.  He wrote to his
+friend Richard, proposing to collect disposable funds, and embark, in
+case of Tom's breaking his word, or of accidental discovery.  He dared
+not confide the secret to his family, as his leader had sternly enjoined
+him to avoid any weakness of that kind; and, being by nature honest and
+communicative, the restriction was painful, and melancholy fell upon the
+boy.  Mama Thompson attributed it to love.
+
+The daughters of parchment rallied him concerning Miss Clare Forey.
+His hourly letters to Raynham, and silence as to everything and everybody
+there, his nervousness, and unwonted propensity to sudden inflammation of
+the cheeks, were set down for sure signs of the passion.  Miss Letitia
+Thompson, the pretty and least parchmenty one, destined by her Papa for
+the heir of Raynham, and perfectly aware of her brilliant future, up to
+which she had, since Ripton's departure, dressed and grimaced, and
+studied cadences (the latter with such success, though not yet fifteen,
+that she languished to her maid, and melted the small factotum footman)--
+Miss Letty, whose insatiable thirst for intimations about the young heir
+Ripton could not satisfy, tormented him daily in revenge, and once, quite
+unconsciously, gave the lad a fearful turn; for after dinner, when Mr.
+Thompson read the paper by the fire, preparatory to sleeping at his
+accustomed post, and Mama Thompson and her submissive female brood sat
+tasking the swift intricacies of the needle, and emulating them with the
+tongue, Miss Letty stole behind Ripton's chair, and introduced between
+him and his book the Latin initial letter, large and illuminated, of the
+theme she supposed to be absorbing him, as it did herself.  The
+unexpected vision of this accusing Captain of the Alphabet, this
+resplendent and haunting A. fronting him bodily, threw Ripton straight
+back in his chair, while Guilt, with her ancient indecision what colours
+to assume on detection, flew from red to white, from white to red, across
+his fallen chaps.  Letty laughed triumphantly.  Amor, the word she had in
+mind, certainly has a connection with Arson.
+
+But the delivery of a letter into Master Ripton's hands, furnished her
+with other and likelier appearances to study.  For scarce had Ripton
+plunged his head into the missive than he gave way to violent transports,
+such as the healthy-minded little damsel, for all her languishing
+cadences, deemed she really could express were a downright declaration to
+be made to her.  The boy did not stop at table.  Quickly recollecting the
+presence of his family, he rushed to his own room.  And now the girl's
+ingenuity was taxed to gain possession of that letter.  She succeeded, of
+course, she being a huntress with few scruples and the game unguarded.
+With the eyes of amazement she read this foreign matter:
+
+"Dear Ripton,--If Tom had been committed I would have shot old Blaize.
+Do you know my father was behind us that night when Clare saw the ghost
+and heard all we said before the fire burst out.  It is no use trying to
+conceal anything from him.  Well as you are in an awful state I will tell
+you all about it.  After you left Ripton I had a conversation with Austin
+and he persuaded me to go down to old Blaize and ask him to help off Tom.
+I went for I would have done anything for Tom after what he said to
+Austin and I defied the old churl to do his worst.  Then he said if my
+father paid the money and nobody had tampered with his witnesses he would
+not mind if Tom did get off and he had his chief witness in called the
+Bantam very like his master I think and the Bantam began winking at me
+tremendously as you say, and said he had sworn he saw Tom Bakewell but
+not upon oath.  He meant not on the Bible.  He could swear to it but not
+on the Bible.  I burst out laughing and you should have seen the rage old
+Blaize was in.  It was splendid fun.  Then we had a consultation at home
+Austin Rady my father Uncle Algernon who has come down to us again and
+your friend in prosperity and adversity R.D.F.  My father said he would
+go down to old Blaize and give him the word of a gentleman we had not
+tampered with his witnesses and when he was gone we were all talking and
+Rady says he must not see the farmer.  I am as certain as I live that it
+was Rady bribed the Bantam.  Well I ran and caught up my father and told
+him not to go in to old Blaize but I would and eat my words and tell him
+the truth.  He waited for me in the lane.  Never mind what passed between
+me and old Blaize.  He made me beg and pray of him not to press it
+against Tom and then to complete it he brought in a little girl a niece
+of his and says to me, she's your best friend after all and told me to
+thank her.  A little girl twelve years of age.  What business had she to
+mix herself up in my matters.  Depend upon it Ripton, wherever there is
+mischief there are girls I think.  She had the insolence to notice my
+face, and ask me not to be unhappy.  I was polite of course but I would
+not look at her.  Well the morning came and Tom was had up before Sir
+Miles Papworth.  It was Sir Miles gout gave us the time or Tom would have
+been had up before we could do anything.  Adrian did not want me to go
+but my father said I should accompany him and held my hand all the time.
+I shall be careful about getting into these scrapes again.  When you have
+done anything honourable you do not mind but getting among policemen and
+magistrates makes you ashamed of yourself.  Sir Miles was very attentive
+to my father and me and dead against Tom.  We sat beside him and Tom was
+brought in, Sir Miles told my father that if there was one thing that
+showed a low villain it was rick-burning.  What do you think of that.
+I looked him straight in the face and he said to me he was doing me a
+service in getting Tom committed and clearing the country of such fellows
+and Rady began laughing.  I hate Rady.  My father said his son was not in
+haste to inherit and have estates of his own to watch and Sir Miles
+laughed too.  I thought we were discovered at first.  Then they began the
+examination of Tom.  The Tinker was the first witness and he proved that
+Tom had spoken against old Blaize and said something about burning his
+rick.  I wished I had stood in the lane to Bursley with him alone.  Our
+country lawyer we engaged for Tom cross-questioned him and then he said
+he was not ready to swear to the exact words that had passed between him
+and Tom.  I should think not.  Then came another who swore he had seen
+Tom lurking about the farmer's grounds that night.  Then came the Bantam
+and I saw him look at Rady.  I was tremendously excited and my father
+kept pressing my hand.  Just fancy my being brought to feel that a word
+from that fellow would make me miserable for life and he must perjure
+himself to help me.  That comes of giving way to passion.  My father says
+when we do that we are calling in the devil as doctor.  Well the Bantam
+was told to state what he had seen and the moment he began Rady who was
+close by me began to shake and he was laughing I knew though his face was
+as grave as Sir Miles.  You never heard such a rigmarole but I could not
+laugh.  He said he thought he was certain he had seen somebody by the
+rick and it was Tom Bakewell who was the only man he knew who had a
+grudge against Farmer Blaize and if the object had been a little bigger
+he would not mind swearing to Tom and would swear to him for he was dead
+certain it was Tom only what he saw looked smaller and it was pitch-dark
+at the time.  He was asked what time it was he saw the person steal away
+from the rick and then he began to scratch his head and said supper-time.
+Then they asked what time he had supper and he said nine o'clock by the
+clock and we proved that at nine o'clock Tom was drinking in the ale-
+house with the Tinker at Bursley and Sir Miles swore and said he was
+afraid he could not commit Tom and when he heard that Tom looked up at me
+and I say he is a noble fellow and no one shall sneer at Tom while I
+live.  Mind that.  Well Sir Miles asked us to dine with him and Tom was
+safe and I am to have him and educate him if I like for my servant and I
+will.  And I will give money to his mother and make her rich and he shall
+never repent he knew me.  I say Rip.  The Bantam must have seen me.  It
+was when I went to stick in the lucifers.  As we were all going home from
+Sir Miles's at night he has lots of red-faced daughters but I did not
+dance with them though they had music and were full of fun and I did not
+care to I was so delighted and almost let it out.  When we left and rode
+home Rady said to my father the Bantam was not such a fool as he was
+thought and my father said one must be in a state of great personal
+exaltation to apply that epithet to any man and Rady shut his mouth and I
+gave my pony a clap of the heel for joy.  I think my father suspects what
+Rady did and does not approve of it.  And he need not have done it after
+all and might have spoilt it.  I have been obliged to order him not to
+call me Ricky for he stops short at Rick so that everybody knows what he
+means.  My dear Austin is going to South America.  My pony is in capital
+condition.  My father is the cleverest and best man in the world.  Clare
+is a little better.  I am quite happy.  I hope we shall meet soon my dear
+Old Rip and we will not get into any more tremendous scrapes will we.--I
+remain,
+                    Your sworn friend,
+                              "RICHARD DORIA FEVEREL."
+
+"P.S.  I am to have a nice River Yacht.  Good-bye, Rip.  Mind you learn
+to box.  Mind you are not to show this to any of your friends on pain of
+my displeasure.
+
+"N.B.  Lady B. was so angry when I told her that I had not come to her
+before.  She would do anything in the world for me.  I like her next best
+to my father and Austin.  Good-bye old Rip."
+
+Poor little Letitia, after three perusals of this ingenuous epistle,
+where the laws of punctuation were so disregarded, resigned it to one of
+the pockets of her brother Ripton's best jacket, deeply smitten with the
+careless composer.  And so ended the last act of the Bakewell Comedy, in
+which the curtain closes with Sir Austin's pointing out to his friends
+the beneficial action of the System in it from beginning to end.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+A style of affable omnipotence about the wise youth
+After five years of marriage, and twelve of friendship
+Among boys there are laws of honour and chivalrous codes
+An edge to his smile that cuts much like a sneer
+Complacent languor of the wise youth
+Huntress with few scruples and the game unguarded
+It is no use trying to conceal anything from him
+It was his ill luck to have strong appetites and a weak stomach
+Minutes taken up by the grey puffs from their mouths
+No! Gentlemen don't fling stones; leave that to the blackguards
+Our new thoughts have thrilled dead bosoms
+Rogue on the tremble of detection
+Rumour for the nonce had a stronger spice of truth than usual
+She can make puddens and pies
+The born preacher we feel instinctively to be our foe
+There is for the mind but one grasp of happiness
+Those days of intellectual coxcombry
+Troublesome appendages of success
+Wisdom goes by majorities
+Woman will be the last thing civilized by Man
+
+
+
+
+End of this Project Gutenberg Etext of Ordeal Richard Feverel, v1
+by George Meredith
+

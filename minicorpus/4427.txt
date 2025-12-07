@@ -1,0 +1,3522 @@
+The Project Gutenberg Etext of Evan Harrington by George Meredith, v1
+#33 in our series by George Meredith
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before distributing this or any other
+Project Gutenberg file.
+
+We encourage you to keep this file, exactly as it is, on your
+own disk, thereby keeping an electronic path open for future
+readers.  Please do not remove this.
+
+This header should be the first thing seen when anyone starts to
+view the etext. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the
+information they need to understand what they may and may not
+do with the etext.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get etexts, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Evan Harrington, v1
+
+Author: George Meredith
+
+Release Date: September, 2003 [Etext #4427]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on January 17, 2002]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: ASCII
+
+The Project Gutenberg Etext of Evan Harrington by George Meredith, v1
+********This file should be named 4427.txt or 4427.zip*********
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep etexts in compliance with any particular paper edition.
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2001 as we release over 50 new Etext
+files per month, or 500 more Etexts in 2000 for a total of 4000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts.  We need
+funding, as well as continued efforts by volunteers, to maintain
+or increase our production and reach our goals.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of November, 2001, contributions are being solicited from people
+and organizations in: Alabama, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Oklahoma,
+Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fundraising
+requirements for other states are met, additions to this list will be
+made and fundraising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+
+
+
+
+EVAN HARRINGTON
+
+By George Meredith
+
+
+
+CONTENTS:
+
+BOOK 1.
+I.        ABOVE BUTTONS
+II.       THE HERITAGE OR THE SOY
+III.      THE DAUGHTERS OR THE SHEARS
+IV.       ON BOARD THE JOCASTA
+V.        THE FAMILY AND THE FUNERAL
+VI.       MY GENTLEMAN ON THE ROAD
+VII.      MOTHER AND SON
+
+BOOK 2.
+VIII.     INTRODUCES AN ECCENTRIC
+IX.       THE COUNTESS IN LOW SOCIETY
+X.        MY GENTLEMAN ON THE ROAD AGAIN
+XI.       DOINGS AT AN INN
+XII.      IN WHICH ALE IS SHOWN TO HAVE ONE QUALITY OF WINE
+XIII.     THE MATCH OF FALLOWFIELD AGAINST BECKLEY
+
+BOOK 3.
+XIV.      THE COUNTESS DESCRIBES THE FIELD OF ACTION
+XV.       A CAPTURE
+XVI.      LEADS TO A SMALL SKIRMISH BETWEEN ROSE AND EVAN
+XVII.     IN WHICH EVAN WRITES HIMSELF TAILOR
+XVIII.    IN WHICH EVAN CALLS HIMSELF GENTLEMAN
+
+BOOK 4.
+XIX.      SECOND DESPATCH OF THE COUNTESS
+XX.       BREAK-NECK LEAP
+XXI.      TRIBULATIONS AND TACTICS OF THE COUNTESS
+XXII.     IN WHICH THE DAUGHTERS OF THE GREAT MEL HAVE TO
+          DIGEST HIM AT DINNER
+XXIII.    TREATS OF A HANDKERCHIEF
+XXIV.     THE COUNTESS MAKES HERSELF FELT
+XXV.      IN WHICH THE STREAM FLOWS MUDDY AND CLEAR
+
+BOOK 5.
+XXVI.     MRS. MEL MAKES A BED FOR HERSELF AND FAMILY
+XXVII.    EXHIBITS ROSE'S GENERALSHIP; EVAN'S PERFORMANCE ON THE SECOND
+          FIDDLE; AND THE WRETCHEDNESS OF THE COUNTESS
+XXVIII.   TOM COGGLESBY'S PROPOSITION
+XXIX.     PRELUDE TO AN ENGAGEMENT
+XXX.      THE BATTLE OF THE BULL-DOGS.  PART I.
+XXXI.     THE BATTLE OF THE BULL-DOGS.  PART II.
+
+BOOK 6.
+XXXII.    IN WHICH EVAN'S LIGHT BEGINS TO TWINKLE AGAIN
+XXXIII.   THE HERO TAKES HIS RANK IN THE ORCHESTRA
+XXXIV.    A PAGAN SACRIFICE
+XXXV.     ROSE WOUNDED
+XXXVI.    BEFORE BREAKFAST
+XXXVII.   THE RETREAT FROM BECKLEY
+XXXVIII.  IN WHICH WE HAVE TO SEE IN THE DARK
+
+BOOK 7.
+XXXIX.    IN THE DOMAIN OF TAILORDOM
+XL.       IN WHICH THE COUNTESS STILL SCENTS GAME
+XLI.      REVEALS AN ABOMINABLE PLOT OF THE BROTHERS COGGLESBY
+XLII.     JULIANA
+XLIII.    ROSE
+XLIV.     CONTAINS A WARNING TO ALL CONSPIRATORS
+XLV.      IN WHICH THE SHOP BECOMES THE CENTRE OF ATTRACTION
+XLVI.     A LOVER'S PARTING
+XLVII.    A YEAR LATER THE COUNTESS DE SALDAR DE SANCORVO TO HER
+          SISTER CAROLINE
+
+
+
+
+BOOK 1.
+
+I.        ABOVE BUTTONS
+II.       THE HERITAGE OR THE SOY
+III.      THE DAUGHTERS OR THE SHEARS
+IV.       ON BOARD THE JOCASTA
+V.        THE FAMILY AND THE FUNERAL
+VI.       MY GENTLEMAN ON THE ROAD
+VII.      MOTHER AND SON
+
+
+
+CHAPTER I
+
+ABOVE BUTTONS
+
+Long after the hours when tradesmen are in the habit of commencing
+business, the shutters of a certain shop in the town of Lymport-on-the-
+Sea remained significantly closed, and it became known that death had
+taken Mr. Melchisedec Harrington, and struck one off the list of living
+tailors.  The demise of a respectable member of this class does not
+ordinarily create a profound sensation.  He dies, and his equals debate
+who is to be his successor: while the rest of them who have come in
+contact with him, very probably hear nothing of his great launch and
+final adieu till the winding up of cash-accounts; on which occasions we
+may augur that he is not often blessed by one or other of the two great
+parties who subdivide this universe.  In the case of Mr. Melchisedec it
+was otherwise.  This had been a grand man, despite his calling, and in
+the teeth of opprobrious epithets against his craft.  To be both
+generally blamed, and generally liked, evinces a peculiar construction of
+mortal.  Mr. Melchisedec, whom people in private called the great Mel,
+had been at once the sad dog of Lymport, and the pride of the town.  He
+was a tailor, and he kept horses; he was a tailor, and he had gallant
+adventures; he was a tailor, and he shook hands with his customers.
+Finally, he was a tradesman, and he never was known to have sent in a
+bill.  Such a personage comes but once in a generation, and, when he
+goes, men miss the man as well as their money.
+
+That he was dead, there could be no doubt.  Kilne, the publican opposite,
+had seen Sally, one of the domestic servants, come out of the house in
+the early morning and rush up the street to the doctor's, tossing her
+hands; and she, not disinclined to dilute her grief, had, on her return,
+related that her master was then at his last gasp, and had refused, in so
+many words, to swallow the doctor.
+
+'"I won't swallow the doctor!"  he says, "I won't swallow the doctor!"'
+Sally moaned.  '"I never touched him," he says, "and I never will."'
+
+Kilne angrily declared, that in his opinion, a man who rejected medicine
+in extremity, ought to have it forced down his throat: and considering
+that the invalid was pretty deeply in Kilne's debt, it naturally assumed
+the form of a dishonest act on his part; but Sally scornfully dared any
+one to lay hand on her master, even for his own good.  'For,' said she,
+'he's got his eyes awake, though he do lie so helpless.  He marks ye!'
+
+'Ah!  ah!' Kilne sniffed the air.  Sally then rushed back to her duties.
+
+'Now, there 's a man!' Kilne stuck his hands in his pockets and began
+his meditation: which, however, was cut short by the approach of his
+neighbour Barnes, the butcher, to whom he confided what he had heard,
+and who ejaculated professionally, 'Obstinate as a pig!' As they stood
+together they beheld Sally, a figure of telegraph, at one of the windows,
+implying that all was just over.
+
+'Amen!' said Barnes, as to a matter-of-fact affair.
+
+Some minutes after, the two were joined by Grossby, the confectioner, who
+listened to the news, and observed:
+
+'Just like him!  I'd have sworn he'd never take doctor's stuff'; and,
+nodding at Kilne, 'liked his medicine best, eh?'
+
+'Had a-hem!--good lot of it,' muttered Kilne, with a suddenly serious
+brow.
+
+'How does he stand on your books?' asked Barnes.
+
+Kilne shouldered round, crying: 'Who the deuce is to know?'
+
+'I don't,' Grossby sighed.  'In he comes with his "Good morning, Grossby,
+fine day for the hunt, Grossby," and a ten-pound note.  "Have the
+kindness to put that down in my favour, Grossby."  And just as I am going
+to say, "Look here,--this won't do," he has me by the collar, and there's
+one of the regiments going to give a supper party, which he's to order;
+or the Admiral's wife wants the receipt for that pie; or in comes my
+wife, and there's no talking of business then, though she may have been
+bothering about his account all the night beforehand.  Something or
+other!  and so we run on.'
+
+'What I want to know,' said Barnes, the butcher, 'is where he got his
+tenners from?'
+
+Kilne shook a sagacious head: 'No knowing!'
+
+'I suppose we shall get something out of the fire?' Barnes suggested.
+
+'That depends!' answered the emphatic Kilne.
+
+'But, you know, if the widow carries on the business,' said Grossby,
+'there's no reason why we shouldn't get it all, eh?'
+
+'There ain't two that can make clothes for nothing, and make a profit out
+of it,' said Kilne.
+
+'That young chap in Portugal,' added Barnes, 'he won't take to tailoring
+when he comes home.  D' ye think he will?'
+
+Kilne muttered: 'Can't say !' and Grossby, a kindly creature in his way,
+albeit a creditor, reverting to the first subject of their discourse,
+ejaculated, 'But what a one he was!--eh?'
+
+'Fine!--to look on,' Kilne assented.
+
+'Well, he was like a Marquis,' said Barnes.
+
+Here the three regarded each other, and laughed, though not loudly.  They
+instantly checked that unseemliness, and Kilne, as one who rises from the
+depths of a calculation with the sum in his head, spoke quite in a
+different voice:
+
+'Well, what do you say, gentlemen?  shall we adjourn?  No use standing
+here.'
+
+By the invitation to adjourn, it was well understood by the committee
+Kilne addressed, that they were invited to pass his threshold, and
+partake of a morning draught.  Barnes, the butcher, had no objection
+whatever, and if Grossby, a man of milder make, entertained any, the
+occasion and common interests to be discussed, advised him to waive them.
+In single file these mourners entered the publican's house, where Kilne,
+after summoning them from behind the bar, on the important question, what
+it should be? and receiving, first, perfect acquiescence in his views as
+to what it should be, and then feeble suggestions of the drink best
+befitting that early hour and the speaker's particular constitution,
+poured out a toothful to each, and one to himself.
+
+'Here's to him, poor fellow!' said Kilne; and was deliberately echoed
+twice.
+
+'Now, it wasn't that,' Kilne pursued, pointing to the bottle in the midst
+of a smacking of lips, 'that wasn't what got him into difficulties.  It
+was expensive luckshries.  It was being above his condition.  Horses!
+What's a tradesman got to do with horses?  Unless he's retired!  Then
+he's a gentleman, and can do as he likes.  It's no use trying to be a
+gentleman if you can't pay for it.  It always ends bad.  Why, there was
+he, consorting with gentlefolks--gay as a lark!  Who has to pay for it?'
+
+Kilne's fellow-victims maintained a rather doleful tributary silence.
+
+'I'm not saying anything against him now,' the publican further observed.
+'It 's too late.  And there!  I'm sorry he's gone, for one.  He was as
+kind a hearted a man as ever breathed.  And there!  perhaps it was just
+as much my fault; I couldn't say "No" to him,--dash me, if I could!'
+
+Lymport was a prosperous town, and in prosperity the much-despised
+British tradesman is not a harsh, he is really a well-disposed, easy
+soul, and requires but management, manner, occasional instalments--just
+to freshen the account--and a surety that he who debits is on the spot,
+to be a right royal king of credit.  Only the account must never drivel.
+'Stare aut crescere' appears to be his feeling on that point, and the
+departed Mr. Melchisedec undoubtedly understood him there; for the
+running on of the account looked deplorable and extraordinary now that
+Mr. Melchisedec was no longer in a position to run on with it, and it was
+precisely his doing so which had prevented it from being brought to a
+summary close long before.  Both Barnes, the butcher; and Grossby, the
+confectioner, confessed that they, too, found it hard ever to say 'No'
+to him, and, speaking broadly, never could.
+
+'Except once,'said Barnes, 'when he wanted me to let him have a ox to
+roast whole out on the common, for the Battle of Waterloo.  I stood out
+against him on that.  "No, no," says I, "I'll joint him for ye, Mr.
+Harrington.  You shall have him in joints, and eat him at home";-ha! ha!'
+
+'Just like him!' said Grossby, with true enjoyment of the princely
+disposition that had dictated the patriotic order.
+
+'Oh!--there!' Kilne emphasized, pushing out his arm across the bar, as
+much as to say, that in anything of such a kind, the great Mel never had
+a rival.
+
+'That "Marquis" affair changed him a bit,' said Barnes.
+
+'Perhaps it did, for a time,' said Kilne.  'What's in the grain, you
+know.  He couldn't change.  He would be a gentleman, and nothing 'd stop
+him.'
+
+'And I shouldn't wonder but what that young chap out in Portugal 'll want
+to be one, too; though he didn't bid fair to be so fine a man as his
+father.'
+
+'More of a scholar,' remarked Kilne.  'That I call his worst fault--
+shilly-shallying about that young chap.  I mean his.'  Kilne stretched a
+finger toward the dead man's house.  'First, the young chap's to be sent
+into the Navy; then it's the Army; then he's to be a judge, and sit on
+criminals; then he goes out to his sister in Portugal; and now there's
+nothing but a tailor open to him, as I see, if we're to get our money.'
+
+'Ah! and he hasn't got too much spirit to work to pay his father's
+debts,' added Barnes.  'There's a business there to make any man's
+fortune-properly directed, I say.  But, I suppose, like father like son,
+he'll becoming the Marquis, too.  He went to a gentleman's school, and
+he's had foreign training.  I don't know what to think about it.  His
+sisters over there--they were fine women.'
+
+'Oh! a fine family, every one of 'em!  and married well!' exclaimed the
+publican.
+
+'I never had the exact rights of that "Marquis" affair,' said Grossby;
+and, remembering that he had previously laughed knowingly when it was
+alluded to, pursued: 'Of course I heard of it at the time, but how did he
+behave when he was blown upon?'
+
+Barnes undertook to explain; but Kilne, who relished the narrative quite
+as well, and was readier, said:  'Look here!  I 'll tell you.  I had it
+from his own mouth one night when he wasn't--not quite himself.  He was
+coming down King William Street, where he stabled his horse, you know,
+and I met him.  He'd been dining out-somewhere out over Fallow field, I
+think it was; and he sings out to me, "Ah!  Kilne, my good fellow!"  and
+I, wishing to be equal with him, says, "A fine night, my lord!"  and he
+draws himself up--he smelt of good company--says he, "Kilne! I'm not a
+lord, as you know, and you have no excuse for mistaking me for one, sir!"
+So I pretended I had mistaken him, and then he tucked his arm under mine,
+and said, "You're no worse than your betters, Kilne.  They took me for
+one at Squire Uplift's to-night, but a man who wishes to pass off for
+more than he is, Kilne, and impose upon people," he says, "he's
+contemptible, Kilne! contemptible!"  So that, you know, set me thinking
+about "Bath" and the "Marquis," and I couldn't help smiling to myself,
+and just let slip a question whether he had enlightened them a bit.
+"Kilne," said he, "you're an honest man, and a neighbour, and I'll tell
+you what happened.  The Squire," he says, "likes my company, and I like
+his table.  Now the Squire 'd never do a dirty action, but the Squire's
+nephew, Mr. George Uplift, he can't forget that I earn my money, and once
+or twice I have had to correct him."  And I'll wager Mel did it, too!
+Well, he goes on: "There was Admiral Sir Jackson Racial and his lady, at
+dinner, Squire Falco of Bursted, Lady Barrington, Admiral Combleman"--our
+admiral, that was; 'Mr. This and That', I forget their names--and other
+ladies and gentlemen whose acquaintance I was not honoured with."  You
+know his way of talking.  "And there was a goose on the table," he says;
+and, looking stern at me, "Don't laugh yet!"  says he, like thunder.
+Well, he goes on: "Mr. George caught my eye across the table, and said,
+so as not to be heard by his uncle, 'If that bird was rampant, you would
+see your own arms, Marquis.'"  And Mel replied, quietly for him to hear,
+"And as that bird is couchant, Mr. George, you had better look to your
+sauce."  Couchant means squatting, you know.  That's heraldry!  Well,
+that wasn't bad sparring of Mel's.  But, bless you! he was never taken
+aback, and the gentlefolks was glad enough to get him to sit down amongst
+'em.  So, says Mr. George, "I know you're a fire-eater, Marquis," and his
+dander was up, for he began marquising Mel, and doing the mock polite at
+such a rate, that, by-and-by, one of the ladies who didn't know Mel
+called him "my lord" and "his lordship."  "And," says Mel, "I merely
+bowed to her, and took no notice."  So that passed off: and there sits
+Mel telling his anecdotes, as grand as a king.  And, by and-by, young Mr.
+George, who hadn't forgiven Mel, and had been pulling at the bottle
+pretty well, he sings out, "It 's Michaelmas!  the death of the goose!
+and I should like to drink the Marquis's health!"  and he drank it
+solemn.  But, as far as I can make out, the women part of the company was
+a little in the dark.  So Mel waited till there was a sort of a pause,
+and then speaks rather loud to the Admiral, "By the way, Sir Jackson, may
+I ask you, has the title of Marquis anything to do with tailoring?"  Now
+Mel was a great favourite with the Admiral, and with his lady, too, they
+say--and the Admiral played into his hands, you see, and, says he, "I 'm
+not aware that it has, Mr. Harrington."  And he begged for to know why he
+asked the question--called him, "Mister," you understand.  So Mel said,
+and I can see him now, right out from his chest he spoke, with his head
+up "When I was a younger man, I had the good taste to be fond of good
+society, and the bad taste to wish to appear different from what I was in
+it": that's Mel speaking; everybody was listening; so he goes on: "I was
+in the habit of going to Bath in the season, and consorting with the
+gentlemen I met there on terms of equality; and for some reason that I am
+quite guiltless of," says Mel, "the hotel people gave out that I was a
+Marquis in disguise; and, upon my honour, ladies and gentlemen--I was
+young then, and a fool--I could not help imagining I looked the thing.
+At all events, I took upon myself to act the part, and with some success,
+and considerable gratification; for, in my opinion," says Mel, "no real
+Marquis ever enjoyed his title so much as I did.  One day I was in my
+shop--No. 193, Main Street, Lymport--and a gentleman came in to order his
+outfit.  I received his directions, when suddenly he started back, stared
+at me, and exclaimed:
+
+'My dear Marquis!  I trust you will pardon me for having addressed you
+with so much familiarity.'  I recognized in him one of my Bath
+acquaintances.  That circumstance, ladies and gentlemen, has been a
+lesson to me.  Since that time I have never allowed a false impression
+with regard to my position to exist.  "I desire," says Mel, smiling, "to
+have my exact measure taken everywhere; and if the Michaelmas bird is to
+be associated with me, I am sure I have no objection; all I can say is,
+that I cannot justify it by letters patent of nobility."  That's how Mel
+put it.  Do you think they thought worse of him?  I warrant you he came
+out of it in flying colours.  Gentlefolks like straight-forwardness in
+their inferiors--that's what they do.  Ah!' said Kilne, meditatively,
+'I see him now, walking across the street in the moonlight, after he 'd
+told me that.  A fine figure of a man! and there ain't many Marquises to
+match him.'
+
+To this Barnes and Grossby, not insensible to the merits of the recital
+they had just given ear to, agreed.  And with a common voice of praise in
+the mouths of his creditors, the dead man's requiem was sounded.
+
+
+
+
+CHAPTER II
+
+THE HERITAGE OF THE SON
+
+Toward evening, a carriage drove up to the door of the muted house, and
+the card of Lady Racial, bearing a hurried line in pencil, was handed to
+the widow.
+
+It was when you looked upon her that you began to comprehend how great
+was the personal splendour of the husband who could eclipse such a woman.
+Mrs. Harrington was a tall and a stately dame.  Dressed in the high
+waists of the matrons of that period, with a light shawl drawn close over
+her shoulders and bosom, she carried her head well; and her pale firm
+features, with the cast of immediate affliction on them, had much
+dignity: dignity of an unrelenting physical order, which need not express
+any remarkable pride of spirit.  The family gossips who, on both sides,
+were vain of this rare couple, and would always descant on their beauty,
+even when they had occasion to slander their characters, said, to
+distinguish them, that Henrietta Maria had a Port, and Melchisedec a
+Presence: and that the union of a Port and a Presence, and such a Port
+and such a Presence, was so uncommon, that you might search England
+through and you would not find another, not even in the highest ranks of
+society.  There lies some subtle distinction here; due to the minute
+perceptions which compel the gossips of a family to coin phrases that
+shall express the nicest shades of a domestic difference.  By a Port, one
+may understand them to indicate something unsympathetically impressive;
+whereas a Presence would seem to be a thing that directs the most affable
+appeal to our poor human weaknesses.  His Majesty King George IV., for
+instance, possessed a Port: Beau Brummel wielded a Presence.  Many, it is
+true, take a Presence to mean no more than a shirt-frill, and interpret a
+Port as the art of walking erect.  But this is to look upon language too
+narrowly.
+
+On a more intimate acquaintance with the couple, you acknowledge the,
+aptness of the fine distinction.  By birth Mrs. Harrington had claims to
+rank as a gentlewoman.  That is, her father was a lawyer of Lymport.  The
+lawyer, however, since we must descend the genealogical tree, was known
+to have married his cook, who was the lady's mother.  Now Mr. Melchisedec
+was mysterious concerning his origin; and, in his cups, talked largely
+and wisely of a great Welsh family, issuing from a line of princes; and
+it is certain that he knew enough of their history to have instructed
+them on particular points of it.  He never could think that his wife had
+done him any honour in espousing him; nor was she the woman to tell him
+so.  She had married him for love, rejecting various suitors, Squire
+Uplift among them, in his favour.  Subsequently she had committed the
+profound connubial error of transferring her affections, or her thoughts,
+from him to his business, which, indeed, was much in want of a mate; and
+while he squandered the guineas, she patiently picked up the pence.  They
+had not lived unhappily.  He was constantly courteous to her.  But to see
+the Port at that sordid work considerably ruffled the Presence--put, as
+it were, the peculiar division between them; and to behave toward her as
+the same woman who had attracted his youthful ardours was a task for his
+magnificent mind, and may have ranked with him as an indemnity for his
+general conduct, if his reflections ever stretched so far.  The
+townspeople of Lymport were correct in saying that his wife, and his wife
+alone, had, as they termed it, kept him together.  Nevertheless, now that
+he was dead, and could no longer be kept together, they entirely forgot
+their respect for her, in the outburst of their secret admiration for the
+popular man.  Such is the constitution of the inhabitants of this dear
+Island of Britain, so falsely accused by the Great Napoleon of being a
+nation of shopkeepers.  Here let any one proclaim himself Above Buttons,
+and act on the assumption, his fellows with one accord hoist him on their
+heads, and bear him aloft, sweating, and groaning, and cursing, but proud
+of him!  And if he can contrive, or has any good wife at home to help
+him, to die without going to the dogs, they are, one may say, unanimous
+in crying out the same eulogistic funeral oration as that commenced by
+Kilne, the publican, when he was interrupted by Barnes, the butcher,
+'Now, there's a man!--'
+
+
+Mrs. Harrington was sitting in her parlour with one of her married
+nieces, Mrs. Fiske, and on reading Lady Racial's card she gave word for
+her to be shown up into the drawing-room.  It was customary among Mrs.
+Harrington's female relatives, who one and all abused and adored the
+great Mel, to attribute his shortcomings pointedly to the ladies; which
+was as much as if their jealous generous hearts had said that he was
+sinful, but that it was not his fault.  Mrs. Fiske caught the card from
+her aunt, read the superscription, and exclaimed: 'The idea! At least she
+might have had the decency!  She never set her foot in the house before--
+and right enough too!  What can she want now?  I decidedly would refuse
+to see her, aunt!'
+
+The widow's reply was simply, 'Don't be a fool, Ann!'
+
+Rising, she said: 'Here, take poor Jacko, and comfort him till I come
+back.'
+
+Jacko was a middle-sized South American monkey, and had been a pet of her
+husband's.  He was supposed to be mourning now with the rest of the
+family.  Mrs. Fiske received him on a shrinking lap, and had found time
+to correct one of his indiscretions before she could sigh and say, in the
+rear of her aunt's retreating figure, 'I certainly never would let
+myself, down so'; but Mrs. Harrington took her own counsel, and Jacko was
+of her persuasion, for he quickly released himself from Mrs. Fiske's
+dispassionate embrace, and was slinging his body up the balusters after
+his mistress.
+
+'Mrs. Harrington,' said Lady Racial, very sweetly swimming to meet her as
+she entered the room, 'I have intruded upon you, I fear, in venturing to
+call upon you at such a time?'
+
+The widow bowed to her, and begged her to be seated.
+
+Lady Racial was an exquisitely silken dame, in whose face a winning smile
+was cut, and she was still sufficiently youthful not to be accused of
+wearing a flower too artificial.
+
+'It was so sudden! so sad!' she continued.  'We esteemed him so much.
+I thought you might be in need of sympathy, and hoped I might--Dear Mrs.
+Harrington! can you bear to speak of it?'
+
+'I can tell you anything you wish to hear, my lady,' the widow replied.
+Lady Racial had expected to meet a woman much more like what she
+conceived a tradesman's wife would be: and the grave reception of her
+proffer of sympathy slightly confused her.  She said:
+
+'I should not have come, at least not so early, but Sir Jackson, my
+husband, thought, and indeed I imagined--You have a son, Mrs. Harrington?
+I think his name is--'
+
+'Evan, my lady.'
+
+'Evan.  It was of him we have been speaking.  I imagined that is, we
+thought, Sir Jackson might--you will be writing to him, and will let him
+know we will use our best efforts to assist him in obtaining some
+position worthy of his--superior to--something that will secure him from
+the harassing embarrassments of an uncongenial employment.'
+
+The widow listened to this tender allusion to the shears without a smile
+of gratitude.  She replied: 'I hope my son will return in time to bury
+his father, and he will thank you himself, my lady.'
+
+'He has no taste for--a--for anything in the shape of trade, has he, Mrs.
+Harrington?'
+
+'I am afraid not, my lady.'
+
+'Any position--a situation--that of a clerk even--would be so much better
+for him!'
+
+The widow remained impassive.
+
+'And many young gentlemen I know, who are clerks, and are enabled to live
+comfortably, and make a modest appearance in society; and your son, Mrs.
+Harrington, he would find it surely an improvement upon--many would think
+it a step for him.'
+
+'I am bound to thank you for the interest you take in my son, my lady.'
+
+'Does it not quite suit your views, Mrs. Harrington?' Lady Racial was
+surprised at the widow's manner.
+
+'If my son had only to think of himself, my lady.'
+
+'Oh!  but of course,'--the lady understood her now--'of course!  You
+cannot suppose, Mrs. Harrington, but that I should anticipate he would
+have you to live with him, and behave to you in every way as a dutiful
+son, surely?
+
+'A clerk's income is not very large, my lady.'
+
+'No; but enough, as I have said, and with the management you would bring,
+Mrs. Harrington, to produce a modest, respectable maintenance.  My
+respect for your husband, Mrs. Harrington, makes me anxious to press my
+services upon you.'  Lady Racial could not avoid feeling hurt at the
+widow's want of common gratitude.
+
+'A clerk's income would not be more than L100 a year, my lady.'
+
+'To begin with--no; certainly not more.' The lady was growing brief.
+
+'If my son puts by the half of that yearly, he can hardly support himself
+and his mother, my lady.'
+
+'Half of that yearly, Mrs. Harrington?'
+
+'He would have to do so, and be saddled till he dies, my lady.'
+
+'I really cannot see why.'
+
+Lady Racial had a notion of some excessive niggardly thrift in the widow,
+which was arousing symptoms of disgust.
+
+Mrs. Harrington quietly said: 'There are his father's debts to pay, my
+lady.'
+
+'His father's debts!'
+
+'Under L5000, but above L4000, my lady.'
+
+'Five thousand pounds!  Mrs. Harrington!' The lady's delicately gloved
+hand gently rose and fell.  'And this poor young man--'she pursued.
+
+'My son will have to pay it, my lady.'
+
+For a moment the lady had not a word to instance.  Presently she
+remarked: 'But, Mrs. Harrington, he is surely under no legal obligation?'
+
+'He is only under the obligation not to cast disrespect on his father's
+memory, my lady; and to be honest, while he can.'
+
+'But, Mrs. Harrington! surely! what can the poor young man do?'
+
+'He will pay it, my lady.'
+
+'But how, Mrs. Harrington?'
+
+'There is his father's business, my lady.'
+
+His father's business!  Then must the young man become a tradesman in
+order to show respect for his father?  Preposterous!  That was the lady's
+natural inward exclamation.  She said, rather shrewdly, for one who knew
+nothing of such things: 'But a business which produces debts so enormous,
+Mrs. Harrington!'
+
+The widow replied: 'My son will have to conduct it in a different way.
+It would be a very good business, conducted properly, my lady.'
+
+'But if he has no taste for it, Mrs. Harrington?  If he is altogether
+superior to it?'
+
+For the first time during the interview, the widow's inflexible
+countenance was mildly moved, though not to any mild expression.
+
+'My son will have not to consult his tastes,' she observed: and seeing
+the lady, after a short silence, quit her seat, she rose likewise, and
+touched the fingers of the hand held forth to her, bowing.
+
+'You will pardon the interest I take in your son,' said Lady Racial.
+'I hope, indeed, that his relatives and friends will procure him the
+means of satisfying the demands made upon him.'
+
+'He would still have to pay them, my lady,' was the widow's answer.
+
+'Poor young man! indeed I pity him!' sighed her visitor.  'You have
+hitherto used no efforts to persuade him to take such a step,--Mrs.
+Harrington?'
+
+'I have written to Mr. Goren, who was my husband's fellow-apprentice in
+London, my lady; and he is willing to instruct him in cutting, and
+measuring, and keeping accounts.'
+
+Certain words in this speech were obnoxious to the fine ear of Lady
+Racial, and she relinquished the subject.
+
+'Your husband, Mrs. Harrington--I should so much have wished!--he did not
+pass away in--in pain!'
+
+'He died very calmly, my lady.'
+
+'It is so terrible, so disfiguring, sometimes.  One dreads to see!--one
+can hardly distinguish!  I have known cases where death was dreadful!
+But a peaceful death is very beautiful!  There is nothing shocking to
+the mind.  It suggests heaven!  It seems a fulfilment of our prayers!'
+
+'Would your ladyship like to look upon him?' said the widow.
+
+Lady Racial betrayed a sudden gleam at having her desire thus intuitively
+fathomed.
+
+'For one moment, Mrs. Harrington!  We esteemed him so much!  May I?'
+
+The widow responded by opening the door, and leading her into the chamber
+where the dead man lay.
+
+
+At that period, when threats of invasion had formerly stirred up the
+military fire of us Islanders, the great Mel, as if to show the great
+Napoleon what character of being a British shopkeeper really was, had,
+by remarkable favour, obtained a lieutenancy of militia dragoons: in the
+uniform of which he had revelled, and perhaps, for the only time in his
+life, felt that circumstances had suited him with a perfect fit.  However
+that may be, his solemn final commands to his wife, Henrietta Maria, on
+whom he could count for absolute obedience in such matters, had been,
+that as soon as the breath had left his body, he should be taken from his
+bed, washed, perfumed, powdered, and in that uniform dressed and laid
+out; with directions that he should be so buried at the expiration of
+three days, that havoc in his features might be hidden from men.  In this
+array Lady Racial beheld him.  The curtains of the bed were drawn aside.
+The beams of evening fell soft through the blinds of the room, and cast a
+subdued light on the figure of the vanquished warrior.  The Presence,
+dumb now for evermore, was sadly illumined for its last exhibition.  But
+one who looked closely might have seen that Time had somewhat spoiled
+that perfect fit which had aforetime been his pride; and now that the
+lofty spirit had departed, there had been extreme difficulty in
+persuading the sullen excess of clay to conform to the dimensions of
+those garments.  The upper part of the chest alone would bear its
+buttons, and across one portion of the lower limbs an ancient seam had
+started; recalling an incident to them who had known him in his brief
+hour of glory.  For one night, as he was riding home from Fallow field,
+and just entering the gates of the town, a mounted trooper spurred
+furiously past, and slashing out at him, gashed his thigh.  Mrs.
+Melchisedec found him lying at his door in a not unwonted way; carried
+him up-stairs in her arms, as she had done many a time before, and did
+not perceive his condition till she saw the blood on her gown.  The
+cowardly assailant was never discovered; but Mel was both gallant and
+had, in his military career, the reputation of being a martinet.  Hence,
+divers causes were suspected.  The wound failed not to mend, the trousers
+were repaired: Peace about the same time was made, and the affair passed
+over.
+
+Looking on the fine head and face, Lady Racial saw nothing of this.  She
+had not looked long before she found covert employment for her
+handkerchief.  The widow standing beside her did not weep, or reply to
+her whispered excuses at emotion; gazing down on his mortal length with a
+sort of benignant friendliness; aloof, as one whose duties to that form
+of flesh were well-nigh done.  At the feet of his master, Jacko, the
+monkey, had jumped up, and was there squatted, with his legs crossed,
+very like a tailor!  The imitative wretch had got a towel, and as often
+as Lady Racial's handkerchief travelled to her eyes, Jacko's peery face
+was hidden, and you saw his lithe skinny body doing grief's convulsions
+till, tired of this amusement, he obtained possession of the warrior's
+helmet, from a small round table on one side of the bed; a calque of the
+barbarous military-Georgian form, with a huge knob of horse-hair
+projecting over the peak; and under this, trying to adapt it to his
+rogue's head, the tricksy image of Death extinguished himself.
+
+All was very silent in the room.  Then the widow quietly disengaged
+Jacko, and taking him up, went to the door, and deposited him outside.
+During her momentary absence, Lady Racial had time to touch the dead
+man's forehead with her lips, unseen.
+
+
+
+
+CHAPTER III
+
+THE DAUGHTERS OF THE SHEARS
+
+Three daughters and a son were left to the world by Mr. Melchisedec.
+Love, well endowed, had already claimed to provide for the daughters:
+first in the shape of a lean Marine subaltern, whose days of obscuration
+had now passed, and who had come to be a major of that corps: secondly,
+presenting his addresses as a brewer of distinction: thirdly, and for a
+climax, as a Portuguese Count: no other than the Senor Silva Diaz, Conde
+de Saldar: and this match did seem a far more resplendent one than that
+of the two elder sisters with Major Strike and Mr. Andrew Cogglesby.  But
+the rays of neither fell visibly on Lymport.  These escaped Eurydices
+never reappeared, after being once fairly caught away from the gloomy
+realms of Dis, otherwise Trade.  All three persons of singular beauty, a
+certain refinement, some Port, and some Presence, hereditarily combined,
+they feared the clutch of that fell king, and performed the widest
+possible circles around him.  Not one of them ever approached the house
+of her parents.  They were dutiful and loving children, and wrote
+frequently; but of course they had to consider their new position, and
+their husbands, and their husbands' families, and the world, and what it
+would say, if to it the dreaded rumour should penetrate!  Lymport
+gossips, as numerous as in other parts, declared that the foreign
+nobleman would rave in an extraordinary manner, and do things after the
+outlandish fashion of his country: for from him, there was no doubt, the
+shop had been most successfully veiled, and he knew not of Pluto's close
+relationship to his lovely spouse.
+
+The marriages had happened in this way.  Balls are given in country
+towns, where the graces of tradesmen's daughters may be witnessed and
+admired at leisure by other than tradesmen: by occasional country
+gentlemen of the neighbourhood, with light minds: and also by small
+officers: subalterns wishing to do tender execution upon man's fair
+enemy, and to find a distraction for their legs.  The classes of our
+social fabric have, here and there, slight connecting links, and
+provincial public balls are one of these.  They are dangerous, for Cupid
+is no respecter of class-prejudice; and if you are the son of a retired
+tea-merchant, or of a village doctor, or of a half-pay captain, or of
+anything superior, and visit one of them, you are as likely to receive
+his shot as any shopboy.  Even masquerading lords at such places, have
+been known to be slain outright; and although Society allows to its
+highest and dearest to save the honour of their families, and heal their
+anguish, by indecorous compromise, you, if you are a trifle below that
+mark, must not expect it.  You must absolutely give yourself for what you
+hope to get.  Dreadful as it sounds to philosophic ears, you must marry.
+This, having danced with Caroline Harrington, the gallant Lieutenant
+Strike determined to do.  Nor, when he became aware of her father's
+occupation, did he shrink from his resolve.  After a month's hard
+courtship, he married her straight out of her father's house.  That he
+may have all the credit due to him, it must be admitted that he did not
+once compare, or possibly permit himself to reflect on, the dissimilarity
+in their respective ranks, and the step he had taken downward, till they
+were man and wife: and then not in any great degree, before Fortune had
+given him his majority; an advance the good soldier frankly told his wife
+he did not owe to her.  If we may be permitted to suppose the colonel of
+a regiment on friendly terms with one of his corporals, we have an
+estimate of the domestic life of Major and Mrs. Strike.  Among the
+garrison males, his comrades, he passed for a disgustingly jealous brute.
+
+The ladies, in their pretty language, signalized him as a 'finick.'
+
+Now, having achieved so capital a marriage, Caroline, worthy creature,
+was anxious that her sisters should not be less happy, and would have
+them to visit her, in spite of her husband's protests.
+
+'There can be no danger,' she said, for she was in fresh quarters, far
+from the nest of contagion.  The lieutenant himself ungrudgingly declared
+that, looking on the ladies, no one for an instant could suspect; and he
+saw many young fellows ready to be as great fools as he had been another
+voluntary confession he made to his wife; for the candour of which she
+thanked him, and pointed out that it seemed to run in the family;
+inasmuch as Mr. Andrew Cogglesby, his rich relative, had seen and had
+proposed for Harriet.  The lieutenant flatly said he would never allow
+it.  In fact he had hitherto concealed the non-presentable portion of his
+folly very satisfactorily from all save the mess-room, and Mr. Andrew's
+passion was a severe dilemma to him.  It need scarcely be told that his
+wife, fortified by the fervid brewer, defeated him utterly.  What was
+more, she induced him to be an accomplice in deception.  For though the
+lieutenant protested that he washed his hands of it, and that it was a
+fraud and a snare, he certainly did not avow the condition of his wife's
+parents to Mr. Andrew, but alluded to them in passing as 'the country
+people.'  He supposed 'the country people' must be asked, he said.  The
+brewer offered to go down to them.  But the lieutenant drew an unpleasant
+picture of the country people, and his wife became so grave at the
+proposal, that Mr. Andrew said he wanted to marry the lady and not the
+'country people,' and if she would have him, there he was.  There he was,
+behaving with a particular and sagacious kindness to the raw lieutenant
+since Harriet's arrival.  If the lieutenant sent her away, Mr. Andrew
+would infallibly pursue her, and light on a discovery.  Twice cursed by
+Love, twice the victim of tailordom, our excellent Marine gave away
+Harriet Harrington in marriage to Mr. Andrew Cogglesby.
+
+Thus Joy clapped hands a second time, and Horror deepened its shadows.
+
+From higher ground it was natural that the remaining sister should take a
+bolder flight.  Of the loves of the fair Louisa Harrington and the
+foreign Count, and how she first encountered him in the brewer's saloons,
+and how she, being a humorous person, laughed at his 'loaf' for her, and
+wore the colours that pleased him, and kindled and soothed his jealousy,
+little is known beyond the fact that she espoused the Count, under the
+auspices of the affluent brewer, and engaged that her children should be
+brought up in the faith of the Catholic Church: which Lymport gossips
+called, paying the Devil for her pride.
+
+The three sisters, gloriously rescued by their own charms, had now to
+think of their one young brother.  How to make him a gentleman!  That was
+their problem.
+
+Preserve him from tailordom--from all contact with trade--they must;
+otherwise they would be perpetually linked to the horrid thing they hoped
+to outlive and bury.  A cousin of Mr. Melchisedec's had risen to be an
+Admiral and a knight for valiant action in the old war, when men could
+rise.  Him they besought to take charge of the youth, and make a
+distinguished seaman of him.  He courteously declined.  They then
+attacked the married Marine--Navy or Army being quite indifferent to them
+as long as they could win for their brother the badge of one Service,
+'When he is a gentleman at once!' they said, like those who see the end
+of their labours.  Strike basely pretended to second them.  It would have
+been delightful to him, of course, to have the tailor's son messing at
+the same table, and claiming him when he pleased with a familiar 'Ah,
+brother!' and prating of their relationship everywhere.  Strike had been
+a fool: in revenge for it he laid out for himself a masterly career of
+consequent wisdom.  The brewer--uxorious Andrew Cogglesby--might and
+would have bought the commission.  Strike laughed at the idea of giving
+money for what could be got for nothing.  He told them to wait.
+
+In the meantime Evan, a lad of seventeen, spent the hours not devoted to
+his positive profession--that of gentleman--in the offices of the
+brewery, toying with big books and balances, which he despised with the
+combined zeal of the sucking soldier and emancipated tailor.
+
+Two years passed in attendance on the astute brother-in-law, to whom
+Fortune now beckoned to come to her and gather his laurels from the pig-
+tails.  About the same time the Countess sailed over from Lisbon on a
+visit to her sister Harriet (in reality, it was whispered in the
+Cogglesby saloons, on a diplomatic mission from the Court of Lisbon; but
+that could not be made ostensible).  The Countess narrowly examined Evan,
+whose steady advance in his profession both her sisters praised.
+
+'Yes,' said the Countess, in a languid alien accent.  'He has something
+of his father's carriage--something.  Something of his delivery--his
+readiness.'
+
+It was a remarkable thing that these ladies thought no man on earth like
+their father, and always cited him as the example of a perfect gentleman,
+and yet they buried him with one mind, and each mounted guard over his
+sepulchre, to secure his ghost from an airing.
+
+'He can walk, my dears, certainly, and talk--a little.  Tete-a-tete, I do
+not say.  I should think there he would be--a stick!  All you English
+are.  But what sort of a bow has he got, I ask you?  How does he enter a
+room?  And, then his smile!  his laugh!  He laughs like a horse--
+absolutely!  There's no music in his smile.  Oh! you should see a
+Portuguese nobleman smile.  O mio Deus!  honeyed, my dears!  But Evan has
+it not.  None of you English have.  You go so.'
+
+The Countess pressed a thumb and finger to the sides of her mouth, and
+set her sisters laughing.
+
+'I assure you, no better!  not a bit!  I faint in your society.  I ask
+myself--Where am I?  Among what boors have I fallen?  But Evan is no
+worse than the rest of you; I acknowledge that.  If he knew how to dress
+his shoulders properly, and to direct his eyes--Oh!  the eyes!  you
+should see how a Portuguese nobleman can use his eyes!  Soul!  my dears,
+soul!  Can any of you look the unutterable without being absurd!  You
+look so.'
+
+And the Countess hung her jaw under heavily vacuous orbits, something as
+a sheep might yawn.
+
+'But I acknowledge that Evan is no worse than the rest of you,' she
+repeated.  'If he understood at all the management of his eyes and mouth!
+But that's what he cannot possibly learn in England--not possibly!  As
+for your poor husband, Harriet!  one really has to remember his excellent
+qualities to forgive him, poor man!  And that stiff bandbox of a man of
+yours, Caroline!' addressing the wife of the Marine, 'he looks as if he
+were all angles and sections, and were taken to pieces every night and
+put together in the morning.  He may be a good soldier--good anything you
+will--but, Diacho! to be married to that!  He is not civilized.  None of
+you English are.  You have no place in the drawing-room.  You are like so
+many intrusive oxen--absolutely!  One of your men trod on my toe the
+other night, and what do you think the creature did?  Jerks back, then
+the half of him forward--I thought he was going to break in two--then
+grins, and grunts, "Oh! 'm sure, beg pardon, 'm sure!"  I don't know
+whether he didn't say, MARM!'
+
+The Countess lifted her hands, and fell away in laughing horror.  When
+her humour, or her feelings generally, were a little excited, she spoke
+her vernacular as her sisters did, but immediately subsided into the
+deliberate delicately-syllabled drawl.
+
+'Now that happened to me once at one of our great Balls,' she pursued.
+'I had on one side of me the Duchesse Eugenia de Formosa de Fontandigua;
+on the other sat the Countess de Pel, a widow.  And we were talking of
+the ices that evening.  Eugenia, you must know, my dears, was in love
+with the Count Belmarana.  I was her sole confidante.  The Countess de
+Pel--a horrible creature!  Oh! she was the Duchess's determined enemy-
+would have stabbed her for Belmarana, one of the most beautiful men!
+Adored by every woman!  So we talked ices, Eugenic and myself, quite
+comfortably, and that horrible De Pel had no idea in life!  Eugenia had
+just said, "This ice sickens me!  I do not taste the flavour of the
+vanille."  I answered, "It is here!  It must--it cannot but be here!
+You love the flavour of the vanille?"  With her exquisite smile, I see
+her now saying, "Too well! it is necessary to me!  I live on it!"--when
+up he came.  In his eagerness, his foot just effleured my robe.  Oh!
+I never shall forget!  In an instant he was down on one knee it was so
+momentary that none saw it but we three, and done with ineffable grace.
+"Pardon!"  he said, in his sweet Portuguese; "Pardon!"  looking up--the
+handsomest man I ever beheld; and when I think of that odious wretch the
+other night, with his "Oh! 'm sure, beg pardon, 'm sure! 'pon my honour!"
+I could have kicked him--I could, indeed!'
+
+Here the Countess laughed out, but relapsed into:
+
+'Alas!  that Belmarana should have betrayed that beautiful trusting
+creature to De Pel.  Such scandal! a duel!--the Duke was wounded.  For a
+whole year Eugenia did not dare to appear at Court, but had to remain
+immured in her country-house, where she heard that Belmarana had married
+De Pel!  It was for her money, of course.  Rich as Croesus, and as wicked
+as the black man below!  as dear papa used to say.  By the way, weren't
+we talking of Evan?  Ah,--yes!'
+
+And so forth.  The Countess was immensely admired, and though her sisters
+said that she was 'foreignized' overmuch, they clung to her desperately.
+She seemed so entirely to have eclipsed tailordom, or 'Demogorgon,' as
+the Countess was pleased to call it.  Who could suppose this grand-
+mannered lady, with her coroneted anecdotes and delicious breeding, the
+daughter of that thing?  It was not possible to suppose it.  It seemed to
+defy the fact itself.
+
+They congratulated her on her complete escape from Demogorgon.  The
+Countess smiled on them with a lovely sorrow.
+
+'Safe from the whisper, my dears; the ceaseless dread?  If you knew what
+I have to endure!  I sometimes envy you.  'Pon my honour, I sometimes
+wish I had married a fishmonger!  Silva, indeed, is a most excellent
+husband.  Polished!  such polish as you know not of in England.  He has a
+way--a wriggle with his shoulders in company--I cannot describe it to
+you; so slight! so elegant! and he is all that a woman could desire.
+But who could be safe in any part of the earth, my dears, while papa
+will go about so, and behave so extraordinarily?  I was at dinner at your
+English embassy a month ago, and there was Admiral Combleman, then on the
+station off Lisbon, Sir Jackson Racial's friend, who was the Admiral at
+Lymport formerly.  I knew him at once, and thought, oh! what shall I do!
+My heart was like a lump of lead.  I would have given worlds that we
+might one of us have smothered the other!  I had to sit beside him--
+it always happens!  Thank heaven! he did not identify me.  And then
+he told an anecdote of Papa.  It was the dreadful old "Bath" story.
+I thought I should have died.  I could not but fancy the Admiral
+suspected.  Was it not natural?  And what do you think I had the audacity
+to do?  I asked him coolly, whether the Mr. Harrington he mentioned was
+not the son of Sir Abraham Harrington, of Torquay,--the gentleman who
+lost his yacht in the Lisbon waters last year?  I brought it on myself.
+"Gentleman, ma'am,--MA'AM!" says the horrid old creature, laughing,"
+gentleman!  he's a--" I cannot speak it: I choke!  And then he began
+praising Papa.  Diacho! what I suffered.  But, you know, I can keep my
+countenance, if I perish.  I am a Harrington as much as any of us!'
+
+And the Countess looked superb in the pride with which she said she was
+what she would have given her hand not to be.  But few feelings are
+single on this globe, and junction of sentiments need not imply unity in
+our yeasty compositions.
+
+'After it was over--my supplice,' continued the Countess, 'I was
+questioned by all the ladies--I mean our ladies--not your English.  They
+wanted to know how I could be so civil to that intolerable man.  I gained
+a deal of credit, my dears.  I laid it all on--Diplomacy.'  The Countess
+laughed bitterly.  'Diplomacy bears the burden of it all.  I pretended
+that Combleman could be useful to Silva!  Oh! what hypocrites we all are,
+mio Deus!'
+
+The ladies listening could not gainsay this favourite claim of universal
+brotherhood among the select who wear masks instead of faces.
+
+
+With regard to Evan, the Countess had far outstripped her sisters in her
+views.  A gentleman she had discovered must have one of two things--
+a title or money.  He might have all the breeding in the world; he might
+be as good as an angel; but without a title or money he was under eclipse
+almost total.  On a gentleman the sun must shine.  Now, Evan had no
+title, no money.  The clouds were thick above the youth.  To gain a title
+he would have to scale aged mountains.  There was one break in his
+firmament through which the radiant luminary might be assisted to cast
+its beams on him still young.  That divine portal was matrimony.  If he
+could but make a rich marriage he would blaze transfigured; all would be
+well!  And why should not Evan marry an heiress, as well as another?
+
+'I know a young creature who would exactly suit him,' said the Countess.
+'She is related to the embassy, and is in Lisbon now.  A charming child--
+just sixteen!  Dios!  how the men rave about her!  and she isn't a
+beauty,--there's the wonder; and she is a little too gauche too English
+in her habits and ways of thinking; likes to be admired, of course, but
+doesn't know yet how to set about getting it.  She rather scandalizes our
+ladies, but when you know her!--She will have, they say, a hundred
+'thousand pounds in her own right!  Rose Jocelyn, the daughter of Sir
+Franks, and that eccentric Lady Jocelyn.  She is with her uncle,
+Melville, the celebrated diplomate though, to tell you the truth,
+we turn him round our fingers, and spin him as the boys used to do the
+cockchafers.  I cannot forget our old Fallow field school-life, you see,
+my dears.  Well, Rose Jocelyn would just suit Evan.  She is just of an
+age to receive an impression.  And I would take care she did.  Instance
+me a case where I have failed?
+
+'Or there is the Portuguese widow, the Rostral.  She's thirty, certainly;
+but she possesses millions!  Estates all over the kingdom, and the
+sweetest creature.  But, no.  Evan would be out of the way there,
+certainly.  But--our women are very nice: they have the dearest,
+sweetest ways: but I would rather Evan did not marry one of them.
+And then there 's the religion!'
+
+This was a sore of the Countess's own, and she dropped a tear in coming
+across it.
+
+'No, my dears, it shall be Rose Jocelyn!' she concluded: 'I will take
+Evan over with me, and see that he has opportunities.  It shall be Rose,
+and then I can call her mine; for in verity I love the child.'
+
+It is not my part to dispute the Countess's love for Miss Jocelyn;
+and I have only to add that Evan, unaware of the soft training he was
+to undergo, and the brilliant chance in store for him, offered no
+impediment to the proposition that he should journey to Portugal with his
+sister (whose subtlest flattery was to tell him that she should not be
+ashamed to own him there); and ultimately, furnished with cash for the
+trip by the remonstrating brewer, went.
+
+So these Parcae, daughters of the shears, arranged and settled the young
+man's fate.  His task was to learn the management of his mouth, how to
+dress his shoulders properly, and to direct his eyes--rare qualities in
+man or woman, I assure you; the management of the mouth being especially
+admirable, and correspondingly difficult.  These achieved, he was to
+place his battery in position, and win the heart and hand of an heiress.
+
+Our comedy opens with his return from Portugal, in company with Miss
+Rose, the heiress; the Honourable Melville Jocelyn, the diplomate; and
+the Count and Countess de Saldar, refugees out of that explosive little
+kingdom.
+
+
+
+
+CHAPTER IV
+
+ON BOARD THE JOCASTA
+
+From the Tagus to the Thames the Government sloop-of-war, Jocasta,
+had made a prosperous voyage, bearing that precious freight, a removed
+diplomatist and his family; for whose uses let a sufficient vindication
+be found in the exercise he affords our crews in the science of
+seamanship.  She entered our noble river somewhat early on a fine July
+morning.  Early as it was, two young people, who had nothing to do with
+the trimming or guiding of the vessel, stood on deck, and watched the
+double-shore, beginning to embrace them more and more closely as they
+sailed onward.  One, a young lady, very young in manner, wore a black
+felt hat with a floating scarlet feather, and was clad about the
+shoulders in a mantle of foreign style and pattern.  The other you might
+have taken for a wandering Don, were such an object ever known; so simply
+he assumed the dusky sombrero and dangling cloak, of which one fold was
+flung across his breast and drooped behind him.  The line of an
+adolescent dark moustache ran along his lip, and only at intervals could
+you see that his eyes were blue and of the land he was nearing.  For the
+youth was meditative, and held his head much down.  The young lady, on
+the contrary, permitted an open inspection of her countenance, and
+seemed, for the moment at least, to be neither caring nor thinking of
+what kind of judgement would be passed on her.  Her pretty nose was up,
+sniffing the still salt breeze with vivacious delight.
+
+'Oh!' she cried, clapping her hands, 'there goes a dear old English gull!
+How I have wished to see him!  I haven't seen one for two years and seven
+months.  When I 'm at home, I 'll leave my window open all night, just to
+hear the rooks, when they wake in the morning.  There goes another!'
+
+She tossed up her nose again, exclaiming:
+
+'I 'm sure I smell England nearer and nearer!  I smell the fields, and
+the cows in them.  I'd have given anything to be a dairy-maid for half an
+hour!  I used to lie and pant in that stifling air among those stupid
+people, and wonder why anybody ever left England.  Aren't you glad to
+come back?'
+
+This time the fair speaker lent her eyes to the question, and shut her
+lips; sweet, cold, chaste lips she had: a mouth that had not yet dreamed
+of kisses, and most honest eyes.
+
+The young man felt that they were not to be satisfied by his own, and
+after seeking to fill them with a doleful look, which was immediately
+succeeded by one of superhuman indifference, he answered:
+
+'Yes!  We shall soon have to part!' and commenced tapping with his foot
+the cheerful martyr's march.
+
+Speech that has to be hauled from the depths usually betrays the effort.
+Listening an instant to catch the import of this cavernous gasp upon the
+brink of sound, the girl said:
+
+'Part?  what do you mean?'
+
+Apparently it required a yet vaster effort to pronounce an explanation.
+The doleful look, the superhuman indifference, were repeated in due
+order: sound, a little more distinct, uttered the words:
+
+'We cannot be as we have been, in England!' and then the cheerful martyr
+took a few steps farther.
+
+'Why, you don't mean to say you're going to give me up, and not be
+friends with me, because we've come back to England?' cried the girl
+in a rapid breath, eyeing him seriously.
+
+Most conscientiously he did not mean it! but he replied with the quietest
+negative.
+
+'No?' she mimicked him.  'Why do you say "No" like that?  Why are you so
+mysterious, Evan?  Won't you promise me to come and stop with us for
+weeks?  Haven't you said we would ride, and hunt, and fish together,
+and read books, and do all sorts of things?'
+
+He replied with the quietest affirmative.
+
+'Yes?  What does "Yes!"  mean?' She lifted her chest to shake out the
+dead-alive monosyllable, as he had done.  'Why are you so singular this
+morning, Evan?  Have I offended you?  You are so touchy!'
+
+The slur on his reputation for sensitiveness induced the young man to
+attempt being more explicit.
+
+'I mean,' he said, hesitating; 'why, we must part.  We shall not see each
+other every day.  Nothing more than that.'  And away went the cheerful
+martyr in sublimest mood.
+
+'Oh! and that makes you, sorry?' A shade of archness was in her voice.
+
+The girl waited as if to collect something in her mind, and was now a
+patronizing woman.
+
+'Why, you dear sentimental boy!  You don't suppose we could see each
+other every day for ever?'
+
+It was perhaps the cruelest question that could have been addressed to
+the sentimental boy from her mouth.  But he was a cheerful martyr!
+
+'You dear Don Doloroso!' she resumed.  'I declare if you are not just
+like those young Portugals this morning; and over there you were such a
+dear English fellow; and that's why I liked you so much!  Do change!
+Do, please, be lively, and yourself again.  Or mind; I'll call you Don
+Doloroso, and that shall be your name in England.  See there!--that's--
+that's? what's the name of that place?  Hoy!  Mr. Skerne!' She hailed the
+boatswain, passing, 'Do tell me the name of that place.'
+
+Mr. Skerne righted about to satisfy her minutely, and then coming up to
+Evan, he touched his hat, and said:
+
+'I mayn't have another opportunity--we shall be busy up there--of
+thankin' you again, sir, for what you did for my poor drunken brother
+Bill, and you may take my word I won't forget it, sir, if he does; and
+I suppose he'll be drowning his memory just as he was near drowning
+himself.'
+
+Evan muttered something, grimaced civilly, and turned away.  The girl's
+observant brows were moved to a faintly critical frown, and nodding
+intelligently to the boatswain's remark, that the young gentleman did not
+seem quite himself, now that he was nearing home, she went up to Evan,
+and said:
+
+'I'm going to give you a lesson in manners, to be quits with you.
+Listen, sir.  Why did you turn away so ungraciously from Mr. Skerne,
+while he was thanking you for having saved his brother's life?  Now
+there's where you're too English.  Can't you bear to be thanked?'
+
+'I don't want to be thanked because I can swim,' said Evan.
+
+'But it is not that.  Oh, how you trifle!' she cried.  'There's nothing
+vexes me so much as that way you have.  Wouldn't my eyes have sparkled if
+anybody had come up to me to thank me for such a thing?  I would let them
+know how glad I was to have done such a thing!  Doesn't it make them
+happier, dear Evan?'
+
+'My dear Miss Jocelyn!'
+
+'What?'
+
+The honest grey eyes fixed on him, narrowed their enlarged lids.  She
+gazed before her on the deck, saying:
+
+'I'm sure I can't understand you.  I suppose it's because I'm a girl, and
+I never shall till I'm a woman.  Heigho!'
+
+A youth who is engaged in the occupation of eating his heart, cannot
+shine to advantage, and is as much a burden to himself as he is an enigma
+to others.  Evan felt this; but he could do nothing and say nothing; so
+he retired deeper into the folds of the Don, and remained picturesque and
+scarcely pleasant.
+
+They were relieved by a summons to breakfast from below.
+
+She brightened and laughed.  'Now, what will you wager me, Evan, that the
+Countess doesn't begin:
+
+"Sweet child!  how does she this morning?  blooming?"  when she kisses
+me?'
+
+Her capital imitation of his sister's manner constrained him to join in
+her laugh, and he said:
+
+'I'll back against that, I get three fingers from your uncle, and
+"Morrow, young sir!"'
+
+Down they ran together, laughing; and, sure enough, the identical words
+of the respective greetings were employed, which they had to enjoy with
+all the discretion they could muster.
+
+Rose went round the table to her little cousin Alec, aged seven, kissed
+his reluctant cheek, and sat beside him, announcing a sea appetite and
+great capabilities, while Evan silently broke bread.  The Count de
+Saldar, a diminutive tawny man, just a head and neck above the
+tablecloth, sat sipping chocolate and fingering dry toast, which he would
+now and then dip in jelly, and suck with placidity, in the intervals of a
+curt exchange of French with the wife of the Hon. Melville, a ringleted
+English lady, or of Portuguese with the Countess; who likewise sipped
+chocolate and fingered dry toast, and was mournfully melodious.  The Hon.
+Melville, as became a tall islander, carved beef, and ate of it, like a
+ruler of men.  Beautiful to see was the compassionate sympathy of the
+Countess's face when Rose offered her plate for a portion of the world-
+subjugating viand, as who should say: 'Sweet child!  thou knowest not yet
+of sorrows, thou canst ballast thy stomach with beef!'  In any other than
+an heiress, she would probably have thought: 'This is indeed a disgusting
+little animal, and most unfeminine conduct!'
+
+Rose, unconscious of praise or blame, rivalled her uncle in enjoyment of
+the fare, and talked of her delight in seeing England again, and anything
+that belonged to her native land.  Mrs. Melville perceived that it pained
+the refugee Countess, and gave her the glance intelligible; but the
+Countess never missed glances, or failed to interpret them.  She said:
+
+'Let her.  I love to hear the sweet child's prattle.'
+
+'It was fortunate' (she addressed the diplomatist) 'that we touched at
+Southampton and procured fresh provision!'
+
+'Very lucky for US!' said he, glaring shrewdly between a mouthful.
+
+The Count heard the word 'Southampton,' and wished to know how it was
+comprised.  A passage of Portuguese ensued, and then the Countess said:
+
+'Silva, you know, desired to relinquish the vessel at Southampton.  He
+does not comprehend the word "expense," but' (she shook a dumb Alas!)
+'I must think of that for him now!'
+
+'Oh!  always avoid expense,' said the Hon. Melville, accustomed to be
+paid for by his country.
+
+'At what time shall we arrive, may I ask, do you think?' the Countess
+gently inquired.
+
+The watch of a man who had his eye on Time was pulled out, and she was
+told it might be two hours before dark.  Another reckoning, keenly
+balanced, informed the company that the day's papers could be expected on
+board somewhere about three o'clock in the afternoon.
+
+'And then,' said the Hon. Melville, nodding general gratulation, 'we
+shall know how the world wags.'
+
+How it had been wagging the Countess's straining eyes under closed
+eyelids were eloquent of.
+
+'Too late, I fear me, to wait upon Lord Livelyston to-night?' she
+suggested.
+
+'To-night?' The Hon. Melville gazed blank astonishment at the notion.
+'Oh! certainly, too late tonight.  A-hum!  I think, madam, you had better
+not be in too great a hurry to see him.  Repose a little.  Recover your
+fatigue.'
+
+'Oh !' exclaimed the Countess, with a beam of utter confidence in him,
+'I shall be too happy to place myself in your hands--believe me.'
+
+This was scarcely more to the taste of the diplomatist.  He put up his
+mouth, and said, blandly:
+
+'I fear--you know, madam, I must warn you beforehand--I, personally,
+am but an insignificant unit over here, you know; I, personally,
+can't guarantee much assistance to you--not positive. What I can do--
+of course, very happy!' And he fell to again upon the beef.
+
+'Not so very insignificant!' said the Countess, smiling, as at a softly
+radiant conception of him.
+
+'Have to bob and bow like the rest of them over here,' he added, proof
+against the flattery.
+
+'But that you will not forsake Silva, I am convinced,' said the Countess;
+and, paying little heed to his brief 'Oh! what I can do,' continued:
+'For over here, in England, we are almost friendless.  My relations--such
+as are left of them--are not in high place.'  She turned to Mrs.
+Melville, and renewed the confession with a proud humility. 'Truly, I
+have not a distant cousin in the Cabinet!'
+
+Mrs. Melville met her sad smile, and returned it, as one who understood
+its entire import.
+
+'My brother-in-law-my sister, I think, you know--married a--a brewer!
+He is rich; but, well! such was her taste!  My brother-in-law is indeed
+in Parliament, and he--'
+
+'Very little use, seeing he votes with the opposite party,' the
+diplomatist interrupted her.
+
+'Ah! but he will not,' said the Countess, serenely.  'I can trust with
+confidence that, if it is for Silva's interest, he will assuredly so
+dispose of his influence as to suit the desiderations of his family, and
+not in any way oppose his opinions to the powers that would willingly
+stoop to serve us!'
+
+It was impossible for the Hon.  Melville to withhold a slight grimace at
+his beef, when he heard this extremely alienized idea of the nature of a
+member of the Parliament of Great Britain.  He allowed her to enjoy her
+delusion, as she pursued:
+
+'No.  So much we could offer in repayment.  It is little!  But this, in
+verity, is a case.  Silva's wrongs have only to be known in England, and
+I am most assured that the English people will not permit it.  In the
+days of his prosperity, Silva was a friend to England, and England should
+not--should not--forget it now.  Had we money!  But of that arm our
+enemies have deprived us: and, I fear, without it we cannot hope to have
+the justice of our cause pleaded in the English papers.  Mr. Redner, you
+know, the correspondent in Lisbon, is a sworn foe to Silva.  And why but
+because I would not procure him an invitation to Court!  The man was so
+horridly vulgar; his gloves were never clean; I had to hold a bouquet to
+my nose when I talked to him.  That, you say, was my fault!  Truly so.
+But what woman can be civil to a low-bred, pretentious, offensive man?'
+
+Mrs. Melville, again appealed to, smiled perfect sympathy, and said, to
+account for his character:
+
+'Yes.  He is the son of a small shopkeeper of some kind, in Southampton,
+I hear.'
+
+'A very good fellow in his way,' said her husband.
+
+'Oh!  I can't bear that class of people,' Rose exclaimed.  'I always keep
+out of their way.  You can always tell them.'
+
+The Countess smiled considerate approbation of her exclusiveness and
+discernment.  So sweet a smile!
+
+'You were on deck early, my dear?' she asked Evan, rather abruptly.
+
+Master Alec answered for him: 'Yes, he was, and so was Rose.  They made
+an appointment, just as they used to do under the oranges.'
+
+'Children!' the Countess smiled to Mrs. Melville.
+
+'They always whisper when I'm by,' Alec appended.
+
+'Children!' the Countess's sweetened visage entreated Mrs. Melville to
+re-echo; but that lady thought it best for the moment to direct Rose to
+look to her packing, now that she had done breakfast.
+
+'And I will take a walk with my brother on deck,' said the Countess.
+'Silva is too harassed for converse.'
+
+The parties were thus divided.  The silent Count was left to meditate on
+his wrongs in the saloon; and the diplomatist, alone with his lady,
+thought fit to say to her, shortly: 'Perhaps it would be as well to draw
+away from these people a little.  We 've done as much as we could for
+them, in bringing them over here.  They may be trying to compromise us.
+That woman's absurd.  She 's ashamed of the brewer, and yet she wants to
+sell him--or wants us to buy him.  Ha! I think she wants us to send a
+couple of frigates, and threaten bombardment of the capital, if they
+don't take her husband back, and receive him with honours.'
+
+'Perhaps it would be as well,' said Mrs. Melville.  'Rose's invitation to
+him goes for nothing.'
+
+'Rose? inviting the Count? down to Hampshire?' The diplomatist's brows
+were lifted.
+
+'No, I mean the other,' said the diplomatist's wife.
+
+'Oh! the young fellow! very good young fellow.  Gentlemanly.  No harm in
+him.'
+
+'Perhaps not,' said the diplomatist's wife.
+
+'You don't suppose he expects us to keep him on, or provide for him over
+here--eh?'
+
+The diplomatist's wife informed him that such was not her thought, that
+he did not understand, and that it did not matter; and as soon as the
+Hon. Melville saw that she was brooding something essentially feminine,
+and which had no relationship to the great game of public life, curiosity
+was extinguished in him.
+
+On deck the Countess paced with Evan, and was for a time pleasantly
+diverted by the admiration she could, without looking, perceive that her
+sorrow-subdued graces had aroused in the breast of a susceptible naval
+lieutenant.  At last she spoke:
+
+'My dear!  remember this.  Your last word to Mr. Jocelyn will be: "I will
+do myself the honour to call upon my benefactor early."  To Rose you will
+say: "Be assured, Miss Jocelyn "Miss Jocelyn--"I shall not fail in
+hastening to pay my respects to your family in Hampshire."  You will
+remember to do it, in the exact form I speak it.'
+
+Evan laughed: 'What! call him benefactor to his face?  I couldn't do it.'
+
+'Ah!  my child!'
+
+'Besides, he isn't a benefactor at all.  His private secretary died, and
+I stepped in to fill the post, because nobody else was handy.'
+
+'And tell me of her who pushed you forward, Evan?'
+
+'My dear sister, I'm sure I'm not ungrateful.'
+
+'No; but headstrong: opinionated.  Now these people will endeavour--Oh!
+I have seen it in a thousand little things--they wish to shake us off.
+Now, if you will but do as I indicate!  Put your faith in an older head,
+Evan.  It is your only chance of society in England.  For your brother-
+in-law--I ask you, what sort of people will you meet at the Cogglesbys?
+Now and then a nobleman, very much out of his element.  In short, you
+have fed upon a diet which will make you to distinguish, and painfully to
+know the difference!  Indeed!  Yes, you are looking about for Rose.  It
+depends upon your behaviour now, whether you are to see her at all in
+England.  Do you forget?  You wished once to inform her of your origin.
+Think of her words at the breakfast this morning!'
+
+The Countess imagined she had produced an impression.  Evan said: 'Yes,
+and I should have liked to have told her this morning that I'm myself
+nothing more than the son of a--'
+
+'Stop! cried his sister, glancing about in horror.  The admiring
+lieutenant met her eye.  Blandishingly she smiled on him: 'Most beautiful
+weather for a welcome to dear England?' and passed with majesty.
+
+'Boy!' she resumed, 'are you mad?'
+
+'I hate being such a hypocrite, madam.'
+
+'Then you do not love her, Evan?'
+
+This may have been dubious logic, but it resulted from a clear sequence
+of ideas in the lady's head.  Evan did not contest it.
+
+'And assuredly you will lose her, Evan.  Think of my troubles!  I have to
+intrigue for Silva; I look to your future; I smile, Oh heaven!  how do I
+not smile when things are spoken that pierce my heart!  This morning at
+the breakfast!'
+
+Evan took her hand, and patted it.
+
+'What is your pity?' she sighed.
+
+'If it had not been for you, my dear sister, I should never have held my
+tongue.'
+
+'You are not a Harrington!  You are a Dawley!' she exclaimed,
+indignantly.
+
+Evan received the accusation of possessing more of his mother's spirit
+than his father's in silence.
+
+'You would not have held your tongue,' she said, with fervid severity:
+'and you would have betrayed yourself!  and you would have said you were
+that! and you in that costume!  Why, goodness gracious! could you bear to
+appear so ridiculous?'
+
+The poor young man involuntarily surveyed his person.  The pains of an
+impostor seized him.  The deplorable image of the Don making confession
+became present to his mind.  It was a clever stroke of this female
+intriguer.  She saw him redden grievously, and blink his eyes; and not
+wishing to probe him so that he would feel intolerable disgust at his
+imprisonment in the Don, she continued:
+
+'But you have the sense to see your duties, Evan.  You have an excellent
+sense, in the main.  No one would dream--to see you.  You did not, I must
+say, you did not make enough of your gallantry.  A Portuguese who had
+saved a man's life, Evan, would he have been so boorish?  You behaved as
+if it was a matter of course that you should go overboard after anybody,
+in your clothes, on a dark night.  So, then, the Jocelyns took it.  I
+barely heard one compliment to you.  And Rose--what an effect it should
+have had on her!  But, owing to your manner, I do believe the girl thinks
+it nothing but your ordinary business to go overboard after anybody, in
+your clothes, on a dark night.  'Pon my honour, I believe she expects to
+see you always dripping!'  The Countess uttered a burst of hysterical
+humour.  'So you miss your credit.  That inebriated sailor should really
+have been gold to you.  Be not so young and thoughtless.'
+
+The Countess then proceeded to tell him how foolishly he had let slip his
+great opportunity.  A Portuguese would have fixed the young lady long
+before.  By tender moonlight, in captivating language, beneath the
+umbrageous orange-groves, a Portuguese would have accurately calculated
+the effect of the perfume of the blossom on her sensitive nostrils, and
+know the exact moment when to kneel, and declare his passion sonorously.
+
+'Yes,' said Evan, 'one of them did.  She told me.'
+
+'She told you?  And you--what did you do?'
+
+'Laughed at him with her, to be sure.'
+
+'Laughed at him!  She told you, and you helped her to laugh at love!
+Have you no perceptions?  Why did she tell you?'
+
+'Because she thought him such a fool, I suppose.'
+
+'You never will know a woman,' said the Countess, with contempt.
+
+Much of his worldly sister at a time was more than Evan could bear.
+Accustomed to the symptoms of restiveness, she finished her discourse,
+enjoyed a quiet parade up and down under the gaze of the lieutenant, and
+could find leisure to note whether she at all struck the inferior seamen,
+even while her mind was absorbed by the multiform troubles and anxieties
+for which she took such innocent indemnification.
+
+The appearance of the Hon. Melville Jocelyn on deck, and without his
+wife, recalled her to business.  It is a peculiarity of female
+diplomatists that they fear none save their own sex.  Men they regard as
+their natural prey: in women they see rival hunters using their own
+weapons.  The Countess smiled a slowly-kindling smile up to him, set her
+brother adrift, and delicately linked herself to Evan's benefactor.
+
+'I have been thinking,' she said, 'knowing your kind and most considerate
+attentions, that we may compromise you in England.'
+
+He at once assured her he hoped not, he thought not at all.
+
+'The idea is due to my brother,' she went on; 'for I--women know so
+little!--and most guiltlessly should we have done so.  My brother perhaps
+does not think of us foremost; but his argument I can distinguish.  I can
+see, that were you openly to plead Silva's cause, you might bring
+yourself into odium, Mr. Jocelyn; and heaven knows I would not that!
+May I then ask, that in England we may be simply upon the same footing
+of private friendship?'
+
+The diplomatist looked into her uplifted visage, that had all the sugary
+sparkles of a crystallized preserved fruit of the Portugal clime, and
+observed, confidentially, that, with every willingness in the world to
+serve her, he did think it would possibly be better, for a time, to be
+upon that footing, apart from political considerations.
+
+'I was very sure my brother would apprehend your views,' said the
+Countess.  'He, poor boy!  his career is closed.  He must sink into a
+different sphere.  He will greatly miss the intercourse with you and your
+sweet family.'
+
+Further relieved, the diplomatist delivered a high opinion of the young
+gentleman, his abilities, and his conduct, and trusted he should see him
+frequently.
+
+By an apparent sacrifice, the lady thus obtained what she wanted.
+
+Near the hour speculated on by the diplomatist, the papers came on board,
+and he, unaware how he had been manoeuvred for lack of a wife at his
+elbow, was quickly engaged in appeasing the great British hunger for
+news; second only to that for beef, it seems, and equally acceptable
+salted when it cannot be had fresh.
+
+Leaving the devotee of statecraft with his legs crossed, and his face
+wearing the cognizant air of one whose head is above the waters of
+events, to enjoy the mighty meal of fresh and salted at discretion,
+the Countess dived below.
+
+Meantime the Jocasta, as smoothly as before she was ignorant of how the
+world wagged, slipped up the river with the tide; and the sun hung red
+behind the forest of masts, burnishing a broad length of the serpentine
+haven of the nations of the earth.  A young Englishman returning home can
+hardly look on this scene without some pride of kinship.  Evan stood at
+the fore part of the vessel.  Rose, in quiet English attire, had escaped
+from her aunt to join him, singing in his ears, to spur his senses:
+'Isn't it beautiful?  Isn't it beautiful?  Dear old England!'
+
+'What do you find so beautiful?' he asked.
+
+'Oh, you dull fellow!  Why the ships, and the houses, and the smoke, to
+be sure.'
+
+'The ships?  Why, I thought you despised trade, mademoiselle?'
+
+'And so I do.  That is, not trade, but tradesmen.  Of course, I mean
+shopkeepers.'
+
+'It's they who send the ships to and fro, and make the picture that
+pleases you, nevertheless.'
+
+'Do they?' said she, indifferently, and then with a sort of fervour, 'Why
+do you always grow so cold to me whenever we get on this subject?'
+
+'I cold?' Evan responded.  The incessant fears of his diplomatic sister
+had succeeded in making him painfully jealous of this subject.  He turned
+it off.  'Why, our feelings are just the same.  Do you know what I was
+thinking when you came up?  I was thinking that I hoped I might never
+disgrace the name of an Englishman.'
+
+'Now, that's noble!' cried the girl.  'And I'm sure you never will.  Of
+an English gentleman, Evan.  I like that better.'
+
+'Would your rather be called a true English lady than a true English
+woman, Rose?'
+
+'Don't think I would, my dear,' she answered, pertly; 'but "gentleman"
+always means more than "man" to me.'
+
+'And what's a gentleman, mademoiselle?'
+
+'Can't tell you, Don Doloroso.  Something you are, sir,' she added,
+surveying him.
+
+Evan sucked the bitter and the sweet of her explanation.  His sister in
+her anxiety to put him on his guard, had not beguiled him to forget his
+real state.
+
+His sister, the diplomatist and his lady, the refugee Count, with ladies'
+maids, servants, and luggage, were now on the main-deck, and Master Alec,
+who was as good as a newspaper correspondent for private conversations,
+put an end to the colloquy of the young people.  They were all assembled
+in a circle when the vessel came to her moorings.  The diplomatist
+glutted with news, and thirsting for confirmations; the Count dumb,
+courteous, and quick-eyed; the honourable lady complacent in the
+consciousness of boxes well packed; the Countess breathing mellifluous
+long-drawn adieux that should provoke invitations.  Evan and Rose
+regarded each other.
+
+The boat to convey them on shore was being lowered, and they were
+preparing to move forward.  Just then the vessel was boarded by a
+stranger.
+
+'Is that one of the creatures of your Customs?  I did imagine we were
+safe from them,' exclaimed the Countess.
+
+The diplomatist laughingly requested her to save herself anxiety on that
+score, while under his wing.  But she had drawn attention to the
+intruder, who was seen addressing one of the midshipmen.  He was a man in
+a long brown coat and loose white neckcloth, spectacles on nose, which he
+wore considerably below the bridge and peered over, as if their main use
+were to sight his eye; a beaver hat, with broadish brim, on his head.
+A man of no station, it was evident to the ladies at once, and they would
+have taken no further notice of him had he not been seen stepping toward
+them in the rear of the young midshipman.
+
+The latter came to Evan, and said: 'A fellow of the name of Goren wants
+you.  Says there's something the matter at home.'
+
+Evan advanced, and bowed stiffly.
+
+Mr. Goren held out his hand.  'You don't remember me, young man?  I cut
+out your first suit for you when you were breeched, though!  Yes-ah!
+Your poor father wouldn't put his hand to it.  Goren!'
+
+Embarrassed, and not quite alive to the chapter of facts this name should
+have opened to him, Evan bowed again.
+
+'Goren!' continued the possessor of the name.  He had a cracked voice,
+that when he spoke a word of two syllables, commenced with a lugubrious
+crow, and ended in what one might have taken for a curious question.
+
+'It is a bad business brings me, young man.  I 'm not the best messenger
+for such tidings.  It's a black suit, young man!  It's your father!'
+
+The diplomatist and his lady gradually edged back but Rose remained
+beside the Countess, who breathed quick, and seemed to have lost her
+self-command.
+
+Thinking he was apprehended, Mr. Goren said: 'I 'm going down to-night to
+take care of the shop.  He 's to be buried in his old uniform.  You had
+better come with me by the night-coach, if you would see the last of him,
+young man.'
+
+Breaking an odd pause that had fallen, the Countess cried aloud, suddenly:
+
+'In his uniform!'
+
+Mr. Goren felt his arm seized and his legs hurrying him some paces into
+isolation.  'Thanks!  thanks!' was murmured in his ear.  'Not a word
+more.  Evan cannot bear it.  Oh!  you are good to have come, and we are
+grateful.  My father! my father!'
+
+She had to tighten her hand and wrist against her bosom to keep herself
+up.  She had to reckon in a glance how much Rose had heard, or divined.
+She had to mark whether the Count had understood a syllable.  She had to
+whisper to Evan to hasten away with the horrible man.
+
+She had to enliven his stunned senses, and calm her own.  And with
+mournful images of her father in her brain, the female Spartan had to
+turn to Rose, and speculate on the girl's reflective brows, while she
+said, as over a distant relative, sadly, but without distraction:
+'A death in the family!' and preserved herself from weeping her heart
+out, that none might guess the thing who did not positively know it.
+Evan touched the hand of Rose without meeting her eyes.  He was soon cast
+off in Mr. Goren's boat.  Then the Countess murmured final adieux;
+twilight under her lids, but yet a smile, stately, affectionate, almost
+genial.  Rose, her sweet Rose, she must kiss.  She could have slapped
+Rose for appearing so reserved and cold.  She hugged Rose, as to hug
+oblivion of the last few minutes into her.  The girl leant her cheek, and
+bore the embrace, looking on her with a kind of wonder.
+
+Only when alone with the Count, in the brewer's carriage awaiting her on
+shore, did the lady give a natural course to her grief; well knowing that
+her Silva would attribute it to the darkness of their common exile.  She
+wept: but in the excess of her misery, two words of strangely opposite
+signification, pronounced by Mr. Goren; two words that were at once
+poison and antidote, sang in her brain; two words that painted her dead
+father from head to foot, his nature and his fortune: these were the
+Shop, and the Uniform.
+
+Oh! what would she not have given to have-seen and bestowed on her
+beloved father one last kiss!  Oh! how she hoped that her inspired echo
+of Uniform, on board the Jocasta, had drowned the memory, eclipsed the
+meaning, of that fatal utterance of Shop!
+
+
+
+
+CHAPTER V
+
+THE FAMILY AND THE FUNERAL
+
+It was the evening of the second day since the arrival of the black
+letter in London from Lymport, and the wife of the brewer and the wife of
+the Major sat dropping tears into one another's laps, in expectation of
+their sister the Countess.  Mr. Andrew Cogglesby had not yet returned
+from his office.  The gallant Major had gone forth to dine with General
+Sir George Frebuter, the head of the Marines of his time.  It would have
+been difficult for the Major, he informed his wife, to send in an excuse
+to the General for non-attendance, without entering into particulars;
+and that he should tell the General he could not dine with him, because
+of the sudden decease of a tailor, was, as he let his wife understand,
+and requested her to perceive, quite out of the question.  So he dressed
+himself carefully, and though peremptory with his wife concerning his
+linen, and requiring natural services from her in the button department,
+and a casual expression of contentment as to his ultimate make-up, he
+left her that day without any final injunctions to occupy her mind, and
+she was at liberty to weep if she pleased, a privilege she did not enjoy
+undisturbed when he was present; for the warrior hated that weakness, and
+did not care to hide his contempt for it.
+
+Of the three sisters, the wife of the Major was, oddly enough, the one
+who was least inveterately solicitous of concealing the fact of her
+parentage.  Reticence, of course, she had to study with the rest; the
+Major was a walking book of reticence and the observances; he professed,
+also, in company with herself alone, to have had much trouble in drilling
+her to mark and properly preserve them.  She had no desire to speak of
+her birthplace.  But, for some reason or other, she did not share her
+hero's rather petulant anxiety to keep the curtain nailed down on that
+part of her life which preceded her entry into the ranks of the Royal
+Marines.  Some might have thought that those fair large blue eyes of hers
+wandered now and then in pleasant unambitious walks behind the curtain,
+and toyed with little flowers of palest memory.  Utterly tasteless,
+totally wanting in discernment, not to say gratitude, the Major could not
+presume her to be; and yet his wits perceived that her answers and the
+conduct she shaped in accordance with his repeated protests and long-
+reaching apprehensions of what he called danger, betrayed acquiescent
+obedience more than the connubial sympathy due to him.  Danger on the
+field the Major knew not of; he did not scruple to name the word in
+relation to his wife.  For, as he told her, should he, some day, as in
+the chapter of accidents might occur, sally into the street a Knight
+Companion of the Bath and become known to men as Sir Maxwell Strike, it
+would be decidedly disagreeable for him to be blown upon by a wind from
+Lymport.  Moreover she was the mother of a son.  The Major pointed out to
+her the duty she owed her offspring.  Certainly the protecting aegis of
+his rank and title would be over the lad, but she might depend upon it
+any indiscretion of hers would damage him in his future career, the Major
+assured her.  Young Maxwell must be considered.
+
+For all this, the mother and wife, when the black letter found them in
+the morning at breakfast, had burst into a fit of grief, and faltered
+that she wept for a father.  Mrs. Andrew, to whom the letter was
+addressed, had simply held the letter to her in a trembling hand.  The
+Major compared their behaviour, with marked encomiums of Mrs. Andrew.
+Now this lady and her husband were in obverse relative positions.  The
+brewer had no will but his Harriet's.  His esteem for her combined the
+constitutional feelings of an insignificantly-built little man for a
+majestic woman, and those of a worthy soul for the wife of his bosom.
+Possessing, or possessed by her, the good brewer was perfectly happy.
+She, it might be thought, under these circumstances, would not have
+minded much his hearing what he might hear.  It happened, however,
+that she was as jealous of the winds of Lymport as the Major himself;
+as vigilant in debarring them from access to the brewery as now the
+Countess could have been.  We are not dissecting human nature suffice it,
+therefore, from a mere glance at the surface, to say, that just as
+moneyed men are careful of their coin, women who have all the advantages
+in a conjunction, are miserly in keeping them, and shudder to think that
+one thing remains hidden, which the world they move in might put down
+pityingly in favour of their spouse, even though to the little man 'twere
+naught.  She assumed that a revelation would diminish her moral stature;
+and certainly it would not increase that of her husband.  So no good
+could come of it.  Besides, Andrew knew, his whole conduct was a tacit
+admission, that she had condescended in giving him her hand.  The
+features of their union might not be changed altogether by a revelation,
+but it would be a shock to her.
+
+Consequently, Harriet tenderly rebuked Caroline, for her outcry at the
+breakfast-table; and Caroline, the elder sister, who had not since
+marriage grown in so free an air, excused herself humbly, and the two
+were weeping when the Countess joined them and related what she had just
+undergone.
+
+Hearing of Caroline's misdemeanour, however, Louisa's eyes rolled aloft
+in a paroxysm of tribulation.  It was nothing to Caroline; it was
+comparatively nothing to Harriet; but the Count knew not Louisa had a
+father: believed that her parents had long ago been wiped out.  And the
+Count was by nature inquisitive: and if he once cherished a suspicion he
+was restless; he was pointed in his inquiries: he was pertinacious in
+following out a clue: there never would be peace with him!  And then,
+as they were secure in their privacy, Louisa cried aloud for her father,
+her beloved father!  Harriet wept silently.  Caroline alone expressed
+regret that she had not set eyes on him from the day she became a wife.
+
+'How could we, dear?' the Countess pathetically asked, under drowning
+lids.
+
+'Papa did not wish it,' sobbed Mrs. Andrew.
+
+'I never shall forgive myself!' said the wife of the Major, drying her
+cheeks.  Perhaps it was not herself whom she felt she never could
+forgive.
+
+Ah!  the man their father was!  Incomparable Melchisedec!  he might well
+be called.  So generous!  so lordly!  When the rain of tears would
+subside for a moment, one would relate an anecdote or childish
+reminiscence of him, and provoke a more violent outburst.
+
+'Never, among the nobles of any land, never have I seen one like him!'
+exclaimed the Countess, and immediately requested Harriet to tell her
+how it would be possible to stop Andrew's tongue in Silva's presence.
+
+'At present, you know, my dear, they may talk as much as they like--they
+can't understand one another one bit.'
+
+Mrs. Cogglesby comforted her by the assurance that Andrew had received an
+intimation of her wish for silence everywhere and toward everybody; and
+that he might be reckoned upon to respect it, without demanding a reason
+for the restriction.  In other days Caroline and Louisa had a little
+looked down on Harriet's alliance with a dumpy man--a brewer--and had
+always kind Christian compassion for him if his name were mentioned.
+They seemed now, by their silence, to have a happier estimate of Andrew's
+qualities.
+
+While the three sisters sat mingling their sorrows and alarms, their
+young brother was making his way to the house.  As he knocked at the door
+he heard his name pronounced behind him, and had no difficulty in
+recognizing the worthy brewer.
+
+'What, Van, my boy!  how are you?  Quite a foreigner!  By George, what a
+hat!'
+
+Mr. Andrew bounced back two or three steps to regard the dusky sombrero.
+
+'How do you do, sir?' said Evan.
+
+'Sir to you!' Mr. Andrew briskly replied.  'Don't they teach you to give
+your fist in Portugal, eh?  I'll "sir" you.  Wait till I'm Sir Andrew,
+and then "sir" away.  You do speak English still, Van, eh?  Quite jolly,
+my boy?'
+
+Mr. Andrew rubbed his hands to express that state in himself.  Suddenly
+he stopped, blinked queerly at Evan, grew pensive, and said, 'Bless my
+soul!  I forgot.'
+
+The door opened, Mr. Andrew took Evan's arm, murmured a 'hush!' and trod
+gently along the passage to his library.
+
+'We're safe here,' he said.  'There--there's something the matter up-
+stairs.  The women are upset about something.  Harriet--' Mr. Andrew
+hesitated, and branched off: 'You 've heard we 've got a new baby?'
+
+Evan congratulated him; but another inquiry was in Mr. Andrew's aspect,
+and Evan's calm, sad manner answered it.
+
+'Yes,'--Mr. Andrew shook his head dolefully--'a splendid little chap!
+a rare little chap!  a we can't help these things, Van!  They will
+happen.  Sit down, my boy.'
+
+Mr. Andrew again interrogated Evan with his eyes.
+
+'My father is dead,' said Evan.
+
+'Yes!'  Mr. Andrew nodded, and glanced quickly at the ceiling, as if to
+make sure that none listened overhead.  'My parliamentary duties will
+soon be over for the season,' he added, aloud; pursuing, in an under-
+breath:
+
+'Going down to-night, Van?'
+
+'He is to be buried to-morrow,' said Evan.
+
+'Then, of course, you go.  Yes: quite right.  Love your father and
+mother!  always love your father and mother!  Old Tom and I never knew
+ours.  Tom's quite well-same as ever.  I'll,' he rang the bell, 'have my
+chop in here with you.  You must try and eat a bit, Van.  Here we are,
+and there we go.  Old Tom's wandering for one of his weeks.  You'll see
+him some day.  He ain't like me.  No dinner to-day, I suppose, Charles?'
+
+This was addressed to the footman.  He announced:
+
+'Dinner to-day at half-past six, as usual, sir,' bowed, and retired.
+
+Mr. Andrew pored on the floor, and rubbed his hair back on his head.
+'An odd world!' was his remark.
+
+Evan lifted up his face to sigh: 'I 'm almost sick of it!'
+
+'Damn appearances!' cried Mr. Andrew, jumping on his legs.
+
+The action cooled him.
+
+'I 'm sorry I swore,' he said.  'Bad habit!  The Major's here--you know
+that?' and he assumed the Major's voice, and strutted in imitation of the
+stalwart marine.  'Major--a--Strike!  of the Royal Marines! returned from
+China! covered with glory!--a hero, Van!  We can't expect him to be much
+of a mourner.  And we shan't have him to dine with us to-day--that's
+something.'  He sank his voice: 'I hope the widow 'll bear it.'
+
+'I hope to God my mother is well!' Evan groaned.
+
+'That'll do,' said Mr. Andrew.  'Don't say any more.'
+
+As he spoke, he clapped Evan kindly on the back.
+
+A message was brought from the ladies, requiring Evan to wait on them.
+He returned after some minutes.
+
+'How do you think Harriet's looking?' asked Mr. Andrew.  And, not waiting
+for an answer, whispered,
+
+'Are they going down to the funeral, my boy?'
+
+Evan's brow was dark, as he replied: 'They are not decided.'
+
+'Won't Harriet go?'
+
+'She is not going--she thinks not.'
+
+'And the Countess--Louisa's upstairs, eh?--will she go?'
+
+'She cannot leave the Count--she thinks not.'
+
+'Won't Caroline go?  Caroline can go.  She--he--I mean--Caroline can go?'
+
+'The Major objects.  She wishes to.'
+
+Mr. Andrew struck out his arm, and uttered, 'the Major!'--a compromise
+for a loud anathema.  But the compromise was vain, for he sinned again in
+an explosion against appearances.
+
+'I'm a brewer, Van.  Do you think I'm ashamed of it?  Not while I brew
+good beer, my boy!--not while I brew good beer!  They don't think worse
+of me in the House for it.  It isn't ungentlemanly to brew good beer,
+Van.  But what's the use of talking?'
+
+Mr. Andrew sat down, and murmured, 'Poor girl! poor girl!'
+
+The allusion was to his wife; for presently he said: 'I can't see why
+Harriet can't go.  What's to prevent her?'
+
+Evan gazed at him steadily.  Death's levelling influence was in Evan's
+mind.  He was ready to say why, and fully.
+
+Mr. Andrew arrested him with a sharp 'Never mind!  Harriet does as she
+likes.  I'm accustomed to--hem! what she does is best, after all.  She
+doesn't interfere with my business, nor I with hers.  Man and wife.'
+
+Pausing a moment or so, Mr. Andrew intimated that they had better be
+dressing for dinner.  With his hand on the door, which he kept closed, he
+said, in a businesslike way, 'You know, Van, as for me, I should be very
+willing--only too happy--to go down and pay all the respect I could.'
+He became confused, and shot his head from side to side, looking anywhere
+but at Evan.  'Happy now and to-morrow, to do anything in my power, if
+Harriet--follow the funeral--one of the family--anything I could do:
+but--a--we 'd better be dressing for dinner.'  And out the enigmatic
+little man went.
+
+Evan partly divined him then.  But at dinner his behaviour was
+perplexing.  He was too cheerful.  He pledged the Count.  He would have
+the Portuguese for this and that, and make Anglican efforts to repeat it,
+and laugh at his failures.  He would not see that there was a father
+dead.  At a table of actors, Mr. Andrew overdid his part, and was the
+worst.  His wife could not help thinking him a heartless little man.
+
+The poor show had its term.  The ladies fled to the boudoir sacred to
+grief.  Evan was whispered that he was to join them when he might,
+without seeming mysterious to the Count.  Before he reached them, they
+had talked tearfully over the clothes he should wear at Lymport, agreeing
+that his present foreign apparel, being black, would be suitable, and
+would serve almost as disguise, to the inhabitants at large; and as Evan
+had no English wear, and there was no time to procure any for him, that
+was well.  They arranged exactly how long he should stay at Lymport, whom
+he should visit, the manner he should adopt toward the different
+inhabitants.  By all means he was to avoid the approach of the gentry.
+For hours Evan, in a trance, half stupefied, had to listen to the
+Countess's directions how he was to comport himself in Lymport.
+
+'Show that you have descended among them, dear Van, but are not of them.
+Our beautiful noble English poet expresses it so.  You have come to pay
+the last mortal duties, which they will respect, if they are not brutes,
+and attempt no familiarities.  Allow none: gently, but firmly.  Imitate
+Silva.  You remember, at Dona Risbonda's ball?  When he met the Comte de
+Dartigues, and knew he was to be in disgrace with his Court on the
+morrow?  Oh! the exquisite shade of difference in Silva's behaviour
+towards the Comte.  So finely, delicately perceptible to the Comte, and
+not a soul saw it but that wretched Frenchman!  He came to me: "Madame,"
+he said, "is a question permitted?"  I replied, "As-many as you please,
+M. le Comte, but no answers promised."  He said: "May I ask if the
+Courier has yet come in?"--"Nay, M. le Comte," I replied, "this is
+diplomacy.  Inquire of me, or better, give me an opinion on the new glace
+silk from Paris."--"Madame," said he, bowing, "I hope Paris may send me
+aught so good, or that I shall grace half so well."  I smiled, "You shall
+not be single in your hopes, M. le Comte.  The gift would be base that
+you did not embellish."  He lifted his hands, French-fashion: "Madame, it
+is that I have received the gift."--"Indeed! M. le Comte."--"Even now
+from the Count de Saldar, your husband."  I looked most innocently, "From
+my husband, M. le Comte?"--"From him, Madame.  A portrait.  An Ambassador
+without his coat!  The portrait was a finished performance."  I said:
+"And may one beg the permission to inspect it?"--"Mais," said he,
+laughing: "were it you alone, it would be a privilege to me."  I had to
+check him.  "Believe me, M. le Comte, that when I look upon it, my praise
+of the artist will be extinguished by my pity for the subject."  He
+should have stopped there; but you cannot have the last word with a
+Frenchman--not even a woman.  Fortunately the Queen just then made her
+entry into the saloon, and his mot on the charity of our sex was lost.
+We bowed mutually, and were separated.'  (The Countess employed her
+handkerchief.) 'Yes, dear Van!  that is how you should behave.  Imply
+things.  With dearest Mama, of course, you are the dutiful son.  Alas!
+you must stand for son and daughters.  Mama has so much sense!  She will
+understand how sadly we are placed.  But in a week I will come to her for
+a day, and bring you back.'
+
+So much his sister Louisa.  His sister Harriet offered him her house for
+a home in London, thence to project his new career.  His sister Caroline
+sought a word with him in private, but only to weep bitterly in his arms,
+and utter a faint moan of regret at marriages in general.  He loved this
+beautiful creature the best of his three sisters (partly, it may be,
+because he despised her superior officer), and tried with a few smothered
+words to induce her to accompany him: but she only shook her fair locks
+and moaned afresh.  Mr. Andrew, in the farewell squeeze of the hand at
+the street-door, asked him if he wanted anything.  He negatived the
+requirement of anything whatever, with an air of careless decision,
+though he was aware that his purse barely contained more than would take
+him the distance, but the instincts of this amateur gentleman were very
+fine and sensitive on questions of money.  His family had never known him
+beg for a shilling, or admit his necessity for a penny: nor could he be
+made to accept money unless it was thrust into his pocket.  Somehow his
+sisters had forgotten this peculiarity of his.  Harriet only remembered
+it when too late.
+
+'But I dare say Andrew has supplied him,' she said.
+
+Andrew being interrogated, informed her what had passed between them.
+
+'And you think a Harrington would confess he wanted money!' was her
+scornful exclamation.  'Evan would walk--he would die rather.  It was
+treating him like a mendicant.'
+
+Andrew had to shrink in his brewer's skin.
+
+By some fatality all who were doomed to sit and listen to the Countess de
+Saldar, were sure to be behindhand in an appointment.
+
+When the young man arrived at the coach-office, he was politely informed
+that the vehicle, in which a seat had been secured for him, was in close
+alliance with time and tide, and being under the same rigid laws, could
+not possibly have waited for him, albeit it had stretched a point to the
+extent of a pair of minutes, at the urgent solicitation of a passenger.
+
+'A gentleman who speaks so, sir,' said a volunteer mimic of the office,
+crowing and questioning from his throat in Goren's manner.  'Yok!  yok!
+That was how he spoke, sir.'
+
+Evan reddened, for it brought the scene on board the Jocasta vividly to
+his mind.  The heavier business obliterated it.  He took counsel with the
+clerks of the office, and eventually the volunteer mimic conducted him to
+certain livery stables, where Evan, like one accustomed to command,
+ordered a chariot to pursue the coach, received a touch of the hat for a
+lordly fee, and was soon rolling out of London.
+
+
+
+
+CHAPTER VI
+
+MY GENTLEMAN ON THE ROAD
+
+The postillion had every reason to believe that he carried a real
+gentleman behind him; in other words, a purse long and liberal.  He
+judged by all the points he knew of: a firm voice, a brief commanding
+style, an apparent indifference to expense, and the inexplicable minor
+characteristics, such as polished boots, and a striking wristband, and so
+forth, which will show a creature accustomed to step over the heads of
+men.  He had, therefore, no particular anxiety to part company, and
+jogged easily on the white highway, beneath a moon that walked high and
+small over marble clouds.
+
+Evan reclined in the chariot, revolving his sensations.  In another mood
+he would have called, them thoughts, perhaps, and marvelled at their
+immensity.  The theme was Love and Death.  One might have supposed, from
+his occasional mutterings at the pace regulated by the postillion, that
+he was burning with anxiety to catch the flying coach.  He had forgotten
+it: forgotten that he was giving chase to anything.  A pair of wondering
+feminine eyes pursued him, and made him fret for the miles to throw a
+thicker veil between him and them.  The serious level brows of Rose
+haunted the poor youth; and reflecting whither he was tending, and to
+what sight, he had shadowy touches of the holiness there is in death,
+from which came a conflict between the imaged phantoms of his father and
+of Rose, and he sided against his love with some bitterness.  His
+sisters, weeping for their father and holding aloof from his ashes,
+Evan swept from his mind.  He called up the man his father was: the
+kindliness, the readiness, the gallant gaiety of the great Mel.  Youths
+are fascinated by the barbarian virtues; and to Evan, under present
+influences, his father was a pattern of manhood.  He asked himself:
+Was it infamous to earn one's bread?  and answered it very strongly in
+his father's favour.  The great Mel's creditors were not by to show him
+another feature of the case.
+
+Hitherto, in passive obedience to the indoctrination of the Countess,
+Evan had looked on tailors as the proscribed race of modern society.  He
+had pitied his father as a man superior to his fate; but despite the
+fitfully honest promptings with Rose (tempting to him because of the
+wondrous chivalry they argued, and at bottom false probably as the
+hypocrisy they affected to combat), he had been by no means sorry that
+the world saw not the spot on himself.  Other sensations beset him now.
+Since such a man was banned by the world, which was to be despised?
+
+The clear result of Evan's solitary musing was to cast a sort of halo
+over Tailordom.  Death stood over the pale dead man, his father, and
+dared the world to sneer at him.  By a singular caprice of fancy, Evan
+had no sooner grasped this image, than it was suggested that he might as
+well inspect his purse, and see how much money he was master of.
+
+Are you impatient with this young man?  He has little character for the
+moment.  Most youths are like Pope's women; they have no character at
+all.  And indeed a character that does not wait for circumstances to
+shape it, is of small worth in the race that must be run.  To be set too
+early, is to take the work out of the hands of the Sculptor who fashions
+men.  Happily a youth is always at school, and if he was shut up and
+without mark two or three hours ago, he will have something to show you
+now: as I have seen blooming seaflowers and other graduated organisms,
+when left undisturbed to their own action.  Where the Fates have designed
+that he shall present his figure in a story, this is sure to happen.
+
+To the postillion Evan was indebted for one of his first lessons.
+
+About an hour after midnight pastoral stillness and the moon begat in the
+postillion desire for a pipe.  Daylight prohibits the dream of it to
+mounted postillions.  At night the question is more human, and allows
+appeal.  The moon smiles assentingly, and smokers know that she really
+lends herself to the enjoyment of tobacco.
+
+The postillion could remember gentlemen who did not object: who had even
+given him cigars.  Turning round to see if haply the present inmate of
+the chariot might be smoking, he observed a head extended from the
+window.
+
+'How far are we?' was inquired.
+
+The postillion numbered the milestones passed.
+
+'Do you see anything of the coach?'
+
+'Can't say as I do, sir.'
+
+He was commanded to stop.  Evan jumped out.
+
+'I don't think I'll take you any farther,' he said.
+
+The postillion laughed to scorn the notion of his caring how far he went.
+With a pipe in his mouth, he insinuatingly remarked, he could jog on all
+night, and throw sleep to the dogs.  Fresh horses at Hillford; fresh at
+Fallow field: and the gentleman himself would reach Lymport fresh in the
+morning.
+
+'No, no; I won't take you any farther,' Evan repeated.
+
+'But what do it matter, sir?' urged the postillion.
+
+'I'd rather go on as I am.  I--a--made no arrangement to take you the
+whole way.'
+
+'Oh!' cried the postillion, 'don't you go troublin' yourself about that,
+sir.  Master knows it 's touch-and-go about catchin' the coach.  I'm all
+right.'
+
+So infatuated was the fellow in the belief that he was dealing with a
+perfect gentleman--an easy pocket!
+
+Now you would not suppose that one who presumes he has sufficient, would
+find a difficulty in asking how much he has to pay.  With an effort,
+indifferently masked, Evan blurted:
+
+'By the way, tell me--how much--what is the charge for the distance we've
+come?'
+
+There are gentlemen-screws: there are conscientious gentlemen.  They
+calculate, and remonstrating or not, they pay.  The postillion would
+rather have had to do with the gentleman royal, who is above base
+computation; but he knew the humanity in the class he served, and with
+his conception of Evan only partially dimmed, he remarked:
+
+'Oh-h-h!  that won't hurt you, sir.  Jump along in,--settle that by-and-
+by.'
+
+But when my gentleman stood fast, and renewed the demand to know the
+exact charge for the distance already traversed, the postillion
+dismounted, glanced him over, and speculated with his fingers tipping up
+his hat.  Meantime Evan drew out his purse, a long one, certainly, but
+limp.  Out of this drowned-looking wretch the last spark of life was
+taken by the sum the postillion ventured to name; and if paying your
+utmost farthing without examination of the charge, and cheerfully
+stepping out to walk fifty miles, penniless, constituted a postillion's
+gentleman, Evan would have passed the test.  The sight of poverty,
+however, provokes familiar feelings in poor men, if you have not had
+occasion to show them you possess particular qualities.  The postillion's
+eye was more on the purse than on the sum it surrendered.
+
+'There,' said Evan, 'I shall walk.  Good night.'  And he flung his cloak
+to step forward.
+
+'Stop a bit, sir!' arrested him.
+
+The postillion rallied up sideways, with an assumption of genial respect.
+'I didn't calc'late myself in that there amount.'
+
+Were these words, think you, of a character to strike a young man hard
+on the breast, send the blood to his head, and set up in his heart a
+derisive chorus?  My gentleman could pay his money, and keep his footing
+gallantly; but to be asked for a penny beyond what he possessed; to be
+seen beggared, and to be claimed a debtor-aleck!  Pride was the one
+developed faculty of Evan's nature.  The Fates who mould us, always work
+from the main-spring.  I will not say that the postillion stripped off
+the mask for him, at that instant completely; but he gave him the first
+true glimpse of his condition.  From the vague sense of being an
+impostor, Evan awoke to the clear fact that he was likewise a fool.
+
+It was impossible for him to deny the man's claim, and he would not have
+done it, if he could.  Acceding tacitly, he squeezed the ends of his
+purse in his pocket, and with a 'Let me see,' tried his waistcoat.  Not
+too impetuously; for he was careful of betraying the horrid emptiness
+till he was certain that the powers who wait on gentlemen had utterly
+forsaken him.  They had not.  He discovered a small coin, under ordinary
+circumstances not contemptible; but he did not stay to reflect, and was
+guilty of the error of offering it to the postillion.
+
+The latter peered at it in the centre of his palm; gazed queerly in the
+gentleman's face, and then lifting the spit of silver for the disdain of
+his mistress, the moon, he drew a long breath of regret at the original
+mistake he had committed, and said:
+
+'That's what you're goin' to give me for my night's work?'
+
+The powers who wait on gentlemen had only helped the pretending youth to
+try him.  A rejection of the demand would have been infinitely wiser and
+better than this paltry compromise.  The postillion would have fought it:
+he would not have despised his fare.
+
+How much it cost the poor pretender to reply, 'It 's the last farthing I
+have, my man,' the postillion could not know.
+
+'A scabby sixpence?' The postillion continued his question.
+
+'You heard what I said,' Evan remarked.
+
+The postillion drew another deep breath, and holding out the coin at
+arm's length:
+
+'Well, sir !' he observed, as one whom mental conflict has brought to the
+philosophy of the case, 'now, was we to change places, I couldn't a' done
+it!  I couldn't a' done it!' he reiterated, pausing emphatically.
+
+'Take it, sir!' he magnanimously resumed; 'take it!  You rides when you
+can, and you walks when you must.  Lord forbid I should rob such a
+gentleman as you!'
+
+One who feels a death, is for the hour lifted above the satire of
+postillions.  A good genius prompted Evan to avoid the silly squabble
+that might have ensued and made him ridiculous.  He took the money,
+quietly saying, 'Thank you.'
+
+Not to lose his vantage, the postillion, though a little staggered by the
+move, rejoined: 'Don't mention it.'
+
+Evan then said: 'Good night, my man.  I won't wish, for your sake, that
+we changed places.  You would have to walk fifty miles to be in time for
+your father's funeral.  Good night.'
+
+'You are it to look at!' was the postillion's comment, seeing my
+gentleman depart with great strides.  He did not speak offensively;
+rather, it seemed, to appease his conscience for the original mistake he
+had committed, for subsequently came, 'My oath on it, I don't get took in
+again by a squash hat in a hurry !'
+
+Unaware of the ban he had, by a sixpenny stamp, put upon an unoffending
+class, Evan went ahead, hearing the wheels of the chariot still dragging
+the road in his rear.  The postillion was in a dissatisfied state of
+mind.  He had asked and received more than his due.  But in the matter of
+his sweet self, he had been choused, as he termed it.  And my gentleman
+had baffled him, he could not quite tell how; but he had been got the
+better of; his sarcasms had not stuck, and returned to rankle in the
+bosom of their author.  As a Jew, therefore, may eye an erewhile bondsman
+who has paid the bill, but stands out against excess of interest on legal
+grounds, the postillion regarded Evan, of whom he was now abreast, eager
+for a controversy.
+
+'Fine night,' said the postillion, to begin, and was answered by a short
+assent.  'Lateish for a poor man to be out--don't you think sir, eh?'
+
+'I ought to think so,' said Evan, mastering the shrewd unpleasantness he
+felt in the colloquy forced on him.
+
+'Oh, you!  you're a gentleman!' the postillion ejaculated.
+
+'You see I have no money.'
+
+'Feel it, too, sir.'
+
+'I am sorry you should be the victim.'
+
+'Victim!' the postillion seized on an objectionable word.  'I ain't no
+victim, unless you was up to a joke with me, sir, just now.  Was that the
+game?'
+
+Evan informed him that he never played jokes with money, or on men.
+
+'Cause it looks like it, sir, to go to offer a poor chap sixpence.'  The
+postillion laughed hollow from the end of his lungs.  'Sixpence for a
+night's work!  It is a joke, if you don't mean it for one.  Why, do you
+know, sir, I could go--there, I don't care where it is!--I could go before
+any magistrate livin', and he'd make ye pay.  It's a charge, as custom
+is, and he'd make ye pay.  Or p'rhaps you're a goin' on my generosity,
+and 'll say, he gev back that sixpence!  Well!  I shouldn't a' thought a
+gentleman'd make that his defence before a magistrate.  But there, my
+man!  if it makes ye happy, keep it.  But you take my advice, sir.  When
+you hires a chariot, see you've got the shiners.  And don't you go never
+again offerin' a sixpence to a poor man for a night's work.  They don't
+like it.  It hurts their feelin's.  Don't you forget that, sir.  Lay that
+up in your mind.'
+
+Now the postillion having thus relieved himself, jeeringly asked
+permission to smoke a pipe.  To which Evan said, 'Pray, smoke, if it
+pleases you.' And the postillion, hardly mollified, added, 'The baccy's
+paid for,' and smoked.
+
+As will sometimes happen, the feelings of the man who had spoken out and
+behaved doubtfully, grew gentle and Christian, whereas those of the man
+whose bearing under the trial had been irreproachable were much the
+reverse.  The postillion smoked--he was a lord on his horse; he beheld my
+gentleman trudging in the dust.  Awhile he enjoyed the contrast, dividing
+his attention between the footfarer and moon.  To have had the last word
+is always a great thing; and to have given my gentleman a lecture,
+because he shunned a dispute, also counts.  And then there was the poor
+young fellow trudging to his father's funeral!  The postillion chose to
+remember that now.  In reality, he allowed, he had not very much to
+complain of, and my gentleman's courteous avoidance of provocation (the
+apparent fact that he, the postillion, had humbled him and got the better
+of him, equally, it may be), acted on his fine English spirit.  I should
+not like to leave out the tobacco in this good change that was wrought in
+him.  However, he presently astonished Evan by pulling up his horses, and
+crying that he was on his way to Hillford to bait, and saw no reason why
+he should not take a lift that part of the road, at all events.  Evan
+thanked him briefly, but declined, and paced on with his head bent.
+
+'It won't cost you nothing-not a sixpence!' the postillion sang out,
+pursuing him.  'Come, sir!  be a man!  I ain't a hintin' at anything--
+jump in.'
+
+Evan again declined, and looked out for a side path to escape the fellow,
+whose bounty was worse to him than his abuse, and whose mention of the
+sixpence was unlucky.
+
+'Dash it!' cried the postillion, 'you're going down to a funeral--
+I think you said your father's, sir--you may as well try and get there
+respectable--as far as I go.  It's one to me whether you're in or out;
+the horses won't feel it, and I do wish you'd take a lift and welcome.
+It's because you're too much of a gentleman to be beholden to a poor man,
+I suppose!'
+
+Evan's young pride may have had a little of that base mixture in it, and
+certainly he would have preferred that the invitation had not been made
+to him; but he was capable of appreciating what the rejection of a piece
+of friendliness involved, and as he saw that the man was sincere, he did
+violence to himself, and said: 'Very well; then I'll jump in.'
+
+The postillion was off his horse in a twinkling, and trotted his bandy
+legs to undo the door, as to a gentleman who paid.  This act of service
+Evan valued.
+
+'Suppose I were to ask you to take the sixpence now?' he said, turning
+round, with one foot on the step.
+
+'Well, sir,' the postillion sent his hat aside to answer.  'I don't want
+it--I'd rather not have it; but there!  I'll take it--dash the sixpence!
+and we'll cry quits.'
+
+Evan, surprised and pleased with him, dropped the bit of money in his
+hand, saying: 'It will fill a pipe for you.  While you 're smoking it,
+think of me as in your debt.  You're the only man I ever owed a penny
+to.'
+
+The postillion put it in a side pocket apart, and observed: 'A sixpence
+kindly meant is worth any crown-piece that's grudged--that it is!  In you
+jump, sir.  It's a jolly night!'
+
+Thus may one, not a conscious sage, play the right tune on this human
+nature of ours: by forbearance, put it in the wrong; and then, by not
+refusing the burden of an obligation, confer something better.  The
+instrument is simpler than we are taught to fancy.  But it was doubtless
+owing to a strong emotion in his soul, as well as to the stuff he was
+made of, that the youth behaved as he did.  We are now and then above our
+own actions; seldom on a level with them.  Evan, I dare say, was long in
+learning to draw any gratification from the fact that he had achieved
+without money the unparalleled conquest of a man.  Perhaps he never knew
+what immediate influence on his fortune this episode effected.
+
+At Hillford they went their different ways.  The postillion wished him
+good speed, and Evan shook his hand.  He did so rather abruptly, for the
+postillion was fumbling at his pocket, and evidently rounding about a
+proposal in his mind.
+
+My gentleman has now the road to himself.  Money is the clothing of a
+gentleman: he may wear it well or ill.  Some, you will mark, carry great
+quantities of it gracefully: some, with a stinted supply, present a
+decent appearance: very few, I imagine, will bear inspection, who are
+absolutely stripped of it.  All, save the shameless, are toiling to
+escape that trial.  My gentleman, treading the white highway across the
+solitary heaths, that swell far and wide to the moon, is, by the
+postillion, who has seen him, pronounced no sham.  Nor do I think the
+opinion of any man worthless, who has had the postillion's authority for
+speaking.  But it is, I am told, a finer test to embellish much
+gentleman-apparel, than to walk with dignity totally unadorned.  This
+simply tries the soundness of our faculties: that tempts them in erratic
+directions.  It is the difference between active and passive excellence.
+As there is hardly any situation, however, so interesting to reflect upon
+as that of a man without a penny in his pocket, and a gizzard full of
+pride, we will leave Mr. Evan Harrington to what fresh adventures may
+befall him, walking toward the funeral plumes of the firs, under the soft
+midsummer flush, westward, where his father lies.
+
+
+
+
+CHAPTER VII
+
+MOTHER AND SON
+
+Rare as epic song is the man who is thorough in what he does.  And
+happily so; for in life he subjugates us, and he makes us bondsmen to his
+ashes.  It was in the order of things that the great Mel should be borne
+to his final resting-place by a troop of creditors.  You have seen (since
+the occasion demands a pompous simile) clouds that all day cling about
+the sun, and, in seeking to obscure him, are compelled to blaze in his
+livery at fall of night they break from him illumined, hang mournfully
+above him, and wear his natural glories long after he is gone.  Thus,
+then, these worthy fellows, faithful to him to the dust, fulfilled Mel's
+triumphant passage amongst them, and closed his career.
+
+To regale them when they returned, Mrs. Mel, whose mind was not intent on
+greatness, was occupied in spreading meat and wine.  Mrs. Fiske assisted
+her, as well as she could, seeing that one hand was entirely engaged by
+her handkerchief.  She had already stumbled, and dropped a glass, which
+had brought on her sharp condemnation from her aunt, who bade her sit
+down, or go upstairs to have her cry out, and then return to be
+serviceable.
+
+'Oh! I can't help it!' sobbed Mrs. Fiske.  'That he should be carried
+away, and none of his children to see him the last time!  I can
+understand Louisa--and Harriet, too, perhaps?  But why could not
+Caroline?  And that they should be too fine ladies to let their brother
+come and bury his father.  Oh!  it does seem----'
+
+Mrs. Fiske fell into a chair, and surrendered to grief.
+
+'Where is the cold tongue?' said Mrs. Mel to Sally, the maid, in a brief
+under-voice.
+
+'Please mum, Jacko----!'
+
+'He must be whipped.  You are a careless slut.'
+
+'Please, I can't think of everybody and everything, and poor master----'
+
+Sally plumped on a seat, and took sanctuary under her apron.  Mrs. Mel
+glanced at the pair, continuing her labour.
+
+'Oh, aunt, aunt!' cried Mrs. Fiske, 'why didn't you put it off for
+another day, to give Evan a chance?'
+
+'Master 'd have kept another two days, he would!' whimpered Sally.
+
+'Oh, aunt!  to think !' cried Mrs. Fiske.
+
+'And his coffin not bearin' of his spurs!' whimpered Sally.
+
+Mrs. Mel interrupted them by commanding Sally to go to the drawing-room,
+and ask a lady there, of the name of Mrs. Wishaw, whether she would like
+to have some lunch sent up to her.  Mrs. Fiske was requested to put
+towels in Evan's bedroom.
+
+'Yes, aunt, if you're not infatuated!' said Mrs. Fiske, as she prepared
+to obey; while Sally, seeing that her public exhibition of sorrow and
+sympathy could be indulged but an instant longer, unwound herself for a
+violent paroxysm, blurting between stops:
+
+'If he'd ony've gone to his last bed comfortable!  .  .  .  If he'd ony
+'ve been that decent as not for to go to his last bed with his clothes
+on!  .  .  .  If he'd ony've had a comfortable sheet!  .  .  .  It makes
+a woman feel cold to think of him full dressed there, as if he was goin'
+to be a soldier on the Day o' Judgement!'
+
+To let people speak was a maxim of Mrs. Mel's, and a wise one for any
+form of society when emotions are very much on the surface.  She
+continued her arrangements quietly, and, having counted the number of
+plates and glasses, and told off the guests on her fingers, she, sat down
+to await them.
+
+The first one who entered the room was her son.
+
+'You have come,' said Mrs. Mel, flushing slightly, but otherwise
+outwardly calm.
+
+'You didn't suppose I should stay away from you, mother?'
+
+Evan kissed her cheek.
+
+'I knew you would not.'
+
+Mrs. Mel examined him with those eyes of hers that compassed objects in a
+single glance.  She drew her finger on each side of her upper lip, and
+half smiled, saying:
+
+'That won't do here.'
+
+'What?' asked Evan, and proceeded immediately to make inquiries about her
+health, which she satisfied with a nod.
+
+'You saw him lowered, Van?'
+
+'Yes, mother.'
+
+'Then go and wash yourself, for you are dirty, and then come and take
+your place at the head of the table.'
+
+'Must I sit here, mother?'
+
+'Without a doubt--you must.  You know your room.  Quick!'
+
+In this manner their first interview passed.
+
+Mrs. Fiske rushed in to exclaim:
+
+'So, you were right, aunt--he has come.  I met him on the stairs.  Oh!
+how like dear uncle Mel he looks, in the militia, with that moustache.
+I just remember him as a child; and, oh, what a gentleman he is!'
+
+At the end of the sentence Mrs. Mel's face suddenly darkened: she said,
+in a deep voice:
+
+'Don't dare to talk that nonsense before him, Ann.'
+
+Mrs. Fiske looked astonished.
+
+'What have I done, aunt?'
+
+'He shan't be ruined by a parcel of fools,' said Mrs. Mel.  'There, go!
+Women have no place here.'
+
+'How the wretches can force themselves to touch a morsel, after this
+morning!' Mrs. Fiske exclaimed, glancing at the table.
+
+'Men must eat,' said Mrs. Mel.
+
+The mourners were heard gathering outside the door.  Mrs. Fiske escaped
+into the kitchen.  Mrs. Mel admitted them into the parlour, bowing much
+above the level of many of the heads that passed her.
+
+Assembled were Messrs.  Barnes, Kilne, and Grossby, whom we know; Mr.
+Doubleday, the ironmonger; Mr. Joyce, the grocer; Mr. Perkins, commonly
+called Lawyer Perkins; Mr. Welbeck, the pier-master of Lymport;
+Bartholomew Fiske; Mr. Coxwell, a Fallow field maltster, brewer, and
+farmer; creditors of various dimensions, all of them.  Mr. Goren coming
+last, behind his spectacles.
+
+'My son will be with you directly, to preside,' said Mrs. Mel.  'Accept
+my thanks for the respect you have shown my husband.  I wish you good
+morning.'
+
+'Morning, ma'am,' answered several voices, and Mrs. Mel retired.
+
+The mourners then set to work to relieve their hats of the appendages of
+crape.  An undertaker's man took possession of the long black cloaks.
+The gloves were generally pocketed.
+
+'That's my second black pair this year,' said Joyce.
+
+'They'll last a time to come.  I don't need to buy gloves while
+neighbours pop off.'
+
+'Undertakers' gloves seem to me as if they're made for mutton fists,'
+remarked Welbeck; upon which Kilne nudged Barnes, the butcher, with a
+sharp 'Aha!' and Barnes observed:
+
+'Oh!  I never wear 'em--they does for my boys on Sundays.  I smoke a pipe
+at home.'
+
+The Fallow field farmer held his length of crape aloft and inquired:
+'What shall do with this?'
+
+'Oh, you keep it,' said one or two.
+
+Coxwell rubbed his chin.  'Don't like to rob the widder.'
+
+'What's left goes to the undertaker?' asked Grossby.
+
+'To be sure,' said Barnes; and Kilne added: 'It's a job': Lawyer Perkins
+ejaculating confidently, 'Perquisites of office, gentlemen; perquisites
+of office!' which settled the dispute and appeased every conscience.
+
+A survey of the table ensued.  The mourners felt hunger, or else thirst;
+but had not, it appeared, amalgamated the two appetites as yet.  Thirst
+was the predominant declaration; and Grossby, after an examination of the
+decanters, unctuously deduced the fact, which he announced, that port and
+sherry were present.
+
+'Try the port,' said Kilne.
+
+'Good?' Barnes inquired.
+
+A very intelligent 'I ought to know,' with a reserve of regret at the
+extension of his intimacy with the particular vintage under that roof,
+was winked by Kilne.
+
+Lawyer Perkins touched the arm of a mourner about to be experimental on
+Kilne's port
+
+'I think we had better wait till young Mr. Harrington takes the table,
+don't you see?'
+
+'Yes,-ah!' croaked Goren.  'The head of the family, as the saying goes!'
+
+'I suppose we shan't go into business to-day?' Joyce carelessly observed.
+
+Lawyer Perkins answered:
+
+'No.  You can't expect it.  Mr. Harrington has led me to anticipate that
+he will appoint a day.  Don't you see?'
+
+'Oh!  I see,' returned Joyce.  'I ain't in such a hurry.  What's he
+doing?'
+
+Doubleday, whose propensities were waggish, suggested 'shaving,' but half
+ashamed of it, since the joke missed, fell to as if he were soaping his
+face, and had some trouble to contract his jaw.
+
+The delay in Evan's attendance on the guests of the house was caused by
+the fact that Mrs. Mel had lain in wait for him descending, to warn him
+that he must treat them with no supercilious civility, and to tell him
+partly the reason why.  On hearing the potential relations in which they
+stood toward the estate of his father, Evan hastily and with the
+assurance of a son of fortune, said they should be paid.
+
+'That's what they would like to hear,' said Mrs. Mel.  'You may just
+mention it when they're going to leave.  Say you will fix a day to meet
+them.'
+
+'Every farthing!' pursued Evan, on whom the tidings were beginning to
+operate.  'What!  debts?  my poor father!'
+
+'And a thumping sum, Van.  You will open your eyes wider.'
+
+'But it shall be paid, mother,--it shall be paid.  Debts?  I hate them.
+I'd slave night and day to pay them.'
+
+Mrs. Mel spoke in a more positive tense: 'And so will I, Van.  Now, go.'
+
+It mattered little to her what sort of effect on his demeanour her
+revelation produced, so long as the resolve she sought to bring him to
+was nailed in his mind; and she was a woman to knock and knock again,
+till it was firmly fixed there.  With a strong purpose, and no plans,
+there were few who could resist what, in her circle, she willed; not even
+a youth who would gaily have marched to the scaffold rather than stand
+behind a counter.  A purpose wedded to plans may easily suffer shipwreck;
+but an unfettered purpose that moulds circumstances as they arise,
+masters us, and is terrible.  Character melts to it, like metal in the
+steady furnace.  The projector of plots is but a miserable gambler and
+votary of chances.  Of a far higher quality is the will that can subdue
+itself to wait, and lay no petty traps for opportunity.  Poets may fable
+of such a will, that it makes the very heavens conform to it; or, I may
+add, what is almost equal thereto, one who would be a gentleman, to
+consent to be a tailor.  The only person who ever held in his course
+against Mrs. Mel, was Mel,--her husband; but, with him, she was under the
+physical fascination of her youth, and it never left her.  In her heart
+she barely blamed him.  What he did, she took among other inevitable
+matters.
+
+The door closed upon Evan, and waiting at the foot, of the stairs a
+minute to hear how he was received, Mrs. Mel went to the kitchen and
+called the name of Dandy, which brought out an ill-built, low-browed,
+small man, in a baggy suit of black, who hopped up to her with a surly
+salute.  Dandy was a bird Mrs. Mel had herself brought down, and she had
+for him something of a sportsman's regard for his victim.  Dandy was the
+cleaner of boots and runner of errands in the household of Melchisedec,
+having originally entered it on a dark night by the cellar.  Mrs. Mel,
+on that occasion, was sleeping in her dressing-gown, to be ready to give
+the gallant night-hawk, her husband, the service he might require on his
+return to the nest.  Hearing a suspicious noise below, she rose, and
+deliberately loaded a pair of horse-pistols, weapons Mel had worn in his
+holsters in the heroic days gone; and with these she stepped downstairs
+straight to the cellar, carrying a lantern at her girdle.  She could not
+only load, but present and fire.  Dandy was foremost in stating that she
+called him forth steadily, three times, before the pistol was discharged.
+He admitted that he was frightened, and incapable of speech, at the
+apparition of the tall, terrific woman.  After the third time of asking
+he had the ball lodged in his leg and fell.  Mrs. Mel was in the habit of
+bearing heavier weights than Dandy.  She made no ado about lugging him to
+a chamber, where, with her own hands (for this woman had some slight
+knowledge of surgery, and was great in herbs and drugs) she dressed his
+wound, and put him to bed; crying contempt (ever present in Dandy's
+memory) at such a poor creature undertaking the work of housebreaker.
+Taught that he really was a poor creature for the work, Dandy, his
+nursing over, begged to be allowed to stop and wait on Mrs. Mel; and she
+who had, like many strong natures, a share of pity for the objects she
+despised, did not cast him out.  A jerk in his gait, owing to the bit of
+lead Mrs. Mel had dropped into him, and a little, perhaps, to her self-
+satisfied essay in surgical science on his person, earned him the name he
+went by.
+
+When her neighbours remonstrated with her for housing a reprobate, Mrs.
+Mel would say: 'Dandy is well-fed and well-physicked: there's no harm in
+Dandy'; by which she may have meant that the food won his gratitude, and
+the physic reduced his humours.  She had observed human nature.  At any
+rate, Dandy was her creature; and the great Mel himself rallied her about
+her squire.
+
+'When were you drunk last?, was Mrs. Mel's address to Dandy, as he stood
+waiting for orders.
+
+He replied to it in an altogether injured way:
+
+'There, now; you've been and called me away from my dinner to ask me
+that.  Why, when I had the last chance, to be sure.'
+
+'And you were at dinner in your new black suit?'
+
+'Well,' growled Dandy, 'I borrowed Sally's apron.  Seems I can't please
+ye.'
+
+Mrs. Mel neither enjoined nor cared for outward forms of respect, where
+she was sure of complete subserviency.  If Dandy went beyond the limits,
+she gave him an extra dose.  Up to the limits he might talk as he
+pleased, in accordance with Mrs. Mel's maxim, that it was a necessary
+relief to all talking creatures.
+
+'Now, take off your apron,' she said, 'and wash your hands, dirty pig,
+and go and wait at table in there'; she pointed to the parlour-door:
+'Come straight to me when everybody has left.'
+
+'Well, there I am with the bottles again,' returned Dandy.  'It 's your
+fault this time, mind!  I'll come as straight as I can.'
+
+Dandy turned away to perform her bidding, and Mrs. Mel ascended to the
+drawing-room to sit with Mrs. Wishaw, who was, as she told all who chose
+to hear, an old flame of Mel's, and was besides, what Mrs. Mel thought
+more of, the wife of Mel's principal creditor, a wholesale dealer in
+cloth, resident in London.
+
+The conviviality of the mourners did not disturb the house.  Still, men
+who are not accustomed to see the colour of wine every day, will sit and
+enjoy it, even upon solemn occasions, and the longer they sit the more
+they forget the matter that has brought them together.  Pleading their
+wives and shops, however, they released Evan from his miserable office
+late in the afternoon.
+
+His mother came down to him,--and saying, 'I see how you did the journey
+--you walked it,' told him to follow her.
+
+'Yes, mother,' Evan yawned, 'I walked part of the way.  I met a fellow in
+a gig about ten miles out of Fallow field, and he gave me a lift to
+Flatsham.  I just reached Lymport in time, thank Heaven!  I wouldn't have
+missed that!  By the way, I've satisfied these men.'
+
+'Oh!' said Mrs. Mel.
+
+'They wanted--one or two of them--what a penance it is to have to sit
+among those people an hour!--they wanted to ask me about the business,
+but I silenced them.  I told them to meet me here this day week.'
+
+Mrs. Mel again said 'Oh!' and, pushing into one of the upper rooms,
+'Here's your bedroom, Van, just as you left it.'
+
+'Ah, so it is,' muttered Evan, eyeing a print.  'The Douglas and the
+Percy: "he took the dead man by the hand."  What an age it seems since I
+last saw that.  There's Sir Hugh Montgomery on horseback--he hasn't
+moved.  Don't you remember my father calling it the Battle of Tit-for-
+Tat?  Gallant Percy!  I know he wished he had lived in those days of
+knights and battles.'
+
+'It does not much signify whom one has to make clothes for,' observed
+Mrs. Mel.  Her son happily did not mark her.
+
+'I think we neither of us were made for the days of pence and pounds,' he
+continued.  'Now, mother, sit down, and talk to me about him.  Did he
+mention me?  Did he give me his blessing?  I hope he did not suffer.
+I'd have given anything to press his hand,' and looking wistfully at the
+Percy lifting the hand of Douglas dead, Evan's eyes filled with big
+tears.
+
+'He suffered very little,' returned Mrs. Mel, 'and his last words were
+about you.'
+
+'What were they?' Evan burst out.
+
+'I will tell you another time.  Now undress, and go to bed.  When I talk
+to you, Van, I want a cool head to listen.  You do nothing but yawn yard-
+measures.'
+
+The mouth of the weary youth instinctively snapped short the abhorred
+emblem.
+
+'Here, I will help you, Van.'
+
+In spite of his remonstrances and petitions for talk, she took off his
+coat and waistcoat, contemptuously criticizing the cloth of foreign
+tailors and their absurd cut.
+
+'Have you heard from Louisa?' asked Evan.
+
+'Yes, yes--about your sisters by-and-by.  Now, be good, and go to bed.'
+
+She still treated him like a boy, whom she was going to force to the
+resolution of a man.
+
+Dandy's sleeping-room was on the same floor as Evan's.  Thither, when she
+had quitted her son, she directed her steps.  She had heard Dandy tumble
+up-stairs the moment his duties were over, and knew what to expect when
+the bottles had been in his way; for drink made Dandy savage, and a
+terror to himself.  It was her command to him that, when he happened to
+come across liquor, he should immediately seek his bedroom and bolt the
+door, and Dandy had got the habit of obeying her.  On this occasion he
+was vindictive against her, seeing that she had delivered him over to his
+enemy with malice prepense.  A good deal of knocking, and summoning of
+Dandy by name, was required before she was admitted, and the sight of her
+did not delight him, as he testified.
+
+'I 'm drunk!' he bawled.  'Will that do for ye?'
+
+Mrs. Mel stood with her two hands crossed above her apron-string, noting
+his sullen lurking eye with the calm of a tamer of beasts.
+
+'You go out of the room; I'm drunk!' Dandy repeated, and pitched forward
+on the bed-post, in the middle of an oath.
+
+She understood that it was pure kindness on Dandy's part to bid her go
+and be out of his reach; and therefore, on his becoming so abusive as to
+be menacing, she, without a shade of anger, and in the most unruffled
+manner, administered to him the remedy she had reserved, in the shape of
+a smart box on the ear, which sent him flat to the floor.  He rose, after
+two or three efforts, quite subdued.
+
+'Now, Dandy, sit on the edge of the bed.'
+
+Dandy sat on the extreme edge, and Mrs. Mel pursued:
+
+'Now, Dandy, tell me what your master said at the table.'
+
+'Talked at 'em like a lord, he did,' said Dandy, stupidly consoling the
+boxed ear.
+
+'What were his words?'
+
+Dandy's peculiarity was, that he never remembered anything save when
+drunk, and Mrs. Mel's dose had rather sobered him.  By degrees,
+scratching at his head haltingly, he gave the context.
+
+"'Gentlemen, I hear for the first time, you've claims against my poor
+father.  Nobody shall ever say he died, and any man was the worse for it.
+I'll meet you next week, and I'll bind myself by law.  Here's Lawyer
+Perkins.  No; Mr. Perkins.  I'll pay off every penny.  Gentlemen, look
+upon me as your debtor, and not my father."'
+
+Delivering this with tolerable steadiness, Dandy asked, 'Will that do?'
+
+'That will do,' said Mrs. Mel.  'I'll send you up some tea presently.
+Lie down, Dandy.'
+
+The house was dark and silent when Evan, refreshed by his rest, descended
+to seek his mother.  She was sitting alone in the parlour.  With a
+tenderness which Mrs. Mel permitted rather than encouraged, Evan put his
+arm round her neck, and kissed her many times.  One of the symptoms of
+heavy sorrow, a longing for the signs of love, made Evan fondle his
+mother, and bend over her yearningly.  Mrs. Mel said once: 'Dear Van;
+good boy!' and quietly sat through his caresses.
+
+'Sitting up for me, mother?' he whispered.
+
+'Yes, Van; we may as well have our talk out.'
+
+'Ah!' he took a chair close by her side, 'tell me my father's last
+words.'
+
+'He said he hoped you would never be a tailor.'
+
+Evan's forehead wrinkled up.  'There's not much fear of that, then!'
+
+His mother turned her face on him, and examined him with a rigorous
+placidity; all her features seeming to bear down on him.  Evan did not
+like the look.
+
+'You object to trade, Van?'
+
+'Yes, decidedly, mother-hate it; but that's not what I want to talk to
+you about.  Didn't my father speak of me much?'
+
+'He desired that you should wear his militia sword, if you got a
+commission.'
+
+'I have rather given up hope of the Army,' said Evan.
+
+Mrs. Mel requested him to tell her what a colonel's full pay amounted to;
+and again, the number of years it required, on a rough calculation, to
+attain that grade.  In reply to his statement she observed: 'A tailor
+might realize twice the sum in a quarter of the time.'
+
+'What if he does-double, or treble?' cried Evan, impetuously; and to
+avoid the theme, and cast off the bad impression it produced on him, he
+rubbed his hands, and said: 'I want to talk to you about my prospects,
+mother.'
+
+'What are they?' Mrs. Mel inquired.
+
+The severity of her mien and sceptical coldness of her speech caused him
+to inspect them suddenly, as if she had lent him her eyes.  He put them
+by, till the gold should recover its natural shine, saying: 'By the way,
+mother, I 've written the half of a History of Portugal.'
+
+'Have you?' said Mrs. Mel.  'For Louisa?'
+
+'No, mother, of course not: to sell it.  Albuquerque!  what a splendid
+fellow he was!'
+
+Informing him that he knew she abominated foreign names, she said: 'And
+your prospects are, writing Histories of Portugal?'
+
+'No, mother.  I was going to tell you, I expect a Government appointment.
+Mr. Jocelyn likes my work--I think he likes me.  You know, I was his
+private secretary for ten months.'
+
+'You write a good hand,' his mother interposed.
+
+'And I'm certain I was born for diplomacy.'
+
+'For an easy chair, and an ink-dish before you, and lacqueys behind.
+What's to be your income, Van?'
+
+Evan carelessly remarked that he must wait and see.
+
+'A very proper thing to do,' said Mrs. Mel; for now that she had fixed
+him to some explanation of his prospects, she could condescend in her
+stiff way to banter.
+
+Slightly touched by it, Evan pursued, half laughing, as men do who wish
+to propitiate common sense on behalf of what seems tolerably absurd:
+'It 's not the immediate income, you know, mother: one thinks of one's
+future.  In the diplomatic service, as Louisa says, you come to be known
+to Ministers gradually, I mean.  That is, they hear of you; and if you
+show you have some capacity--Louisa wants me to throw it up in time,
+and stand for Parliament.  Andrew, she thinks, would be glad to help me
+to his seat.  Once in Parliament, and known to Ministers, you--your
+career is open to you.'
+
+In justice to Mr. Evan Harrington, it must be said, he built up this
+extraordinary card-castle to dazzle his mother's mind: he had lost his
+right grasp of her character for the moment, because of an undefined
+suspicion of something she intended, and which sent him himself to take
+refuge in those flimsy structures; while the very altitude he reached
+beguiled his imagination, and made him hope to impress hers.
+
+Mrs. Mel dealt it one fillip.  'And in the meantime how are you to live,
+and pay the creditors?'
+
+Though Evan answered cheerfully, 'Oh, they will wait, and I can live on
+anything,' he was nevertheless floundering on the ground amid the ruins
+of the superb edifice; and his mother, upright and rigid, continuing,
+'You can live on anything, and they will wait, and call your father a
+rogue,' he started, grievously bitten by one of the serpents of earth.
+
+'Good heaven, mother!  what are you saying?'
+
+'That they will call your father a rogue, and will have a right to,' said
+the relentless woman.
+
+'Not while I live!' Evan exclaimed.
+
+'You may stop one mouth with your fist, but you won't stop a dozen, Van.'
+
+Evan jumped up and walked the room.
+
+'What am I to do?' he cried.  'I will pay everything.  I will bind myself
+to pay every farthing.  What more can I possibly do?'
+
+'Make the money,' said Mrs. Mel's deep voice.
+
+Evan faced her: 'My dear mother, you are very unjust and inconsiderate.
+I have been working and doing my best.  I promise---- what do the debts
+amount to?'
+
+'Something like L5000 in all, Van.'
+
+'Very well.'  Youth is not alarmed by the sound of big sums.  'Very well
+--I will pay it.'
+
+Evan looked as proud as if he had just clapped down the full amount on
+the table.
+
+'Out of the History of Portugal, half written, and the prospect of a
+Government appointment?'
+
+Mrs. Mel raised her eyelids to him.
+
+'In time-in time, mother!'
+
+'Mention your proposal to the creditors when you meet them this day
+week,' she said.
+
+Neither of them spoke for several minutes.  Then Evan came close to her,
+saying:
+
+'What is it you want of me, mother?'
+
+'I want nothing, Van--I can support myself.'
+
+'But what would you have me do, mother?'
+
+'Be honest; do your duty, and don't be a fool about it.'
+
+'I will try,' he rejoined.  'You tell me to make the money.  Where and
+how can I make it?  I am perfectly willing to work.'
+
+'In this house,' said Mrs. Mel; and, as this was pretty clear speaking,
+she stood up to lend her figure to it.
+
+'Here?' faltered Evan.  'What!  be a ----'
+
+'Tailor!' The word did not sting her tongue.
+
+'I?  Oh, that's quite impossible!' said Evan.  And visions of leprosy,
+and Rose shrinking her skirts from contact with him, shadowed out and
+away in his mind.
+
+'Understand your choice!'  Mrs. Mel imperiously spoke.  'What are brains
+given you for?  To be played the fool with by idiots and women?  You have
+L5000 to pay to save your father from being called a rogue.  You can only
+make the money in one way, which is open to you.  This business might
+produce a thousand pounds a-year and more.  In seven or eight years you
+may clear your father's name, and live better all the time than many of
+your bankrupt gentlemen.  You have told the creditors you will pay them.
+Do you think they're gaping fools, to be satisfied by a History of
+Portugal?  If you refuse to take the business at once, they will sell me
+up, and quite right too.  Understand your choice.  There's Mr. Goren has
+promised to have you in London a couple of months, and teach you what he
+can.  He is a kind friend.  Would any of your gentlemen acquaintance do
+the like for you?  Understand your choice.  You will be a beggar--the son
+of a rogue--or an honest man who has cleared his father's name!'
+
+During this strenuously uttered allocution, Mrs. Mel, though her chest
+heaved but faintly against her crossed hands, showed by the dilatation of
+her eyes, and the light in them, that she felt her words.  There is that
+in the aspect of a fine frame breathing hard facts, which, to a youth who
+has been tumbled headlong from his card-castles and airy fabrics, is
+masterful, and like the pressure of a Fate.  Evan drooped his head.
+
+'Now,' said Mrs. Mel, 'you shall have some supper.'
+
+Evan told her he could not eat.
+
+'I insist upon your eating,' said Mrs. Mel; 'empty stomachs are foul
+counsellors.'
+
+'Mother!  do you want to drive me mad?' cried Evan.
+
+She looked at him to see whether the string she held him by would bear
+the slight additional strain: decided not to press a small point.
+
+'Then go to bed and sleep on it,' she said--sure of him--and gave her
+cheek for his kiss, for she never performed the operation, but kept her
+mouth, as she remarked, for food and speech, and not for slobbering
+mummeries.
+
+Evan returned to his solitary room.  He sat on the bed and tried to
+think, oppressed by horrible sensations of self-contempt, that caused
+whatever he touched to sicken him.
+
+There were the Douglas and the Percy on the wall.  It was a happy and a
+glorious time, was it not, when men lent each other blows that killed
+outright; when to be brave and cherish noble feelings brought honour;
+when strength of arm and steadiness of heart won fortune; when the fair
+stars of earth--sweet women--wakened and warmed the love of squires of
+low degree.  This legacy of the dead man's hand!  Evan would have paid it
+with his blood; but to be in bondage all his days to it; through it to
+lose all that was dear to him; to wear the length of a loathed
+existence!--we should pardon a young man's wretchedness at the prospect,
+for it was in a time before our joyful era of universal equality.  Yet he
+never cast a shade of blame upon his father.
+
+The hours moved on, and he found himself staring at his small candle,
+which struggled more and more faintly with the morning light, like his
+own flickering ambition against the facts of life.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+A man who rejected medicine in extremity
+A share of pity for the objects she despised
+A sixpence kindly meant is worth any crown-piece that's grudged
+A youth who is engaged in the occupation of eating his heart
+Accustomed to be paid for by his country
+British hunger for news; second only to that for beef
+Brotherhood among the select who wear masks instead of faces
+By forbearance, put it in the wrong
+Cheerful martyr
+Common voice of praise in the mouths of his creditors
+Embarrassments of an uncongenial employment
+Empty stomachs are foul counsellors
+Equally acceptable salted when it cannot be had fresh
+Far higher quality is the will that can subdue itself to wait
+Few feelings are single on this globe
+Gentlefolks like straight-forwardness in their inferiors
+He squandered the guineas, she patiently picked up the pence
+His wife alone, had, as they termed it, kept him together
+I'll come as straight as I can
+Informed him that he never played jokes with money, or on men
+It was in a time before our joyful era of universal equality
+It's no use trying to be a gentleman if you can't pay for it
+Lay no petty traps for opportunity
+Looked as proud as if he had just clapped down the full amount
+Man without a penny in his pocket, and a gizzard full of pride
+Men they regard as their natural prey
+Most youths are like Pope's women; they have no character
+Occasional instalments--just to freshen the account
+Oh!  I can't bear that class of people
+Partake of a morning draught
+Patronizing woman
+Propitiate common sense on behalf of what seems tolerably absurd
+Rare as epic song is the man who is thorough in what he does
+Requiring natural services from her in the button department
+Said she was what she would have given her hand not to be
+She was at liberty to weep if she pleased
+She, not disinclined to dilute her grief
+Speech that has to be hauled from the depths usually betrays
+Such a man was banned by the world, which was to be despised?
+Tenderness which Mrs. Mel permitted rather than encouraged
+To be both generally blamed, and generally liked
+To let people speak was a maxim of Mrs. Mel's, and a wise one
+Toyed with little flowers of palest memory
+Tradesman, and he never was known to have sent in a bill
+True enjoyment of the princely disposition
+What he did, she took among other inevitable matters
+Whose bounty was worse to him than his abuse
+With a proud humility
+You rides when you can, and you walks when you must
+Youth is not alarmed by the sound of big sums
+
+
+
+
+End of this Project Gutenberg Etext of Evan Harrington, v1
+by George Meredith
+

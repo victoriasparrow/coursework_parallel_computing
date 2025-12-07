@@ -5,18 +5,18 @@
 #include <string_view>
 
 namespace constants {
-    inline constexpr int threadsNumber{4};
+    inline constexpr int threadsNumber{8};
     inline constexpr int locks{256};
     inline std::string initializeStopWords() {
-        std::filesystem::path stopWordsFile = "../corpus/stopWords.txt";
+        std::filesystem::path stopWordsFile = "../minicorpus/stopWords.txt";
         if (std::filesystem::exists(stopWordsFile)) {
             return stopWordsFile.string();
         }
         return{};
     }
     inline const std::string stopWordsFile = initializeStopWords();
-    inline const std::filesystem::path corpusPath = "../corpus/";
-    //inline const std::filesystem::path corpusPath = "../gutenbergfineweb/";
+    // inline const std::filesystem::path corpusPath = "../corpus/";
+    inline const std::filesystem::path corpusPath = "../minicorpus/";
     constexpr std::size_t kMaxWordLength = 40;
     constexpr std::size_t kMaxLines = 5;
     constexpr std::string_view delims = " \t\n\r\v\f1234567890_/!.,@#$%^&*();:?{}<>|`~[]+=\"\\-'";

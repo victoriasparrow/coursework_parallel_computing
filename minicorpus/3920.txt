@@ -1,0 +1,3255 @@
+The Project Gutenberg Etext of The Red Lily, by Anatole France, v2
+#7 in our series The French Immortals Crowned by the French Academy
+#5 in our series by Anatole France
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: The Red Lily, v2
+
+Author: Anatole France
+
+Release Date: April, 2003  [Etext #3920]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 08/26/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of The Red Lily, v2, by Anatole France
+*******This file should be named 3920.txt or 3920.zip*******
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07/27/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+THE RED LILY
+
+By ANATOLE FRANCE
+
+
+
+
+BOOK 2.
+
+
+CHAPTER X
+
+DECHARTRE ARRIVES IN FLORENCE
+
+They had dressed for dinner.  In the drawing-room Miss Bell was sketching
+monsters in imitation of Leonard.  She created them, to know what they
+would say afterward, sure that they would speak and express rare ideas in
+odd rhythms, and that she would listen to them.  It was in this way that
+she often found her inspiration.
+
+Prince Albertinelli strummed on the piano the Sicilian 'O Lola'!  His
+soft fingers hardly touched the keys.
+
+Choulette, even harsher than was his habit, asked for thread and needles
+that he might mend his clothes.  He grumbled because he had lost a
+needle-case which he had carried for thirty years in his pocket, and
+which was dear to him for the sweetness of the reminiscences and the
+strength of the good advice that he had received from it.  He thought he
+had lost it in the hall devoted to historic subjects in the Pitti Palace;
+and he blamed for this loss the Medicis and all the Italian painters.
+
+Looking at Miss Bell with an evil eye, he said:
+
+"I compose verses while mending my clothes.  I like to work with my
+hands.  I sing songs to myself while sweeping my room; that is the reason
+why my songs have gone to the hearts of men, like the old songs of the
+farmers and artisans, which are even more beautiful than mine, but not
+more natural.  I have pride enough not to want any other servant than
+myself.  The sacristan's widow offered to repair my clothes.  I would not
+permit her to do it.  It is wrong to make others do servilely for us work
+which we can do ourselves with noble pride."
+
+The Prince was nonchalantly playing his nonchalant music.  Therese, who
+for eight days had been running to churches and museums in the company of
+Madame Marmet, was thinking of the annoyance which her companion caused
+her by discovering in the faces of the old painters resemblances to
+persons she knew.  In the morning, at the Ricardi Palace, on the frescoes
+of Gozzoli, she had recognized M. Gamin, M. Lagrange, M. Schmoll, the
+Princess Seniavine as a page, and M. Renan on horseback.  She was
+terrified at finding M. Renan everywhere.  She led all her ideas back to
+her little circle of academicians and fashionable people, by an easy
+turn, which irritated her friend.  She recalled in her soft voice the
+public meetings at the Institute, the lectures at the Sorbonne, the
+evening receptions where shone the worldly and the spiritualist
+philosophers.  As for the women, they were all charming and
+irreproachable.  She dined with all of them.  And Therese thought: "She
+is too prudent.  She bores me."  And she thought of leaving her at
+Fiesole and visiting the churches alone.  Employing a word that Le Menil
+had taught her, she said to herself:
+
+"I will 'plant' Madame Marmet."
+
+A lithe old man came into the parlor.  His waxed moustache and his white
+imperial made him look like an old soldier; but his glance betrayed,
+under his glasses, the fine softness of eyes worn by science and
+voluptuousness.  He was a Florentine, a friend of Miss Bell and of the
+Prince, Professor Arrighi, formerly adored by women, and now celebrated
+in Tuscany for his studies of agriculture. He pleased the Countess Martin
+at once.  She questioned him on his methods, and on the results he
+obtained from them. He said that he worked with prudent energy. "The
+earth," he said, "is like women.  The earth does not wish one to treat it
+with either timidity or brutality."  The Ave Maria rang in all the
+campaniles, seeming to make of the sky an immense instrument of religious
+music.  "Darling," said Miss Bell, "do you observe that the air of
+Florence is made sonorous and silvery at night by the sound of the
+bells?"
+
+"It is singular," said Choulette, "we have the air of people who are
+waiting for something."
+
+Vivian Bell replied that they were waiting for M. Dechartre.  He was a
+little late; she feared he had missed the train.
+
+Choulette approached Madame Marmet, and said, gravely "Madame Marmet, is
+it possible for you to look at a door--a simple, painted, wooden door
+like yours, I suppose, or like mine, or like this one, or like any other
+--without being terror-stricken at the thought of the visitor who might,
+at any moment, come in?  The door of one's room, Madame Marmet, opens on
+the infinite.  Have you ever thought of that?  Does one ever know the
+true name of the man or woman, who, under a human guise, with a known
+face, in ordinary clothes, comes into one's house?"
+
+He added that when he was closeted in his room he could not look at the
+door without feeling his hair stand on end. But Madame Marmet saw the
+doors of her rooms open without fear.  She knew the name of every one who
+came to see her--charming persons.
+
+Choulette looked at her sadly, and said, shaking his head: "Madame
+Marmet, those whom you call by their terrestrial names have other names
+which you do not know, and which are their real names."
+
+Madame Martin asked Choulette if he thought that misfortune needed to
+cross the threshold in order to enter one's life.
+
+"Misfortune is ingenious and subtle.  It comes by the window, it goes
+through walls.  It does not always show itself, but it is always there.
+The poor doors are innocent of the coming of that unwelcome visitor."
+
+Choulette warned Madame Martin severely that she should not call
+misfortune an unwelcome visitor.
+
+"Misfortune is our greatest master and our best friend.  Misfortune
+teaches us the meaning of life. Madame, when you suffer, you know what
+you must know; you believe what you must believe; you do what you must
+do; you are what you must be.  And you shall have joy, which pleasure
+expels.  True joy is timid, and does not find pleasure among a multitude."
+
+Prince Albertinelli said that Miss Bell and her French friends did not
+need to be unfortunate in order to be perfect, and that the doctrine of
+perfection reached by suffering was a barbarous cruelty, held in horror
+under the beautiful sky of Italy.  When the conversation languished, he
+prudently sought again at the piano the phrases of the graceful and banal
+Sicilian air, fearing to slip into an air of Trovatore, which was written
+in the same manner.
+
+Vivian Bell questioned the monsters she had created, and complained of
+their absurd replies.
+
+"At this moment," she said, "I should like to hear speak only figures on
+tapestries which should say tender things, ancient and precious as
+themselves."
+
+And the handsome Prince, carried away by the flood of melody, sang.  His
+voice displayed itself like a peacock's plumage, and died in spasms of
+"ohs" and "ahs."
+
+The good Madame Marmet, her eyes fixed on the door, said:
+
+"I think that Monsieur Dechartre is coming."
+
+He came in, animated, with joy on his usually grave face.
+
+Miss Bell welcomed him with birdlike cries.
+
+"Monsieur Dechartre, we were impatient to see you.  Monsieur Choulette
+was talking evil of doors--yes, of doors of houses; and he was saying
+also that misfortune is a very obliging old gentleman.  You have lost all
+these beautiful things.  You have made us wait very long, Monsieur
+Dechartre.  Why?"
+
+He apologized; he had taken only the time to go to his hotel and change
+his dress.  He had not even gone to bow to his old friend the bronze San
+Marco, so imposing in his niche on the San Michele wall.  He praised the
+poetess and saluted the Countess Martin with joy hardly concealed.
+
+"Before quitting Paris I went to your house, where I was told you had
+gone to wait for spring at Fiesole, with Miss Bell.  I then had the hope
+of finding you in this country, which I love now more than ever."
+
+She asked him whether he had gone to Venice, and whether he had seen
+again at Ravenna the empresses wearing aureolas, and the phantoms that
+had formerly dazzled him.
+
+No, he had not stopped anywhere.
+
+She said nothing.  Her eyes remained fixed on the corner of the wall, on
+the St. Paulin bell.
+
+He said to her:
+
+"You are looking at the Nolette."
+
+Vivian Bell laid aside her papers and her pencils.
+
+"You shall soon see a marvel, Monsieur Dechartre.  I have found the queen
+of small bells.  I found it at Rimini, in an old building in ruins, which
+is used as a warehouse.  I bought it and packed it myself.  I am waiting
+for it.  You shall see.  It bears a Christ on a cross, between the Virgin
+and Saint John, the date of 1400, and the arms of Malatesta--Monsieur
+Dechartre, you are not listening enough.  Listen to me attentively.  In
+1400 Lorenzo Ghiberti, fleeing from war and the plague, took refuge at
+Rimini, at Paola Malatesta's house.  It was he that modelled the figures
+of my bell.  And you shall see here, next week, Ghiberti's work."
+
+The servant announced that dinner was served.
+
+Miss Bell apologized for serving to them Italian dishes.  Her cook was a
+poet of Fiesole.
+
+At table, before the fiascani enveloped with corn straw, they talked of
+the fifteenth century, which they loved.  Prince Albertinelli praised the
+artists of that epoch for their universality, for the fervent love they
+gave to their art, and for the genius that devoured them.  He talked with
+emphasis, in a caressing voice.
+
+Dechartre admired them.  But he admired them in another way.
+
+"To praise in a becoming manner," he said, "those men, who worked so
+heartily, the praise should be modest and just.  They should be placed in
+their workshops, in the shops where they worked as artisans.  It is there
+that one may admire their simplicity and their genius.  They were
+ignorant and rude.  They had read little and seen little.  The hills that
+surround Florence were the boundary of their horizon.  They knew only
+their city, the Holy Scriptures, and some fragments of antique
+sculptures, studied and caressed lovingly."
+
+"You are right," said Professor Arrighi.  "They had no other care than to
+use the best processes.  Their minds bent only on preparing varnish and
+mixing colors.  The one who first thought of pasting a canvas on a panel,
+in order that the painting should not be broken when the wood was split,
+passed for a marvellous man.  Every master had his secret formulae."
+
+"Happy time," said Dechartre, "when nobody troubled himself about that
+originality for which we are so avidly seeking to-day.  The apprentice
+tried to work like the master.  He had no other ambition than to resemble
+him, and it was without trying to be that he was different from the
+others.  They worked not for glory, but to live."
+
+"They were right," said Choulette.  "Nothing is better than to work for a
+living."
+
+"The desire to attain fame," continued Dechartre, "did not trouble them.
+As they did not know the past, they did not conceive the future; and
+their dream did not go beyond their lives.  They exercised a powerful
+will in working well.  Being simple, they made few mistakes, and saw the
+truth which our intelligence conceals from us."
+
+Choulette began to relate to Madame Marmet the incidents of a call he had
+made during the day on the Princess of the House of France to whom the
+Marquise de Rieu had given him a letter of introduction.  He liked to
+impress upon people the fact that he, the Bohemian and vagabond, had been
+received by that royal Princess, at whose house neither Miss Bell nor the
+Countess Martin would have been admitted, and whom Prince Albertinelli
+prided himself on having met one day at some ceremony.
+
+"She devotes herself," said the Prince, "to the practices of piety."
+
+"She is admirable for her nobility, and her simplicity," said Choulette.
+"In her house, surrounded by her gentlemen and her ladies, she causes the
+most rigorous etiquette to be observed, so that her grandeur is almost a
+penance, and every morning she scrubs the pavement of the church.  It is
+a village church, where the chickens roam, while the 'cure' plays
+briscola with the sacristan."
+
+And Choulette, bending over the table, imitated, with his napkin, a
+servant scrubbing; then, raising his head, he said, gravely:
+
+"After waiting in consecutive anterooms, I was at last permitted to kiss
+her hand."
+
+And he stopped.
+
+Madame Martin asked, impatiently:
+
+"What did she say to you, that Princess so admirable for her nobility and
+her simplicity?"
+
+"She said to me: 'Have you visited Florence?  I am told that recently new
+and handsome shops have been opened which are lighted at night.'
+She said also 'We have a good chemist here.  The Austrian chemists are
+not better.  He placed on my leg, six months ago, a porous plaster which
+has not yet come off.'  Such are the words that Maria Therese deigned to
+address to me.  O simple grandeur!  O Christian virtue!  O daughter of
+Saint Louis!  O marvellous echo of your voice, holy Elizabeth of
+Hungary!"
+
+Madame Martin smiled.  She thought that Choulette was mocking.  But he
+denied the charge, indignantly, and Miss Bell said that Madame Martin was
+wrong.  It was a fault of the French, she said, to think that people were
+always jesting.
+
+Then they reverted to the subject of art, which in that country is
+inhaled with the air.
+
+"As for me," said the Countess Martin, "I am not learned enough to admire
+Giotto and his school.  What strikes me is the sensuality of that art of
+the fifteenth century which is said to be Christian.  I have seen piety
+and purity only in the images of Fra Angelico, although they are very
+pretty.  The rest, those figures of Virgins and angels, are voluptuous,
+caressing, and at times perversely ingenuous.  What is there religious in
+those young Magian kings, handsome as women; in that Saint Sebastian,
+brilliant with youth, who seems merely the dolorous Bacchus of
+Christianity?"
+
+Dechartre replied that he thought as she did, and that they must be
+right, she and he; since Savonarola was of the same opinion, and, finding
+no piety in any work of art, wished to burn them all.
+
+"There were at Florence, in the time of the superb Manfred, who was half
+a Mussulman, men who were said to be of the sect of Epicurus, and who
+sought for arguments against the existence of God.  Guido Cavalcanti
+disdained the ignorant folk who believed in the immortality of the soul.
+The following phrase by him was quoted: 'The death of man is exactly
+similar to that of brutes.'  Later, when antique beauty was excavated
+from ruins, the Christian style of art seemed sad.  The painters that
+worked in the churches and cloisters were neither devout nor chaste.
+Perugino was an atheist, and did not conceal it."
+
+"Yes," said Miss Bell; "but it was said that his head was hard, and that
+celestial truths, could not penetrate his thick cranium.  He was harsh
+and avaricious, and quite embedded in material interests.  He thought
+only of buying houses."
+
+Professor Arrighi defended Pietro Vanucci of Perugia.
+
+"He was," he said, "an honest man.  And the prior of the Gesuati of
+Florence was wrong to mistrust him.  That monk practised the art of
+manufacturing ultramarine blue by crushing stones of burned lapis-lazuli.
+Ultramarine was then worth its weight in gold; and the prior, who
+doubtless had a secret, esteemed it more precious than rubies or
+sapphires.  He asked Pietro Vanucci to decorate the two cloisters of his
+convent, and he expected marvels, less from the skilfulness of the master
+than from the beauty of that ultramarine in the skies.  During all the
+time that the painter worked in the cloisters at the history of Jesus
+Christ, the prior kept by his side and presented to him the precious
+powder in a bag which he never quitted.  Pietro took from it, under the
+saintly man's eyes, the quantity he needed, and dipped his brush, loaded
+with color, in a cupful of water, before rubbing the wall with it.  He
+used in that manner a great quantity of the powder.  And the good father,
+seeing his bag getting thinner, sighed: 'Jesus!  How that lime devours
+the ultramarine!'  When the frescoes were finished, and Perugino had
+received from the monk the agreed price, he placed in his hand a package
+of blue powder: 'This is for you, father.  Your ultramarine which I took
+with my brush fell to the bottom of my cup, whence I gathered it every
+day.  I return it to you.  Learn to trust honest people."
+
+"Oh," said Therese, "there is nothing extraordinary in the fact that
+Perugino was avaricious yet honest.  Interested people are not always the
+least scrupulous.  There are many misers who are honest."
+
+"Naturally, darling," said Miss Bell.  "Misers do not wish to owe
+anything, and prodigal people can bear to have debts.  They do not think
+of the money they have, and they think less of the money they owe.
+I did not say that Pietro Vanucci of Perugia was a man without property.
+I said that he had a hard business head and that he bought houses.  I am
+very glad to hear that he returned the ultramarine to the prior of the
+Gesuati."
+
+"Since your Pietro was rich," said Choulette, "it was his duty to return
+the ultramarine.  The rich are morally bound to be honest; the poor are
+not."
+
+At this moment, Choulette, to whom the waiter was presenting a silver
+bowl, extended his hands for the perfumed water.  It came from a vase
+which Miss Bell passed to her guests, in accordance with antique usage,
+after meals.
+
+"I wash my hands," he said, "of the evil that Madame Martin does or may
+do by her speech, or otherwise."
+
+And he rose, awkwardly, after Miss Bell, who took the arm of Professor
+Arrighi.
+
+In the drawing-room she said, while serving the coffee:
+
+"Monsieur Choulette, why do you condemn us to the savage sadness of
+equality?  Why, Daphnis's flute would not be melodious if it were made of
+seven equal reeds.  You wish to destroy the beautiful harmonies between
+masters and servants, aristocrats and artisans.  Oh, I fear you are a sad
+barbarian, Monsieur Choulette.  You are full of pity for those who are in
+need, and you have no pity for divine beauty, which you exile from this
+world.  You expel beauty, Monsieur Choulette; you repudiate her, nude and
+in tears.  Be certain of this: she will not remain on earth when the poor
+little men shall all be weak, delicate, and ignorant.  Believe me, to
+abolish the ingenious grouping which men of diverse conditions form in
+society, the humble with the magnificent, is to be the enemy of the poor
+and of the rich, is to be the enemy of the human race."
+
+"Enemies of the human race!"  replied Choulette, while stirring his
+coffee.  "That is the phrase the harsh Roman applied to the Christians
+who talked of divine love to him."
+
+Dechartre, seated near Madame Martin, questioned her on her tastes about
+art and beauty, sustained, led, animated her admirations, at times
+prompted her with caressing brusquerie, wished her to see all that he had
+seen, to love all that he loved.
+
+He wished that she should go in the gardens at the first flush of spring.
+He contemplated her in advance on the noble terraces; he saw already the
+light playing on her neck and in her hair; the shadow of laurel-trees
+falling on her eyes.  For him the land and the sky of Florence had
+nothing more to do than to serve as an adornment to this young woman.
+
+He praised the simplicity with which she dressed, the characteristics of
+her form and of her grace, the charming frankness of the lines which
+every one of her movements created.  He liked, he said, the animated and
+living, subtle, and free gowns which one sees so rarely, which one never
+forgets.
+
+Although she had been much lauded, she had never heard praise which had
+pleased her more.  She knew she dressed well, with bold and sure taste.
+But no man except her father had made to her on the subject the
+compliments of an expert.  She thought that men were capable of feeling
+only the effect of a gown, without understanding the ingenious details of
+it.  Some men who knew gowns disgusted her by their effeminate air.  She
+was resigned to the appreciation of women only, and these had in their
+appreciation narrowness of mind, malignity, and envy.  The artistic
+admiration of Dechartre astonished and pleased her.  She received
+agreeably the praise he gave her, without thinking that perhaps it was
+too intimate and almost indiscreet.
+
+"So you look at gowns, Monsieur Dechartre?"
+
+No, he seldom looked at them.  There were so few women well dressed,
+even now, when women dress as well as, and even better, than ever.
+He found no pleasure in seeing packages of dry-goods walk.  But if a
+woman having rhythm and line passed before him, he blessed her.
+
+He continued, in a tone a little more elevated:
+
+"I can not think of a woman who takes care to deck herself every day,
+without meditating on the great lesson which she gives to artists.
+She dresses for a few hours, and the care she has taken is not lost.
+We must, like her, ornament life without thinking of the future.
+To paint, carve, or write for posterity is only the silliness of
+conceit."
+
+"Monsieur Dechartre," asked Prince Albertinelli, "how do you think a
+mauve waist studded with silver flowers would become Miss Bell?"
+
+"I think," said Choulette, "so little of a terrestrial future, that I
+have written my finest poems on cigarette paper.  They vanished easily,
+leaving to my verses only a sort of metaphysical existence."
+
+He had an air of negligence for which he posed.  In fact, he had never
+lost a line of his writing.  Dechartre was more sincere.  He was not
+desirous of immortality.  Miss Bell reproached him for this.
+
+"Monsieur Dechartre, that life may be great and complete, one must put
+into it the past and the future.  Our works of poetry and of art must be
+accomplished in honor of the dead and with the thought of those who are
+to come after us.  Thus we shall participate in what has been, in what
+is, and in what shall be.  You do not wish to be immortal, Monsieur
+Dechartre?  Beware, for God may hear you."
+
+Dechartre replied:
+
+"It would be enough for me to live one moment more."
+
+And he said good-night, promising to return the next day to escort Madame
+Martin to the Brancacci chapel.
+
+An hour later, in the aesthetic room hung with tapestry, whereon citron-
+trees loaded with golden fruit formed a fairy forest, Therese, her head
+on the pillow, and her handsome bare arms folded under her head, was
+thinking, seeing float confusedly before her the images of her new life:
+Vivian Bell and her bells, her pre-Raphaelite figures, light as shadows,
+ladies, isolated knights, indifferent among pious scenes, a little sad,
+and looking to see who was coming; she thought also of the Prince
+Albertinelli, Professor Arrighi, Choulette, with his odd play of ideas,
+and Dechartre, with youthful eyes in a careworn face.
+
+She thought he had a charming imagination, a mind richer than all those
+that had been revealed to her, and an attraction which she no longer
+tried to resist.  She had always recognized his gift to please.  She
+discovered now that he had the will to please.  This idea was delightful
+to her; she closed her eyes to retain it.  Then, suddenly, she shuddered.
+She had felt a deep blow struck within her in the depth of her being.
+She had a sudden vision of Robert, his gun under his arm, in the woods.
+He walked with firm and regular step in the shadowy thicket.  She could
+not see his face, and that troubled her.  She bore him no ill-will.
+She was not discontented with him, but with herself.  Robert went
+straight on, without turning his head, far, and still farther, until he
+was only a black point in the desolate wood.  She thought that perhaps
+she had been capricious and harsh in leaving him without a word of
+farewell, without even a letter.  He was her lover and her only friend.
+She never had had another.  "I do not wish him to be unfortunate because
+of me," she thought.
+
+Little by little she was reassured.  He loved her, doubtless; but he was
+not susceptible, not ingenious, happily, in tormenting himself.  She said
+to herself:
+
+"He is hunting and enjoying the sport.  He is with his aunt, whom he
+admires."  She calmed her fears and returned to the charming gayety of
+Florence.  She had seen casually, at the Offices, a picture that
+Dechartre liked.  It was a decapitated head of the Medusa, a work wherein
+Leonardo, the sculptor said, had expressed the minute profundity and
+tragic refinement of his genius.  She wished to see it again, regretting
+that she had not seen it better at first.  She extinguished her lamp and
+went to sleep.
+
+She dreamed that she met in a deserted church Robert Le Menil enveloped
+in furs which she had never seen him wear.  He was waiting for her, but a
+crowd of priests had separated them.  She did not know what had become of
+him.  She had not seen his face, and that frightened her.  She awoke and
+heard at the open window a sad, monotonous cry, and saw a humming-bird
+darting about in the light of early dawn.  Then, without cause, she began
+to weep in a passion of self-pity, and with the abandon of a child.
+
+
+
+
+CHAPTER XI
+
+"THE DAWN OF FAITH AND LOVE"
+
+She took pleasure in dressing early, with delicate and subtle taste.
+Her dressing-room, an aesthetic fantasy of Vivian Bell, with its coarsely
+varnished pottery, its tall copper pitchers, and its faience pavement,
+like a chess-board, resembled a fairy's kitchen.  It was rustic and
+marvellous, and the Countess Martin could have in it the agreeable
+surprise of mistaking herself for a fairy.  While her maid was dressing
+her hair, she heard Dechartre and Choulette talking under her windows.
+She rearranged all the work Pauline had done, and uncovered the line of
+her nape, which was fine and pure.  She looked at herself in the glass,
+and went into the garden.
+
+Dechartre was there, reciting verses of Dante, and looking at Florence:
+"At the hour when our mind, a greater stranger to the flesh.  .  ."
+
+Near him, Choulette, seated on the balustrade of the terrace, his legs
+hanging, and his nose in his beard, was still at work on the figure of
+Misery on his stick.
+
+Dechartre resumed the rhymes of the canticle: "At the hour when our mind,
+a greater stranger to the flesh; and less under the obsession of
+thoughts, is almost divine in its visions, .  .  .  ."
+
+She approached beside the boxwood hedge, holding a parasol and dressed in
+a straw-colored gown.  The faint sunlight of winter enveloped her in pale
+gold.
+
+Dechartre greeted her joyfully.
+
+She said:
+
+"You are reciting verses that I do not know.  I know only Metastasio.
+My teacher liked only Metastasio.  What is the hour when the mind has
+divine visions?"
+
+"Madame, that hour is the dawn of the day.  It may be also the dawn of
+faith and of love."
+
+Choulette doubted that the poet meant dreams of the morning, which leave
+at awakening vivid and painful impressions, and which are not altogether
+strangers to the flesh.  But Dechartre had quoted these verses in the
+pleasure of the glorious dawn which he had seen that morning on the
+golden hills.  He had been, for a long time, troubled about the images
+that one sees in sleep, and he believed that these images were not
+related to the object that preoccupies one the most, but, on the
+contrary, to ideas abandoned during the day.
+
+Therese recalled her morning dream, the hunter lost in the thicket.
+
+"Yes," said Dechartre, "the things we see at night are unfortunate
+remains of what we have neglected the day before.  Dreams avenge things
+one has disdained.  They are reproaches of abandoned friends.  Hence
+their sadness."
+
+She was lost in dreams for a moment, then she said:
+
+"That is perhaps true."
+
+Then, quickly, she asked Choulette if he had finished the portrait of
+Misery on his stick.  Misery had now become a figure of Piety, and
+Choulette recognized the Virgin in it.  He had even composed a quatrain
+which he was to write on it in spiral form--a didactic and moral
+quatrain.  He would cease to write, except in the style of the
+commandments of God rendered into French verses.  The four lines
+expressed simplicity and goodness.  He consented to recite them.
+
+Therese rested on the balustrade of the terrace and sought in the
+distance, in the depth of the sea of light, the peaks of Vallambrosa,
+almost as blue as the sky.  Jacques Dechartre looked at her.  It seemed
+to him that he saw her for the first time, such was the delicacy that he
+discovered in her face, which tenderness and intelligence had invested
+with thoughtfulness without altering its young, fresh grace.  The
+daylight which she liked, was indulgent to her.  And truly she was
+pretty, bathed in that light of Florence, which caresses beautiful forms
+and feeds noble thoughts.  A fine, pink color rose to her well-rounded
+cheeks; her eyes, bluish-gray, laughed; and when she talked, the
+brilliancy of her teeth set off her lips of ardent sweetness.  His look
+embraced her supple bust, her full hips, and the bold attitude of her
+waist.  She held her parasol with her left hand, the other hand played
+with violets.  Dechartre had a mania for beautiful hands.  Hands
+presented to his eyes a physiognomy as striking as the face--a character,
+a soul.  These hands enchanted him.  They were exquisite.  He adored
+their slender fingers, their pink nails, their palms soft and tender,
+traversed by lines as elegant as arabesques, and rising at the base of
+the fingers in harmonious mounts.  He examined them with charmed
+attention until she closed them on the handle of her umbrella.  Then,
+standing behind her, he looked at her again.  Her bust and arms, graceful
+and pure in line, her beautiful form, which was like that of a living
+amphora, pleased him.
+
+"Monsieur Dechartre, that black spot over there is the Boboli Gardens, is
+it not?  I saw the gardens three years ago.  There were not many flowers
+in them.  Nevertheless, I liked their tall, sombre trees."
+
+It astonished him that she talked, that she thought.  The clear sound of
+her voice amazed him, as if he never had heard it.
+
+He replied at random.  He was awkward.  She feigned not to notice it, but
+felt a deep inward joy.  His low voice, which was veiled and softened,
+seemed to caress her.  She said ordinary things:
+
+"That view is beautiful, The weather is fine."
+
+
+
+
+CHAPTER XII
+
+HEARTS AWAKENED
+
+In the morning, her head on the embroidered pillow, Therese was thinking
+of the walks of the day before; of the Virgins, framed with angels;
+of the innumerable children, painted or carved, all beautiful, all happy,
+who sing ingenuously the Alleluia of grace and of beauty.  In the
+illustrious chapel of the Brancacci, before those frescoes, pale and
+resplendent as a divine dawn, he had talked to her of Masaccio, in
+language so vivid that it had seemed to her as if she had seen him,
+the adolescent master of the masters, his mouth half open, his eyes dark
+and blue, dying, enchanted.  And she had liked these marvels of a morning
+more charming than a day. Dechartre was for her the soul of those
+magnificent forms, the mind of those noble things.  It was by him, it was
+through him, that she understood art and life. She took no interest in
+things that did not interest him. How had this affection come to her?
+She had no precise remembrance of it.  In the first place, when Paul
+Vence wished to introduce him to her, she had no desire to know him, no
+presentiment that he would please her.  She recalled elegant bronze
+statuettes, fine waxworks signed with his name, that she had remarked at
+the Champ de Mars salon or at Durand-Ruel's.  But she did not imagine
+that he could be agreeable to her, or more seductive than many artists
+and lovers of art at whom she laughed with her friends.  When she saw
+him, he pleased her; she had a desire to attract him, to see him often.
+The night he dined at her house she realized that she had for him a noble
+and elevating affection.  But soon after he irritated her a little;
+it made her impatient to see him closeted within himself and too little
+preoccupied by her.  She would have liked to disturb him.  She was in
+that state of impatience when she met him one evening, in front of the
+grille of the Musee des Religions, and he talked to her of Ravenna and
+of the Empress seated on a gold chair in her tomb.  She had found him
+serious and charming, his voice warm, his eyes soft in the shadow of the
+night, but too much a stranger, too far from her, too unknown.  She had
+felt a sort of uneasiness, and she did not know, when she walked along
+the boxwood bordering the terrace, whether she desired to see him every
+day or never to see him again.
+
+Since then, at Florence, her only pleasure was to feel that he was near
+her, to hear him.  He made life for her charming, diverse, animated, new.
+He revealed to her delicate joys and a delightful sadness; he awakened
+in her a voluptuousness which had been always dormant.  Now she was
+determined never to give him up.  But how?  She foresaw difficulties;
+her lucid mind and her temperament presented them all to her.  For a
+moment she tried to deceive herself; she reflected that perhaps he,
+a dreamer, exalted, lost in his studies of art, might remain assiduous
+without being exacting.  But she did not wish to reassure herself with
+that idea.  If Dechartre were not a lover, he lost all his charm.  She
+did not dare to think of the future.  She lived in the present, happy,
+anxious, and closing her eyes.
+
+She was dreaming thus, in the shade traversed by arrows of light, when
+Pauline brought to her some letters with the morning tea.  On an envelope
+marked with the monogram of the Rue Royale Club she recognized the
+handwriting of Le Menil.  She had expected that letter.  She was only
+astonished that what was sure to come had come, as in her childhood, when
+the infallible clock struck the hour of her piano lesson.
+
+In his letter Robert made reasonable reproaches.  Why did she go without
+saying anything, without leaving a word of farewell?  Since his return to
+Paris he had expected every morning a letter which had not come.  He was
+happier the year before, when he had received in the morning, two or
+three times a week, letters so gentle and so well written that he
+regretted not being able to print them.  Anxious, he had gone to her
+house.
+
+"I was astounded to hear of your departure.  Your husband received me.
+He said that, yielding to his advice, you had gone to finish the winter
+at Florence with Miss Bell.  He said that for some time you had looked
+pale and thin.  He thought a change of air would do you good.  You had
+not wished to go, but, as you suffered more and more, he succeeded in
+persuading you.
+
+"I had not noticed that you were thin.  It seemed to me, on the contrary,
+that your health was good.  And then Florence is not a good winter
+resort.  I cannot understand your departure.  I am much tormented by it.
+Reassure me at once, I pray you.
+
+"Do you think it is agreeable for me to get news of you from your husband
+and to receive his confidences?  He is sorry you are not here; it annoys
+him that the obligations of public life compel him to remain in Paris.
+I heard at the club that he had chances to become a minister.
+This astonishes me, because ministers are not usually chosen among
+fashionable people."
+
+Then he related hunting tales to her.  He had brought for her three fox-
+skins, one of which was very beautiful; the skin of a brave animal which
+he had pulled by the tail, and which had bitten his hand.
+
+In Paris he was worried.  His cousin had been presented at the club.
+He feared he might be blackballed.  His candidacy had been posted.
+Under these conditions he did not dare advise him to withdraw; it would
+be taking too great a responsibility.  If he were blackballed it would be
+very disagreeable.  He finished by praying her to write and to return
+soon.
+
+Having read this letter, she tore it up gently, threw it in the fire,
+and calmly watched it burn.
+
+Doubtless, he was right.  He had said what he had to say; he had
+complained, as it was his duty to complain.  What could she answer?
+Should she continue her quarrel?  The subject of it had become so
+indifferent to her that it needed reflection to recall it.  Oh, no; she
+had no desire to be tormented.  She felt, on the contrary, very gentle
+toward him!  Seeing that he loved her with confidence, in stubborn
+tranquillity, she became sad and frightened.  He had not changed.  He was
+the same man he had been before.  She was not the same woman.  They were
+separated now by imperceptible yet strong influences, like essences in
+the air that make one live or die.  When her maid came to dress her, she
+had not begun to write an answer.
+
+Anxious, she thought: "He trusts me.  He suspects nothing."  This made
+her more impatient than anything.  It irritated her to think that there
+were simple people who doubt neither themselves nor others.
+
+She went into the parlor, where she found Vivian Bell writing.  The
+latter said:
+
+"Do you wish to know, darling, what I was doing while waiting for you?
+Nothing and everything.  Verses.  Oh, darling, poetry must be our souls
+naturally expressed."
+
+Therese kissed Miss Bell, rested her head on her friend's shoulder, and
+said:
+
+"May I look?"
+
+"Look if you wish, dear.  They are verses made on the model of the
+popular songs of your country."
+
+"Is it a symbol, Vivian?  Explain it to me."
+
+"Oh, darling, why explain, why?  A poetic image must have several
+meanings.  The one that you find is the real one.  But there is a very
+clear meaning in them, my love; that is, that one should not lightly
+disengage one's self from what one has taken into the heart."
+
+The horses were harnessed.  They went, as had been agreed, to visit the
+Albertinelli gallery.  The Prince was waiting for them, and Dechartre was
+to meet them in the palace.  On the way, while the carriage rolled along
+the wide highway, Vivian Bell talked with her usual transcendentalism.
+As they were descending among houses pink and white, gardens and terraces
+ornamented with statues and fountains, she showed to her friend the
+villa, hidden under bluish pines, where the ladies and the cavaliers of
+the Decameron took refuge from the plague that ravaged Florence, and
+diverted one another with tales frivolous, facetious, or tragic.  Then
+she confessed the thought which had come to her the day before.
+
+"You had gone, darling, to Carmine with Monsieur Dechartre, and you had
+left at Fiesole Madame Marmet, who is an agreeable person, a moderate and
+polished woman.  She knows many anecdotes about persons of distinction
+who live in Paris.  And when she tells them, she does as my cook
+Pompaloni does when he serves eggs: he does not put salt in them, but he
+puts the salt-cellar next to them.  Madame Marmet's tongue is very sweet,
+but the salt is near it, in her eyes.  Her conversation is like
+Pompaloni's dish, my love--each one seasons to his taste.  Oh, I like
+Madame Marmet a great deal.  Yesterday, after you had gone, I found her
+alone and sad in a corner of the drawing-room.  She was thinking
+mournfully of her husband.  I said to her: 'Do you wish me to think of
+your husband, too?  I will think of him with you.  I have been told that
+he was a learned man, a member of the Royal Society of Paris.  Madame
+Marmet, talk to me of him.'  She replied that he had devoted himself to
+the Etruscans, and that he had given to them his entire life.  Oh,
+darling, I cherished at once the memory of that Monsieur Marmet, who
+lived for the Etruscans.  And then a good idea came to me.  I said to
+Madame Marmet, 'We have at Fiesole, in the Pretorio Palace, a modest
+little Etruscan museum.  Come and visit it with me.  Will you?'  She
+replied it was what she most desired to see in Italy.  We went to the
+Pretorio Palace; we saw a lioness and a great many little bronze figures,
+grotesque, very fat or very thin.  The Etruscans were a seriously gay
+people.  They made bronze caricatures.  But the monkeys--some afflicted
+with big stomachs, others astonished to show their bones--Madame Marmet
+looked at them with reluctant admiration.  She contemplated them like--
+there is a beautiful French word that escapes me--like the monuments and
+the trophies of Monsieur Marmet."
+
+Madame Martin smiled.  But she was restless.  She thought the sky dull,
+the streets ugly, the passers-by common.
+
+"Oh, darling, the Prince will be very glad to receive you in his palace."
+
+"I do not think so."
+
+"Why, darling, why?"
+
+"Because I do not please him much."
+
+Vivian Bell declared that the Prince, on the contrary, was a great
+admirer of the Countess Martin.
+
+The horses stopped before the Albertinelli palace.  On the sombre facade
+were sealed those bronze rings which formerly, on festival nights, held
+rosin torches.  These bronze rings mark, in Florence, the palaces of the
+most illustrious families.  The palace had an air of lofty pride.
+The Prince hastened to meet them, and led them through the empty salons
+into the gallery.  He, apologized for showing canvases which perhaps had
+not an attractive aspect.  The gallery had been formed by Cardinal Giulio
+Albertinelli at a time when the taste for Guido and Caraccio, now fallen,
+had predominated.  His ancestor had taken pleasure in gathering the works
+of the school of Bologna.  But he would show to Madame Martin several
+paintings which had not displeased Miss Bell, among others a Mantegna.
+
+The Countess Martin recognized at once a banal and doubtful collection;
+she felt bored among the multitude of little Parrocels, showing in the
+darkness a bit of armor and a white horse.
+
+A valet presented a card.
+
+The Prince read aloud the name of Jacques Dechartre.  At that moment he
+was turning his back on the two visitors.  His face wore the expression
+of cruel displeasure one finds on the marble busts of Roman emperors.
+Dechartre was on the staircase.
+
+The Prince went toward him with a languid smile.  He was no longer Nero,
+but Antinous.
+
+"I invited Monsieur Dechartre to come to the Albertinelli palace," said
+Miss Bell.  "I knew it would please you.  He wished to see your gallery."
+
+And it is true that Dechartre had wished to be there with Madame Martin.
+Now all four walked among the Guidos and the Albanos.
+
+Miss Bell babbled to the Prince--her usual prattle about those old men
+and those Virgins whose blue mantles were agitated by an immovable
+tempest.  Dechartre, pale, enervated, approached Therese, and said to
+her, in a low tone:
+
+"This gallery is a warehouse where picture dealers of the entire world
+hang the things they can not sell.  And the Prince sells here things that
+Jews could not sell."
+
+He led her to a Holy Family exhibited on an easel draped with green
+velvet, and bearing on the border the name of Michael-Angelo.
+
+"I have seen that Holy Family in the shops of picture-dealers of London,
+of Basle, and of Paris.  As they could not get the twenty-five louis that
+it is worth, they have commissioned the last of the Albertinellis to sell
+it for fifty thousand francs."
+
+The Prince, divining what they were saying, approached them gracefully.
+
+"There is a copy of this picture almost everywhere.  I do not affirm that
+this is the original.  But it has always been in the family, and old
+inventories attribute it to Michael-Angelo.  That is all I can say about
+it."
+
+And the Prince turned toward Miss Bell, who was trying to find pictures
+by the pre-Raphaelites.
+
+Dechartre felt uneasy.  Since the day before he had thought of Therese.
+He had all night dreamed and yearned over her image.  He saw her again,
+delightful, but in another manner, and even more desirable than he had
+imagined in his insomnia; less visionary, of a more vivid piquancy, and
+also of a mind more mysteriously impenetrable.  She was sad; she seemed
+cold and indifferent.  He said to himself that he was nothing to her;
+that he was becoming importunate and ridiculous.  This irritated him.  He
+murmured bitterly in her ear: "I have reflected.  I did not wish to come.
+Why did I come?" She understood at once what he meant, that he feared her
+now, and that he was impatient, timid, and awkward.  It pleased her that
+he was thus, and she was grateful to him for the trouble and the desires
+he inspired in her.  Her heart throbbed faster.  But, affecting to
+understand that he regretted having disturbed himself to come and look at
+bad paintings, she replied that in truth this gallery was not
+interesting.  Already, under the terror of displeasing her, he felt
+reassured, and believed that, really indifferent, she had not perceived
+the accent nor the significance of what he had said.  He said "No,
+nothing interesting."  The Prince, who had invited the two visitors to
+breakfast, asked their friend to remain with them.  Dechartre excused
+himself.  He was about to depart when, in the large empty salon, he found
+himself alone with Madame Martin.  He had had the idea of running away
+from her.  He had no other wish now than to see her again.  He recalled
+to her that she was the next morning to visit the Bargello. "You have
+permitted me to accompany you."  She asked him if he had not found her
+moody and tiresome.  Oh, no; he had not thought her tiresome, but he
+feared she was sad.
+
+"Alas," he added, "your sadness, your joys, I have not the right to know
+them." She turned toward him a glance almost harsh. "You do not think
+that I shall take you for a confidante, do you?" And she walked away
+brusquely.
+
+
+
+
+CHAPTER XIII
+
+"YOU MUST TAKE ME WITH MY OWN SOUL!"
+
+After dinner, in the salon of the bells, under the lamps from which the
+great shades permitted only an obscure light to filter, good Madame
+Marmet was warming herself by the hearth, with a white cat on her knees.
+The evening was cool.  Madame Martin, her eyes reminiscent of the golden
+light, the violet peaks, and the ancient trees of Florence, smiled with
+happy fatigue.  She had gone with Miss Bell, Dechartre, and Madame Marmet
+to the Chartrist convent of Ema.  And now, in the intoxication of her
+visions, she forgot the care of the day before, the importunate letters,
+the distant reproaches, and thought of nothing in the world but cloisters
+chiselled and painted, villages with red roofs, and roads where she saw
+the first blush of spring.  Dechartre had modelled for Miss Bell a waxen
+figure of Beatrice.  Vivian was painting angels.  Softly bent over her,
+Prince Albertinelli caressed his beard and threw around him glances that
+appeared to seek admiration.
+
+Replying to a reflection of Vivian Bell on marriage and love:
+
+"A woman must choose," he said.  "With a man whom women love her heart is
+not quiet.  With a man whom the women do not love she is not happy."
+
+"Darling," asked Miss Bell, "what would you wish for a friend dear to
+you?"
+
+"I should wish, Vivian, that my friend were happy.  I should wish also
+that she were quiet.  She should be quiet in hatred of treason,
+humiliating suspicions, and mistrust."
+
+"But, darling, since the Prince has said that a woman can not have at the
+same time happiness and security, tell me what your friend should
+choose."
+
+"One never chooses, Vivian; one never chooses.  Do not make me say what I
+think of marriage."
+
+At this moment Choulette appeared, wearing the magnificent air of those
+beggars of whom small towns are proud.  He had played briscola with
+peasants in a coffeehouse of Fiesole.
+
+"Here is Monsieur Choulette," said Miss Bell.  "He will teach what we are
+to think of marriage.  I am inclined to listen to him as to an oracle.
+He does not see the things that we see, and he sees things that we do not
+see.  Monsieur Choulette, what do you think of marriage?"
+
+He took a seat and lifted in the air a Socratic finger:
+
+"Are you speaking, Mademoiselle, of the solemn union between man and
+woman?  In this sense, marriage is a sacrament.  But sometimes, alas!
+it is almost a sacrilege.  As for civil marriage, it is a formality.
+The importance given to it in our society is an idiotic thing which would
+have made the women of other times laugh.  We owe this prejudice, like
+many others, to the bourgeois, to the mad performances of a lot of
+financiers which have been called the Revolution, and which seem
+admirable to those that have profited by it.  Civil marriage is,
+in reality, only registry, like many others which the State exacts in
+order to be sure of the condition of persons: in every well organized
+state everybody must be indexed.  Morally, this registry in a big ledger
+has not even the virtue of inducing a wife to take a lover.  Who ever
+thinks of betraying an oath taken before a mayor?  In order to find joy
+in adultery, one must be pious."
+
+"But, Monsieur," said Therese, "we were married at the church."
+
+Then, with an accent of sincerity:
+
+"I can not understand how a man ever makes up his mind to marry; nor how
+a woman, after she has reached an age when she knows what she is doing,
+can commit that folly."
+
+The Prince looked at her with distrust.  He was clever, but he was
+incapable of conceiving that one might talk without an object,
+disinterestedly, and to express general ideas.  He imagined that Countess
+Martin-Belleme was suggesting to him projects that she wished him to
+consider.  And as he was thinking of defending himself and also avenging
+himself, he made velvet eyes at her and talked with tender gallantry:
+
+"You display, Madame, the pride of the beautiful and intelligent French
+women whom subjection irritates.  French women love liberty, and none of
+them is as worthy of liberty as you.  I have lived in France a little.
+I have known and admired the elegant society of Paris, the salons, the
+festivals, the conversations, the plays.  But in our mountains, under our
+olive-trees, we become rustic again.  We assume golden-age manners, and
+marriage is for us an idyl full of freshness."
+
+Vivian Bell examined the statuette which Dechartre had left on the table.
+
+"Oh!  it was thus that Beatrice looked, I am sure.  And do you know,
+Monsieur Dechartre, there are wicked men who say that Beatrice never
+existed?"
+
+Choulette declared he wished to be counted among those wicked men.
+He did not believe that Beatrice had any more reality than other ladies
+through whom ancient poets who sang of love represented some scholastic
+idea, ridiculously subtle.
+
+Impatient at praise which was not destined for himself, jealous of Dante
+as of the universe, a refined man of letters, Choulette continued:
+
+"I suspect that the little sister of the angels never lived, except in
+the imagination of the poet.  It seems a pure allegory, or, rather, an
+exercise in arithmetic or a theme of astrology.  Dante, who was a good
+doctor of Bologna and had many moons in his head, under his pointed cap--
+Dante believed in the virtue of numbers.  That inflamed mathematician
+dreamed of figures, and his Beatrice is the flower of arithmetic, that
+is all."
+
+And he lighted his pipe.
+
+Vivian Bell exclaimed:
+
+"Oh, do not talk in that way, Monsieur Choulette.  You grieve me much,
+and if our friend Monsieur Gebhart heard you, he would not be pleased
+with you.  To punish you, Prince Albertinelli will read to you the
+canticle in which Beatrice explains the spots on the moon.  Take the
+Divine Comedy, Eusebio.  It is the white book which you see on the table.
+Open it and read it."
+
+During the Prince's reading, Dechartre, seated on the couch near Countess
+Martin, talked of Dante with enthusiasm as the best sculptor among the
+poets.  He recalled to Therese the painting they had seen together two
+days before, on the door of the Servi, a fresco almost obliterated, where
+one hardly divined the presence of the poet wearing a laurel wreath,
+Florence, and the seven circles.  This was enough to exalt the artist.
+But she had distinguished nothing, she had not been moved.  And then she
+confessed that Dante did not attract her.  Dechartre, accustomed to her
+sharing all his ideas of art and poetry, felt astonishment and some
+discontent.  He said, aloud:
+
+"There are many grand and strong things which you do not feel."
+
+Miss Bell, lifting her head, asked what were these things that "darling"
+did not feel; and when she learned that it was the genius of Dante, she
+exclaimed, in mock anger:
+
+"Oh, do you not honor the father, the master worthy of all praise, the
+god?  I do not love you any more, darling.  I detest you."
+
+And, as a reproach to Choulette and to the Countess Martin, she recalled
+the piety of that citizen of Florence who took from the altar the candles
+that had been lighted in honor of Christ, and placed them before the bust
+of Dante.
+
+The Prince resumed his interrupted reading.  Dechartre persisted in
+trying to make Therese admire what she did not know.  Certainly he would
+have easily sacrificed Dante and all the poets of the universe for her.
+But near him, tranquil, and an object of desire, she irritated him,
+almost without his realizing it, by the charm of her laughing beauty.
+He persisted in imposing on her his ideas, his artistic passions, even
+his fantasy, and his capriciousness.  He insisted in a low tone, in
+phrases concise and quarrelsome.  She said:
+
+"Oh, how violent you are!"
+
+Then he bent to her ear, and in an ardent voice, which he tried to
+soften:
+
+"You must take me with my own soul!"
+
+Therese felt a shiver of fear mingled with joy.
+
+
+
+
+CHAPTER XIV
+
+THE AVOWAL
+
+She next day she said to herself that she would reply to Robert.  It was
+raining.  She listened languidly to the drops falling on the terrace.
+Vivian Bell, careful and refined, had placed on the table artistic
+stationery, sheets imitating the vellum of missals, others of pale violet
+powdered with silver dust; celluloid pens, white and light, which one had
+to manage like brushes; an iris ink which, on a page, spread a mist of
+azure and gold.  Therese did not like such delicacy.  It seemed to her
+not appropriate for letters which she wished to make simple and modest.
+When she saw that the name of "friend," given to Robert on the first
+line, placed on the silvery paper, tinted itself like mother-of-pearl,
+a half smile came to her lips.  The first phrases were hard to write.
+She hurried the rest, said a great deal of Vivian Bell and of Prince
+Albertinelli, a little of Choulette, and that she had seen Dechartre at
+Florence.  She praised some pictures of the museums, but without
+discrimination, and only to fill the pages.  She knew that Robert had no
+appreciation of painting; that he admired nothing except a little
+cuirassier by Detaille, bought at Goupil's.
+
+She saw again in her mind this cuirassier, which he had shown to her one
+day, with pride, in his bedroom, near the mirror, under family portraits.
+All this, at a distance, seemed to her petty and tiresome.  She finished
+her letter with words of friendship, the sweetness of which was not
+feigned.  Truly, she had never felt more peaceful and gentle toward her
+lover.  In four pages she had said little and explained less.  She
+announced only that she should stay a month in Florence, the air of which
+did her good.  Then she wrote to her father, to her husband, and to
+Princess Seniavine.  She went down the stairway with the letters in her
+hand.  In the hall she threw three of them on the silver tray destined to
+receive papers for the post-office.  Mistrusting Madame Marmet, she
+slipped into her pocket the letter to Le Menil, counting on chance to
+throw it into a post-box.
+
+Almost at the same time Dechartre came to accompany the three friends in
+a walk through the city.  As he was waiting he saw the letters on the
+tray.
+
+Without believing that characters could be divined through penmanship,
+he was susceptible to the form of letters as to elegance of drawing.
+The writing of Therese charmed him, and he liked its openness, the bold
+and simple turn of its lines.  He looked at the addresses without reading
+them, with an artist's admiration.
+
+They visited, that morning, Santa Maria Novella, where the Countess
+Martin had already gone with Madame Marmet.  But Miss Bell had reproached
+them for not observing the beautiful Ginevra of Benci on a fresco of the
+choir.  "You must visit that figure of the morning in a morning light,"
+said Vivian.  While the poetess and Therese were talking together,
+Dechartre listened patiently to Madame Marmet's conversation, filled with
+anecdotes, wherein academicians dined with elegant women, and shared the
+anxiety of that lady, much preoccupied for several days by the necessity
+to buy a tulle veil.  She could find none to her taste in the shops of
+Florence.
+
+As they came out of the church they passed the cobbler's shop.  The good
+man was mending rustic shoes.  Madame Martin asked the old man whether he
+was well, whether he had enough work for a living, whether he was happy.
+To all these questions he replied with the charming affirmative of Italy,
+the musical si, which sounded melodious even in his toothless mouth.  She
+made him tell his sparrow's story.  The poor bird had once dipped its leg
+in burning wax.
+
+"I have made for my little companion a wooden leg out of a match, and he
+hops upon my shoulder as formerly," said the cobbler.
+
+"It is this good old man," said Miss Bell, "who teaches wisdom to
+Monsieur Choulette.  There was at Athens a cobbler named Simon, who wrote
+books on philosophy, and who was the friend of Socrates.  I have always
+thought that Monsieur Choulette resembled Socrates."
+
+Therese asked the cobbler to tell his name and his history.  His name was
+Serafino Stoppini, and he was a native of Stia.  He was old.  He had had
+much trouble in his life.
+
+He lifted his spectacles to his forehead, uncovering blue eyes, very
+soft, and almost extinguished under their red lids.
+
+"I have had a wife and children; I have none now.  I have known things
+which I know no more."
+
+Miss Bell and Madame Marmet went to look for a veil.
+
+"He has nothing in the world," thought Therese, "but his tools, a handful
+of nails, the tub wherein he dips his leather, and a pot of basilick, yet
+he is happy."
+
+She said to him:
+
+"This plant is fragrant, and it will soon be in bloom."
+
+He replied:
+
+"If the poor little plant comes into bloom it will die."
+
+Therese, when she left him, placed a coin on the table.
+
+Dechartre was near her.  Gravely, almost severely, he said to her:
+
+"You know .  .  .  "
+
+She looked at him and waited.
+
+He finished his phrase:
+
+" .  .  .  that I love you?"
+
+She continued to fix on him, silently, the gaze of her clear eyes, the
+lids of which were trembling.  Then she made a motion with her head that
+meant Yes.  And, without his trying to stop her, she rejoined Miss Bell
+and Madame Marmet, who were waiting for her at the corner.
+
+
+
+
+CHAPTER XV
+
+THE MYSTERIOUS LETTER
+
+Therese, after quitting Dechartre, took breakfast with her friend and
+Madame Marmet at the house of an old Florentine lady whom Victor Emmanuel
+had loved when he was Duke of Savoy.  For thirty years she had not once
+gone out of her palace on the Arno, where, she painted, and wearing a
+wig, she played the guitar in her spacious white salon.  She received the
+best society of Florence, and Miss Bell often called on her.  At table
+this recluse, eighty-seven years of age, questioned the Countess Martin
+on the fashionable world of Paris, whose movement was familiar to her
+through the journals.  Solitary, she retained respect and a sort of
+devotion for the world of pleasure.
+
+As they came out of the palazzo, in order to avoid the wind which was
+blowing on the river, Miss Bell led her friends into the old streets with
+black stone houses and a view of the distant horizon, where, in the pure
+air, stands a hill with three slender trees.  They walked; and Vivian
+showed to her friend, on facades where red rags were hanging, some marble
+masterpiece--a Virgin, a lily, a St. Catherine.  They walked through
+these alleys of the antique city to the church of Or San Michele, where
+it had been agreed that Dechartre should meet them.  Therese was thinking
+of him now with deepest interest.  Madame Marmet was thinking of buying a
+veil; she hoped to find one on the Corso.  This affair recalled to her
+M. Lagrange, who, at his regular lecture one day, took from his pocket a
+veil with gold dots and wiped his forehead with it, thinking it was his
+handkerchief.  The audience was astonished, and whispered to one another.
+It was a veil that had been confided to him the day before by his niece,
+Mademoiselle Jeanne Michot, whom he had accompanied to the theatre,
+and Madame Marmet explained how, finding it in the pocket of his
+overcoat, he had taken it to return it to his niece.
+
+At Lagrange's name, Therese recalled the flaming comet announced by the
+savant, and said to herself, with mocking sadness, that it was time for
+that comet to put an end to the world and take her out of her trouble.
+But above the walls of the old church she saw the sky, which, cleared of
+clouds by the wind from the sea, shone pale blue and cold.  Miss Bell
+showed to her one of the bronze statues which, in their chiselled niches,
+ornament the facade of the church.
+
+"See, darling, how young and proud is Saint George.  Saint George was
+formerly the cavalier about whom young girls dreamed."
+
+But "darling" said that he looked precise, tiresome, and stubborn.  At
+this moment she recalled suddenly the letter that was still in her
+pocket.
+
+"Ah! here comes Monsieur Dechartre," said the good Madame Marmet.
+
+He had looked for them in the church, before the tabernacle.  He should
+have recalled the irresistible attraction which Donatello's St. George
+held for Miss Bell.  He too admired that famous figure.  But he retained
+a particular friendship for St. Mark, rustic and frank, whom they could
+see in his niche at the left.
+
+When Therese approached the statue which he was pointing out to her, she
+saw a post-box against the wall of the narrow street opposite the saint.
+Dechartre, placed at the most convenient point of view, talked of his St.
+Mark with abundant friendship.
+
+"It is to him I make my first visit when I come to Florence.  I failed to
+do this only once.  He will forgive me; he is an excellent man.  He is
+not appreciated by the crowd, and does not attract attention.  I take
+pleasure in his society, however.  He is vivid.  I understand that
+Donatello, after giving a soul to him, exclaimed: 'Mark, why do you not
+speak?'"
+
+Madame Marmet, tired of admiring St. Mark, and feeling on her face the
+burning wind, dragged Miss Bell toward Calzaioli Street in search of a
+veil.
+
+Therese and Dechartre remained.
+
+"I like him," continued the sculptor; "I like Saint Mark because I feel
+in him, much more than in the Saint George, the hand and mind of
+Donatello, who was a good workman.  I like him even more to-day, because
+he recalls to me, in his venerable and touching candor, the old cobbler
+to whom you were speaking so kindly this morning."
+
+"Ah," she said, "I have forgotten his name.  When we talk with Monsieur
+Choulette we call him Quentin Matsys, because he resembles the old men of
+that painter."
+
+As they were turning the corner of the church to see the facade, she
+found herself before the post-box, which was so dusty and rusty that it
+seemed as if the postman never came near it.  She put her letter in it
+under the ingenuous gaze of St. Mark.
+
+Dechartre saw her, and felt as if a heavy blow had been struck at his
+heart.  He tried to speak, to smile; but the gloved hand which had
+dropped the letter remained before his eyes.  He recalled having seen in
+the morning Therese's letters on the hall tray.  Why had she not put that
+one with the others?  The reason was not hard to guess.  He remained
+immovable, dreamy, and gazed without seeing.  He tried to be reassured;
+perhaps it was an insignificant letter which she was trying to hide from
+the tiresome curiosity of Madame Marmet.
+
+"Monsieur Dechartre, it is time to rejoin our friends at the
+dressmaker's."
+
+Perhaps it was a letter to Madame Schmoll, who was not a friend of Madame
+Marmet, but immediately he realized that this idea was foolish.
+
+All was clear.  She had a lover.  She was writing to him.  Perhaps she
+was saying to him: "I saw Dechartre to-day; the poor fellow is deeply in
+love with me."  But whether she wrote that or something else, she had a
+lover.  He had not thought of that.  To know that she belonged to another
+made him suffer profoundly.  And that hand, that little hand dropping the
+letter, remained in his eyes and made them burn.
+
+She did not know why he had become suddenly dumb and sombre.  When she
+saw him throw an anxious glance back at the post-box, she guessed the
+reason.  She thought it odd that he should be jealous without having the
+right to be jealous; but this did not displease her.
+
+When they reached the Corso, they saw Miss Bell and Madame Marmet coming
+out of the dressmaker's shop.
+
+Dechartre said to Therese, in an imperious and supplicating voice:
+
+"I must speak to you.  I must see you alone tomorrow; meet me at six
+o'clock at the Lungarno Acciaoli."
+
+She made no reply.
+
+
+
+
+CHAPTER XVI
+
+"TO-MORROW?"
+
+When, in her Carmelite mantle, she came to the Lungarno Acciaoli, at
+about half-past six, Dechartre greeted her with a humble look that moved
+her.  The setting sun made the Arno purple.  They remained silent for a
+moment.  While they were walking past the monotonous line of palaces to
+the old bridge, she was the first to speak.
+
+"You see, I have come.  I thought I ought to come.  I do not think I am
+altogether innocent of what has happened.  I know: I have done what was
+my fate in order that you should be to me what you are now.  My attitude
+has put thoughts into your head which you would not have had otherwise."
+
+He looked as if he did not understand.  She continued:
+
+"I was selfish, I was imprudent.  You were agreeable to me; I liked your
+wit; I could not get along without you.  I have done what I could to
+attract you, to retain you.  I was a coquette--not coldly, nor
+perfidiously, but a coquette."
+
+He shook his head, denying that he ever had seen a sign of this.
+
+"Yes, I was a coquette.  Yet it was not my habit.  But I was a coquette
+with you.  I do not say that you have tried to take advantage of it, as
+you had the right to do, nor that you are vain about it.  I have not
+remarked vanity in you.  It may be possible that you had not noticed.
+Superior men sometimes lack cleverness.  But I know very well that I was
+not as I should have been, and I beg your pardon.  That is the reason why
+I came.  Let us be good friends, since there is yet time."
+
+He repeated, with sombre softness, that he loved her.  The first hours of
+that love had been easy and delightful.  He had only desired to see her,
+and to see her again.  But soon she had troubled him.  The evil had come
+suddenly and violently one day on the terrace of Fiesole.  And now he had
+not the courage to suffer and say nothing.  He had not come with a fixed
+design.  If he spoke of his passion he spoke by force and in spite of
+himself; in the strong necessity of talking of her to herself, since she
+was for him the only being in the world.  His life was no longer in
+himself, it was in her.  She should know it, then, that he was in love
+with her, not with vague tenderness, but with cruel ardor.  Alas!  his
+imagination was exact and precise.  He saw her continually, and she
+tortured him.
+
+And then it seemed to him that they might have joys which should make
+life worth living.  Their existence might be a work of art, beautiful and
+hidden.  They would think, comprehend, and feel together.  It would be a
+marvellous world of emotions and ideas.
+
+"We could make of life a delightful garden."
+
+She feigned to think that the dream was innocent.
+
+"You know very well that I am susceptible to the charm of your mind.
+It has become a necessity to see you and hear you.  I have allowed this
+to be only too plain to you.  Count upon my friendship and do not torment
+yourself."  She extended her hand to him.  He did not take it, but
+replied, brusquely:
+
+"I do not desire your friendship.  I will not have it.  I must have you
+entirely or never see you again.  You know that very well.  Why do you
+extend your hand to me with derisive phrases?  Whether you wished it or
+not, you have made me desperately in love with you.  You have become my
+evil, my suffering, my torture, and you ask me to be an agreeable friend.
+Now you are coquettish and cruel.  If you can not love me, let me go;
+I will go, I do not know where, to forget and hate you.  For I have
+against you a latent feeling of hatred and anger.  Oh, I love you, I love
+you!"
+
+She believed what he was saying, feared that he might go, and feared the
+sadness of living without him.  She replied:
+
+"I found you in my path.  I do not wish to lose you.  No, I do not wish
+to lose you."
+
+Timid yet violent, he stammered; the words were stifled in his throat.
+Twilight descended from the far-off mountains, and the last reflections
+of the sun became pallid in the east.  She said:
+
+"If you knew my life, if you had seen how empty it was before I knew you,
+you would know what you are to me, and would not think of abandoning me."
+
+But, with the tranquil tone of her voice and with the rustle of her
+skirts on the pavement, she irritated him.
+
+He told her how he suffered.  He knew now the divine malady of love.
+
+"The grace of your thoughts, your magnificent courage, your superb pride,
+I inhale them like a perfume.  It seems to me when you speak that your
+mind is floating on your lips.  Your mind is for me only the odor of your
+beauty.  I have retained the instincts of a primitive man; you have
+reawakened them.  I feel that I love you with savage simplicity."
+
+She looked at him softly and said nothing.  They saw the lights of
+evening, and heard lugubrious songs coming toward them.  And then, like
+spectres chased by the wind, appeared the black penitents.  The crucifix
+was before them.  They were Brothers of Mercy, holding torches, singing
+psalms on the way to the cemetery.  In accordance with the Italian
+custom, the cortege marched quickly.  The crosses, the coffin, the
+banners, seemed to leap on the deserted quay.  Jacques and Therese stood
+against the wall in order that the funeral train might pass.
+
+The black avalanche had disappeared.  There were women weeping behind the
+coffin carried by the black phantoms, who wore heavy shoes.
+
+Therese sighed:
+
+"What will be the use of having tormented ourselves in this world?"
+
+He looked as if he had not heard, and said:
+
+"Before I knew you I was not unhappy.  I liked life.  I was retained in
+it by dreams.  I liked forms, and the mind in forms, the appearances that
+caress and flatter.  I had the joy of seeing and of dreaming.  I enjoyed
+everything and depended upon nothing.  My desires, abundant and light,
+I gratified without fatigue.  I was interested in everything and wished
+for nothing.  One suffers only through the will.  Without knowing it,
+I was happy.  Oh, it was not much, it was only enough to live.  Now I
+have no joy in life.  My pleasures, the interest that I took in the
+images of life and of art, the vivid amusement of creating with my hands
+the figures of my dreams--you have made me lose everything and have not
+left me even regret.  I do not want my liberty and tranquillity again.
+It seems to me that before I knew you I did not live; and now that I feel
+that I am living, I can not live either far from you or near you.  I am
+more wretched than the beggars we saw on the road to Ema.  They had air
+to breathe, and I can breathe only you, whom I have not.  Yet I am glad
+to have known you.  That alone counts in my existence.  A moment ago I
+thought I hated you.  I was wrong; I adore you, and I bless you for the
+harm you have done me.  I love all that comes to me from you."
+
+They were nearing the black trees at the entrance to San Niccola bridge.
+On the other side of the river the vague fields displayed their sadness,
+intensified by night.  Seeing that he was calm and full of a soft
+languor, she thought that his love, all imagination, had fled in words,
+and that his desires had become only a reverie.  She had not expected so
+prompt a resignation.  It almost disappointed her to escape the danger
+she had feared.
+
+She extended her hand to him, more boldly this time than before.
+
+"Then, let us be friends.  It is late.  Let us return.  Take me to my
+carriage.  I shall be what I have been to you, an excellent friend.  You
+have not displeased me."
+
+But he led her to the fields, in the growing solitude of the shore.
+
+"No, I will not let you go without having told you what I wish to say.
+But I know no longer how to speak; I can not find the words.  I love you.
+I wish to know that you are mine.  I swear to you that I will not live
+another night in the horror of doubting it."
+
+He pressed her in his arms; and seeking the light of her eyes through the
+obscurity of her veil, said "You must love me.  I desire you to love me,
+and it is your fault, for you have desired it too.  Say that you are
+mine.  Say it."
+
+Having gently disengaged herself, she replied, faintly and slowly "I can
+not!  I can not!  You see I am acting frankly with you.  I said to you a
+moment ago that you had not displeased me.  But I can not do as you
+wish."
+
+And recalling to her thought the absent one who was waiting for her, she
+repeated: "I can not!" Bending over her he anxiously questioned her eyes,
+the double stars that trembled and veiled themselves. "Why?  You love me,
+I feel it, I see it.  You love me.  Why will you do me this wrong?"
+
+He drew her to him, wishing to lay his soul, with his lips, on her veiled
+lips.  She escaped him swiftly, saying: "I can not.  Do not ask more.
+I can not be yours."
+
+His lips trembled, his face was convulsed.  He exclaimed "You have a
+lover, and you love him.  Why do you mock me?"
+
+"I swear to you I have no desire to mock you, and that if I loved any one
+in the world it would be you." But he was not listening to her.
+
+"Leave me, leave me!" And he ran toward the dark fields.  The Arno formed
+lagoons, upon which the moon, half veiled, shone fitfully.  He walked
+through the water and the mud, with a step rapid, blind, like that of one
+intoxicated. She took fright and shouted.  She called him.  But he did
+not turn his head and made no answer.  He fled with alarming
+recklessness.  She ran after him.  Her feet were hurt by the stones, and
+her skirt was heavy with water, but soon she overtook him.
+
+"What were you about to do?"
+
+He looked at her, and saw her fright in her eyes. "Do not be afraid," he
+said.  "I did not see where I was going.  I assure you I did not intend
+to kill myself.  I am desperate, but I am calm.  I was only trying to
+escape from you.  I beg your pardon.  But I could not see you any longer.
+Leave me, I pray you.  Farewell!"
+
+She replied, agitated and trembling: "Come!  We shall do what we can."
+
+He remained sombre and made no reply.  She repeated "Come!"
+
+She took his arm.  The living warmth of her hand animated him.  He said:
+
+"Do you wish it?"
+
+"I can not leave you."
+
+"You promise?"
+
+"I must."
+
+And, in her anxiety and anguish, she almost smiled, in thinking that he
+had succeeded so quickly by his folly.
+
+"To-morrow?"  said he, inquiringly.
+
+She replied quickly, with a defensive instinct:
+
+"Oh, no; not to-morrow!"
+
+"You do not love me; you regret that you have promised."
+
+"No, I do not regret, but--
+
+He implored, he supplicated her.  She looked at him for a moment, turned
+her head, hesitated, and said, in a low tone:
+
+"Saturday."
+
+
+
+
+CHAPTER XVII
+
+MISS BELL ASKS A QUESTION
+
+After dinner, Miss Bell was sketching in the drawing-room.  She was
+tracing, on canvas, profiles of bearded Etruscans for a cushion which
+Madame Marmet was to embroider.  Prince Albertinelli was selecting the
+wool with an almost feminine knowledge of shades.  It was late when
+Choulette, having, as was his habit, played briscola with the cook at
+the caterer's, appeared, as joyful as if he possessed the mind of a god.
+He took a seat on a sofa, beside Madame Martin, and looked at her
+tenderly.  Voluptuousness shone in his green eyes.  He enveloped her,
+while talking to her, with poetic and picturesque phrases.  It was like
+the sketch of a lovesong that he was improvising for her.  In oddly
+involved sentences, he told her of the charm that she exhaled.
+
+"He, too!"  said she to herself.
+
+She amused herself by teasing him.  She asked whether he had not found in
+Florence, in the low quarters, one of the kind of women whom he liked to
+visit.  His preferences were known.  He could deny it as much as he
+wished: no one was ignorant of the door where he had found the cordon of
+his Third Order.  His friends had met him on the boulevard.  His taste
+for unfortunate women was evident in his most beautiful poems.
+
+"Oh, Monsieur Choulette, so far as I am able to judge, you like very bad
+women."
+
+He replied with solemnity:
+
+"Madame, you may collect the grain of calumiy sown by Monsieur Paul Vence
+and throw handfuls of it at me.  I will not try to avoid it.  It is not
+necessary you should know that I am chaste and that my mind is pure.
+But do not judge lightly those whom you call unfortunate, and who should
+be sacred to you, since they are unfortunate.  The disdained and lost
+girl is the docile clay under the finger of the Divine Potter: she is the
+victim and the altar of the holocaust.  The unfortunates are nearer God
+than the honest women: they have lost conceit.  They do not glorify
+themselves with the untried virtue the matron prides herself on.
+They possess humility, which is the cornerstone of virtues agreeable to
+heaven.  A short repentance will be sufficient for them to be the first
+in heaven; for their sins, without malice and without joy, contain their
+own forgiveness.  Their faults, which are pains, participate in the
+merits attached to pain; slaves to brutal passion, they are deprived of
+all voluptuousness, and in this they are like the men who practise
+continence for the kingdom of God.  They are like us, culprits; but shame
+falls on their crime like a balm, suffering purifies it like fire.  That
+is the reason why God will listen to the first voice which they shall
+send to him.  A throne is prepared for them at the right hand of the
+Father.  In the kingdom of God, the queen and the empress will be happy
+to sit at the feet of the unfortunate; for you must not think that the
+celestial house is built on a human plan.  Far from it, Madame."
+
+Nevertheless, he conceded that more than one road led to salvation.  One
+could follow the road of love.
+
+"Man's love is earthly," he said, "but it rises by painful degrees, and
+finally leads to God."
+
+The Prince had risen.  Kissing Miss Bell's hand, he said:
+
+"Saturday."
+
+"Yes, the day after to-morrow, Saturday," replied Vivian.
+
+Therese started.  Saturday!  They were talking of Saturday quietly, as of
+an ordinary day.  Until then she had not wished to think that Saturday
+would come so soon or so naturally.
+
+The guests had been gone for half an hour.  Therese, tired, was thinking
+in her bed, when she heard a knock at the door of her room.  The panel
+opened, and Vivian's little head appeared.
+
+"I am not intruding, darling?  You are not sleepy?"
+
+No, Therese had no desire to sleep.  She rose on her elbow.  Vivian sat
+on the bed, so light that she made no impression on it.
+
+"Darling, I am sure you have a great deal of reason.  Oh, I am sure of
+it.  You are reasonable in the same way that Monsieur Sadler is a
+violinist.  He plays a little out of tune when he wishes.  And you,
+too, when you are not quite logical, it is for your own pleasure.
+Oh, darling, you have a great deal of reason and of judgment, and I come
+to ask your advice."
+
+Astonished, and a little anxious, Therese denied that she was logical.
+She denied this very sincerely.  But Vivian would not listen to her.
+
+"I have read Francois Rabelais a great deal, my love.  It is in Rabelais
+and in Villon that I studied French.  They are good old masters of
+language.  But, darling, do you know the 'Pantagruel?'  ' Pantagruel' is
+like a beautiful and noble city, full of palaces, in the resplendent
+dawn, before the street-sweepers of Paris have come.  The sweepers have
+not taken out the dirt, and the maids have not washed the marble steps.
+And I have seen that French women do not read the 'Pantagruel.'  You do
+not know it?  Well, it is not necessary.  In the 'Pantagruel,' Panurge
+asks whether he must marry, and he covers himself with ridicule, my love.
+Well, I am quite as laughable as he, since I am asking the same question
+of you."
+
+Therese replied with an uneasiness she did not try to conceal:
+
+"As for that, my dear, do not ask me.  I have already told you my
+opinion."
+
+"But, darling, you have said that only men are wrong to marry.  I can not
+take that advice for myself."
+
+Madame Martin looked at the little boyish face and head of Miss Bell,
+which oddly expressed tenderness and modesty.
+
+Then she embraced her, saying:
+
+"Dear, there is not a man in the world exquisite and delicate enough for
+you."
+
+She added, with an expression of affectionate gravity:
+
+"You are not a child.  If some one loves you, and you love him, do what
+you think you ought to do, without mingling interests and combinations
+that have nothing to do with sentiment.  This is the advice of a friend."
+
+Miss Bell hesitated a moment.  Then she blushed and arose.  She had been
+a little shocked.
+
+
+
+
+CHAPTER XVIII
+
+"I KISS YOUR FEET BECAUSE THEY HAVE COME!"
+
+Saturday, at four o'clock, Therese went, as she had promised, to the gate
+of the English cemetery.  There she found Dechartre.  He was serious and
+agitated; he spoke little.  She was glad he did not display his joy.
+He led her by the deserted walls of the gardens to a narrow street which
+she did not know.  She read on a signboard: Via Alfieri.  After they had
+taken fifty steps, he stopped before a sombre alley:
+
+"It is in there," he said.
+
+She looked at him with infinite sadness.
+
+"You wish me to go in?"
+
+She saw he was resolute, and followed him without saying a word, into the
+humid shadow of the alley.  He traversed a courtyard where the grass grew
+among the stones.  In the back was a pavilion with three windows, with
+columns and a front ornamented with goats and nymphs. On the moss-covered
+steps he turned in the lock a key that creaked and resisted.  He murmured
+
+"It is rusty."
+
+She replied, without thought "All the keys are rusty in this country."
+
+They went up a stairway so silent that it seemed to have forgotten the
+sound of footsteps.  He pushed open a door and made Therese enter the
+room.  She went straight to a window opening on the cemetery.  Above the
+wall rose the tops of pine-trees, which are not funereal in this land
+where mourning is mingled with joy without troubling it, where the
+sweetness of living extends to the city of the dead.  He took her hand
+and led her to an armchair.  He remained standing, and looked at the room
+which he had prepared so that she would not find herself lost in it.
+Panels of old print cloth, with figures of Comedy, gave to the walls the
+sadness of past gayeties.  He had placed in a corner a dim pastel which
+they had seen together at an antiquary's, and which, for its shadowy
+grace, she called the shade of Rosalba.  There was a grandmother's
+armchair; white chairs; and on the table painted cups and Venetian
+glasses.  In all the corners were screens of colored paper, whereon were
+masks, grotesque figures, the light soul of Florence, of Bologna, and of
+Venice in the time of the Grand Dukes and of the last Doges.  A mirror
+and a carpet completed the furnishings.
+
+He closed the window and lighted the fire.  She sat in the armchair, and
+as she remained in it erect, he knelt before her, took her hands, kissed
+them, and looked at her with a wondering expression, timorous and proud.
+Then he pressed his lips to the tip of her boot.
+
+"What are you doing?"
+
+"I kiss your feet because they have come."
+
+He rose, drew her to him softly, and placed a long kiss on her lips.
+She remained inert, her head thrown back, her eyes closed.  Her toque
+fell, her hair dropped on her shoulders.
+
+Two hours later, when the setting sun made immeasurably longer the
+shadows on the stones, Therese, who had wished to walk alone in the city,
+found herself in front of the two obelisks of Santa Maria Novella without
+knowing how she had reached there.  She saw at the corner of the square
+the old cobbler drawing his string with his eternal gesture.  He smiled,
+bearing his sparrow on his shoulder.
+
+She went into the shop, and sat on a chair.  She said in French:
+
+"Quentin Matsys, my friend, what have I done, and what will become of
+me?"
+
+He looked at her quietly, with laughing kindness, not understanding nor
+caring.  Nothing astonished him.  She shook her head.
+
+"What I did, my good Quentin, I did because he was suffering, and because
+I loved him.  I regret nothing."
+
+He replied, as was his habit, with the sonorous syllable of Italy:
+
+"Si! si!"
+
+"Is it not so, Quentin?  I have not done wrong?  But, my God!  what will
+happen now?"
+
+She prepared to go.  He made her understand that he wished her to wait.
+He culled carefully a bit of basilick and offered it to her.
+
+"For its fragrance, signora!"
+
+
+
+
+CHAPTER XIX
+
+CHOULETTE TAKES A JOURNEY
+
+It was the next day.
+
+Having carefully placed on the drawing-room table his knotty stick, his
+pipe, and his antique carpet-bag, Choulette bowed to Madame Martin, who
+was reading at the window.  He was going to Assisi.  He wore a sheepskin
+coat, and resembled the old shepherds in pictures of the Nativity.
+
+"Farewell, Madame.  I am quitting Fiesole, you, Dechartre, the too
+handsome Prince Albertinelli, and that gentle ogress, Miss Bell.  I am
+going to visit the Assisi mountain, which the poet says must be named no
+longer Assisi, but the Orient, because it is there that the sun of love
+rose.  I am going to kneel before the happy crypt where Saint Francis is
+resting in a stone manger, with a stone for a pillow.  For he would not
+even take out of this world a shroud--out of this world where he left the
+revelation of all joy and of all kindness."
+
+"Farewell, Monsieur Choulette.  Bring me a medal of Saint Clara.  I like
+Saint Clara a great deal."
+
+"You are right, Madame; she was a woman of strength and prudence.  When
+Saint Francis, ill and almost blind, came to spend a few days at Saint
+Damien, near his friend, she built with her own hands a hut for him in
+the garden.  Pain, languor, and burning eyelids deprived him of sleep.
+Enormous rats came to attack him at night.  Then he composed a joyous
+canticle in praise of our splendid brother the Sun, and our sister the
+Water, chaste, useful, and pure.  My most beautiful verses have less
+charm and splendor.  And it is just that it should be thus, for Saint
+Francis's soul was more beautiful than his mind.  I am better than all my
+contemporaries whom I have known, yet I am worth nothing.  When Saint
+Francis had composed his Song of the Sun he rejoiced.  He thought:
+'We shall go, my brothers and I, into the cities, and stand in the public
+squares, with a lute, on the market-day.  Good people will come near us,
+and we shall say to them: "We are the jugglers of God, and we shall sing
+a lay to you.  If you are pleased, you will reward us."  They will
+promise, and when we shall have sung, we shall recall their promise to
+them.  We shall say to them: "You owe a reward to us.  And the one that
+we ask of you is that you love one another."  Doubtless, to keep their
+word and not injure God's poor jugglers, they will avoid doing ill to
+others.'"
+
+Madame Martin thought St. Francis was the most amiable of the saints.
+
+"His work," replied Choulette, "was destroyed while he lived.  Yet he
+died happy, because in him was joy with humility.  He was, in fact, God's
+sweet singer.  And it is right that another poor poet should take his
+task and teach the world true religion and true joy.  I shall be that
+poet, Madame, if I can despoil myself of reason and of conceit.  For all
+moral beauty is achieved in this world through the inconceivable wisdom
+that comes from God and resembles folly."
+
+"I shall not discourage you, Monsieur Choulette.  But I am anxious about
+the fate which you reserve for the poor women in your new society.  You
+will imprison them all in convents."
+
+"I confess," replied Choulette, "that they embarrass me a great deal in
+my project of reform.  The violence with which one loves them is harsh
+and injurious.  The pleasure they give is not peaceful, and does not lead
+to joy.  I have committed for them, in my life, two or three abominable
+crimes of which no one knows.  I doubt whether I shall ever invite you to
+supper, Madame, in the new Saint Mary of the Angels."  He took his pipe,
+his carpet-bag, and his stick:
+
+"The crimes of love shall be forgiven.  Or, rather, one can not do
+evil when one loves purely.  But sensual love is formed of hatred,
+selfishness, and anger as much as of passion.  Because I found you
+beautiful one night, on this sofa, I was assailed by a cloud of violent
+thoughts.  I had come from the Albergo, where I had heard Miss Bell's
+cook improvise magnificently twelve hundred verses on Spring.  I was
+inundated by a celestial joy which the sight of you made me lose.
+It must be that a profound truth is enclosed in the curse of Eve.
+For, near you, I felt reckless and wicked.  I had soft words on my lips.
+They were lies.  I felt that I was your adversary and your enemy; I hated
+you.  When I saw you smile, I felt a desire to kill you."
+
+"Truly?"
+
+"Oh, Madame, it is a very natural sentiment, which you must have inspired
+more than once.  But common people feel it without being conscious of it,
+while my vivid imagination represents me to myself incessantly.
+I contemplate my mind, at times splendid, often hideous.  If you had been
+able to read my mind that night you would have screamed with fright."
+
+Therese smiled:
+
+"Farewell, Monsieur Choulette.  Do not forget my medal of Saint Clara."
+
+He placed his bag on the floor, raised his arm, and pointed his finger:
+
+"You have nothing to fear from me.  But the one whom you will love and
+who will love you will harm you.  Farewell, Madame."
+
+He took his luggage and went out.  She saw his long, rustic form
+disappear behind the bushes of the garden.
+
+In the afternoon she went to San Marco, where Dechartre was waiting for
+her.  She desired yet she feared to see him again so soon.  She felt an
+anguish which an unknown sentiment, profoundly soft, appeased.  She did
+not feel the stupor of the first time that she had yielded for love; she
+did not feel the brusque vision of the irreparable.  She was under
+influences slower, more vague, and more powerful.  This time a charming
+reverie bathed the reminiscence of the caresses which she had received.
+She was full of trouble and anxiety, but she felt no regret.  She had
+acted less through her will than through a force which she divined to be
+higher.  She absolved herself because of her disinterestedness.  She
+counted on nothing, having calculated nothing.
+
+Doubtless, she had been wrong to yield, since she was not free; but she
+had exacted nothing.  Perhaps she was for him only a violent caprice.
+She did not know him.  She had not one of those vivid imaginations that
+surpass immensely, in good as in evil, common mediocrity.  If he went
+away from her and disappeared she would not reproach him for it;
+at least, she thought not.  She would keep the reminiscence and the
+imprint of the rarest and most precious thing one may find in the world.
+Perhaps he was incapable of real attachment.  He thought he loved her.
+He had loved her for an hour.  She dared not wish for more, in the
+embarrassment of the false situation which irritated her frankness and
+her pride, and which troubled the lucidity of her intelligence.  While
+the carriage was carrying her to San Marco, she persuaded herself that he
+would say nothing to her of the day before, and that the room from which
+one could see the pines rise to the sky would leave to them only the
+dream of a dream.
+
+He extended his hand to her.  Before he had spoken she saw in his look
+that he loved her as much now as before, and she perceived at the same
+time that she wished him to be thus.
+
+"You--" he said, "I have been here since noon.  I was waiting, knowing
+that you would not come so soon, but able to live only at the place where
+I was to see you.  It is you!  Talk; let me see and hear you."
+
+"Then you still love me?"
+
+"It is now that I love you.  I thought I loved you when you were only a
+phantom.  Now, you are the being in whose hands I have put my soul.  It
+is true that you are mine!  What have I done to obtain the greatest, the
+only, good of this world?  And those men with whom the earth is covered
+think they are living!  I alone live!  Tell me, what have I done to
+obtain you?"
+
+"Oh, what had to be done, I did.  I say this to you frankly.  If we have
+reached that point, the fault is mine.  You see, women do not always
+confess it, but it is always their fault.  So, whatever may happen, I
+never will reproach you for anything."
+
+An agile troupe of yelling beggars, guides, and coachmen surrounded them
+with an importunity wherein was mingled the gracefulness which Italians
+never lose.  Their subtlety made them divine that these were lovers, and
+they knew that lovers are prodigal.  Dechartre threw coin to them, and
+they all returned to their happy laziness.
+
+A municipal guard received the visitors.  Madame Martin regretted that
+there was no monk.  The white gown of the Dominicans was so beautiful
+under the arcades of the cloister!
+
+They visited the cells where, on the bare plaster, Fra Angelico, aided by
+his brother Benedetto, painted innocent pictures for his companions.
+
+"Do you recall the winter night when, meeting you before the Guimet
+Museum, I accompanied you to the narrow street bordered by small gardens
+which leads to the Billy Quay?  Before separating we stopped a moment on
+the parapet along which runs a thin boxwood hedge.  You looked at that
+boxwood, dried by winter.  And when you went away I looked at it for a
+long time."
+
+They were in the cell wherein Savonarola lived.  The guide showed to them
+the portrait and the relics of the martyr.
+
+"What could there have been in me that you liked that day?  It was dark."
+
+"I saw you walk.  It is in movements that forms speak.  Each one of your
+steps told me the secrets of your charming beauty.  Oh! my imagination
+was never discreet in anything that concerned you.  I did not dare to
+speak to you.  When I saw you, it frightened me.  It frightened me
+because you could do everything for me.  When you were present, I adored
+you tremblingly.  When you were far from me, I felt all the impieties of
+desire."
+
+"I did not suspect this.  But do you recall the first time we saw each
+other, when Paul Vence introduced you?  You were seated near a screen.
+You were looking at the miniatures.  You said to me: 'This lady, painted
+by Siccardi, resembles Andre Chenier's mother.'  I replied to you: 'She
+is my husband's great-grandmother.  How did Andre Chenier's mother look?'
+And you said: 'There is a portrait of her: a faded Levantine.'"
+
+He excused himself and thought that he had not spoken so impertinently.
+
+"You did.  My memory is better than yours."
+
+They were walking in the white silence of the convent.  They saw the cell
+which Angelico had ornamented with the loveliest painting.  And there,
+before the Virgin who, in the pale sky, receives from God the Father the
+immortal crown, he took Therese in his arms and placed a kiss on her
+lips, almost in view of two Englishwomen who were walking through the
+corridors, consulting their Baedeker.  She said to him:
+
+"We must not forget Saint Anthony's cell."
+
+"Therese, I am suffering in my happiness from everything that is yours
+and that escapes me.  I am suffering because you do not live for me
+alone.  I wish to have you wholly, and to have had you in the past."
+
+She shrugged her shoulders a little.
+
+"Oh, the past!"
+
+"The past is the only human reality.  Everything that is, is past."
+
+She raised toward him her eyes, which resembled bits of blue sky full of
+mingled sun and rain.
+
+"Well, I may say this to you: I never have felt that I lived except with
+you."
+
+When she returned to Fiesole, she found a brief and threatening letter
+from Le Menil.  He could not understand, her prolonged absence, her
+silence.  If she did not announce at once her return, he would go to
+Florence for her.
+
+She read without astonishment, but was annoyed to see that everything
+disagreeable that could happen was happening, and that nothing would be
+spared to her of what she had feared.  She could still calm him and
+reassure him: she had only to say to him that she loved him; that she
+would soon return to Paris; that he should renounce the foolish idea of
+rejoining her here; that Florence was a village where they would be
+watched at once.  But she would have to write: "I love you."  She must
+quiet him with caressing phrases.
+
+She had not the courage to do it.  She would let him guess the truth.
+She accused herself in veiled terms.  She wrote obscurely of souls
+carried away by the flood of life, and of the atom one is on the moving
+ocean of events.  She asked him, with affectionate sadness, to keep of
+her a fond reminiscence in a corner of his soul.
+
+She took the letter to the post-office box on the Fiesole square.
+Children were playing in the twilight.  She looked from the top of the
+hill to the beautiful cup which carried beautiful Florence like a jewel.
+And the peace of night made her shiver.  She dropped the letter into the
+box.  Then only she had the clear vision of what she had done and of what
+the result would be.
+
+
+
+
+CHAPTER XX
+
+WHAT IS FRANKNESS?
+
+In the square, where the spring sun scattered its yellow roses, the bells
+at noon dispersed the rustic crowd of grain-merchants assembled to sell
+their wares.  At the foot of the Lanzi, before the statues, the venders
+of ices had placed, on tables covered with red cotton, small castles
+bearing the inscription: 'Bibite ghiacciate'.  And joy descended from
+heaven to earth.  Therese and Jacques, returning from an early promenade
+in the Boboli Gardens, were passing before the illustrious loggia.
+Therese looked at the Sabine by John of Bologna with that interested
+curiosity of a woman examining another woman.  But Dechartre looked at
+Therese only.  He said to her:
+
+"It is marvellous how the vivid light of day flatters your beauty, loves
+you, and caresses the mother-of-pearl on your cheeks."
+
+"Yes," she said.  "Candle-light hardens my features.  I have observed
+this.  I am not an evening woman, unfortunately.  It is at night that
+women have a chance to show themselves and to please.  At night, Princess
+Seniavine has a fine blond complexion; in the sun she is as yellow as a
+lemon.  It must be owned that she does not care.  She is not a coquette."
+
+"And you are?"
+
+"Oh, yes.  Formerly I was a coquette for myself, now I am a coquette for
+you."
+
+She looked at the Sabine woman, who with her waving arms, long and
+robust, tried to avoid the Roman's embraces.
+
+"To be beautiful, must a woman have that thin form and that length of
+limb?  I am not shaped in that way."
+
+He took pains to reassure her.  But she was not disturbed about it.  She
+was looking now at the little castle of the ice-vender.  A sudden desire
+had come to her to eat an ice standing there, as the working-girls of the
+city stood.
+
+"Wait a moment," said Dechartre.
+
+He ran toward the street that follows the left side of the Lanzi, and
+disappeared.
+
+After a moment he came back, and gave her a little gold spoon, the handle
+of which was finished in a lily of Florence, with its chalice enamelled
+in red.
+
+"You must eat your ice with this.  The man does not give a spoon with his
+ices.  You would have had to put out your tongue.  It would have been
+pretty, but you are not accustomed to it."
+
+She recognized the spoon, a jewel which she had remarked the day before
+in the showcase of an antiquarian.
+
+They were happy; they disseminated their joy, which was full and simple,
+in light words which had no sense.  And they laughed when the Florentine
+repeated to them passages of the old Italian writers.  She enjoyed the
+play of his face, which was antique in style and jovial in expression.
+But she did not always understand what he said.  She asked Jacques:
+
+"What did he say?"
+
+"Do you really wish to know?"
+
+Yes, she wished to know.
+
+"Well, he said he should be happy if the fleas in his bed were shaped
+like you!"
+
+When she had eaten the ice, he asked her to return to San Michele.  It
+was so near!  They would cross the square and at once discover the
+masterpiece in stone.  They went.  They looked at the St. George and at
+the bronze St. Mark.  Dechartre saw again on the wall the post-box, and
+he recalled with painful exactitude the little gloved hand that had
+dropped the letter.  He thought it hideous, that copper mouth which had
+swallowed Therese's secret.  He could not turn his eyes away from it.
+All his gayety had fled.  She admired the rude statue of the Evangelist.
+
+"It is true that he looks honest and frank, and it seems that, if he
+spoke, nothing but words of truth would come out of his mouth."
+
+He replied bitterly:
+
+"It is not a woman's mouth."
+
+She understood his thought, and said, in her soft tone:
+
+"My friend, why do you say this to me?  I am frank."
+
+"What do you call frank?  You know that a woman is obliged to lie."
+
+She hesitated.  Then she said:
+
+"A woman is frank when she does not lie uselessly."
+
+
+
+
+CHAPTER XXI
+
+"I NEVER HAVE LOVED ANY ONE BUT YOU!"
+
+Therese was dressed in sombre gray.  The bushes on the border of the
+terrace were covered with silver stars and on the hillsides the laurel-
+trees threw their odoriferous flame.  The cup of Florence was in bloom.
+
+Vivian Bell walked, arrayed in white, in the fragrant garden.
+
+"You see, darling, Florence is truly the city of flowers, and it is not
+inappropriate that she should have a red lily for her emblem.  It is a
+festival to-day, darling."
+
+"A festival, to-day?"
+
+"Darling, do you not know this is the first day of May?  You did not wake
+this morning in a charming fairy spectacle?  Do you not celebrate the
+Festival of Flowers?  Do you not feel joyful, you who love flowers?  For
+you love them, my love, I know it: you are very good to them.  You said
+to me that they feel joy and pain; that they suffer as we do."
+
+"Ah! I said that they suffer as we do?"
+
+"Yes, you said it.  It is their festival to-day.  We must celebrate it
+with the rites consecrated by old painters."
+
+Therese heard without understanding.  She was crumpling under her glove
+a letter which she had just received, bearing the Italian postage-stamp,
+and containing only these two lines:
+
+"I am staying at the Great Britain Hotel, Lungarno Acciaoli.  I shall
+expect you to-morrow morning.  No. 18."
+
+"Darling, do you not know it is the custom of Florence to celebrate
+spring on the first day of May every year?  Then you did not understand
+the meaning of Botticelli's picture consecrated to the Festival of
+Flowers.  Formerly, darling, on the first day of May the entire city gave
+itself up to joy.  Young girls, crowned with sweetbrier and other
+flowers, made a long cortege through the Corso, under arches, and sang
+choruses on the new grass.  We shall do as they did.  We shall dance in
+the garden."
+
+"Ah, we shall dance in the garden?"
+
+"Yes, darling; and I will teach you Tuscan steps of the fifteenth century
+which have been found in a manuscript by Mr. Morrison, the oldest
+librarian in London.  Come back soon, my love; we shall put on flower
+hats and dance."
+
+"Yes, dear, we shall dance," said Therese.
+
+And opening the gate, she ran through the little pathway that hid its
+stones under rose-bushes.  She threw herself into the first carriage she
+found.  The coachman wore forget-me-nots on his hat and on the handle of
+his whip:
+
+"Great Britain Hotel, Lungarno Acciaoli."
+
+She knew where that was, Lungarno Acciaoli.  She had gone there at
+sunset, and she had seen the rays of the sun on the agitated surface of
+the river.  Then night had come, the murmur of the waters in the silence,
+the words and the looks that had troubled her, the first kiss of her
+lover, the beginning of incomparable love.  Oh, yes, she recalled
+Lungarno Acciaoli and the river-side beyond the old bridge--Great Britain
+Hotel--she knew: a big stone facade on the quay.  It was fortunate, since
+he would come, that he had gone there.  He might as easily have gone to
+the Hotel de la Ville, where Dechartre was.  It was fortunate they were
+not side by side in the same corridor.  Lungarno Acciaoli!  The dead body
+which they had seen pass was at peace somewhere in the little flowery
+cemetery.
+
+"Number 18."
+
+It was a bare hotel room, with a stove in the Italian fashion, a set of
+brushes displayed on the table, and a time-table.  Not a book, not a
+journal.  He was there; she saw suffering on his bony face, a look of
+fever.  This produced on her a sad impression.  He waited a moment for a
+word, a gesture; but she dared do nothing.  He offered a chair.  She
+refused it and remained standing.
+
+"Therese, something has happened of which I do not know.  Speak."
+
+After a moment of silence, she replied, with painful slowness:
+
+"My friend, when I was in Paris, why did you go away from me?"
+
+By the sadness of her accent he believed, he wished to believe, in the
+expression of an affectionate reproach.  His face colored.  He replied,
+ardently:
+
+"Ah, if I could have foreseen!  That hunting party--I cared little for
+it, as you may think!  But you--your letter, that of the twenty-seventh"
+--he had a gift for dates--"has thrown me into a horrible anxiety.
+Something has happened.  Tell me everything."
+
+"My friend, I believed you had ceased to love me."
+
+"But now that you know the contrary?"
+
+"Now--"
+
+She paused, her arms fell before her and her hands were joined.
+
+Then, with affected tranquillity, she continued:
+
+"Well, my friend, we took each other without knowing.  One never knows.
+You are young; younger than I, since we are of the same age.  You have,
+doubtless, projects for the future."
+
+He looked at her proudly.  She continued:
+
+"Your family, your mother, your aunts, your uncle the General, have
+projects for you.  That is natural.  I might have become an obstacle.
+It is better that I should disappear from your life.  We shall keep a
+fond remembrance of each other."
+
+She extended her gloved hand.  He folded his arms:
+
+"Then, you do not want me?  You have made me happy, as no other man ever
+was, and you think now to brush me aside?  Truly, you seem to think you
+have finished with me.  What have you come to say to me?  That it was a
+liaison, which is easily broken?  That people take each other, quit each
+other--well, no!  You are not a person whom one can easily quit."
+
+"Yes," said Therese, "you had perhaps given me more of your heart than
+one does ordinarily in such 180 cases.  I was more than an amusement for
+you.  But, if I am not the woman you thought I was, if I have deceived
+you, if I am frivolous--you know people have said so--well, if I have not
+been to you what I should have been--"
+
+She hesitated, and continued in a brave tone, contrasting with what she
+said:
+
+"If, while I was yours, I have been led astray; if I have been curious;
+if I say to you that I was not made for serious sentiment--"
+
+He interrupted her:
+
+"You are not telling the truth."
+
+"No, I am not telling the truth.  And I do not know how to lie.  I wished
+to spoil our past.  I was wrong.  It was--you know what it was.  But--"
+
+"But?"
+
+"I have always told you I was not sure of myself.  There are women, it is
+said, who are sure of themselves.  I warned you that I was not like
+them."
+
+He shook his head violently, like an irritated animal.
+
+"What do you mean?  I do not understand.  I understand nothing.  Speak
+clearly.  There is something between us.  I do not know what.  I demand
+to know what it is.  What is it?"
+
+"There is the fact that I am not a woman sure of herself, and that you
+should not rely on me.  No, you should not rely on me.  I had promised
+nothing--and then, if I had promised, what are words?"
+
+"You do not love me.  Oh, you love me no more!  I can see it.  But it is
+so much the worse for you!  I love you.  You should not have given
+yourself to me.  Do not think that you can take yourself back.  I love
+you and I shall keep you.  So you thought you could get out of it very
+quietly?  Listen a moment.  You have done everything to make me love you,
+to attach me to you, to make it impossible for me to live without you.
+
+"Six weeks ago you asked for nothing better.  You were everything for me,
+I was everything for you.  And now you desire suddenly that I should know
+you no longer; that you should be to me a stranger, a lady whom one meets
+in society.  Ah, you have a fine audacity!  Have I dreamed?  All the past
+is a dream?  I invented it all?  Oh, there can be no doubt of it.  You
+loved me.  I feel it still.  Well, I have not changed.  I am what I was;
+you have nothing to complain of.  I have not betrayed you for other
+women.  It isn't credit that I claim.  I could not have done it.  When
+one has known you, one finds the prettiest women insipid.  I never have
+had the idea of deceiving you.  I have always acted well toward you.  Why
+should you not love me?  Answer!  Speak!  Say you love me still.  Say it,
+since it is true.  Come, Therese, you will feel at once that you love as
+you loved me formerly in the little nest where we were so happy.  Come!"
+
+He approached her ardently.  She, her eyes full of fright, pushed him
+away with a kind of horror.
+
+He understood, stopped, and said:
+
+"You have a lover."
+
+She bent her head, then lifted it, grave and dumb.
+
+Then he made a gesture as if to strike her, and at once recoiled in
+shame.  He lowered his eyes and was silent.  His fingers to his lips,
+and biting his nails, he saw that his hand had been pricked by a pin on
+her waist, and bled.  He threw himself in an armchair, drew his
+handkerchief to wipe off the blood, and remained indifferent and without
+thought.
+
+She, with her back to the door, her face calm and pale, her look vague,
+arranged her hat with instinctive care.  At the noise, formerly
+delicious, that the rustle of her skirts made, he started, looked at her,
+and asked furiously:
+
+"Who is he?  I will know."
+
+She did not move.  She replied with soft firmness:
+
+"I have told you all I can.  Do not ask more; it would be useless."
+
+He looked at her with a cruel expression which she had never seen before.
+
+"Oh, do not tell me his name.  It will not be difficult for me to find
+it."
+
+She said not a word, saddened for him, anxious for another, full of
+anguish and fear, and yet without regret, without bitterness, because her
+real soul was elsewhere.
+
+He had a vague sensation of what passed in her mind.  In his anger to see
+her so sweet and so serene, to find her beautiful, and beautiful for
+another, he felt a desire to kill her, and he shouted at her:
+
+"Go!"
+
+Then, weakened by this effort of hatred, which was not natural to him, he
+buried his head in his hands and sobbed.
+
+His pain touched her, gave her the hope of quieting him.  She thought she
+might perhaps console him for her loss.  Amicably and comfortably she
+seated herself beside him.
+
+"My friend, blame me.  I am to blame, but more to be pitied.  Disdain me,
+if you wish, if one can disdain an unfortunate creature who is the
+plaything of life.  In fine, judge me as you wish.  But keep for me a
+little friendship in your anger, a little bitter-sweet reminiscence,
+something like those days of autumn when there is sunlight and strong
+wind.  That is what I deserve.  Do not be harsh to the agreeable but
+frivolous visitor who passed through your life.  Bid good-by to me as to
+a traveller who goes one knows not where, and who is sad.  There is so
+much sadness in separation!  You were irritated against me a moment ago.
+Oh, I do not reproach you for it.  I only suffer for it.  Reserve a
+little sympathy for me.  Who knows?  The future is always unknown.  It is
+very gray and obscure before me.  Let me say to myself that I have been
+kind, simple, frank with you, and that you have not forgotten it.  In
+time you will understand, you will forgive; to-day have a little pity."
+
+He was not listening to her words.  He was appeased simply by the caress
+of her voice, of which the tone was limpid and clear.  He exclaimed:
+
+"You do not love him.  I am the one whom you love.  Then--"
+
+She hesitated:
+
+"Ah, to say whom one loves or loves not is not an easy thing for a woman,
+or at least for me.  I do not know how other women do.  But life is not
+good to me.  I am tossed to and fro by force of circumstances."
+
+He looked at her calmly.  An idea came to him.  He had taken a
+resolution; he forgave, he forgot, provided she returned to him at once.
+
+"Therese, you do not love him.  It was an error, a moment of
+forgetfulness, a horrible and stupid thing that you did through weakness,
+through surprise, perhaps in spite.  Swear to me that you never will see
+him again."
+
+He took her arm:
+
+"Swear to me!"
+
+She said not a word, her teeth were set, her face was sombre.  He
+wrenched her wrist.  She exclaimed:
+
+"You hurt me!"
+
+However, he followed his idea; he led her to the table, on which, near
+the brushes, were an ink-stand, and several leaves of letter-paper
+ornamented with a large blue vignette, representing the facade of the
+hotel, with innumerable windows.
+
+"Write what I am about to dictate to you.  I will call somebody to take
+the letter."
+
+And as she resisted, he made her fall on her knees.  Proud and
+determined, she said:
+
+"I can not, I will not."
+
+"Why?"
+
+"Because--do you wish to know?--because I love him."
+
+Brusquely he released her.  If he had had his revolver at hand, perhaps
+he would have killed her.  But almost at once his anger was dampened by
+sadness; and now, desperate, he was the one who wished to die.
+
+"Is what you say true?  Is it possible?"
+
+"How do I know?  Can I say?  Do I understand?  Have I an idea,
+a sentiment, about anything?"
+
+With an effort she added:
+
+"Am I at this moment aware of anything except my sadness and your
+despair?"
+
+"You love him, you love him!  What is he, who is he, that you should love
+him?"
+
+His surprise made him stupid; he was in an abyss of astonishment.  But
+what she had said separated them.  He dared not complain.  He only
+repeated:
+
+"You love him, you love him!  But what has he done to you, what has he
+said, to make you love him?  I know you.  I have not told you every time
+your ideas shocked me.  I would wager he is not even a man in society.
+And you believe he loves you?  You believe it?  Well, you are deceiving
+yourself.  He does not love you.  You flatter him, simply.  He will quit
+you at the first opportunity.  When he shall have compromised you, he
+will abandon you.  Next year people will say of you: 'She is not at all
+exclusive.'  I am sorry for your father; he is one of my friends, and
+will know of your behavior.  You can not expect to deceive him."
+
+She listened, humiliated but consoled, thinking how she would have
+suffered had she found him generous.
+
+In his simplicity he sincerely disdained her.  This disdain relieved him.
+
+"How did the thing happen?  You can tell me."
+
+She shrugged her shoulders with so much pity that he dared not continue.
+He became contemptuous again.
+
+"Do you imagine that I shall aid you in saving appearances, that I shall
+return to your house, that I shall continue to call on your husband?"
+
+"I think you will continue to do what a gentleman should.  I ask nothing
+of you.  I should have liked to preserve of you the reminiscence of an
+excellent friend.  I thought you might be indulgent and kind to, me, but
+it is not possible.  I see that lovers never separate kindly.  Later, you
+will judge me better.  Farewell!"
+
+He looked at her.  Now his face expressed more pain than anger.  She
+never had seen his eyes so dry and so black.  It seemed as if he had
+grown old in an hour.
+
+"I prefer to tell you in advance.  It will be impossible for me to see
+you again.  You are not a woman whom one may meet after one has been
+loved by her.  You are not like others.  You have a poison of your own,
+which you have given to me, and which I feel in me, in my veins.  Why
+have I known you?"
+
+She looked at him kindly.
+
+"Farewell!  Say to yourself that I am not worthy of being regretted so
+much."
+
+Then, when he saw that she placed her hand on the latch of the door,
+when he felt at that gesture that he was to lose her, that he should
+never have her again, he shouted.  He forgot everything.  There remained
+in him only the dazed feeling of a great misfortune accomplished,
+of an irreparable calamity.  And from the depth of his stupor a desire
+ascended.  He desired to possess again the woman who was leaving him and
+who would never return.  He drew her to him.  He desired her, with all
+the strength of his animal nature.  She resisted with all the force of
+her will, which was free and on the alert.  She disengaged herself,
+crumpled, torn, without even having been afraid.
+
+He understood that everything was useless; he realized she was no longer
+for him, because she belonged to another.  As his suffering returned, he
+pushed her out of the door.
+
+She remained a moment in the corridor, proudly waiting for a word.
+
+But he shouted again, "Go!"  and shut the door violently.
+
+On the Via Alfieri, she saw again the pavilion in the rear of the
+courtyard where pale grasses grew.  She found it silent and tranquil,
+faithful, with its goats and nymphs, to the lovers of the time of the
+Grand Duchess Eliza.  She felt at once freed from the painful, brutal
+world, and transported to ages wherein she had not known the sadness of
+life.  At the foot of the stairs, the steps of which were covered with
+roses, Dechartre was waiting.  She threw herself in his arms.  He carried
+her inert, like a precious trophy before which he had become pallid and
+trembling.  She enjoyed, her eyelids half closed, the superb humiliation
+of being a beautiful prey.  Her fatigue, her sadness, her disgust with
+the day, the reminiscence of violence, her regained liberty, the need of
+forgetting, remains of fright, everything vivified, awakened her
+tenderness.  She threw her arms around the neck of her lover.
+
+They were as gay as children.  They laughed, said tender nothings,
+played, ate lemons, oranges, and other fruits piled up near-them on
+painted plates.  Her lips, half-open, showed her brilliant teeth.  She
+asked, with coquettish anxiety, if he were not disillusioned after the
+beautiful dream he had made of her.
+
+In the caressing light of the day, for the enjoyment of which he had
+arranged, he contemplated her with youthful joy.  He lavished praise and
+kisses upon her.  They forgot themselves in caresses, in friendly
+quarrels, in happy glances.
+
+He asked her how a little red mark on her temple had come there.  She
+replied that she had forgotten; that it was nothing.  She hardly lied;
+she had really forgotten.
+
+They recalled to each other their short but beautiful history, all their
+life, which began upon the day when they had met.
+
+"You know, on the terrace, the day after your arrival, you said vague
+things to me.  I guessed that you loved me."
+
+"I was afraid to seem stupid to you."
+
+"You were, a little.  It was my triumph.  It made me impatient to see you
+so little troubled near me.  I loved you before you loved me.  Oh, I do
+not blush for it!"
+
+He gave her a glass of Asti.  But there was a bottle of Trasimene.  She
+wished to taste it, in memory of the lake which she had seen silent and
+beautiful at night in its opal cup.  That was when she had first visited
+Italy, six years before.
+
+He chided her for having discovered the beauty of things without his aid.
+
+She said:
+
+"Without you, I did not know how to see anything.  Why did you not come
+to me before?"
+
+He closed her lips with a kiss.  Then she said:
+
+"Yes, I love you!  Yes, I never have loved any one but you!"
+
+
+
+
+CHAPTER XXII
+
+A MEETING AT THE STATION
+
+Le Menil had written: "I leave tomorrow evening at seven o'clock.  Meet
+me at the station."
+
+She had gone to meet him.  She saw him in long coat and cape, precise and
+calm, in front of the hotel stages.  He said only:
+
+"Ah, you have come."
+
+"But, my friend, you called me."
+
+He did not confess that he had written in the absurd hope that she would
+love him again and that the rest would be forgotten, or that she would
+say to him: "It was only a trial of your love."
+
+If she had said so he would have believed her, however.
+
+Astonished because she did not speak, he said, dryly:
+
+"What have you to say to me?  It is not for me to speak, but for you.
+I have no explanations to give you.  I have not to justify a betrayal."
+
+"My friend, do not be cruel, do not be ungrateful.  This is what I had to
+say to you.  And I must repeat that I leave you with the sadness of a
+real friend."
+
+"Is that all?  Go and say this to the other man.  It will interest him
+more than it interests me."
+
+"You called me, and I came; do not make me regret it."
+
+"I am sorry to have disturbed you.  You could doubtless find a better
+employment for your time.  I will not detain you.  Rejoin him, since you
+are longing to do so."
+
+At the thought that his unhappy words expressed a moment of eternal human
+pain, and that tragedy had illustrated many similar griefs, she felt all
+the sadness and irony of the situation, which a curl of her lips
+betrayed.  He thought she was laughing.
+
+"Do not laugh; listen to me.  The other day, at the hotel, I wanted to
+kill you.  I came so near doing it that now I know what I escaped.
+I will not do it.  You may rest secure.  What would be the use?  As I
+wish to keep up appearances, I shall call on you in Paris.  It will
+grieve me to learn that you can not receive me.  I shall see your
+husband, I shall see your father also.  It will be to say good-by to
+them, as I intend to go on a long voyage.  Farewell, Madame!"
+
+At the moment when he turned his back to her, Therese saw Miss Bell and
+Prince Albertinelli coming out of the freight-station toward her.  The
+Prince was very handsome.  Vivian was walking by his side with the
+lightness of chaste joy.
+
+"Oh, darling, what a pleasant surprise to find you here!  The Prince, and
+I have seen, at the customhouse, the new bell, which has just come."
+
+"Ah, the bell has come?"
+
+"It is here, darling, the Ghiberti bell.  I saw it in its wooden cage.
+It did not ring, because it was a prisoner.  But it will have a campanile
+in my Fiesole house.
+
+"When it feels the air of Florence, it will be happy to let its silvery
+voice be heard.  Visited by the doves, it will ring for all our joys and
+all our sufferings.  It will ring for you, for me, for the Prince, for
+good Madame Marmet, for Monsieur Choulette, for all our friends."
+
+"Dear, bells never ring for real joys and for real sufferings.  Bells are
+honest functionaries, who know only official sentiments."
+
+"Oh, darling, you are much mistaken.  Bells know the secrets of souls;
+they know everything.  But I am very glad to find you here.  I know, my
+love, why you came to the station.  Your maid betrayed you.  She told me
+you were waiting for a pink gown which was delayed in coming and that you
+were very impatient.  But do not let that trouble you.  You are always
+beautiful, my love."
+
+She made Madame Martin enter her wagon.
+
+"Come, quick, darling; Monsieur Jacques Dechartre dines at the house to-
+night, and I should not like to make him wait."
+
+And while they were driving through the silence of the night, through the
+pathways full of the fresh perfume of wildflowers, she said:
+
+"Do you see over there, darling, the black distaffs of the Fates, the
+cypresses of the cemetery?  It is there I wish to sleep."
+
+But Therese thought anxiously: "They saw him.  Did they recognize him?  I
+think not.  The place was dark, and had only little blinding lights.  Did
+she know him?  I do not recall whether she saw him at my house last
+year."
+
+What made her anxious was a sly smile on the Prince's face.
+
+"Darling, do you wish a place near me in that rustic cemetery?  Shall we
+rest side by side under a little earth and a great deal of sky?  But I do
+wrong to extend to you an invitation which you can not accept.  It will
+not be permitted to you to sleep your eternal sleep at the foot of the
+hill of Fiesole, my love.  You must rest in Paris, in a handsome tomb, by
+the side of Count Martin-Belleme."
+
+"Why?  Do you think, dear, that the wife must be united to her husband
+even after death?"
+
+"Certainly she must, darling.  Marriage is for time and for eternity.
+Do you not know the history of a young pair who loved each other in the
+province of Auvergne?  They died almost at the same time, and were placed
+in two tombs separated by a road.  But every night a sweetbrier bush
+threw from one tomb to the other its flowery branches.  The two coffins
+had to be buried together."
+
+When they had passed the Badia, they saw a procession coming up the side
+of the hill.  The wind blew on the candles borne in gilded wooden
+candlesticks.  The girls of the societies, dressed in white and blue,
+carried painted banners.  Then came a little St. John, blond, curly-
+haired, nude, under a lamb's fleece which showed his arms and shoulders;
+and a St. Mary Magdalene, seven years old, crowned only with her waving
+golden hair.  The people of Fiesole followed.  Countess Martin recognized
+Choulette among them.  With a candle in one hand, a book in the other,
+and blue spectacles on the end of his nose, he was singing.  His unkempt
+beard moved up and down with the rhythm of the song.  In the harshness of
+light and shade that worked in his face, he had an air that suggested a
+solitary monk capable of accomplishing a century of penance.
+
+"How amusing he is!"  said Therese.  "He is making a spectacle of himself
+for himself.  He is a great artist."
+
+"Darling, why will you insist that Monsieur Choulette is not a pious man?
+Why?  There is much joy and much beauty in faith.  Poets know this.  If
+Monsieur Choulette had not faith, he could not write the admirable verses
+that he does."
+
+"And you, dear, have you faith?"
+
+"Oh, yes; I believe in God and in the word of Christ."
+
+Now the banners and the white veils had disappeared down the road.  But
+one could see on the bald cranium of Choulette the flame of the candle
+reflected in rays of gold.
+
+Dechartre, however, was waiting alone in the garden.  Therese found him
+resting on the balcony of the terrace where he had felt the first
+sufferings of love.  While Miss Bell and the Prince were trying to fix
+upon a suitable place for the campanile, Dechartre led his beloved under
+the trees.
+
+"You promised me that you would be in the garden when I came.  I have
+been waiting for you an hour, which seemed eternal.  You were not to go
+out.  Your absence has surprised and grieved me."
+
+She replied vaguely that she had been compelled to go to the station, and
+that Miss Bell had brought her back in the wagon.
+
+He begged her pardon for his anxiety, but everything alarmed him.  His
+happiness made him afraid.
+
+They were already at table when Choulette appeared, with the face of an
+antique satyr.  A terrible joy shone in his phosphorous eyes.  Since his
+return from Assisi, he lived only among paupers, drank chianti all day
+with girls and artisans to whom he taught the beauty of joy and
+innocence, the advent of Jesus Christ, and the imminent abolition of
+taxes and military service.  At the beginning of the procession he had
+gathered vagabonds in the ruins of the Roman theatre, and had delivered
+to them in a macaronic language, half French and half Tuscan, a sermon,
+which he took pleasure in repeating:
+
+"Kings, senators, and judges have said: 'The life of nations is in us.'
+Well, they lie; and they are the coffin saying: 'I am the cradle.'
+
+"The life of nations is in the crops of the fields yellowing under the
+eye of the Lord.  It is in the vines, and in the smiles and tears with
+which the sky bathes the fruits on the trees.
+
+"The life of nations is not in the laws, which were made by the rich and
+powerful for the preservation of riches and power.
+
+"The chiefs of kingdoms and of republics have said in their books that
+the right of peoples is the right of war, and they have glorified
+violence.  And they render honors unto conquerors, and they raise in the
+public squares statues to the victorious man and horse.  But one has not
+the right to kill; that is the reason why the just man will not draw from
+the urn a number that will send him to the war.  The right is not to
+pamper the folly and crimes of a prince raised over a kingdom or over a
+republic; and that is the reason why the just man will not pay taxes and
+will not give money to the publicans.  He will enjoy in peace the fruit
+of his work, and he will make bread with the wheat that he has sown, and
+he will eat the fruits of the trees that he has cut."
+
+"Ah, Monsieur Choulette," said Prince Albertinelli, gravely, "you are
+right to take interest in the state of our unfortunate fields, which
+taxes exhaust.  What fruit can be drawn from a soil taxed to thirty-three
+per cent. of its net income?  The master and the servants are the prey of
+the publicans."
+
+Dechartre and Madame Martin were struck by the unexpected sincerity of
+his accent.
+
+He added:
+
+"I like the King.  I am sure of my loyalty, but the misfortunes of the
+peasants move me."
+
+The truth was, he pursued with obstinacy a single aim: to reestablish the
+domain of Casentino that his father, Prince Carlo, an officer of Victor
+Emmanuel, had left devoured by usurers.  His affected gentleness
+concealed his stubbornness.  He had only useful vices.  It was to become
+a great Tuscan landowner that he had dealt in pictures, sold the famous
+ceilings of his palace, made love to rich old women, and, finally, sought
+the hand of Miss Bell, whom he knew to be skilful at earning money and
+practised in the art of housekeeping.  He really liked peasants.  The
+ardent praises of Choulette, which he understood vaguely, awakened this
+affection in him.  He forgot himself enough to express his mind:
+
+"In a country where master and servants form one family, the fate of the
+one depends on that of the others.  Taxes despoil us.  How good are our
+farmers!  They are the best men in the world to till the soil."
+
+Madame Martin confessed that she should not have believed it.  The
+country of Lombardy alone seemed to her to be well cultivated.  Tuscany
+appeared a beautiful, wild orchard.
+
+The Prince replied, smilingly, that perhaps she would not speak in that
+way if she had done him the honor of visiting his farms of Casentino,
+although these had suffered from long and ruinous lawsuits.  She would
+have seen there what an Italian landscape really is.
+
+"I take a great deal of care of my domain.  I was coming from it to-night
+when I had the double pleasure of finding at the station Miss Bell, who
+had gone there to find her Ghiberti bell, and you, Madame, who were
+talking with a friend from Paris."
+
+He had the idea that it would be disagreeable to her to hear him speak of
+that meeting.  He looked around the table, and saw the expression of
+anxious surprise which Dechartre could not restrain.  He insisted:
+
+"Forgive, Madame, in a rustic, a certain pretension to knowing something
+about the world.  In the man who was talking to you I recognized a
+Parisian, because he had an English air; and while he affected stiffness,
+he showed perfect ease and particular vivacity."
+
+"Oh," said Therese, negligently, "I have not seen him for a long time.
+I was much surprised to meet him at Florence at the moment of his
+departure."
+
+She looked at Dechartre, who affected not to listen.
+
+"I know that gentleman," said Miss Bell.  "It is Monsieur Le Menil.  I
+dined with him twice at Madame Martin's, and he talked to me very well.
+He said he liked football; that he introduced the game in France, and
+that now football is quite the fashion.  He also related to me his
+hunting adventures.  He likes animals.  I have observed that hunters like
+animals.  I assure you, darling, that Monsieur Le Menil talks admirably
+about hares.  He knows their habits.  He said to me it was a pleasure to
+look at them dancing in the moonlight on the plains.  He assured me that
+they were very intelligent, and that he had seen an old hare, pursued by
+dogs, force another hare to get out of the trail so as to deceive the
+hunters.  Darling, did Monsieur Le Menil ever talk to you about hares?"
+
+Therese replied she did not know, and that she thought hunters were
+tiresome.
+
+Miss Bell exclaimed.  She did not think M. Le Menil was ever tiresome
+when talking of the hares that danced in the moonlight on the plains and
+among the vines.  She would like to raise a hare, like Phanion.
+
+"Darling, you do not know Phanion.  Oh, I am sure that Monsieur Dechartre
+knows her.  She was beautiful, and dear to poets.  She lived in the
+Island of Cos, beside a dell which, covered with lemon-trees, descended
+to the blue sea.  And they say that she looked at the blue waves.
+I related Phanion's history to Monsieur Le Menil, and he was very glad to
+hear it.  She had received from some hunter a little hare with long ears.
+She held it on her knees and fed it on spring flowers.  It loved Phanion
+and forgot its mother.  It died before having eaten too many flowers.
+Phanion lamented over its loss.  She buried it in the lemon-grove, in a
+grave which she could see from her bed.  And the shade of the little hare
+was consoled by the songs of the poets."
+
+The good Madame Marmet said that M. Le Menil pleased by his elegant and
+discreet manners, which young men no longer practise.  She would have
+liked to see him.  She wanted him to do something for her.
+
+"Or, rather, for my nephew," she said.  "He is a captain in the
+artillery, and his chiefs like him.  His colonel was for a long time
+under orders of Monsieur Le Menil's uncle, General La Briche.
+If Monsieur Le Menil would ask his uncle to write to Colonel Faure in
+favor of my nephew I should be grateful to him.  My nephew is not a
+stranger to Monsieur Le Menil.  They met last year at the masked ball
+which Captain de Lassay gave at the hotel at Caen."
+
+Madame Marmet cast down her eyes and added:
+
+"The invited guests, naturally, were not society women.  But it is said
+some of them were very pretty.  They came from Paris.  My nephew, who
+gave these details to me, was dressed as a coachman.  Monsieur Le Menil
+was dressed as a Hussar of Death, and he had much success."
+
+Miss Bell said that she was sorry not to have known that M. Le Menil was
+in Florence.  Certainly, she should have invited him to come to Fiesole.
+
+Dechartre remained sombre and distant during the rest of the dinner: and
+when, at the moment of leaving, Therese extended her hand to him, she
+felt that he avoided pressing it in his.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+A woman is frank when she does not lie uselessly
+Disappointed her to escape the danger she had feared
+Does not wish one to treat it with either timidity or brutality
+He knew now the divine malady of love
+I do not desire your friendship
+I have known things which I know no more
+I wished to spoil our past
+Impatient at praise which was not destined for himself
+Incapable of conceiving that one might talk without an object
+Jealous without having the right to be jealous
+Lovers never separate kindly
+Magnificent air of those beggars of whom small towns are proud
+Nobody troubled himself about that originality
+One who first thought of pasting a canvas on a panel
+Simple people who doubt neither themselves nor others
+Superior men sometimes lack cleverness
+The door of one's room opens on the infinite
+The one whom you will love and who will love you will harm you
+The past is the only human reality--Everything that is, is past
+There are many grand and strong things which you do not feel
+They are the coffin saying: 'I am the cradle'
+To be beautiful, must a woman have that thin form
+Trying to make Therese admire what she did not know
+Unfortunate creature who is the plaything of life
+What will be the use of having tormented ourselves in this world
+Women do not always confess it, but it is always their fault
+You must take me with my own soul!
+
+
+
+
+End of this Project Gutenberg Etext of The Red Lily, v2
+by Anatole France
+

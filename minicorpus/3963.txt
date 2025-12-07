@@ -1,0 +1,2823 @@
+The Project Gutenberg Etext of Cosmopolis by Paul Bourget, v1
+#50 in our series The French Immortals Crowned by the French Academy
+#2 in our series by Paul Bourget
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Cosmopolis, v1
+
+Author: Paul Bourget
+
+Release Date: April, 2003  [Etext #3963]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 09/23/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of Cosmopolis by Paul Bourget, v1
+*****This file should be named 3963.txt or 3963.zip****
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07/27/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+COSMOPOLIS
+
+By PAUL BOURGET
+
+
+
+With a Preface by JULES LEMAITRE, of the French academy,
+
+
+
+
+PAUL BOURGET
+
+Born in Amiens, September 2, 1852, Paul Bourget was a pupil at the Lycee
+Louis le Grand, and then followed a course at the Ecole des Hautes
+Etudes, intending to devote himself to Greek philology.  He, however,
+soon gave up linguistics for poetry, literary criticism, and fiction.
+When yet a very young man, he became a contributor to various journals
+and reviews, among others to the 'Revue des deux Mondes, La Renaissance,
+Le Parlement, La Nouvelle Revue', etc.  He has since given himself up
+almost exclusively to novels and fiction, but it is necessary to mention
+here that he also wrote poetry.  His poetical works comprise: 'Poesies
+(1872-876), La Vie Inquiete (1875), Edel (1878), and Les Aveux (1882)'.
+
+With riper mind and to far better advantage, he appeared a few years
+later in literary essays on the writers who had most influenced his own
+development--the philosophers Renan, Taine, and Amiel, the poets
+Baudelaire and Leconte de Lisle; the dramatist Dumas fils, and the
+novelists Turgenieff, the Goncourts, and Stendhal.  Brunetiere says of
+Bourget that "no one knows more, has read more, read better, or
+meditated, more profoundly upon what he has read, or assimilated it more
+completely."  So much "reading" and so much "meditation," even when
+accompanied by strong assimilative powers, are not, perhaps, the most
+desirable and necessary tendencies in a writer of verse or of fiction.
+To the philosophic critic, however, they must evidently be invaluable;
+and thus it is that in a certain self-allotted domain of literary
+appreciation allied to semi-scientific thought, Bourget stands to-day
+without a rival.  His 'Essais de Psychologie Contemporaine (1883),
+Nouveaux Essais (1885), and Etudes et Portraits (1888)' are certainly not
+the work of a week, but rather the outcome of years of self-culture and
+of protracted determined endeavor upon the sternest lines.  In fact, for
+a long time, Bourget rose at 3 a.m.  and elaborated anxiously study after
+study, and sketch after sketch, well satisfied when he sometimes noticed
+his articles in the theatrical 'feuilleton' of the 'Globe' and the
+'Parlement', until he finally contributed to the great 'Debats' itself.
+A period of long, hard, and painful probation must always be laid down,
+so to speak, as the foundation of subsequent literary fame.  But France,
+fortunately for Bourget, is not one of those places where the foundation
+is likely to be laid in vain, or the period of probation to endure for
+ever and ever.
+
+In fiction, Bourget carries realistic observation beyond the externals
+(which fixed the attention of Zola and Maupassant) to states of the mind:
+he unites the method of Stendhal to that of Balzac.  He is always
+interesting and amusing.  He takes himself seriously and persists in
+regarding the art of writing fiction as a science.  He has wit, humor,
+charm, and lightness of touch, and ardently strives after philosophy and
+intellectuality--qualities that are rarely found in fiction.  It may well
+be said of M. Bourget that he is innocent of the creation of a single
+stupid character.  The men and women we read of in Bourget's novels are
+so intellectual that their wills never interfere with their hearts.
+
+The list of his novels and romances is a long one, considering the fact
+that his first novel, 'L'Irreparable,' appeared as late as 1884.  It was
+followed by 'Cruelle Enigme (1885); Un Crime d'Amour (1886); Andre
+Cornelis and Mensonges (1887); Le Disciple (1889); La Terre promise;
+Cosmopolis (1892), crowned by the Academy; Drames de Famille (1899);
+Monique (1902)'; his romances are 'Une Idylle tragique (1896); La
+Duchesse Bleue (1898); Le Fantome (1901); and L'Etape (1902)'.
+
+'Le Disciple' and 'Cosmopolis' are certainly notable books.  The latter
+marks the cardinal point in Bourget's fiction.  Up to that time he had
+seen environment more than characters; here the dominant interest is
+psychic, and, from this point on, his characters become more and more
+like Stendhal's, "different from normal clay."  Cosmopolis is perfectly
+charming.  Bourget is, indeed, the past-master of "psychological"
+fiction.
+
+To sum up: Bourget is in the realm of fiction what Frederic Amiel is in
+the realm of thinkers and philosophers--a subtle, ingenious, highly
+gifted student of his time.  With a wonderful dexterity of pen, a very
+acute, almost womanly intuition, and a rare diffusion of grace about all
+his writings, it is probable that Bourget will remain less known as a
+critic than as a romancer.  Though he neither feels like Loti nor sees
+like Maupassant--he reflects.
+
+                                   JULES LEMAITRE
+                              de l'Academie Francaise.
+
+
+
+
+
+
+AUTHOR'S INTRODUCTION
+
+I send you, my dear Primoli, from beyond the Alps, the romance of
+international life, begun in Italy almost under your eyes, to which I
+have given for a frame that ancient and noble Rome of which you are so
+ardent an admirer.
+
+To be sure, the drama of passion which this book depicts has no
+particularly Roman features, and nothing was farther from my thoughts
+than to trace a picture of the society so local, so traditional, which
+exists between the Quirinal and the Vatican.  The drama is not even
+Italian, for the scene might have been laid, with as much truth, at
+Venice, Florence, Nice, St. Moritz, even Paris or London, the various
+cities which are like quarters scattered over Europe of the fluctuating
+'Cosmopolis,' christened by Beyle: 'Vengo adesso da Cosmopoli'.  It is
+the contrast between the rather incoherent ways of the rovers of high
+life and the character of perennity impressed everywhere in the great
+city of the Caesars and of the Popes which has caused me to choose the
+spot where even the corners speak of a secular past, there to evoke some
+representatives of the most modern, as well as the most arbitrary and the
+most momentary, life.  You, who know better than any one the motley world
+of cosmopolites, understand why I have confined myself to painting here
+only a fragment of it.  That world, indeed, does not exist, it can have
+neither defined customs nor a general character.  It is composed of
+exceptions and of singularities.  We are so naturally creatures of
+custom, our continual mobility has such a need of gravitating around one
+fixed axis, that motives of a personal order alone can determine us upon
+an habitual and voluntary exile from our native land.  It is so, now in
+the case of an artist, a person seeking for instruction and change; now
+in the case of a business man who desires to escape the consequences of
+some scandalous error; now in the case of a man of pleasure in search of
+new adventures; in the case of another, who cherishes prejudices from
+birth, it is the longing to find the "happy mean;" in the case of
+another, flight from distasteful memories.  The life of the cosmopolite
+can conceal all beneath the vulgarity of its whims, from snobbery in
+quest of higher connections to swindling in quest of easier prey,
+submitting to the brilliant frivolities of the sport, the sombre
+intrigues of policy, or the sadness of a life which has been a failure.
+Such a variety of causes renders at once very attractive and almost
+impracticable the task of the author who takes as a model that ever-
+changing society so like unto itself in the exterior rites and fashions,
+so really, so intimately complex and composite in its fundamental
+elements.  The writer is compelled to take from it a series of leading
+facts, as I have done, essaying to deduce a law which governs them.  That
+law, in the present instance, is the permanence of race.  Contradictory
+as may appear this result, the more one studies the cosmopolites, the
+more one ascertains that the most irreducible idea within them is that
+special strength of heredity which slumbers beneath the monotonous
+uniform of superficial relations, ready to reawaken as soon as love stirs
+the depths of the temperament.  But there again a difficulty, almost
+insurmountable, is met with.  Obliged to concentrate his action to a
+limited number of personages, the novelist can not pretend to incarnate
+in them the confused whole of characters which the vague word race sums
+up.  Again, taking this book as an example, you and I, my dear Primoli,
+know a number of Venetians and of English women, of Poles and of Romans,
+of Americans and of French who have nothing in common with Madame Steno,
+Maud and Boleslas Gorka, Prince d'Ardea, Marquis Cibo, Lincoln Maitland,
+his brother-in-law, and the Marquis de Montfanon, while Justus Hafner
+only represents one phase out of twenty of the European adventurer, of
+whom one knows neither his religion, his family, his education, his point
+of setting out, nor his point of arriving, for he has been through
+various ways and means.  My ambition would be satisfied were I to succeed
+in creating here a group of individuals not representative of the entire
+race to which they belong, but only as possibly existing in that race--or
+those races.  For several of them, Justus Hafner and his daughter Fanny,
+Alba Steno, Florent Chapron, Lydia Maitland, have mixed blood in their
+veins.  May these personages interest you, my dear friend, and become to
+you as real as they have been to me for some time, and may you receive
+them in your palace of Tor di Nona as faithful messengers of the grateful
+affection felt for you by your companion of last winter.
+
+                                             PAUL BOURGET.
+
+PARIS, November 16, 1892.
+
+
+
+
+COSMOPOLIS
+
+CHAPTER I
+
+A DILETTANTE AND A BELIEVER
+
+Although the narrow stall, flooded with heaped-up books and papers, left
+the visitor just room enough to stir, and although that visitor was one
+of his regular customers, the old bookseller did not deign to move from
+the stool upon which he was seated, while writing on an unsteady desk.
+His odd head, with its long, white hair, peeping from beneath a once
+black felt hat with a broad brim, was hardly raised at the sound of the
+opening and shutting of the door.  The newcomer saw an emaciated,
+shriveled face, in which, from behind spectacles, two brown eyes twinkled
+slyly.  Then the hat again shaded the paper, which the knotty fingers,
+with their dirty nails, covered with uneven lines traced in a handwriting
+belonging to another age, and from the thin, tall form, enveloped in a
+greenish, worn-out coat, came a faint voice, the voice of a man afflicted
+with chronic laryngitis, uttering as an apology, with a strong Italian
+accent, this phrase in French:
+
+"One moment, Marquis, the muse will not wait."
+
+"Very well, I will; I am no muse.  Listen to your inspiration
+comfortably, Ribalta," replied, with a laugh, he whom the vendor of old
+books received with such original unconstraint.  He was evidently
+accustomed to the eccentricities of the strange merchant.  In Rome--for
+this scene took place in a shop at the end of one of the most ancient
+streets of the Eternal City, a few paces from the Place d'Espagne, so
+well known to tourists--in the city which serves as a confluent for so
+many from all points of the world, has not that sense of the odd been
+obliterated by the multiplicity of singular and anomalous types stranded
+and sheltering there?  You will find there revolutionists like boorish
+Ribalta, who is ending in a curiosity-shop a life more eventful than the
+most eventful of the sixteenth century.
+
+Descended from a Corsican family, this personage came to Rome when very
+young, about 1835, and at first became a seminarist.  On the point of
+being ordained a priest, he disappeared only to return, in 1849, so rabid
+a republican that he was outlawed at the time of the reestablishment of
+the pontifical government.  He then served as secretary to Mazzini, with
+whom he disagreed for reasons which clashed with Ribalta's honor.  Would
+passion for a woman have involved him in such extravagance?  In 1870
+Ribalta returned to Rome, where he opened, if one may apply such a term
+to such a hole, a book-shop.  But he is an amateur bookseller, and will
+refuse you admission if you displease him.  Having inherited a small
+income, he sells or he does not, following his fancy or the requirements
+of his own purchases, to-day asking you twenty francs for a wretched
+engraving for which he paid ten sous, to-morrow giving you at a low price
+a costly book, the value of which he knows.  Rabid Gallophobe, he never
+pardoned his old general the campaign of Dijon any more than he forgave
+Victor Emmanuel for having left the Vatican to Pius IX.  "The house of
+Savoy and the papacy," said he, when he was confidential, "are two eggs
+which we must not eat on the same dish."  And he would tell of a certain
+pillar of St. Peter's hollowed into a staircase by Bernin, where a
+cartouch of dynamite was placed.  If you were to ask him why he became a
+book collector, he would bid you step over a pile of papers, of boarding
+and of folios.  Then he would show you an immense chamber, or rather a
+shed, where thousands of pamphlets were piled up along the walls: "These
+are the rules of all the convents suppressed by Italy.  I shall write
+their history."  Then he would stare at you, for he would fear that you
+might be a spy sent by the king with the sole object of learning the
+plans of his most dangerous enemy--one of those spies of whom he has been
+so much in awe that for twenty years no one has known where he slept,
+where he ate, where he hid when the shutters of his shop in the Rue
+Borgognona were closed.  He expected, on account of his past, and his
+secret manner, to be arrested at the time of the outrage of Passanante as
+one of the members of those Circoli Barsanti, to whom a refractory
+corporal gave his name.
+
+But, on examining the dusty cartoons of the old book-stall, the police
+discovered nothing except a prodigious quantity of grotesque verses
+directed against the Piedmontese and the French, against the Germans and
+the Triple Alliance, against the Italian republicans and the ministers,
+against Cavour and Signor Crispi, against the University of Rome and the
+Inquisition, against the monks and the capitalists!  It was, no doubt,
+one of those pasquinades which his customers watched him at work upon,
+thinking, as he did so, how Rome abounded in paradoxical meetings.
+
+For, in 1867, that same old Garibaldian exchanged shots at Mentana with
+the Pope's Zouaves, among whom was Marquis de Montfanon, for so was
+called the visitor awaiting Ribalta's pleasure.  Twenty-three years had
+sufficed to make of the two impassioned soldiers of former days two
+inoffensive men, one of whom sold old volumes to the other!  And there is
+a figure such as you will not find anywhere else--the French nobleman who
+has come to die near St. Peter's.
+
+Would you believe, to see him with his coarse boots, dressed in a simple
+coat somewhat threadbare, a round hat covering his gray head, that you
+have before you one of the famous Parisian dandies of 1864?  Listen to
+this other history.  Scruples of devoutness coming in the wake of a
+serious illness cast at one blow the frequenter of the 'Cafe Anglais' and
+gay suppers into the ranks of the pontifical zouaves.  A first sojourn in
+Rome during the last four years of the government of Pius IX, in that
+incomparable city to which the presentiment of the approaching
+termination of a secular rule, the advent of the Council, and the French
+occupation gave a still more peculiar character, was enchantment.  All
+the germs of piety instilled in the nobleman by the education of the
+Jesuits of Brughetti ended by reviving a harvest of noble virtues, in the
+days of trial which came only too quickly.  Montfanon made the campaign
+of France with the other zouaves, and the empty sleeve which was turned
+up in place of his left arm attested with what courage he fought at
+Patay, at the time of that sublime charge when the heroic General de
+Sonis unfurled the banner of the Sacred Heart.  He had been a duelist,
+sportsman, gambler, lover, but to those of his old companions of pleasure
+whom chance brought to Rome he was only a devotee who lived economically,
+notwithstanding the fact that he had saved the remnants of a large
+fortune for alms, for reading and for collecting.
+
+Every one has that vice, more or less, in Rome, which is in itself the
+most surprising museum of history and of art.  Montfanon is collecting
+documents in order to write the history of the French nobility and of the
+Church.  His mistresses of the time when he was the rival of the Gramont-
+Caderousses and the Demidoffs would surely not recognize him any more
+than he would them.  But are they as happy as he seems to have remained
+through his life of sacrifice?  There is laughter in his blue eyes, which
+attest his pure Germanic origin, and which light up his face, one of
+those feudal faces such as one sees in the portraits hung upon the walls
+of the priories of Malta, where plainness has race.  A thick, white
+moustache, in which glimmers a vague reflection of gold, partly hides a
+scar which would give to that red face a terrible look were it not for
+the expression of those eyes, in which there is fervor mingled with
+merriment.  For Montfanon is as fanatical on certain subjects as he is
+genial and jovial on others.  If he had the power he would undoubtedly
+have Ribalta arrested, tried, and condemned within twenty-four hours for
+the crime of free-thinking.  Not having it, he amused himself with him,
+so much the more so as the vanquished Catholic and the discontented
+Socialists have several common hatreds.  Even on this particular morning
+we have seen with what indulgence he bore the brusqueness of the old
+bookseller, at whom he gazed for ten minutes without disconcerting him in
+the least.  At length the revolutionist seemed to have finished his
+epigram, for with a quiet smile he carefully folded the sheet of paper,
+put it in a wooden box which he locked.  Then he turned around.
+
+"What do you desire, Marquis?"  he asked, without any further
+preliminary.
+
+"First of all, you will have to read me your poem, old redshirt," said
+Montfanon, "which will only be my recompense for having awaited your good
+pleasure more patiently than an ambassador.  Let us see whom are you
+abusing in those verses?  Is it Don Ciccio or His Majesty?  You will not
+reply?  Are you afraid that I shall denounce you at the Quirinal?"
+
+"No flies enter a closed mouth," replied the old conspirator, justifying
+the proverb by the manner in which he shut his toothless mouth, into
+which, indeed, at that moment, neither a fly nor the tiniest grain of
+dust could enter.
+
+"An excellent saying," returned the Marquis, with a laugh, "and one I
+should like to see engraved on the facade of all the modern parliaments.
+But between your poetry and your adages have you taken the time to write
+for me to that bookseller at Vienna, who owns the last copy of the
+pamphlet on the trial of the bandit Hafner?"
+
+"Patience," said the merchant.  "I will write."
+
+"And my document on the siege of Rome, by Bourbon, those three notarial
+deeds which you promised me, have you dislodged them?"
+
+"Patience, patience," repeated the merchant, adding, as he pointed with a
+comical mixture of irony and of despair to the disorder in his shop,
+"How can you expect me to know where I am in the midst of all this?"
+
+"Patience, patience," repeated Montfanon.  "For a month you have been
+singing that old refrain.  If, instead of composing wretched verses, you
+would attend to your correspondence, and, if, instead of buying
+continually, you would classify this confused mass .  .  .  .  But," said
+he, more seriously, with a brusque gesture, "I am wrong to reproach you
+for your purchases, since I have come to speak to you of one of the last.
+Cardinal Guerillot told me that you showed him, the other day, an
+interesting prayer-book, although in very bad condition, which you found
+in Tuscany.  Where is it?"
+
+"Here it is," said Ribalta, who, leaping over several piles of volumes
+and thrusting aside with his foot an enormous heap of cartoons, opened
+the drawer of a tottering press.  In that drawer he rummaged among an
+accumulation of odd, incongruous objects: old medals and old nails,
+bookbindings and discolored engravings, a large leather box gnawed by
+insects, on the outside of which could be distinguished a partly effaced
+coat-of-arms.  He opened that box and extended toward Montfanon a volume
+covered with leather and studded.  One of the clasps was broken, and when
+the Marquis began to turn over the pages, he could see that the interior
+had not been better taken care of than the exterior.   prints had
+originally ornamented the precious work; they were almost effaced.  The
+yellow parchment had been torn in places.  Indeed, it was a shapeless
+ruin which the curious nobleman examined, however, with the greatest
+care, while Ribalta made up his mind to speak.
+
+"A widow of Montalcino, in Tuscany, sold it to me.  She asked me an
+enormous price, and it is worth it, although it is slightly damaged.  For
+those are miniatures by Matteo da Siena, who made them for Pope Pius II
+Piccolomini.  Look at the one which represents Saint Blaise, who is
+blessing the lions and panthers.  It is the best preserved.  Is it not
+fine?"
+
+"Why try to deceive me, Ribalta?"  interrupted Montfanon, with a gesture
+of impatience.  "You know as well as I that these miniatures are very
+mediocre, and that they do not in the least resemble Matteo's compact
+work; and another proof is that the prayerbook is dated 1554.  See!"
+and, with his remaining hand, very adroitly he showed the merchant the
+figures; "and as I have quite a memory for dates, and as I am interested
+in Siena, I have not forgotten that Matteo died before 1500.  I did not
+go to college with Machiavelli," continued he, with some brusqueness,
+"but I will tell you that which the Cardinal would have told you if you
+had not deceived him by your finesse, as you tried to deceive me just
+now.  Look at this partly effaced signature, which you have not been able
+to read.  I will decipher it for you.  Blaise de Mo, and then a c, with
+several letters missing, just three, and that makes Montluc in the
+orthography of the time, and the b is in a handwriting which you might
+have examined in the archives of that same Siena, since you come from
+there.  Now, with regard to this coat-of-arms," and he closed the book to
+detail to his stupefied companion the arms hardly visible on the cover,
+"do you see a wolf, which was originally of gold, and turtles of gales?
+Those are the arms which Montluc has borne since the year 1554, when he
+was made a citizen of Siena for having defended it so bravely against the
+terrible Marquis de Marignan.  As for the box," he took it in its turn to
+study it, "these are really the half-moons of the Piccolominis.  But what
+does that prove?  That after the siege, and just as it was necessary to
+retire to Montalcino, Montluc gave his prayer-book, as a souvenir, to
+some of that family.  The volume was either lost or stolen, and finally
+reduced to the state in which it now is.  This book, too, is proof that a
+little French blood was shed in the service of Italy.  But those who have
+sold it have forgotten that, like Magenta and Solferino, you have only
+memory for hatred.  Now that you know why I want your prayer-book, will
+you sell it to me for five hundred francs?"
+
+The bookseller listened to that discourse with twenty contradictory
+expressions upon his face.  From force of habit he felt for Montfanon a
+sort of respect mingled with animosity, which evidently rendered it very
+painful for him to have been surprised in the act of telling an untruth.
+It is necessary, to be just, to add that in speaking of the great painter
+Matteo and of Pope Pius II in connection with that unfortunate volume, he
+had not thought that the Marquis, ordinarily very economical and who
+limited his purchases to the strict domain of ecclesiastical history,
+would have the least desire for that prayer-book.  He had magnified the
+subject with a view to forming a legend and to taking advantage of some
+rich, unversed amateur.
+
+On the other hand, if the name of Montluc meant absolutely nothing to
+him, it was not the same with the direct and brutal allusion which his
+interlocutor had made to the war of 1859.  It is always a thorn in the
+flesh of those of our neighbors from beyond the Alps who do not love us.
+The pride of the Garibaldian was not far behind the generosity of the
+former zouave.  With an abruptness equal to that of Montfanon, he took up
+the volume and grumbled as he turned it over and over in his inky
+fingers:
+
+"I would not sell it for six hundred francs.  No, I would not sell it for
+six hundred francs."
+
+"It is a very large sum," said Montfanon.
+
+"No," continued the good man, "I would not sell it."  Then extending it
+to the Marquis, in evident excitement, he cried: "But to you I will sell
+it for four hundred francs."
+
+"But I have offered you five hundred francs for it," said the nonplussed
+purchaser.  "You know that is a small sum for such a curiosity."
+
+"Take it for four," insisted Ribalta, growing more and more eager, "not a
+sou less, not a sou more.  It is what it cost me.  And you shall have
+your documents in two days and the Hafner papers this week.  But was that
+Bourbon who sacked Rome a Frenchman?"  he continued.  "And Charles
+d'Anjou, who fell upon us to make himself King of the two Sicilies?  And
+Charles VIII, who entered by the Porte du Peuple?  Were they Frenchmen?
+Why did they come to meddle in our affairs?  Ah, if we were to calculate
+closely, how much you owe us!  Was it not we who gave you Mazarin,
+Massena, Bonaparte and many others who have gone to die in your army in
+Russia, in Spain and elsewhere?  And at Dijon?  Did not Garibaldi
+stupidly fight for you, who would have taken from him his country?  We
+are quits on the score of service .  .  .  .  But take your prayer-book-
+good-evening, good-evening.  You can pay me later."
+
+And he literally pushed the Marquis out of the stall, gesticulating and
+throwing down books on all sides.  Montfanon found himself in the street
+before having been able to draw from his pocket the money he had got
+ready.
+
+"What a madman!  My God, what a madman!"  said he to himself, with a
+laugh.  He left the shop at a brisk pace, with the precious book under
+his arm.  He understood, from having frequently come in contact with
+them, those southern natures, in which swindling and chivalry elbow
+without harming one another--Don Quixotes who set their own windmills in
+motion.  He asked himself:
+
+"How much would he still make after playing the magnamimous with me?"
+His question was never to be answered, nor was he to know that Ribalta
+had bought the rare volume among a heap of papers, engravings, and old
+books, paying twenty-five francs for all.  Moreover, two encounters which
+followed one upon the other on leaving the shop, prevented him from
+meditating on that problem of commercial psychology.  He paused for a
+moment at the end of the street to cast a glance at the Place d'Espagne,
+which he loved as one of those corners unchanged for the last thirty
+years.  On that morning in the early days of May, the square, with its
+sinuous edge, was indeed charming with bustle and light, with the houses
+which gave it a proper contour, with the double staircase of La Trinite-
+des-Monts lined with idlers, with the water which gushed from a large
+fountain in the form of a bark placed in the centre-one of the
+innumerable caprices in which the fancy of Bernin, that illusive
+decorator, delighted to indulge.  Indeed, at that hour and in that light,
+the fountain was as natural in effect as were the nimble hawkers who held
+in their extended arms baskets filled with roses, narcissus, red
+anemones, fragile cyclamens and dark <DW29>s.  Barefooted, with sparkling
+eyes, entreaties upon their lips, they glided among the carriages which
+passed along rapidly, fewer than in the height of the season, still quite
+numerous, for spring was very late this year, and it came with delightful
+freshness.  The flower-sellers besieged the hurried passers-by, as well
+as those who paused at the shop-windows, and, devout Catholic as
+Montfanon was, he tasted, in the face of the picturesque scene of a
+beautiful morning in his favorite city, the pleasure of crowning that
+impression of a bright moment by a dream of eternity.  He had only to
+turn his eyes to the right, toward the College de la Propagande, a
+seminary from which all the missions of the world set out.
+
+But it was decreed that the impassioned nobleman should not enjoy
+undisturbed the bibliographical trifle obtained so cheaply and which he
+carried under his arm, nor that feeling so thoroughly Roman; a sudden
+apparition surprised him at the corner of a street, at an angle of the
+sidewalk.  His bright eyes lost their serenity when a carriage passed by
+him, a carriage, perfectly appointed, drawn by two black horses, and in
+which, notwithstanding the early hour, sat two ladies.  The one was
+evidently an inferior, a companion who acted as chaperon to the other, a
+young girl of almost sublime beauty, with large black eyes, which
+contrasted strongly with a pale complexion, but a pallor in which there
+was warmth and life.  Her profile, of an Oriental purity, was so much on
+the order of the Jewish type that it left scarcely a doubt as to the
+Hebrew origin of the creature, a veritable vision of loveliness, who
+seemed created, as the poets say, "To draw all hearts in her wake."  But
+no!  The jovial, kindly face of the Marquis suddenly darkened as he
+watched the girl about to turn the corner of the street, and who bowed to
+a very fashionable young man, who undoubtedly knew the late pontifical
+zouave, for he approached him familiarly, saying, in a mocking tone and
+in a French which came direct from France:
+
+"Well!  Now I have caught you, Marquis Claude-Francois de Montfanon!....
+She has come, you have seen her, you have been conquered.  Have your eyes
+feasted upon divine Fanny Hafner?  Tremble!  I shall denounce you to his
+Eminence, Cardinal Guerillot; and if you malign his charming catechist I
+will be there to testify that I saw you hypnotized as she passed, as were
+the people of Troy by Helen.  And I know very positively that Helen had
+not so modern a grace, so beautiful a mind, so ideal a profile, so deep a
+glance, so dreamy a mouth and such a smile.  Ah, how lovely she is!  When
+shall you call?"
+
+"If Monsieur Julien Dorsenne," replied Montfanon, in the same mocking
+tone, "does not pay more attention to his new novel than he is doing at
+this moment, I pity his publisher.  Come here," he added, brusquely,
+dragging the young man to the angle of Rue Borgognona.  "Did you see the
+victoria stop at No. 13, and the divine Fanny, as you call her, alight?
+.  .  .  She has entered the shop of that old rascal, Ribalta.  She will
+not remain there long.  She will come out, and she will drive away in her
+carriage.  It is a pity she will not pass by us again.  We should have
+had the pleasure of seeing her disappointed air.  This is what she is in
+search of," added he, with a gay laugh, exhibiting his purchase, "but
+which she could not have were she to offer all the millions which her
+honest father has stolen in Vienna.  Ha, ha!"  he concluded, laughing
+still more heartily, "Monsieur de Montfanon rose first; this morning has
+not been lost, and you, Monsieur, can see what I obtained at the
+curiosity-shop of that old fellow who will not make a plaything of this
+object, at least," he added, extending the book to his interlocutor, at
+whom he glanced with a comical expression of triumph.
+
+"I do not wish to look at it," responded Dorsenne.  "But, yes," he
+continued, as Montfanon shrugged his shoulders, "in my capacity of
+novelist and observer, since you cast it at my head, I know already what
+it is.  What do you bet?  .  .  .  It is a prayer-book which bears the
+signature of Marshal de Montluc, and which Cardinal Guerillot discovered.
+Is that true?  He spoke to Mademoiselle Hafner about it, and he thought
+he would mitigate your animosity toward her by telling you she was an
+enthusiast and wished to buy it.  Is that true as well?  And you,
+wretched man, had only one thought, to deprive that poor little thing of
+the trifle.  Is that true?  We spent the evening before last together at
+Countess Steno's; she talked to me of nothing but her desire to have the
+book on which the illustrious soldier, the great believer, had prayed.
+She told me of all her heroic resolutions.  Later she went to buy it.
+But the shop was closed; I noticed it on passing, and you certainly went
+there, too .  .  .  .  Is that true?  .  .  .  And, now that I have
+detailed to you the story, explain to me, you who are so just, why you
+cherish an antipathy so bitter and so childish--excuse the word!--for an
+innocent, young girl, who has never speculated on 'Change, who is as
+charitable as a whole convent, and who is fast becoming as devout as
+yourself.  Were it not for her father, who will not listen to the thought
+of conversion before marriage, she would already be a Catholic, and--
+Protestants as they are for the moment--she would never go anywhere but
+to church .  .  .  .  When she is altogether a Catholic, and under the
+protection of a Sainte-Claudine and a Sainte-Francoise, as you are under
+the protection of Saint-Claude and Saint-Francois, you will have to lay
+down your arms, old leaguer, and acknowledge the sincerity of the
+religious sentiments of that child who has never harmed you."
+
+"What!  She has done nothing to me?"  .  .  .  interrupted Montfanon.
+"But it is quite natural that a sceptic should not comprehend what she
+has done to me, what she does to me daily, not to me personally, but to
+my opinions.  When one has, like you, learned intellectual athletics in
+the circus of the Sainte-Beuves and Renans, one must think it fine that
+Catholicism, that grand thing, should serve as a plaything for the
+daughter of a pirate who aims at an aristocratic marriage.  It may, too,
+amuse you that my holy friend, Cardinal Guerillot, should be the dupe of
+that intriguer.  But I, Monsieur, who have received the sacrament by the
+side of a Sonis, I can not admit that one should make use of what was the
+faith of that hero to thrust one's self into the world.  I do not admit
+that one should play the role of dupe and accomplice to an old man whom
+I venerate and whom I shall enlighten, I give you my word."
+
+"And as for this ancient relic," he continued, again showing the volume,
+"you may think it childish that I do not wish it mixed up in the shameful
+comedy.  But no, it shall not be.  They shall not exhibit with words of
+emotion, with tearful eyes, this breviary on which once prayed that grand
+soldier; yes, Monsieur, that great believer.  She has done nothing to
+me," he repeated, growing more and more excited, his red face becoming
+purple with rage, "but they are the quintessence of what I detest the
+most, people like her and her father.  They are the incarnation of the
+modern world, in which there is nothing more despicable than these
+cosmopolitan adventurers, who play at grand seigneur with the millions
+filibustered in some stroke on the Bourse.  First, they have no country.
+What is this Baron Justus Hafner--German, Austrian, Italian?  Do you
+know?  They have no religion.  The name, the father's face, that of the
+daughter, proclaim them Jews, and they are Protestants--for the moment,
+as you have too truthfully said, while they prepare themselves to become
+Mussulmen or what not.  For the moment, when it is a question of God!....
+They have no family.  Where was this man reared?  What did his father,
+his mother, his brothers, his sisters do?  Where did he grow up?  Where
+are his traditions?  Where is his past, all that constitutes, all that
+establishes the moral man?....  Just look.  All is mystery in this
+personage, excepting this, which is very clear: if he had received his
+due in Vienna, at the time of the suit of the 'Credit Austro-Dalmate',
+in 1880, he would be in the galleys, instead of in Rome.  The facts were
+these: there were innumerable failures.  I know something about it.  My
+poor cousin De Saint-Remy, who was with the Comte de Chambord, lost the
+bread of his old age and his daughter's dowry.  There were suicides and
+deeds of violence, notably that of a certain Schroeder, who went mad on
+account of that crash, and who killed himself, after murdering his wife
+and his two children.  And the Baron came out of it unsullied.  It is not
+ten years since the occurrence, and it is forgotten.  When he settled in
+Rome he found open doors, extended hands, as he would have found them in
+Madrid, London, Paris, or elsewhere.  People go to his house; they
+receive him!  And you wish me to believe in the devoutness of that man's
+daughter!....  No, a thousand times no; and you yourself, Dorsenne, with
+your mania for paradoxes and sophisms, you have the right spirit in you,
+and these people horrify you in reality, as they do me."
+
+"Not the least in the world," replied the writer, who had listened to the
+Marquis's tirade; with an unconvinced smile, he repeated: "Not the least
+in the world....  You have spoken of me as an acrobat or an athlete.
+I am not offended, because it is you, and because I know that you love
+me dearly.  Let me at least have the suppleness of one.  First, before
+passing judgment on a financial affair I shall wait until I understand
+it.  Hafner was acquitted.  That is enough, for one thing.  Were he even
+the greatest rogue in the universe, that would not prevent his daughter
+from being an angel, for another.  As for that cosmopolitanism for which
+you censure him, we do not agree there; it is just that which interests
+me in him.  Thirdly,....  I should not consider that I had lost the six
+months spent in Rome, if I had met only him.  Do not look at me as if I
+were one of the patrons of the circus, Uncle Beuve, or poor Monsieur
+Renan himself," he continued, tapping the Marquis's shoulder.  "I swear
+to you that I am very serious.  Nothing interests me more than these
+exceptions to the general rule--than those who have passed through two,
+three, four phases of existence.  Those individuals are my museum, and
+you wish me to sacrifice to your scruples one of my finest subjects....
+Moreover,"--and the malice of the remark he was about to make caused the
+young man's eyes to sparkle "revile Baron Hafner as much as you like,"
+he continued; "call him a thief and a snob, an intriguer and a knave,
+if it pleases you.  But as for being a person who does not know where his
+ancestors lived, I reply, as did Bonhomet when he reached heaven and the
+Lord said to him: 'Still a chimney-doctor, Bonhomet?'--'And you, Lord?'.
+For you were born in Bourgogne, Monsieur de Montfanon, of an ancient
+family, related to all the nobility-upon which I congratulate you--and
+you have lived here in Rome for almost twenty-four years, in the
+Cosmopolis which you revile."
+
+"First of all," replied the Pope's former soldier, holding up his
+mutilated arm, "I might say that I no longer count, I do not live.
+And then," his face became inspired, and the depths of that narrow mind,
+often blinded but very exalted, suddenly appeared, "and then, my Rome to
+me, Monsieur, has nothing in common with that of Monsieur Hafner nor with
+yours, since you are come, it seems, to pursue studies of moral
+teratology.  Rome to me is not Cosmopolis, as you say, it is Metropolis,
+it is the mother of cities....  You forget that I am a Catholic in every
+fibre, and that I am at home here.  I am here because I am a monarchist,
+because I believe in old France as you believe in the modern world; and I
+serve her in my fashion, which is not very efficacious, but which is one
+way, nevertheless....  The post of trustee of Saint Louis, which I
+accepted from Corcelle, is to me my duty, and I will sustain it in the
+best way in my power....  Ah! that ancient France, how one feels her
+grandeur here, and what a part she is known to have had in Christianity!
+It is that chord which I should like to have heard vibrate in a fluent
+writer like you, and not eternally those paradoxes, those sophisms.  But
+what matters it to you who date from yesterday and who boast of it," he
+added, almost sadly, "that in the most insignificant corners of this city
+centuries of history abound?  Does your heart blush at the sight of the
+facade of the church of Saint-Louis, the salamander of Francois I and the
+lilies?  Do you know why the Rue Bargognona is called thus, and that near
+by is Saint-Claudedes-Bourguignons, our church?  Have you visited, you
+who are from the Vosges, that of your province, Saint-Nicolas-des-
+Lorrains?  Do you know Saint-Yves-des-Bretons?"
+
+"But," and here his voice assumed a gay accent, "I have thoroughly
+charged into that rascal of a Hafner.  I have laid him before you without
+any hesitation.  I have spoken to you as I feel, with all the fervor of
+my heart, although it may seem sport to you.  You will be punished, for
+I shall not allow you to escape.  I will take you to the France of other
+days.  You shall dine with me at noon, and between this and then we will
+make the tour of those churches I have just named.  During that time we
+will go back one hundred and fifty years in the past, into that world in
+which there were neither cosmopolites nor dilettantes.  It is the old
+world, but it is hardy, and the proof is that it has endured; while your
+society-look where it is after one hundred years in France, in Italy,
+in England--thanks to that detestable Gladstone, of whom pride has made a
+second Nebuchadnezzar.  It is like Russia, your society; according to the
+only decent words of the obscene Diderot, 'rotten before mature!' Come,
+will you go?"
+
+"You are mistaken," replied the writer, "in thinking that.  I do not love
+your old France, but that does not prevent me from enjoying the new.  One
+can like wine and champagne at the same time.  But I am not at liberty.
+I must visit the exposition at Palais Castagna this morning."
+
+"You will not do that," exclaimed impetuous Montfanon, whose severe face
+again expressed one of those contrarieties which caused it to brighten
+when he was with one of whom he was fond as he was of Dorsenne.  "You
+would not have gone to see the King assassinated in '93?  The selling at
+auction of the old dwelling of Pope Urban VII is almost as tragical!  It
+is the beginning of the agony of what was Roman nobility.  I know.  They
+deserve it all, since they were not killed to the last man on the steps
+of the Vatican when the Italians took the city.  We should have done it,
+we who had no popes among our grand-uncles, if we had not been busy
+fighting elsewhere.  But it is none the less pitiful to see the hammer of
+the appraisers raised above a palace with which is connected centuries of
+history.  Upon my life, if I were Prince d'Ardea--if I had inherited the
+blood, the house, the titles of the Castagnas, and if I thought I should
+leave nothing behind me of that which my fathers had amassed--I swear to
+you, Dorsenne, I should die of grief.  And if you recall the fact that
+the unhappy youth is a spoiled child of eight-and-twenty, surrounded by
+flatterers, without parents, without friends, without counsellors, that
+he risked his patrimony on the Bourse among thieves of the integrity of
+Monsieur Hafner, that all the wealth collected by that succession of
+popes, of cardinals, of warriors, of diplomatists, has served to enrich
+ignoble men, you would think the occurrence too lamentable to have any
+share in it, even as a spectator.  Come, I will take you to Saint-
+Claude."
+
+"I assure you I am expected," replied Dorsenne, disengaging his arm,
+which his despotic friend had already seized.  "It is very strange that I
+should meet you on the way, having the rendezvous I have.  I, who dote on
+contrasts, shall not have lost my morning.  Have you the patience to
+listen to the enumeration of the persons whom I shall join immediately?
+It will not be very long, but do not interrupt me.  You will be angry if
+you will survive the blow I am about to give you.  Ah, you do not wish to
+call your Rome a Cosmopolis; then what do you say to the party with
+which, in twenty minutes, I shall visit the ancient palace of Urban VII?
+First of all, we have your beautiful enemy, Fanny Hafner, and her father,
+the Baron, representing a little of Germany, a little of Austria, a
+little of Italy and a little of Holland.  For it seems the Baron's mother
+was from Rotterdam.  Do not interrupt.  We shall have Countess Steno to
+represent Venice, and her charming daughter, Alba, to represent a small
+corner of Russia, for the Chronicle claims that she was the child, not of
+the defunct Steno, but of Werekiew-Andre, you know, the one who killed
+himself in Paris five or six years ago, by casting himself into the
+Seine, not at all aristocratically, from the Pont de la Concorde.  We
+shall have the painter, the celebrated Lincoln Maitland, to represent
+America.  He is the lover of Steno, whom he stole from Gorka during the
+latter's trip to Poland.  We shall have the painter's wife, Lydia
+Maitland, and her brother, Florent Chapron, to represent a little of
+France, a little of America, and a little of Africa; for their
+grandfather was the famous Colonel Chapron mentioned in the Memorial,
+who, after 1815, became a planter in Alabama.  That old soldier, without
+any prejudices, had, by a mulattress, a son whom he recognized and to
+whom he left--I do not know how many dollars.  'Inde' Lydia and Florent.
+Do not interrupt, it is almost finished.  We shall have, to represent
+England, a Catholic wedded to a Pole, Madame Gorka, the wife of Boleslas,
+and, lastly, Paris, in the form of your servant.  It is now I who will
+essay to drag you away, for were you to join our party, you, the feudal,
+it would be complete....  Will you come?"
+
+"Has the blow satisfied you?"  asked Montfanon.  "And the unhappy man has
+talent," he exclaimed, talking of Dorsenne as if the latter were not
+present, "and he has written ten pages on Rhodes which are worthy of
+Chateaubriand, and he has received from God the noblest gifts--poetry,
+wit, the sense of history; and in what society does he delight!  But,
+come, once for all, explain to me the pleasure which a man of your genius
+can find in frequenting that international Bohemia, more or less gilded,
+in which there is not one being who has standing or a history.  I no
+longer allude to that scoundrel Hafner and his daughter, since you have
+for her, novelist that you are, the eyes of Monsieur Guerillot.  But that
+Countess Steno, who must be at least forty, who has a grown daughter,
+should she not remain quietly in her palace at Venice, respectably,
+bravely, instead of holding here that species of salon for transients,
+through which pass all the libertines of Europe, instead of having lover
+after lover, a Pole after a Russian, an American after a Pole?  And that
+Maitland, why did he not obey the only good sentiment with which his
+compatriots are inspired, the aversion to <DW64> blood, an aversion which
+would prevent them from doing what he has done--from marrying an
+octoroon?  If the young woman knows of it, it is terrible, and if she
+does not it is still more terrible.  And Madame Gorka, that honest
+creature, for I believe she is, and truly pious as well, who has not
+observed for the past two years that her husband was the Countess's
+lover, and who does not see, moreover, that it is now Maitland's turn.
+And that poor Alba Steno, that child of twenty, whom they drag through
+these improper intrigues!  Why does not Florent Chapron put an end to the
+adultery of her sister's husband?  I know him.  He once came to see me
+with regard to a monument he was raising in Saint-Louis in memory of his
+cousin.  He respects the dead, that pleased me.  But he is a dupe in this
+sinister comedy at which you are assisting, you, who know all, while your
+heart does not revolt."
+
+"Pardon, pardon!"  interrupted Dorsenne, "it is not a question of that.
+You wander on and you forget what you have just asked me....  What
+pleasure do I find in the human mosaic which I have detailed to you?
+I will tell you, and we will not talk of the morals, if you please, when
+we are simply dealing with the intellect.  I do not pride myself on being
+a judge of human nature, sir leaguer; I like to watch and to study it,
+and among all the scenes it can present I know of none more suggestive,
+more peculiar, and more modern than this: You are in a salon, at a
+dining-table, at a party like that to which I am going this morning.
+You are with ten persons who all speak the same language, are dressed
+by the same tailor, have read the same morning paper, think the same
+thoughts and feel the same sentiments....  But these persons are like
+those I have just enumerated to you, creatures from very different points
+of the world and of history.  You study them with all that you know of
+their origin and their heredity, and little by little beneath the varnish
+of cosmopolitanism you discover their race, irresistible, indestructible
+race!  In the mistress of the house, very elegant, very cultured, for
+example, a Madame Steno, you discover the descendant of the Doges, the
+patrician of the fifteenth century, with the form of a queen, strength in
+her passion and frankness in her incomparable immorality; while in a
+Florent Chapron or a Lydia you discover the primitive slave, the black
+hypnotized by the white, the unfreed being produced by centuries of
+servitude; while in a Madame Gorka you recognize beneath her smiling
+amiability the fanaticism of truth of the Puritans; beneath the artistic
+refinement of a Lincoln Maitland you find the squatter, invincibly coarse
+and robust; in Boleslas Gorka all the nervous irritability of the Slav,
+which has ruined Poland.  These lineaments of race are hardly visible in
+the civilized person, who speaks three or four languages fluently, who
+has lived in Paris, Nice, Florence, here, that same fashionable,
+monotonous life.  But when passion strikes its blow, when the man is
+stirred to his inmost depths, then occurs the conflict of
+characteristics, more surprising when the people thus brought together
+have come from afar: And that is why," he concluded with a laugh, "I have
+spent six months in Rome without hardly having seen a Roman, busy,
+observing the little clan which is so revolting to you.  It is probably
+the twentieth I have studied, and I shall no doubt study twenty more, for
+not one resembles another.  Are you indulgently inclined toward me, now
+that you have got even with me in making me hold forth at this corner,
+like the hero of a Russian novel?  Well, now adieu."
+
+Montfanon had listened to the discourse with an inpenetrable air.  In the
+religious solitude in which he was awaiting the end, as he said, nothing
+afforded him greater pleasure than the discussion of ideas.  But he was
+inspired by the enthusiasm of a man who feels with extreme ardor, and
+when he was met by the partly ironical dilettanteism of Dorsenne he was
+almost pained by it, so much the more so as the author and he had some
+common theories, notably an extreme fancy for heredity and race.  A sort
+of discontented grimace distorted his expressive face.  He clicked his
+tongue in ill-humor, and said:
+
+"One more question!....  And the result of all that, the object?  To what
+end does all this observation lead you?"
+
+"To what should it lead me?  To comprehend, as I have told you," replied
+Dorsenne.
+
+"And then?"
+
+"There is no then," answered the young man, "one debauchery is like
+another."
+
+"But among the people whom you see living thus," said Montfanon, after a
+pause, "there are some surely whom you like and whom you dislike, for
+whom you entertain esteem and for whom you feel contempt?  Have you not
+thought that you have some duties toward them, that you can aid them in
+leading better lives?"
+
+"That," said Dorsenne, "is another subject which we will treat of some
+other day, for I am afraid now of being late....  Adieu."
+
+"Adieu," said the Marquis, with evident regret at parting.  Then,
+brusquely: "I do not know why I like you so much, for in the main you
+incarnate one of those vices of mind which inspire me with the most
+horror, that dilettanteism set in vogue by the disciples of Monsieur
+Renan, and which is the very foundation of the decline.  You will recover
+from it, I hope.  You are so young!"  Then becoming again jovial and
+mocking: "May you enjoy yourself in your descent of Courtille; I almost
+forgot that I had a message to give to you for one of the supernumeraries
+of your troop.  Will you tell Gorka that I have dislodged the book for
+which he asked me before his departure?"
+
+"Gorka," replied Julien, "has been in Poland three months on family
+business.  I just told you how that trip cost him his mistress."
+
+"What," said Montfanon, "in Poland?  I saw him this morning as plainly as
+I see you.  He passed the Fountain du Triton in a cab.  If I had not been
+in such haste to reach Ribalta's in time to save the Montluc, I could
+have stopped him, but we were both in too great a hurry."
+
+"You are sure that Gorka is in Rome--Boleslas Gorka?"  insisted Dorsenne.
+
+"What is there surprising in that?"  said Montfanon.  "It is quite
+natural that he should not wish to remain away long from a city where he
+has left a wife and a mistress.  I suppose your Slav and your Anglo-Saxon
+have no prejudices, and that they share their Venetian with a
+dilettanteism quite modern.  It is cosmopolitan, indeed....  Well, once
+more, adieu....  Deliver my message to him if you see him, and," his face
+again expressed a childish malice, "do not fail to tell Mademoiselle
+Hafner that her father's daughter will never, never have this volume.
+It is not for intriguers!"  And, laughing like a mischievous schoolboy,
+he pressed the book more tightly under his arm, repeating: "She shall not
+have it.  Listen....  And tell her plainly.  She shall not have it!"
+
+
+
+
+CHAPTER II
+
+THE BEGINNING OF A DRAMA
+
+"There is an intelligent man, who never questions his ideas, " said
+Dorsenne to himself, when the Marquis had left him.  "He is like the
+Socialists.  What vigor of mind in that old wornout machine!"  And for a
+brief moment he watched, with a glance in which there was at least as
+much admiration as pity, the Marquis, who was disappearing down the Rue
+de la Propagande, and who walked at the rapid pace characteristic of
+monomaniacs.  They follow their thoughts instead of heeding objects.
+However, the care he exercised in avoiding the sun's line for the shade
+attested the instincts of an old Roman, who knew the danger of the first
+rays of spring beneath that blue sky.  For a moment Montfanon paused to
+give alms to one of the numerous mendicants who abound in the
+neighborhood of the Place d'Espagne, meritorious in him, for with his one
+arm and burdened with the prayer-book it required a veritable effort to
+search in his pocket.  Dorsenne was well enough acquainted with that
+original personage to know that he had never been able to say "no" to any
+one who asked charity, great or small, of him.  Thanks to that system,
+the enemy of beautiful Fanny Hafner was always short of cash with forty
+thousand francs' income and leading a simple existence.  The costly
+purchase of the relic of Montluc proved that the antipathy conceived for
+Baron Justus's charming daughter had become a species of passion.  Under
+any other circumstances, the novelist, who delighted in such cases, would
+not have failed to meditate ironically on that feeling, easy enough of
+explanation.  There was much more irrational instinct in it than
+Montfanon himself suspected.  The old leaguer would not have been logical
+if he had not had in point of race an inquisition partiality, and the
+mere suspicion of Jewish origin should have prejudiced him against Fanny.
+But he was just, as Dorsenne had told him, and if the young girl had been
+an avowed Jewess, living up zealously to her religion, he would have
+respected but have avoided her, and he never would have spoken of her
+with such bitterness.
+
+The true motive of his antipathy was that he loved Cardinal Guerillot,
+as was his habit in all things, with passion and with jealousy, and he
+could not forgive Mademoiselle Hafner for having formed an intimacy with
+the holy prelate in spite of him, Montfanon, who had vainly warned the
+old Bishop de Clermont against her whom he considered the most wily of
+intriguers.  For months vainly did she furnish proofs of her sincerity of
+heart, the Cardinal reporting them in due season to the Marquis, who
+persisted in discrediting them, and each fresh good deed of his enemy
+augmented his hatred by aggravating the uneasiness which was caused him,
+notwithstanding all, by a vague sense of his iniquity.
+
+But Dorsenne no sooner turned toward the direction of the Palais Castagna
+than he quickly forgot both Mademoiselle Hafner's and Montfanon's
+prejudices, in thinking only of one sentence uttered by the latter that
+which related to the return of Boleslas Gorka.  The news was unexpected,
+and it awakened in the writer such grave fears that he did not even
+glance at the shop-window of the French bookseller at the corner of the
+Corso to see if the label of the "Fortieth thousand" flamed upon the
+yellow cover of his last book, the Eclogue Mondaine, brought out in the
+autumn, with a success which his absence of six months from Paris, had,
+however, detracted from.  He did not even think of ascertaining if the
+regimen he practised, in imitation of Lord Byron, against embonpoint,
+would preserve his elegant form, of which he was so proud, and yet
+mirrors were numerous on the way from the Place d'Espagne to the Palais
+Castagna, which rears its sombre mass on the margin of the Tiber, at the
+extremity of the Via Giulia, like a pendant of the Palais Sacchetti, the
+masterwork of Sangallo.  Dorsenne did not indulge in his usual pastime of
+examining the souvenirs along the streets which met his eye, and yet he
+passed in the twenty minutes which it took him to reach his rendezvous
+a number of buildings teeming with centuries of historical reminiscences.
+There was first of all the vast Palais Borghese--the piano of the
+Borghese, as it has been called, from the form of a clavecin adopted by
+the architect--a monument of splendor, which was, less than two years
+later, to serve as the scene of a situation more melancholy than that of
+the Palais Castagna.
+
+Dorsenne had not an absent glance for the sumptuous building--he passed
+unheeding the facade of St.-Louis, the object of Montfanon's admiration.
+If the writer did not profess for that relic of ancient France the piety
+of the Marquis, he never failed to enter there to pay his literary
+respects to the tomb of Madame de Beaumont, to that 'quia non sunt' of
+an epitaph which Chateaubriand inscribed upon her tombstone, with more
+vanity, alas, than tenderness.  For the first time Dorsenne forgot it;
+he forgot also to gaze with delight upon the rococo fountain on the Place
+Navonne, that square upon which Domitian had his circus, and which
+recalls the cruel pageantries of imperial Rome.  He forgot, too, the
+mutilated statue which forms the angle of the Palais Braschi, two paces
+farther--two paces still farther, the grand artery of the Corso Victor-
+Emmanuel demonstrated the effort at regeneration of present Rome; two
+paces farther yet, the Palais Farnese recalls the grandeur of modern art,
+and the tragedy of contemporary monarchies.  Does not the thought of
+Michelangelo seem to be still imprinted on the sombre cross-beam of that
+immense sarcophagus, which was the refuge of the last King of Naples?
+But it requires a mind entirely free to give one's self up to the charm
+of historical dilettanteism which cities built upon the past conjure up,
+and although Julien prided himself, not without reason, on being above
+emotion, he was not possessed of his usual independence of mind during
+the walk which took him to his "human mosaic," as he picturesquely
+expressed it, and he pondered and repondered the following questions:
+
+"Boleslas Gorka returned?  And two days ago I saw his wife, who did not
+expect him until next month.  Montfanon is not, however, imaginative.
+Boleslas Gorka returned?  At the moment when Madame Steno is mad over
+Maitland--for she is mad!  The night before last, at her house at dinner,
+she looked at him--it was scandalous.  Gorka had a presentiment of it
+this winter.  When the American attempted to take Alba's portrait the
+first time, the Pole put a stop to it.  It was fine for Montfanon to talk
+of division between these two men.  When Boleslas left here, Maitland and
+the Countess were barely acquainted and now---- If he has returned it is
+because he has discovered that he has a rival.  Some one has warned him--
+an enemy of the Countess, a confrere of Maitland.  Such pieces of infamy
+occur among good friends.  If Gorka, who is a shot like Casal, kills
+Maitland in a duel, it will make one deceiver less.  If he avenges
+himself upon his mistress for that treason, it would be a matter of
+indifference to me, for Catherine Steno is a great rogue....  But my
+little friend, my poor, charming Alba, what would become of her if there
+should be a scandal, bloodshed, perhaps, on account of her mother's
+folly?  Gorka returned?  And he did not write it to me, to me who have
+received several letters from him since he went away; to me, whom he
+selected last autumn as the confidant of his jealousies, under the
+pretext that I knew women, and, with the vain hope of inspiring me....
+His silence and return no longer seem like a romance; they savor rather
+of a drama, and with a Slav, as much a Slav as he is, one may expect
+anything.  I know not what to think of it, for he will be at the Palais
+Castagna.  Poor, charming Alba!"
+
+The monologue did not differ much from a monologue uttered under similar
+circumstances by any young man interested in a young girl whose mother
+does not conduct herself becomingly.  It was a touching situation, but a
+very common one, and there was no necessity for the author to come to
+Rome to study it, one entire winter and spring.  If that interest went
+beyond a study, Dorsenne possessed a very simple means of preventing his
+little friend, as he said, from being rendered unhappy by the conduct of
+that mother whom age did not conquer.  Why not propose for her hand?
+He had inherited a fortune, and his success as an author had augmented
+it.  For, since the first book which had established his reputation, the
+'Etudes de Femmes,' published in 1879, not a single one of the fifteen
+novels or selections from novels had remained unnoticed.  His personal
+celebrity could, strictly speaking, combine with it family celebrity,
+for he boasted that his grandfather was a cousin of that brave General
+Dorsenne whom Napoleon could only replace at the head of his guard by
+Friant.  All can be told in a word.  Although the heirs of the hero of
+the Empire had never recognized the relationship, Julien believed in it,
+and when he said, in reply to compliments on his books, "At my age my
+grand-uncle, the Colonel of the Guard, did greater things," he was
+sincere in his belief.  But it was unnecessary to mention it, for,
+situated as he was, Countess Steno would gladly have accepted him as a
+son-in-law.  As for gaining the love of the young girl, with his handsome
+face, intelligent and refined, and his elegant form, which he had
+retained intact in spite of his thirty-seven years, he might have done
+so.  Nothing, however, was farther from his thoughts than such a project,
+for, as he ascended the steps of the staircase of the palace formerly
+occupied by Urban VII, he continued, in very different terms, his
+monologue, a species of involuntary "copy" which is written instinctively
+in the brain of the man of letters when he is particularly fond of
+literature.
+
+At times it assumes a written form, and it is the most marked of
+professional distortions, the most unintelligible to the illiterate,
+who think waveringly and who do not, happily for them, suffer the
+continual servitude to precision of word and to too conscientious
+thought.
+
+"Yes; poor, charming Alba!"  he repeated to himself.  "How unfortunate
+that the marriage with Countess Gorka's brother could not have been
+arranged four months ago.  Connection with the family of her mother's
+lover would be tolerably immoral!  But she would at least have had less
+chance of ever knowing it; and the convenient combination by which the
+mother has caused her to form a friendship with that wife in order the
+better to blind the two, would have bordered a little more on propriety.
+To-day Alba would be Lady Ardrahan, leading a prosaic English life,
+instead of being united to some imbecile whom they will find for her here
+or elsewhere.  She will then deceive him as her mother deceived the late
+Steno--with me, perhaps, in remembrance of our pure intimacy of to-day.
+That would be too sad!  Do not let us think of it!  It is the future,
+of the existence of which we are ignorant, while we do know that the
+present exists and that it has all rights.  I owe to the Contessina my
+best impressions of Rome, to the vision of her loveliness in this scene
+of so grand a past.  And this is a sensation which is enjoyable; to visit
+the Palais Castagna with the adorable creature upon whom rests the menace
+of a drama.  To enjoy the Countess Steno's kindness, otherwise the house
+would not have that tone and I would never have obtained the little one's
+friendship.  To rejoice that Ardea is a fool, that he has lost his
+fortune on the Bourse, and that the syndicate of his creditors, presided
+over by Monsieur Ancona, has laid hands upon his palace.  For, otherwise,
+I should not have ascended the steps of this papal staircase, nor have
+seen this debris of Grecian sarcophagi fitted into the walls, and this
+garden of so intense a green.  As for Gorka, he may have returned for
+thirty-six other reasons than jealousy, and Montfanon is right: Caterina
+is cunning enough to inveigle both the painter and him.  She will make
+Maitland believe that she received Gorka for the sake of Madame Gorka,
+and to prevent him from ruining that excellent woman at gaming.  She will
+tell Boleslas that there was nothing more between her and Maitland than
+Platonic discussions on the merits of Raphael and Perugino.... And I
+should be more of a dupe than the other two for missing the visit.
+It is not every day that one has a chance to see auctioned, like a simple
+Bohemian, the grand-nephew of a pope."
+
+The second suite of reflections resembled more than the first the real
+Dorsenne, who was often incomprehensible even to his best friends.  The
+young man with the large, black eyes, the face with delicate features,
+the olive complexion of a Spanish monk, had never had but one passion,
+too exceptional not to baffle the ordinary observer, and developed in a
+sense so singular that to the most charitable it assumed either an
+attitude almost outrageous or else that of an abominable egotism and
+profound corruption.
+
+Dorsenne had spoken truly, he loved to comprehend--to comprehend as the
+gamester loves to game, the miser to accumulate money, the ambitious to
+obtain position--there was within him that appetite, that taste, that
+mania for ideas which makes the scholar and the philosopher.  But a
+philosopher united by a caprice of nature to an artist, and by that of
+fortune and of education to a worldly man and a traveller.  The abstract
+speculations of the metaphysician would not have sufficed for him, nor
+would the continuous and simple creation of the narrator who narrates to
+amuse himself, nor would the ardor of the semi-animal of the man-of-
+pleasure who abandons himself to the frenzy of vice.  He invented for
+himself, partly from instinct, partly from method, a compromise between
+his contradictory tendencies, which he formulated in a fashion slightly
+pedantic, when he said that his sole aim was to "intellectualize the
+forcible sensations;" in clearer terms, he dreamed of meeting with, in
+human life, the greatest number of impressions it could give and to think
+of them after having met them.
+
+He thought, with or without reason, to discover in his two favorite
+writers, Goethe and Stendhal, a constant application of a similar
+principle.  His studies had, for the past fourteen years when he had
+begun to live and to write, passed through the most varied spheres
+possible to him.  But he had passed through them, lending his presence
+without giving himself to them, with this idea always present in his
+mind: that he existed to become familiar with other customs, to watch
+other characters, to clothe other personages and the sensations which
+vibrated within them.  The period of his revival was marked by the
+achievement of each one of his books which he composed then, persuaded
+that, once written and construed, a sentimental or social experience was
+not worth the trouble of being dwelt upon.  Thus is explained the
+incoherence of custom and the atmospheric contact, if one may so express
+it, which are the characteristics of his work.  Take, for example, his
+first collection of novels, the 'Etudes de Femmes,' which made him
+famous.  They are about a sentimental woman who loved unwisely, and who
+spent hours from excess of the romantic studying the avowed or disguised
+demi-monde.  By the side of that, 'Sans Dieu,' the story of a drama of
+scientific consciousness, attests a continuous frequenting of the Museum,
+the Sorbonne and the College of France, while 'Monsieur de Premier'
+presents one of the most striking pictures of the contemporary political
+world, which could only have been traced by a familiar of the Palais
+Bourbon.
+
+On the other hand, the three books of travel pretentiously named
+'Tourisime,' 'Les Profils d'Etrangeres' and the 'Eclogue Mondaine,' which
+fluctuated between Florence and London, St.-Moritz and Bayreuth, revealed
+long sojourns out of France; a clever analysis of the Italian, English,
+and German worlds; a superficial but true knowledge of the languages, the
+history and literature, which in no way accords with 'l'odor di femina',
+exhale from every page.  These contrasts are brought out by a mind
+endowed with strangely complex qualities, dominated by a firm will and,
+it must be said, a very mediocre sensibility.  The last point will appear
+irreconcilable with the extreme and almost morbid delicacy of certain of
+Dorsenne's works.  It is thus however.  He had very little heart.  But,
+on the other hand, he had an abundance of nerves and nerves, and their
+irritability suffice for him who desires to paint human passions, above
+all, love, with its joys and its sorrows, of which one does not speak to
+a certain extent when one experiences them.  Success had come to Julien
+too early not to have afforded him occasion for several adventures.
+In each of the centres traversed in the course of his sentimental
+vagabondage he tried to find a woman in whom was embodied all the
+scattered charms of the district.  He had formed innumerable intimacies.
+Some had been frankly affectionate.  The majority were Platonic.  Others
+had consisted of the simple coquetry of friendship, as was the case with
+Mademoiselle Steno.  The young man had never employed more vanity than
+enthusiasm.  Every woman, mistress or friend, had been to him, nine times
+out of ten, a curiosity, then a model.  But, as he held that the model
+could not be recognized by any exterior sign, he did not think that he
+was wrong in making use of his prestige as a writer, for what he called
+his "culture."  He was capable of justice, the defense which he made of
+Fanny Hafner to Montfanon proved it; of admiration, his respect for the
+noble qualities of that same Montfanon testify to it; of compassion, for
+without it he would not have apprehended at once with so much sympathy
+the result which the return of Count Gorka would have on the destiny of
+innocent Alba Steno.
+
+On reaching the staircase of the Palais Castagna, instead of hastening,
+as was natural, to find out at least what meant the return to Rome of the
+lover whom Madame Steno deceived, he collected his startled sensibilities
+before meeting Alba, and, pausing, he scribbled in a note-book which he
+drew from his pocket, with a pencil always within reach of his fingers,
+in a firm hand, precise and clear, this note savoring somewhat of
+sentimentalism:
+
+"25 April, '90.  Palais Castagna.--Marvellous staircase constructed by
+Balthazar Peruzzi; so broad and long, with double rows of stairs, like
+those of Santa Colomba, near Siena.  Enjoyed above all the sight of an
+interior garden so arranged, so designed that the red flowers, the
+regularity of the green shrubs, the neat lines of the graveled walks
+resemble the features of a face.  The idea of the Latin garden, opposed
+to the Germanic or Anglo-Saxon, the latter respecting the irregularity of
+nature, the other all in order, humanizing and administering even to the
+flower-garden."
+
+"Subject the complexity of life to a thought harmonious and clear, a
+constant mark of the Latin genus, for a group of trees as well as an
+entire nation, an entire religion--Catholicism.  It is the contrary in
+the races of the North.  Significance of the word: the forests have
+taught man liberty."
+
+He had hardly finished writing that oddly interpreted memorandum, and was
+closing his note-book, when the sound of a familiar voice caused him to
+turn suddenly.  He had not heard ascend the stairs a personage who waited
+until he finished writing, and who was no other than one of the actors in
+his "troupe" to use his expression, one of the persons of the party of
+that morning organized the day before at Madame Steno's, and just the one
+whom the intolerable marquis had defamed with so much ardor, the father
+of beautiful Fanny Hafner, Baron Justus himself.  The renowned founder of
+the 'Credit Austro-Dalmate' was a small, thin man, with blue eyes of an
+acuteness almost insupportable, in a face of neutral color.  His ever-
+courteous manner, his attire, simple and neat, his speech serious and
+discreet, gave to him that species of distinction so common to old
+diplomatists.  But the dangerous adventurer was betrayed by the glance
+which Hafner could not succeed in veiling with indifferent amiability.
+The man-of-the-world, which he prided himself upon having become, was
+visible through all by certain indefinable trifles, and above all by
+those eyes, of a restlessness so singular in so wealthy a man, indicating
+an enigmatical and obscure past of dark and contrasting struggles,
+of covetous sharpness, of cold calculation and indomitable energy.
+Fanatical Montfanon, who abused the daughter with such unjustness, judged
+the father justly.  The son of a Jew of Berlin and of a Dutch Protestant,
+Justus Hafner was inscribed on the civil state registers as belonging to
+his mother's faith.  But the latter died when Justus was very young,
+and he was not reared in any other liturgy than that of money.  From his
+father, a persevering and skilful jeweller, but too prudent to risk or
+gain much, he learned the business of precious stones, to which he added
+that of laces, paintings, old materials, tapestries, rare furniture.
+
+An infallible eye, the patience of a German united with his Israelitish
+and Dutch extraction, soon amassed for him a small capital, which his
+father's bequest augmented.  At twenty-seven Justus had not less than
+five hundred thousand marks.  Two imprudent operations on the Bourse,
+enterprises to force fortune and to obtain the first million, ruined the
+too-audacious courtier, who began again the building up of his fortune by
+becoming a diamond broker.
+
+He went to Paris, and there, in a wretched little room on the Rue
+Montmartre, in three years, he made his second capital.  He then managed
+it so well that in 1870, at the time of the war, he had made good his
+losses.  The armistice found him in England, where he had married the
+daughter of a Viennese agent, in London, for the purpose of starting a
+vast enterprise of revictualing the belligerent armies.  The enormous
+profits made by the father-in-law and the son-in-law during that year
+determined them to found a banking-house which should have its principal
+seat in Vienna and a branch in Berlin.  Justus Hafner, a passionate
+admirer of Herr von Bismarck, controlled, besides, a newspaper.  He tried
+to gain the favor of the great statesman, who refused to aid the former
+diamond merchant in gratifying political ambitions cherished from an
+early age.
+
+It was a bitter disappointment to the persevering man, who, having tried
+his luck in Prussia, emigrated definitively to Vienna.  The establishment
+of the 'Credit Austro-Dalmate,' launched with extraordinary claims,
+permitted him at length to realize at least one of his chimeras.  His
+wealth, while not equaling that of the mighty financiers of the epoch,
+increased with a rapidity almost magical to a cipher high enough to
+permit him, from 1879, to indulge in the luxurious life which can not be
+led by any one with an income short of five hundred thousand francs.
+Contrary to the custom of speculators of his genus, Hafner in time
+invested his earnings safely.  He provided against the coming demolition
+of the structure so laboriously built up.  The 'Credit Austro-Dalmate'
+had suffered in great measure owing to innumerable public and private
+disasters and scandals, such as the suicide and murder in the Schroeder
+family.
+
+Suits were begun against a number of the founders, among them Justus
+Hafner.  He was acquitted, but with such damage to his financial
+integrity and in the face of such public indignation that he abandoned
+Austria for Italy and Vienna for Rome.  There, heedless of first rebuffs,
+he undertook to realize the third great object of his life, the gaining
+of social position.  To the period of avidity had succeeded, as it
+frequently does with those formidable handlers of money, the period of
+vanity.  Being now a widower, he aimed at his daughter's marriage with a
+strength of will and a complication of combinations equal to his former
+efforts, and that struggle for connection with high life was disguised
+beneath the cloak of the most systematically adopted politeness of
+deportment.  How had he found the means, in the midst of struggles and
+hardships, to refine himself so that the primitive broker and speculator
+were almost unrecognizable in the baron of fifty-four, decorated with
+several orders, installed in a magnificent palace, the father of a
+charming daughter, and himself an agreeable conversationalist,
+a courteous gentleman, an ardent sportsman?  It is the secret of those
+natures created for social conquest, like a Napoleon for war and a
+Talleyrand for diplomacy.  Dorsenne asked himself the question
+frequently, and he could not solve it.  Although he boasted of watching
+the Baron with an intellectual curiosity, he could not restrain a shudder
+of antipathy each time he met the eyes of the man.
+
+And on this particular morning it was especially disagreeable to him that
+those eyes had seen him making his unoffending notes, although there was
+scarcely a shade of gentle condescension--that of a great lord who
+patronizes a great artist--in the manner in which Hafner addressed him.
+
+"Do not inconvenience yourself for me, dear sir," said he to Dorsenne.
+"You work from nature, and you are right.  I see that your next novel
+will touch upon the ruin of our poor Prince d'Ardea.  Do not be too hard
+on him, nor on us."
+
+The artist could not help coloring at that benign pleasantry.  It was all
+the more painful to him because it was at once true and untrue.  How
+should he explain the sort of literary alchemy, thanks to which he was
+enabled to affirm that he never drew portraits, although not a line of
+his fifteen volumes was traced without a living model?  He replied,
+therefore, with a touch of ill-humor:
+
+"You are mistaken, my dear Baron.  I do not make notes on persons."
+
+"All authors say that," answered the Baron, shrugging his shoulders with
+the assumed good-nature which so rarely forsook him, "and they are
+right....  At any rate, it is fortunate that you had something to write,
+for we shall both be late in arriving at a rendezvous where there are
+ladies....  It is almost a quarter past eleven, and we should have been
+there at eleven precisely....  But I have one excuse, I waited for my
+daughter."
+
+"And she has not come?"  asked Dorsenne.
+
+"No," replied Hafner, "at the last moment she could not make up her mind.
+She had a slight annoyance this morning--I do not know what old book she
+had set her heart on.  Some rascal found out that she wanted it, and he
+obtained it first....  But that is not the true cause of her absence.
+The true cause is that she is too sensitive, and she finds it so sad that
+there should be a sale of the possessions of this ancient family....
+I did not insist.  What would she have experienced had she known the late
+Princess Nicoletta, Pepino's mother?  When I came to Rome on a visit for
+the first time, in '75, what a salon that was and what a Princess!....
+She was a Condolmieri, of the family of Eugene IV."
+
+"How absurd vanity renders the most refined man," thought Julien, suiting
+his pace to the Baron's.  "He would have me believe that he was received
+at the house of that woman who was politically the blackest of the black,
+the most difficult to please in the recruiting of her salon....  Life is
+more complex than the Montfanons even know of!  This girl feels by
+instinct that which the chouan of a marquis feels by doctrine, the
+absurdity of this striving after nobility, with a father who forgets the
+broker and who talks of the popes of the Middle Ages as of a trinket!....
+While we are alone, I must ask this old fox what he knows of Boleslas
+Gorka's return.  He is the confidant of Madame Steno.  He should be
+informed of the doings and whereabouts of the Pole."
+
+The friendship of Baron Hafner for the Countess, whose financial adviser
+he was, should have been for Dorsenne a reason for avoiding such a
+subject, the more so as he was convinced of the man's dislike for him.
+The Baron could, by a single word perfidiously repeated, injure him very
+much with Alba's mother.  But the novelist, similar on that point to the
+majority of professional observers, had only the power of analysis of a
+retrospective order.  Never had his keen intelligence served him to avoid
+one of those slight errors of conversation which are important mistakes
+on the pitiful checker-board of life.  Happily for him, he cherished no
+ambition except for his pleasure and his art, without which he would have
+found the means of making for himself, gratuitously, enough enemies to
+clear all the academies.
+
+He, therefore, chose the moment when the Baron arrived at the landing on
+the first floor, pausing somewhat out of breath, and after the agent had
+verified their passes, to say to his companion:
+
+"Have you seen Gorka since his arrival?"
+
+"What?  Is Boleslas here?"  asked Justus Hafner, who manifested his
+astonishment in no other manner than by adding: "I thought he was still
+in Poland."
+
+"I have not seen him myself," said Dorsenne.  He already regretted having
+spoken too hastily.  It is always more prudent not to spread the first
+report.  But the ignorance of that return of Countess Steno's best
+friend, who saw her daily, struck the young man with such surprise that
+he could not resist adding: "Some one, whose veracity I can not doubt,
+met him this morning."  Then, brusquely: "Does not this sudden return
+make you fearful?"
+
+"Fearful?"  repeated the Baron.  "Why so?"  As he uttered those words he
+glanced at the writer with his usual impassive expression, which,
+however, a very slight sign, significant to those who knew him, belied.
+In exchanging those few words the two men had passed into the first room
+of "objects of art," having belonged to the apartment of "His Eminence
+Prince d'Ardea," as the catalogue said, and the Baron did not raise the
+gold glass which he held at the end of his nose when near the smallest
+display of bric-a-brac, as was his custom.  As he walked slowly through
+the collection of busts and statues of that first room, called "Marbles"
+on the catalogue, without glancing with the eye of a practised judge at
+the Gobelin tapestry upon the walls, it must have been that he considered
+as very grave the novelist's revelation.  The latter had said too much
+not to continue:
+
+"Well, I who have not been connected with Madame Steno for years, like
+you, trembled for her when that return was announced to me.  She does not
+know what Gorka is when he is jealous, or of what he is capable."
+
+"Jealous?  Of whom?"  interrupted Hafner.  "It is not the first time I
+have heard the name of Boleslas uttered in connection with the Countess.
+I confess I have never taken those words seriously, and I should not have
+thought that you, a frequenter of her salon, one of her friends, would
+hesitate on that subject.  Rest assured, Gorka is in love with his
+charming wife, and he could not make a better choice.  Countess Caterina
+is an excellent person, very Italian.  She is interested in him, as in
+you, as in Maitland, as in me; in you because you write such admirable
+books, in Maitland because he paints like our best masters, in Boleslas
+on account of the sorrow he had in the death of his first child, in me
+because I have so delicate a charge.  She is more than an excellent
+person, she is a truly superior woman, very superior."  He uttered his
+hypocritical speech with such perfect ease that Dorsenne was surprised
+and irritated.  That Hafner did not believe one treacherous word of what
+he said the novelist was sure, he who, from the indiscreet confidences of
+Gorka, knew what to think of the Venetian's manner, and he; too,
+understood the Baron's glance!  At any other time he would have admired
+the policy of the old stager.  At that moment the novelist was vexed by
+it, for it caused him to play a role, very common but not very elevating,
+that of a calumniator, who has spoken ill of a woman with whom he dined
+the day before.  He, therefore, quickened his pace as much as politeness
+would permit, in order not to remain tete-a-tete with the Baron, and also
+to rejoin the persons of their party already arrived.
+
+They emerged from the first room to enter a second, marked "Porcelain;"
+then a third, "Frescoes of Perino del Vaga," on account of the ceiling
+upon which the master painted a companion to his vigorous piece at Genoa-
+-"Jupiter crushing the Giants"--and, lastly, into a fourth, called "The
+Arazzi," from the wonderful panels with which it was decorated.
+
+A few visitors were lounging there, for the season was somewhat advanced,
+and the date which M. Ancona had chosen for the execution proved either
+the calculation of profound hatred or else the adroit ruse of a syndicate
+of retailers.  All the magnificent objects in the palace were adjudged at
+half the value they would have brought a few months sooner or later.  The
+small group of curios stood out in contrast to the profusion of
+furniture, materials, objects of art of all kinds, which filled the vast
+rooms.  It was the residence of five hundred years of power and of
+luxury, where masterpieces, worthy of the great Medicis, and executed in
+their time, alternated with the gewgaws of the eighteenth century and
+bronzes of the First Empire, with silver trinkets ordered but yesterday
+in London.  Baron Justus could not resist these.  He raised his glass and
+called Dorsenne to show him a curious armchair, the carving of a cartel,
+the embroidery on some material.  One glance sufficed for him to
+judge....  If the novelist had been capable of observing, he would have
+perceived in the detailed knowledge the banker had of the catalogue the
+trace of a study too deep not to accord with some mysterious project.
+
+"There are treasures here," said he.  "See these two Chinese vases with
+convex lids, with the orange ground decorated with gilding.  Those are
+pieces no longer made in China.  It is a lost art.  And this tete-a-tete
+decorated with flowers; and this pluvial cope in this case.  What a
+marvel!  It is as good as the one of Pius Second, which was at Pienza and
+which has been stolen.  I could have bought it at one time for fifteen
+hundred francs.  It is worth fifteen thousand, twenty thousand, all of
+that.  Here is some faience.  It was brought from Spain when Cardinal
+Castagna came from Madrid, when he took the place of Pius Fifth as
+sponsor of Infanta Isabella.  Ah, what treasures!  But you go like the
+wind," he added, "and perhaps it is better, for I would stop, and
+Cavalier Fossati, the auctioneer, to whom those terrible creditors of
+Peppino have given charge of the sale, has spies everywhere.  You notice
+an object, you are marked as a solid man, as they say in Germany.  You
+are noted.  I shall be down on his list.  I have been caught by him
+enough.  Ha!  He is a very shrewd man!  But come, I see the ladies.  We
+should have remembered that they were here," and smiling--but at whom?--
+at Fossati, at himself or his companion?--he made the latter read the
+notice hung on the door of a transversal room, which bore this
+inscription: "Salon of marriage-chests."
+
+There were, indeed, ranged along the walls about fifteen of those wooden
+cases painted and carved, of those 'cassoni' in which it was the fashion,
+in grand Italian families, to keep the trousseaux destined for the
+brides.  Those of the Castagnas proved, by their escutcheons, what
+alliances the last of the grand-nephews of Urban VII, the actual Prince
+d'Ardea, entered into.  Three very elegant ladies were examining the
+chests; in them Dorsenne recognized at once fair and delicate Alba Steno,
+Madame Gorka, with her tall form, her fair hair, too, and her strong
+English profile, and pretty Madame Maitland, with her olive complexion,
+who did not seem to have inherited any more <DW64> blood than just enough
+to tint her delicate face.  Florent Chapron, the painter's brother-in-
+law, was the only man with those three ladies.  Countess Steno and
+Lincoln Maitland were not there, and one could hear the musical voice of
+Alba spelling the heraldry carved on the coffers, formerly opened with
+tender curiosity by young girls, laughing and dreaming by turns like her.
+
+"Look, Maud," said she to Madame Gorka, "there is the oak of the Della
+Rovere, and there the stars of the Altieri."
+
+"And I have found the column of the Colonna," replied Maud Gorka.
+
+"And you, Lydia?"  said Mademoiselle Steno to Madame Maitland.
+
+"And I, the bees of the Barberini."
+
+"And I, the lilies of the Farnese, " said in his turn Florent Chapron,
+who, having raised his head first, perceived the newcomers.  He greeted
+them with a pleasant smile, which was reflected in his eyes and which
+showed his white teeth.  "We no longer expected you, sirs.  Every one has
+disappointed us.  Lincoln did not wish to leave his atelier.  It seems
+that Mademoiselle Hafner excused herself yesterday to these ladies.
+Countess Steno has a headache.  We did not even count on the Baron, who
+is usually promptness personified."
+
+"I was sure Dorsenne would not fail us," said Alba, gazing at the young
+man with her large eyes, of a blue as clear as those of Madame Gorka were
+dark.  "Only that I expected we should meet him on the staircase as we
+were leaving, and that he would say to us, in surprise: 'What, I am not
+on time?'  Ah," she continued, "do not excuse yourself, but reply to the
+examination in Roman history we are about to put you through.  We have to
+follow here a veritable course studying all these old chests.  What are
+the arms of this family?"  she asked, leaning with Dorsenne over one of
+the cassoni.  "You do not know?  The Carafa, famous man!  And what Pope
+did they have?  You do not know that either?  Paul Fourth, sir novelist.
+If ever you visit us in Venice, you will be surprised at the Doges."
+
+She employed so affectionate a grace in that speech, and she was so
+apparently in one of her moods--so rare, alas! of childish joyousness,
+that Dorsenne, preoccupied as he was, felt his heart contract on her
+account.  The simultaneous absence of Madame Steno and Lincoln Maitland
+could only be fortuitous.  But persuaded that the Countess loved
+Maitland, and not doubting that she was his mistress, the absence of both
+appeared singularly suspicious to him.  Such a thought sufficed to render
+the young girl's innocent gayety painful to him.  That gayety would
+become tragical if it were true that the Countess's other lover had
+returned unexpectedly, warned by some one.  Dorsenne experienced genuine
+agitation on asking Madame Gorka:
+
+"How is Boleslas?"
+
+"Very well, I suppose," said his wife.  "I have not had a letter to-day.
+Does not one of your proverbs say, 'No news is good news?'"
+
+Baron Hafner was beside Maud Gorka when she uttered that sentence.
+Involuntarily Dorsenne looked at him, and involuntarily, master as he was
+of himself, he looked at Dorsenne.  It was no longer a question of a
+simple hypothesis.  That Boleslas Gorka had returned to Rome unknown to
+his wife constituted, for any one who knew of his relations with Madame
+Steno, and of the infidelity of the latter, an event full of formidable
+consequences.  Both men were possessed by the same thought.  Was there
+still time to prevent a catastrophe?  But each of them in this
+circumstance, as is so often the case in important matters of life, was
+to show the deepness of his character.  Not a muscle of Hafner's face
+quivered.  It was a question, perhaps, of rendering a service to a woman
+in danger, whom he loved with all the feeling of which he was capable.
+That woman was the mainspring of his social position in Rome.  She was
+still more.  A plan for Fanny's marriage, as yet secret, but on the point
+of being consummated, depended upon Madame Steno.  But he felt it
+impossible to attempt to render her any service before having spent half
+an hour in the rooms of the Palais Castagna, and he began to employ that
+half hour in a manner which would be most profitable to his possible
+purchases, for he turned to Madame Gorka and said to her, with the rather
+exaggerated politeness habitual to him:
+
+"Countess, if you will permit me to advise you, do not pause so long
+before these coffers, interesting as they may be.  First, as I have just
+told Dorsenne, Cavalier Fossati, the agent, has his spies everywhere
+here.  Your position has already been remarked, you may be sure, so that
+if you take a fancy for one, he will know it in advance, and he will
+manage to make you pay double, triple, and more for it.  And then we have
+to see so much, notably a cartoon of twelve designs by old masters, which
+Ardea did not even suspect he had, and which Fossati discovered--would
+you believe?--worm-eaten, in a cupboard in one of the granaries."
+
+"There is some one whom your collection would interest," said Florent,
+"my brother-in-law."
+
+"Well," replied Madame Gorka to Hafner with her habitual good-nature,
+"there are at least two of these coffers that I like and wish to have.
+I said it in so loud a tone that it is not worth the trouble of hoping
+that your Cavalier Fossati does not know it, if he really has that mode
+of espionage in practice.  But forty or fifty pounds more make no
+difference--nor forty thousand even."
+
+"Baron Hafner will warn you that your tone is not low enough," laughed
+Alba Steno, "and he will add his great phrase: 'You will never be
+diplomatic.'  But," added the girl, turning toward Dorsenne, having drawn
+back from silent Lydia Maitland, and arranging to fall behind with the
+young man, "I am about to employ a little diplomacy in order to find out
+whether you have any trouble."  And here her mobile face changed its
+expression, looking into Julien's with genuine anxiety.  "Yes," said she,
+"I have never seen you so preoccupied as you seem to be this morning.
+Do you not feel well?  Have you received ill news from Paris?  What ails
+you?"
+
+"I preoccupied?"  replied Dorsenne.  "You are mistaken.  There is
+absolutely nothing, I assure you."  It was impossible to lie with more
+apparent awkwardness, and if any one merited the scorn of Baron Hafner,
+it was he.  Hardly had Madame Gorka spoken, when he had, with the
+rapidity of men of vivid imagination, seen Countess Steno and Maitland
+surprised by Gorka, at that very moment, in some place of rendezvous,
+and that surprise followed by a challenge, perhaps an immediate murder.
+And, as Alba continued to laugh merrily, his presentiment of her sad fate
+became so vivid that his face actually clouded over.  He felt impelled to
+ascertain, when she questioned him, how great a friendship she bore him.
+But his effort to hide his emotion rendered his voice so harsh that the
+young girl resumed:
+
+"I have vexed you by my questioning?"
+
+"Not the least in the world," he replied, without being able to find a
+word of friendship.  He felt at that moment incapable of talking, as they
+usually did, in that tone of familiarity, partly mocking, partly
+sentimental, and he added: "I simply think this exposition somewhat
+melancholy, that is all."  And, with a smile, "But we shall lose the
+opportunity of having it shown us by our incomparable cicerone," and he
+obliged her, by quickening her pace, to rejoin the group piloted by
+Hafner through the magnificence of the almost deserted apartment.
+
+"See," said the former broker of Berlin and of Paris, now an enlightened
+amateur--" see, how that charlatan of a Fossati has taken care not to
+increase the number of trinkets now that we are in the reception-rooms.
+These armchairs seem to await invited guests.  They are known.  They have
+been illustrated in a magazine of decorative art in Paris.  And that
+dining-room through that door, with all the silver on the table, would
+you not think a fete had been prepared?"
+
+"Baron," said Madame Gorka, "look at this material; it is of the
+eighteenth century, is it not?"
+
+"Baron," asked Madame Maitland, "is this cup with the lid old Vienna or
+Capadimonte?"
+
+"Baron," said Florent Chapron, "is this armor of Florentine or Milanese
+workmanship?"
+
+The eyeglass was raised to the Baron's thin nose, his small eyes
+glittered, his lips were pursed up, and he replied, in words as exact as
+if he had studied all the details of the catalogue verbatim.  Their
+thanks were soon followed by many other questions, in which two voices
+alone did not join, that of Alba Steno and that of Dorsenne.  Under any
+other circumstances, the latter would have tried to dissipate the
+increasing sadness of the young girl, who said no more to him after he
+repulsed her amicable anxiety.  In reality, he attached no great
+importance to it.  Those transitions from excessive gayety to sudden
+depression were so habitual with the Contessina, above all when with him.
+Although they were the sign of a vivid sentiment, the young man saw in
+them only nervous unrest, for his mind was absorbed with other thoughts.
+
+He asked himself if, at any hazard, after the manner in which Madame
+Gorka had spoken, it would not be more prudent to acquaint Lincoln
+Maitland with the secret return of his rival.  Perhaps the drama had not
+yet taken place, and if only the two persons threatened were warned, no
+doubt Hafner would put Countess Steno upon her guard.  But when would he
+see her?  What if he, Dorsenne, should at once tell Maitland's brother-
+in-law of Gorka's return, to that Florent Chapron whom he saw at the
+moment glancing at all the objects of the princely exposition?  The step
+was an enormous undertaking, and would have appeared so to any one but
+Julien, who knew that the relations between Florent Chapron and Lincoln
+Maitland were of a very exceptional nature.  Julien knew that Florent--
+sent when very young to the Jesuits of Beaumont, in England, by a father
+anxious to spare him the humiliation which his blood would call down upon
+him in America--had formed a friendship with Lincoln, a pupil in the same
+school.  He knew that the friendship for the schoolmate had turned to
+enthusiasm for the artist, when the talent of his old comrade had begun
+to reveal itself.  He knew that the marriage, which had placed the
+fortune of Lydia at the service of the development of the painter,
+had been the work of that enthusiasm at an epoch when Maitland, spoiled
+by the unwise government of his mother, and unappreciated by the public,
+was wrung by despair.  The exceptional character of the marriage would
+have surprised a man less heeding of moral peculiarities than was
+Dorsenne, who had observed, all too frequently, the silence and reserve
+of that sister not to look upon her as a sacrifice.  He fancied that
+admiration for his brother-in-law's genius had blinded Florent to such a
+degree that he was the first cause of the sacrifice.
+
+"Drama for drama," said he to himself, as the visit drew near its close,
+and after a long debate with himself.  "I should prefer to have it one
+rather than the other in that family.  I should reproach myself all my
+life for not having tried every means."  They were in the last room,
+and Baron Hafner was just fastening the strings of an album of drawings,
+when the conviction took possession of the young man in a definite
+manner.  Alba Steno, who still maintained silence, looked at him again
+with eyes which revealed the struggle of her interest for him and of her
+wounded pride.  She longed, without doubt, at the moment they were about
+to separate, to ask him, according to their intimate and charming custom,
+when they should meet again.  He did not heed her--any more than he did
+the other pair of eyes which told him to be more prudent, and which were
+those of the Baron; any more than he did the observation of Madame Gorka,
+who, having remarked the ill-humor of Alba, was seeking the cause, which
+she had long since divined was the heart of the young girl; any more than
+the attitude of Madame Maitland, whose eyes at times shot fire equal to
+her brother's gentleness.  He took the latter by the arm, and said to him
+aloud:
+
+"I should like to have your opinion on a small portrait I have noticed in
+the other room, my dear Chapron."  Then, when they were before the canvas
+which had served as a pretext for the aside, he continued, in a low
+voice: "I heard very strange news this morning.  Do you know Boleslas
+Gorka is in Rome unknown to his wife?"
+
+"That is indeed strange," replied Maitland's brother-in-law, adding
+simply, after a silence: "Are you certain of it?"
+
+"As certain as that we are here," said Dorsenne.  "One of my friends,
+Marquis de Montfanon, met him this morning."
+
+A fresh silence ensued between the two, during which Julien felt that
+the arm upon which he rested trembled.  Then they joined the party, while
+Florent said aloud: "It is an excellent piece of painting, which has,
+unfortunately, been revarnished too much."
+
+"May I have done right!"  thought Julien.  "He understood me."
+
+
+
+
+CHAPTER III
+
+BOLESLAS GORKA
+
+Hardly ten minutes had passed since Dorsenne had spoken as he had to
+Florent Chapron, and already the imprudent novelist began to wonder
+whether it would not have been wiser not to interfere in any way in an
+adventure in which his intervention was of the least importance.
+
+The apprehension of an immediate drama which had possessed him, for the
+first time, after the conversation with Montfanon, for the second time,
+in a stronger manner, by proving the ignorance of Madame Gorka on the
+subject of the husband's return--that frightful and irresistible
+evocation in a clandestine chamber, suddenly deluged with blood,
+was banished by the simplest event.  The six visitors exchanged their
+last impressions on the melancholy and magnificence of the Castagna
+apartments, and they ended by descending the grand staircase with the
+pillars, through the windows of which staircase smiled beneath the
+scorching sun the small garden which Dorsenne had compared to a face.
+The young man walked a little in advance, beside Alba Steno, whom he now
+tried, but in vain, to cheer.  Suddenly, at the last turn of the broad
+steps which tempered the decline gradually, her face brightened with
+surprise and pleasure.  She uttered a slight cry and said: "There is my
+mother!"  And Julien saw the Madame Steno, whom he had seen, in an access
+of almost delirious anxiety, surprised, assassinated by a betrayed lover.
+She was standing upon the gray and black mosaic of the peristyle, dressed
+in the most charming morning toilette.  Her golden hair was gathered up
+under a large hat of flowers, over which was a white veil; her hand toyed
+with the silver handle of a white parasol, and in the reflection of that
+whiteness, with her clear, fair complexion, with her lovely blue eyes in
+which sparkled passion and intelligence, with her faultless teeth which
+gleamed when she smiled, with her form still slender notwithstanding the
+fulness of her bust, she seemed to be a creature so youthful, so
+vigorous, so little touched by age that a stranger would never have taken
+her to be the mother of the tall young girl who was already beside her
+and who said to her
+
+"What imprudence!  Ill as you were this morning, to go out in this sun.
+Why did you do so?"
+
+"To fetch you and to take you home!"  replied the Countess gayly.  "I was
+ashamed of having indulged myself!  I rose, and here I am.  Good-day,
+Dorsenne.  I hope you kept your eyes open up there.  A story might be
+written on the Ardea affair.  I will tell it to you.  Good-day, Maud.
+How kind of you to make lazy Alba exercise a little!  She would have
+quite a different color if she walked every morning.  Goodday, Florent.
+Good-day, Lydia.  The master is not here?  And you, old friend, what have
+you done with Fanny?"
+
+She distributed these simple "good-days" with a grace so delicate, a
+smile so rare for each one--tender for her daughter, spirituelle for the
+author, grateful for Madame Gorka, amicably surprised for Chapron and
+Madame Maitland, familiar and confiding for her old friend, as she called
+the Baron.  She was evidently the soul of the small party, for her mere
+presence seemed to have caused animation to sparkle in every eye.
+
+All talked at once, and she replied, as they walked toward the carriages,
+which waited in a court of honor capable of holding seventy gala
+chariots.  One after the other these carriages advanced.  The horses
+pawed the ground; the harnesses shone; the footmen and coachmen were
+dressed in perfect liveries; the porter of the Palais Castagna, with his
+long redingote, on the buttons of which were the symbolical chestnuts of
+the family, had beneath his laced hat such a dignified bearing that
+Julien suddenly found it absurd to have imagined an impassioned drama in
+connection with such people.  The last one left, while watching the
+others depart, he once more experienced the sensation so common to those
+who are familiar with the worst side of the splendor of society and who
+perceive in them the moral misery and ironical gayety.
+
+"You are becoming a great simpleton, my friend, Dorsenne," said he,
+seating himself more democratically in one of those open cabs called in
+Rome a botte.  "To fear a tragical adventure for the woman who is
+mistress of herself to such a degree is something like casting one's self
+into the water to prevent a shark from drowning.  If she had not upon her
+lips Maitland's kisses, and in her eyes the memory of happiness, I am
+very much mistaken.  She came from a rendezvous.  It was written for me,
+in her toilette, in the color upon her cheeks, in her tiny shoes, easy to
+remove, which had not taken thirty steps.  And with what mastery she
+uttered her string of falsehoods!  Her daughter, Madame Gorka, Madame
+Maitland, how quickly she included them all!  That is why I do not like
+the theatre, where one finds the actress who employs that tone to utter
+her: 'Is the master not here?'"
+
+He laughed aloud, then his thoughts, relieved of all anxiety, took a new
+course, and, using the word of German origin familiar to Cosmopolitans,
+to express an absurd action, he said: "I have made a pretty schlemylade,
+as Hafner would say, in relating to Florent Gorka's unexpected arrival.
+It was just the same as telling him that Maitland was the Countess's
+lover.  That is a conversation at which I should like to assist, that
+which will take place between the two brothers-in-law.  Should I be very
+much surprised to learn that this unattached <DW64> is the confidant of
+his great friend?  It is a subject to paint, which has never been well
+treated; the passionate friendships of a Tattet for a Musset, of an
+Eckermann for a Goethe, of an Asselineau for a Beaudelaire, the total
+absorption of the admirer in the admired.  Florent found that the genius
+of the great painter had need of a fortune, and he gave him his sister.
+Were he to find that that genius required a passion in order to develop
+still more, he would not object.  My word of honor!  He glanced at the
+Countess just now with gratitude!  Why not, after all?  Lincoln is a
+colorist of the highest order, although his desire to be with the tide
+has led him into too many imitations.  But it is his race.  Young Madame
+Maitland has as much sense as the handle of a basket; and Madame Steno is
+one of those extraordinary women truly created to exalt the ideals of an
+artist.  Never has he painted anything as he painted the portrait of
+Alba.  I can hear this dialogue:
+
+"'You know the Pole has returned?  What Pole?  The Countess's.  What?
+You believe those calumnies?'  Ah, what comedies here below!  'Gad!  The
+cabman has also committed his 'schlemylade'.  I told him Rue Sistina,
+near La Trinite-des-Monts, and here he is going through Place Barberini
+instead of cutting across Capo le Case.  It is my fault as well.
+I should not have heeded it had there been an earthquake.  Let us at
+least admire the Triton of Bernin.  What a sculptor that man was! yet he
+never thought of nature except to falsify it."
+
+These incoherent remarks were made with a good-nature decidedly
+optimistic, as could be seen, when the fiacre finally drew up at the
+given address.  It was that of a very modest restaurant decorated with
+this signboard: 'Trattoria al Marzocco.'  And the 'Marzocco', the lion
+symbolical of Florence, was represented above the door, resting his paw
+on the escutcheon ornamented with the national lys.  The appearance of
+that front did not justify the choice which the elegant Dorsenne
+had made of the place at which to dine when he did not dine in society.
+But his dilettantism liked nothing better than those sudden leaps from
+society, and M. Egiste Brancadori, who kept the Marzocco, was one of
+those unconscious buffoons of whom he was continually in search in real
+life, one of those whom he called his "Thebans", in reference to King
+Lear.  "I'll talk a word with this same learned Theban," cried the mad
+king, one knows not why, when he meets "poor Tom" on the heath.
+
+That Dorsenne's Parisian friends, the Casals, the Machaults, the De
+Vardes, those habitues of the club, might not judge him too severely, he
+explained that the Theban born in Florence was a cook of the first order
+and that the modest restaurant had its story.  It amused so paradoxical
+an observer as Julien was.  He often said, "Who will ever dare to write
+the truth of the history?"  This, for example: Pope Pius IX, having asked
+the Emperor to send him some troops to protect his dominions, the latter
+agreed to do so--an occupation which bore two results: a Corsican hatred
+of the half of Italy against France and the founding of the Marzocco by
+Egiste Brancadori, says the Theban or the doctor.  It was one of the
+pleasantries of the novelist to pretend to have cured his dyspepsia in
+Italy, thanks to the wise and wholesome cooking of the said Egiste.  In
+reality, and more simply, Brancadori was the old cook of a Russian lord,
+one of the Werekiews, the cousin of pretty Alba Steno's real father.
+That Werekiew, renowned in Rome for the daintiness of his dinners, died
+suddenly in 1866.  Several of the frequenters of his house, advised by a
+French officer of the army of occupation, and tired of clubs, hotels, and
+ordinary restaurants, determined to form a syndicate and to employ his
+former cook.  They, with his cooperation, established a sort of superior
+cafe, to which with some pride they gave the name of the Culinary Club.
+By assuring to each one a minimum of sixteen meals for seven francs, they
+kept for four years an excellent table, at which were to be found all the
+distinguished tourists in Rome.  The year 1870 had disbanded that little
+society of connoisseurs and of conversationalists, and the club was
+metamorphosed into a restaurant, almost unknown, except to a few artists
+or diplomats who were attracted by the ancient splendors of the place,
+and, above all, by the knowledge of the "doctor's" talents.
+
+It was not unusual at eight o'clock for the three small rooms which
+composed the establishment to be full of men in white cravats, white
+waistcoats and evening coats.  To cosmopolitan Dorsenne this was a
+singularly interesting sight; a member of the English embassy here, of
+the Russian embassy farther on, two German attaches elsewhere, two French
+secretaries near at hand from St. Siege, another from the Quirinal.  What
+interested the novelist still more was the conversation of the doctor
+himself, genial Brancadori, who could neither read nor write.  But he had
+preserved a faithful remembrance of all his old customers, and when he
+felt confidential, standing erect upon the threshold of his kitchen, of
+the possession of which he was so insolently proud, he repeated curious
+stories of Rome in the days of his youth.  His gestures, so conformable
+to the appearance of things, his mobile face and his Tuscan tongue, which
+softened into h all the harsh e's between two vowels, gave a savor to his
+stories which delighted a seeker after local truths.  It was in the
+morning especially, when there was no one in the restaurant, that he
+voluntarily left his ovens to chat, and if Dorsenne gave the address of
+the Marzocco to his cabman, it was in the hope that the old cook would in
+his manner sketch for him the story of the ruin of Ardea.  Brancadori was
+standing by the bar where was enthroned his niece, Signorina Sabatina,
+with a charming Florentine face, chin a trifle long, forehead somewhat
+broad, nose somewhat short, a sinuous mouth, large, black eyes, an olive
+complexion and waving hair, which recalled in a forcible manner the
+favorite type of the first of the Ghirlandajos.
+
+"Uncle," said the young girl, as soon as she perceived Dorsenne, "where
+have you put the letter brought for the Prince?"
+
+In Italy every foreigner is a prince or a count, and the profound good-
+nature which reigns in the habit gives to those titles, in the mouths of
+those who employ them, an amiability often free from calculation.  There
+is no country in the world where there is a truer, a more charming
+familiarity of class for class, and Brancadori immediately gave a proof
+of it in addressing as "Carolei"--that is to say, "my dear"--him whom his
+daughter had blazoned with a coronet, and he cried, fumbling in the
+pockets of the alpaca waistcoat which he wore over his apron of office:
+
+"The brain is often lacking in a gray head.  I put it in the pocket of my
+coat in order to be more sure of not forgetting it.  I changed my coat,
+because it was warm, and left it with the letter in my apartments."
+
+"You can look for it after lunch," said Dorsenne.
+
+"No," replied the young girl, rising, "it is not two steps from here;
+I will go.  The concierge of the palace where your Excellency lives
+brought it himself, and said it must be delivered immediately."
+
+"Very well, go and fetch it," replied Julien, who could not suppress a
+smile at the honor paid his dwelling, "and I will remain here and talk
+with my doctor, while he gives me the prescription for this morning--that
+is to say, his bill of fare.  Guess whence I come, Brancadori," he added,
+assured of first stirring the cook's curiosity, then his power of speech.
+"From the Palais Castagna, where they are selling everything."
+
+"Ah! Per Bacco!" exclaimed the Tuscan, with evident sorrow upon his old
+parchment-like face, scorched from forty years of cooking.  "If the
+deceased Prince Urban can see it in the other world, his heart will
+break, I assure you.  The last time he came to dine here, about ten years
+ago, on Saint Joseph's Day, he said to me: 'Make me some fritters,
+Egiste, like those we used to have at Monsieur d'Epinag's, Monsieur
+Clairin's, Fortuny's, and poor Henri Regnault's.'  And he was happy!
+'Egiste,' said he to me, 'I can die contented!  I have only one son, but
+I shall leave him six millions and the palace.  If it was Gigi I should
+be less easy, but Peppino !' Gigi was the other one, the elder, who died,
+the gay one, who used to come here every day--a fine fellow, but bad!
+You should have heard him tell of his visit to Pius Ninth on the day upon
+which he converted an Englishman.  Yes, Excellency, he converted him by
+lending him by mistake a pious book instead of a novel.  The Englishman
+took the book, read it, read another, a third, and became a Catholic.
+Gigi, who was not in favor at the Vatican, hastened to tell the Holy
+Father of his good deed.  'You see, my son,' said Pius Ninth, 'what means
+our Lord God employs!'  Ah, he would have used those millions for his
+amusement, while Peppino!  They were all squandered in signatures.  Just
+think, the name of Prince d'Ardea meant money!  He speculated, he lost,
+he won, he lost again, he drew up bills of exchange after bills of
+exchange.  And every time he made a move such as I am making with my
+pencil--only I can not sign my name--it meant one hundred, two hundred
+thousand francs to go into the world.  And now he must leave his house
+and Rome.  What will he do, Excellency, I ask you?"  With a shake of his
+head he added: "He should reconstruct his fortune abroad.  We have this
+saying: 'He who squanders gold with his hands will search for it with his
+feet.'  But Sabatino is coming!  She has been as nimble as a cat."
+
+The good man's invaluable mimetic art, his proverbs, the story of the
+fete of St. Joseph, the original evocation of the heir of the Castagnas
+continually signing and signing, the coarse explanation of his ruin--very
+true, however--everything in the recital had amused Dorsenne.  He knew
+enough Italian to appreciate the untranslatable passages of the language
+of the man of the people.  He was again on the verge of laughter, when
+the fresco madonna, as he sometimes designated the young girl, handed him
+an envelope the address upon which soon converted his smile into an
+undisguised expression of annoyance.  He pushed aside the day's bill of
+fare which the old cook presented to him and said, brusquely: "I fear I
+can not remain to breakfast."  Then, opening the letter: "No, I can not;
+adieu."  And he went out, in a manner so precipitate and troubled that
+the uncle and niece exchanged smiling glances.  Those typical Southerners
+could not think of any other trouble in connection with so handsome a man
+as Dorsenne than that of the heart.
+
+"Chi ha l'amor nel petto," said Signorina Sabatina.
+
+"Ha lo spron nei fianchi," replied the uncle.
+
+That naive adage which compares the sharp sting which passion drives into
+our breasts to the spurring given the flanks of a horse, was not true of
+Dorsenne.  The application of the proverb to the circumstance was not,
+however, entirely erroneous, and the novelist commented upon it in his
+passion, although in another form, by repeating to himself, as he went
+along the Rue Sistina: "No, no, I can not interfere in that affair, and I
+shall tell him so firmly."
+
+He examined again the note, the perusal of which had rendered him more
+uneasy than he had been twice before that morning.  He had not been
+mistaken in recognizing on the envelope the handwriting of Boleslas
+Gorka, and these were the terms, teeming with mystery under the
+circumstances, in which the brief message was worded:
+
+"I know you to be such a friend to me, dear Julien, and I have for your
+character, so chivalrous and so French, such esteem that I have
+determined to turn to you in an era of my life thoroughly tragical.
+I wish to see you immediately.  I shall await you at your lodging.
+I have sent a similar note to the Cercle de la Chasse, another to the
+bookshop on the Corso, another to your antiquary's.  Wheresoever my
+appeal finds you, leave all and come at once.  You will save more for me
+than life.  For a reason which I will tell you, my return is a profound
+secret.  No one, you understand, knows of it but you.  I need not write
+more to a friend as sincere as you are, and whom I embrace with all my
+heart."
+
+"It is unequalled.!"  said Dorsenne, crumpling the letter with rising
+anger.  "He embraces me with all his heart.  I am his most sincere
+friend!  I am chivalrous, French, the only person he esteems!  What
+disagreeable commission does he wish me to undertake for him?  Into what
+scrape is he about to ask me to enter, if he has not already got me into
+it?  I know that school of protestation.  We are allied for life and
+death, are we not?  Do me a favor!  And they upset your habits, encroach
+upon your time, embark you in tragedies, and when you say 'No' to them-
+then they squarely accuse you of selfishness and of treason!  It is my
+fault, too.  Why did I listen to his confidences?  Have I not known for
+years that a man who relates his love-affairs on so short an acquaintance
+as ours is a scoundrel and a fool?  And with such people there can be no
+possible connection.  He amused me at the beginning, when he told me his
+sly intrigue, without naming the person, as they all do at first.  He
+amused me still more by the way he managed to name her without violating
+that which people in society call honor.  And to think that the women
+believe in that honor and that discretion!  And yet it was the surest
+means of entering Steno's, and approaching Alba....  I believe I am about
+to pay for my Roman flirtation.  If Gorka is a Pole, I am from Lorraine,
+and the heir of the Castellans will only make me do what I agree to,
+nothing more."
+
+In such an ill-humor and with such a resolution, Julien reached the door
+of his house.  If that dwelling was not the palace alluded to by
+Signorina Sabatina, it was neither the usually common house as common
+today in new Rome as in contemporary Paris, modern Berlin, and in certain
+streets of London opened of late in the neighborhood of Hyde Park.  It
+was an old building on the Place de la Trinite-des-Monts, at an angle of
+the two streets Sistina and Gregoriana.  Although reduced to the state of
+a simple pension, more or less bourgeoise, that house had its name marked
+in certain guide-books, and like all the corners of ancient Rome it
+preserved the traces of a glorious, artistic history.  The small columns
+of the porch gave it the name of the tempietto, or little temple, while
+several personages dear to litterateurs had lived there, from the
+landscape painter Claude Lorrain to the poet Francois Coppee.  A few
+paces distant, almost opposite, lived Poussin, and one of the greatest
+among modern English poets, Keats, died quite near by, the John Keats
+whose tomb is to be seen in Rome, with that melancholy epitaph upon it,
+written by himself:
+
+          Here lies one whose name was writ in water.
+
+It was seldom that Dorsenne returned home without repeating to himself
+the translation he had attempted of that beautiful 'Ci-git un don't le
+nom, jut ecrit sur de l'eau'.
+
+Sometimes he repeated, at evening, this delicious fragment:
+
+The sky was tinged with tender green and pink.
+
+This time he entered in a more prosaic manner; for he addressed the
+concierge in the tone of a jealous husband or a debtor hunted by
+creditors:
+
+"Have you given the key to any one, Tonino?"  he asked.
+
+"Count Gorka said that your Excellency asked him to await you here,"
+replied the man, with a timidity rendered all the more comical by the
+formidable cut of his gray moustache and his imperial, which made him a
+caricature of the late King Victor Emmanuel.
+
+He had served in '59 under the Galantuomo, and he paid the homage of a
+veteran of Solferino to that glorious memory.  His large eyes rolled with
+fear at the least confusion, and he repeated:
+
+"Yes, he said that your Excellency asked him to wait," while Dorsenne
+ascended the staircase, saying aloud: "More and more perfect.  But this
+time the familiarity passes all bounds; and it is better so.  I have been
+so surprised and annoyed from the first that I shall be easily able to
+refuse the imprudent fellow what he will ask of me."  In his anger the
+novelist sought to arm himself against his weakness, of which he was
+aware--not the weakness of insufficient will, but of a too vivid
+perception of the motives which the person with whom he was in conflict
+obeyed.  He, however, was to learn that there is no greater dissolvent of
+rancor than intelligent curiosity.  His was, indeed, aroused by a simple
+detail, which consisted in ascertaining under what conditions the Pole
+had travelled; his dressing-case, his overcoat and his hat, still white
+with the dust of travel, were lying upon the table in the antechamber.
+
+Evidently he had come direct from Warsaw to the Place de la Trinite-des-
+Monts.  A prey to what delirium of passion?  Dorsenne had not time to ask
+the question any more than he had presence of mind to compose his manner
+to such severity that it would cut short all familiarity on the part of
+his strange visitor.  At the noise made by the opening of the antechamber
+door, Boleslas started up.  He seized both hands of the man into whose
+apartments he had obtruded himself.  He pressed them.  He gazed at him
+with feverish eyes, with eyes which had not closed for hours, and he
+murmured, drawing the novelist into the tiny salon:
+
+"You have come, Julien, you are here!  Ah, I thank you for having
+answered my call at once!  Let me look at you, for I am sure I have a
+friend beside me, one in whom I can trust, with whom I can speak frankly,
+upon whom I can depend.  If this solitude had lasted much longer I should
+have become mad."
+
+Although Madame Steno's lover belonged to the class of excitable, nervous
+people who exaggerate their feelings by an unconscious wildness of tone
+and of manner, his face bore the traces of a trouble too deep not to be
+startling.
+
+Julien, who had seen him set out, three months before, so radiantly
+handsome, was struck by the change which had taken place during such a
+brief absence.  He was the same Boleslas Gorka, that handsome man, that
+admirable human animal, so refined and so strong, in which was embodied
+centuries of aristocracy--the Counts de Gorka belong to the ancient house
+of Lodzia, with which are connected so many illustrious Polish families,
+the Opalenice-Opalenskis, the Bnin-Bninskis, the Ponin-Poniniskis and
+many others--but his cheeks were sunken beneath his long, brown beard,
+in which were glints of gold; his eyes were heavy as if from wakeful
+nights, his nostrils were pinched and his face was pale.  The travel-
+stains upon his face accentuated the alteration.
+
+Yet the native elegance of that face and form gave grace to his
+lassitude.  Boleslas, in the vigorous and supple maturity of his thirty-
+four years, realized one of those types of manly beauty so perfect that
+they resist the strongest tests.  The excesses of emotion, as those of
+libertinism, seem only to invest the man with a new prestige; the fact is
+that the novelist's room, with its collection of books, photographs,
+engravings, paintings and moldings, invested that form, tortured by the
+bitter sufferings of passion, with a poesy to which Dorsenne could not
+remain altogether insensible.  The atmosphere, impregnated with Russian
+tobacco and the bluish vapor which filled the room, revealed in what
+manner the betrayed lover had diverted his impatience, and in the centre
+of the writing-table a cup with a bacchanal painted in red on a black
+ground, of which Julien was very proud, contained the remains of about
+thirty cigarettes, thrown aside almost as soon as lighted.  Their paper
+ends had been gnawed with a nervousness which betrayed the young man's
+condition, while he repeated, in a tone so sad that it almost called
+forth a shudder:
+
+"Yes, I should have gone mad."
+
+"Calm yourself, my dear Boleslas, I implore you," replied Dorsenne.  What
+had become of his ill-humor?  How could he preserve it in the presence of
+a person so evidently beside himself?  Julien continued, speaking to his
+companion as one speaks to a sick child: "Come, be seated.  Be a little
+more tranquil, since I am here, and you have reason to count on my
+friendship.  Speak to me.  Explain to me what has happened.  If there is
+any advice to give you, I am ready.  I am prepared to render you a
+service.  My God!  In what a state you are!"
+
+"Is it not so?"  said the other, with a sort of ironical pride.  It was
+sufficient that he had a witness of his grief for him to display it with
+secret vanity.  "Is it not so?"  he continued.  "Could you only know how
+I have suffered.  This is nothing," said he, alluding to his haggard
+appearance.  "It is here that you should read," he struck his breast,
+then passing his hands over his brow and his eyes, as if to exorcise a
+nightmare.  "You are right.  I must be calm, or I am lost."
+
+After a prolonged silence, during which he seemed to have gathered
+together his thoughts and to collect his will, for his voice had become
+decided and sharp, he began:  "You know that I am here unknown to any
+one, even to my wife."
+
+"I know it," replied Dorsenne.  "I have just left the Countess.  This
+morning I visited the Palais Castagna with her, Hafner, Madame Maitland,
+Florent Chapron."  He paused and added, thinking it better not to lie on
+minor points, "Madame Steno and Alba were there, too."
+
+"Any one else?"  asked Boleslas, with so keen a glance that the author
+had to employ all his strength to reply:
+
+"No one else."
+
+There was a silence between the two men.
+
+Dorsenne anticipated from his question toward what subject the
+conversation was drifting.  Gorka, now lying rather than sitting upon the
+divan in the small room, appeared like a beast that, at any moment, might
+bound.  Evidently he had come to Julien's a prey to the mad desire to
+find out something, which is to jealousy what thirst is to certain
+punishments.  When one has tasted the bitter draught of certainty, one
+does not suffer less.  Yet one walks toward it, barefooted, on the heated
+pavement, heedless of the heat.  The motives which led Boleslas to choose
+the French novelist as the one from whom to obtain his information,
+demonstrated that the feline character of his physiognomy was not
+deceptive.  He understood Dorsenne much better than Dorsenne understood
+him.  He knew him to be nervous, on the one hand, and perspicacious on
+the other.  If there was an intrigue between Maitland and Madame Steno,
+Julien had surely observed it, and, approached in a certain manner,
+he would surely betray it.  Moreover--for that violent and crafty nature
+abounded in perplexities--Boleslas, who passionately admired the author's
+talent, experienced a sort of indefinable attraction in exhibiting
+himself before him in the role of a frantic lover.  He was one of the
+persons who would have his photograph taken on his deathbed, so much
+importance did he attach to his person.  He would, no doubt, have been
+insulted, if the author of 'Une Eglogue Mondaine' had portrayed in a book
+himself and his love for Countess Steno, and yet he had only approached
+the author, had only chosen him as a confidant with the vague hope of
+impressing him.  He had even thought of suggesting to him some creation
+resembling himself.  Yes, Gorka was very complex, for he was not
+contented with deceiving his wife, he allowed the confiding creature to
+form a friendship with the daughter of her husband's mistress.  Still,
+he deceived her with remorse, and had never ceased bearing her an
+affection as sorrowful as it was respectful.  But it required Dorsenne to
+admit the like anomalies, and the rare sensation of being observed in his
+passionate frenzy attracted the young man to some one who was at once a
+sure confidant, a possible portrayer, a moral accomplice.  It was
+necessary now, but it would not be an easy matter, to make of him his
+involuntary detective.
+
+"You see," resumed he suddenly, "to what miserable, detailed inquiries
+I have descended, I who always had a horror of espionage, as of some
+terrible degradation.  I shall question you frankly, for you are my
+friend.  And what a friend!  I intended to use artifice with you at
+first, but I was ashamed.  Passion takes possession of me and distorts
+me.  No matter what infamy presents itself, I rush into it, and then I am
+afraid.  Yes, I am afraid of myself!  But I have suffered so much!  You
+do not understand?  Well!  Listen," continued he, covering Dorsenne with
+one of those glances so scrutinizing that not a gesture, not a quiver of
+his eyelids, escaped him, "and tell me if you have ever imagined for one
+of your romances a situation similar to mine.  You remember the mortal
+fear in which I lived last winter, with the presence of my brother-in-
+law, and the danger of his denouncing me to my poor Maud, from stupidity,
+from a British sense of virtue, from hatred.  You remember, also, what
+that voyage to Poland cost me, after those long months of anxiety?  The
+press of affairs and the illness of my aunt coming just at the moment
+when I was freed from Ardrahan, inspired me with miserable forebodings.
+I have always believed in presentiments.  I had one.  I was not mistaken.
+From the first letter I received--from whom you can guess--I saw that
+there was taking place in Rome something which threatened me in what I
+held dearest on earth, in that love for which I sacrificed all, toward
+which I walked by trampling on the noblest of hearts.  Was Catherine
+ceasing to love me?  When one has spent two years of one's life in a
+passion--and what years!--one clings to it with every fibre!  I will
+spare you the recital of those first weeks spent in going here and there,
+in paying visits to relatives, in consulting lawyers, in caring for my
+sick aunt, in fulfilling my duty toward my son, since the greater part of
+the fortune will go to him.  And always with this firm conviction: She no
+longer writes to me as formerly, she no longer loves me.  Ah!  if I could
+show you the letter she wrote when I was absent once before.  You have a
+great deal of talent, Julien, but you have never composed anything more
+beautiful."
+
+He paused, as if the part of the confession he was approaching cost him a
+great effort, while Dorsenne interpolated:
+
+"A change of tone in correspondence is not, however, sufficient to
+explain the fever in which I see you."
+
+"No," resumed Gorka, "but it was not merely a change of tone.  I
+complained.  For the first time my complaint found no echo.  I threatened
+to cease writing.  No reply.  I wrote to ask forgiveness.  I received a
+letter so cold that in my turn I wrote an angry one.  Another silence!
+Ah!  You can imagine the terrible effect produced upon me by an unsigned
+letter which I received fifteen days since.  It arrived one morning.  It
+bore the Roman postmark.  I did not recognize the handwriting.  I opened
+it.  I saw two sheets of paper on which were pasted cuttings from a
+French journal.  I repeat it was unsigned; it was an anonymous letter."
+
+"And you read it?"  interrupted Dorsenne.  "What folly!"
+
+"I read it," replied the Count.  "It began with words of startling truth
+relative to my own situation.  That our affairs are known to others we
+may be sure, since we know theirs.  We should, consequently, remember
+that we are at the mercy of their indiscretion, as they are at ours.
+The beginning of the note served as a guarantee of the truth of the end,
+which was a detailed, minute recital of an intrigue which Madame Steno
+had been carrying on during my absence, and with whom?  With the man whom
+I always mistrusted, that dauber who wanted to paint Alba's portrait--but
+whose desires I nipped in the bud--with the fellow who degraded himself
+by a shameful marriage for money, and who calls himself an artist--with
+that American--with Lincoln Maitland!"
+
+Although the childish and unjust hatred of the jealous--the hatred which
+degrades us in lowering the one we love-had poisoned his discourse with
+its bitterness, he did not cease watching Dorsenne.  He partly raised
+himself on the couch and thrust his head forward as he uttered the name
+of his rival, glancing keenly at the novelist meanwhile.  The latter
+fortunately had been rendered indignant at the news of the anonymous
+letter, and he repeated, with an astonishment which in no way aided his
+interlocutor:
+
+"Wait," resumed Boleslas; "that was merely a beginning.  The next day I
+received another letter, written and sent under the same conditions; the
+day after, a third.  I have twelve of them--do you hear?  twelve--in my
+portfolio, and all composed with the same atrocious knowledge of the
+circle in which we move, as was the first.  At the same time I was
+receiving letters from my poor wife, and all coincided, in the terrible
+series, in a frightful concordance.  The anonymous letter told me: 'To-
+day they were together two hours and a quarter,' while Maud wrote: 'I
+could not go out to-day, as agreed upon, with Madame Steno, for she had a
+headache.' Then the portrait of Alba, of which they told me incidentally.
+The anonymous letters detailed to me the events, the prolongation of
+sitting, while my wife wrote: 'We again went to see Alba's portrait
+yesterday.  The painter erased what he had done.' Finally it became
+impossible for me to endure it.  With their abominable minuteness of
+detail, the anonymous letters gave me even the address of their
+rendezvous!  I set out.  I said to myself, 'If I announce my arrival to
+my wife they will find it out, they will escape me.'  I intended to
+surprise them.  I wanted--Do I know what I wanted?  I wanted to suffer no
+longer the agony of uncertainty.  I took the train.  I stopped neither
+day nor night.  I left my valet yesterday in Florence, and this morning
+I was in Rome.
+
+"My plan was made on the way.  I would hire apartments near theirs,
+in the same street, perhaps in the same house.  I would watch them, one,
+two days, a week.  And then--would you believe it?  It was in the cab
+which was bearing me directly toward that street that I saw suddenly,
+clearly within me, and that I was startled.  I had my hand upon this
+revolver."  He drew the weapon from his pocket and laid it upon the
+divan, as if he wished to repulse any new temptation.  "I saw myself as
+plainly as I see you, killing those two beings like two animals, should
+I surprise them.  At the same time I saw my son and my wife.  Between
+murder and me there was, perhaps, just the distance which separated me
+from the street, and I felt that it was necessary to fly at once--to fly
+that street, to fly from the guilty ones, if they were really guilty; to
+fly from myself!  I thought of you, and I have come to say to you, 'My
+friend, this is how things are; I am drowning, I am lost; save me.'"
+
+"You have yourself found the salvation," replied Dorsenne.  "It is in
+your son and your wife.  See them first, and if I can not promise you
+that you will not suffer any more, you will no longer be tempted by that
+horrible idea."  And he pointed to the pistol, which gleamed in the
+sunlight that entered through the casement.  Then he added: "And you will
+have the idea still less when you will have been able to prove 'de visu'
+what those anonymous letters were worth.  Twelve letters in fifteen days,
+and cuttings from how many papers?  And they claim that we invent
+heinousness in our books!  If you like, we will search together for the
+person who can have elaborated that little piece of villany.  It must be
+a Judas, a Rodin, an Iago--or Iaga.  But this is not the moment to waste
+in hypotheses.
+
+"Are you sure of your valet?  You must send him a despatch, and in that
+despatch the copy of another addressed to Madame Gorka, which your man
+will send this very evening.  You will announce your arrival for
+tomorrow, making allusion to a letter written, so to speak, from Poland,
+and which was lost.  This evening from here you will take the train for
+Florence, from which place you will set out again this very night.  You
+will be in Rome again to-morrow morning.  You will have avoided, not only
+the misfortune of having become a murderer, though you would not have
+surprised any one, I am sure, but the much more grave misfortune of
+awakening Madame Gorka's suspicions.  Is it a promise?"
+
+Dorsenne rose to prepare a pen and paper: "Come, write the despatch
+immediately, and render thanks to your good genius which led you to a
+friend whose business consists in imagining the means of solving
+insoluble situations."
+
+"You are quite right," Boleslas replied, after taking in his hand the pen
+which he offered to the other, "it is fortunate."  Then, casting aside
+the pen as he had the revolver, "I can not.  No, I can not, as long as I
+have this doubt within me.  Ah, it is too horrible!  I can see them
+plainly.  You speak to me of my wife; but you forget that she loves me,
+and at the first glance she would read me, as you did.  You can not
+imagine what an effort it has cost me for two years never to arouse
+suspicion.  I was happy, and it is easy to deceive when one has nothing
+to hide but happiness.  To-day we should not be together five minutes
+before she would seek, and she would find.  No, no; I can not.  I need
+something more."
+
+"Unfortunately," replied Julien, "I cannot give it to you.  There is no
+opium to lull asleep doubts such as those horrible anonymous letters have
+awakened.  What I know is this, that if you do not follow my advice
+Madame Gorka will not have a suspicion, but certainty.  It is now perhaps
+too late.  Do you wish me to tell you what I concealed from you on seeing
+you so troubled?  You did not lose much time in coming from the station
+hither, and probably you did not look out of your cab twice.  But you
+were seen.  By whom?  By Montfanon.  He told me so this morning almost
+on the threshold of the Palais Castagna.  If I had not gathered from some
+words uttered by your wife that she was ignorant of your presence in
+Rome, I--do you hear?--I should have told her of it.  Judge now of your
+situation!"
+
+He spoke with an agitation which was not assumed, so much was he troubled
+by the evidence of danger which Gorka's obstinacy presented.  The latter,
+who had begun to collect himself, had a strange light in his eyes.
+Without doubt his companion's nervousness marked the moment he was
+awaiting to strike a decisive blow.  He rose with so sudden a start that
+Dorsenne drew back.  He seized both of his hands, but with such force
+that not a quiver of the muscles escaped him:
+
+"Yes, Julien, you have the means of consoling me, you have it," said he
+in a voice again hoarse with emotion.
+
+"What is it?"  asked the novelist.
+
+"What is it?  You are an honest man, Dorsenne; you are a great artist;
+you are my friend, and a friend allied to me by a sacred bond, almost a
+brother-in-arms; you, the grandnephew of a hero who shed his blood by the
+side of my grandfather at Somo-Sierra.  Give me your word of honor that
+you are absolutely certain Madame Steno is not Maitland's mistress, that
+you never thought it, have never heard it said, and I will believe you,
+I will obey you!  Come," continued he, pressing the writer's hand with
+more fervor, "I see you hesitate!"
+
+"No," said Julien, disengaging himself from the wild grasp, "I do not
+hesitate.  I am sorry for you.  Were I to give you that word, would it
+have any weight with you for five minutes?  Would you not be persuaded
+immediately that I was perjuring myself to avoid a misfortune?"
+
+"You hesitate," interrupted Boleslas.  Then, with a burst of wild
+laughter, he said, "It is then true!  I like that better!  It is
+frightful to know it, but one suffers less-- To know it' As if I did not
+know she had lovers before me, as if it were not written on Alba's every
+feature that she is Werekiew's child, as if I had not heard it said
+seventy times before knowing her that she had loved Branciforte, San
+Giobbe, Strabane, ten others.  Before, during, or after, what difference
+does it make?  Ah, I was sure on knocking at your door--at this door of
+honor--I should hear the truth, that I would touch it as I touch this
+object," and he laid his hand upon a marble bust on the table.
+
+"You see I hear it like a man.  You can speak to me now.  Who knows?
+Disgust is a great cure for passion.  I will listen to you.  Do not spare
+me!"
+
+"You are mistaken, Gorka," replied Dorsenne.  "What I have to say to you,
+I can say very simply.  I was, and I am, convinced that in a quarter of
+an hour, in an hour, tomorrow, the day after, you will consider me a liar
+or an imbecile.  But, since you misinterpreted my silence, it is my duty
+to speak, and I do so.  I give you my word of honor I have never had the
+least suspicion of a connection between Madame Steno and Maitland,
+nor have their relations seemed changed to me for a second since your
+absence.  I give you my word of honor that no one, do you hear, no one
+has spoken of it to me.  And, now, act as you please, think as you
+please.  I have said all I can say."
+
+The novelist uttered those words with a feverish energy which was caused
+by the terrible strain he was making upon his conscience.  But Gorka's
+laugh had terrified him so much the more as at the same instant the
+jealous lover's disengaged hand was voluntarily or involuntarily extended
+toward the weapon which gleamed upon the couch.  The vision of an
+immediate catastrophe, this time inevitable, rose before Julien.  His
+lips had spoken, as his arm would have been out stretched, by an
+irresistible instinct, to save several lives, and he had made the false
+statement, the first and no doubt the last in his life, without
+reflecting.  He had no sooner uttered it than he experienced such an
+excess of anger that he would at that moment almost have preferred not to
+be believed.  It would indeed have been a comfort to him if his visitor
+had replied by one of those insulting negations which permit one man to
+strike another, so great was his irritation.  On the contrary, he saw the
+face of Madame Steno's lover turned toward him with an expression of
+gratitude upon it.  Boleslas's lips quivered, his hands were clasped, two
+large tears gushed from his burning eyes and rolled down his cheeks.
+When he was able to speak, he moaned:
+
+"Ah, my friend, how much good you have done me!  From what a nightmare
+you have relieved me.  Ah!  Now I am saved!  I believe you, I believe
+you.  You are intimate with them.  You see them every day.  If there had
+been anything between them you would know it.  You would have heard it
+talked of.  Ah!  Thanks!  Give me your hand that I may press it.  Forget
+all I said to you just now, the slander I uttered in a moment of
+delirium.  I know very well it was untrue.  And now, let me embrace you
+as I would if you had really saved me from drowning.  Ah, my friend, my
+only friend!"
+
+And he rushed up to clasp to his bosom the novelist, who replied with the
+words uttered at the beginning of this conversation: "Calm yourself, I
+beseech you, calm yourself!"  and repeating to himself, brave and loyal
+man that he was: "I could not act differently, but it is hard!"
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Follow their thoughts instead of heeding objects
+Has as much sense as the handle of a basket
+Mediocre sensibility
+No flies enter a closed mouth
+Pitiful checker-board of life
+Scarcely a shade of gentle condescension
+That you can aid them in leading better lives?
+The forests have taught man liberty
+There is an intelligent man, who never questions his ideas
+Thinking it better not to lie on minor points
+Too prudent to risk or gain much
+Walked at the rapid pace characteristic of monomaniacs
+
+
+
+
+End of this Project Gutenberg Etext of Cosmopolis, v1,
+by Paul Bourget
+

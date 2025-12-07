@@ -1,0 +1,2010 @@
+The Project Gutenberg Etext of The Mayflower and Her Log by Ames, v2
+#2 in our series by Azel Ames
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission. The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: The Mayflower and Her Log, v2
+
+Author: Azel Ames
+
+Release Date: June, 2003  [Etext #4102]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 10/06/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of The Mayflower and Her Log by Azel Ames v2
+**********This file should be named 4102.txt or 4102.zip**********
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included. Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month. A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work. The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc. This
+projected audience is one hundred million readers. If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001. [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina*, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+*In Progress
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states. Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states. If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS). Donations are tax-deductible to the maximum
+extent permitted by law. As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.?? [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+THE MAY-FLOWER AND HER LOG
+
+July 15, 1620--May 6, 1621
+Chiefly from Original Sources
+
+By AZEL AMES, M.D.
+Member of Pilgrim Society, etc.
+
+
+
+BOOK 2.
+
+
+
+CHAPTER III
+
+THE MAY-FLOWER'S CHARTER AND THE ADVENTURERS
+
+
+The ship MAY-FLOWER was evidently chartered about the middle of June,
+1620 at London, by Masters Thomas West Robert Cushman acting together in
+behalf of the Merchant Adventurers (chiefly of London) and the English
+congregation of "Separatists" (the "Pilgrims"), at Leyden in Holland who,
+with certain of England associated, proposed to colony in America.
+
+Professor Arber, when he says, in speaking of Cushman and Weston, "the
+hiring of the MAY-FLOWER, when they did do it, was their act alone, and
+the Leyden church nothing to do with it," seems to forget that Cushman
+and his associate Carver had no other function or authority in their
+conjunction with Weston and Martin, except to represent the Leyden
+congregation.  Furthermore, it was the avowed wish of Robinson (see his
+letter dated June 14, 1620, to John Carver), that Weston "may [should]
+presently succeed in hiring" [a ship], which was equivalent to hoping
+that Carver and Cushman--Weston's associates representing Leyden--would
+aid in so doing.  Moreover, Bradford expressly states that: "Articles of
+Agreement, drawn by themselves were, by their [the Leyden congregation's]
+said messenger [Carver] sent into England, who together with Robert
+Cushman were to receive moneys and make provisions, both for shipping,
+and other things for the voyage."
+
+Up to Saturday, June 10, nothing had been effected in the way of
+providing shipping for the migrating planters though the undertaking had
+been four months afoot--beyond the purchase and refitting, in Holland, by
+the Leyden people themselves, of a pinnace of sixty tons (the SPEEDWELL)
+intended as consort to a larger ship--and the hiring of a "pilott" to
+refit her, as we have seen.
+
+The Leyden leaders had apparently favored purchasing also the larger
+vessel still needed for the voyage, hoping, perhaps, to interest therein
+at least one of their friends, Master Edward Pickering, a merchant of
+Holland, himself one of the Adventurers, while Master Weston had, as
+appears, inclined to hire.  From this disagreement and other causes,
+perhaps certain sinister reasons, Weston had become disaffected, the
+enterprise drooped, the outlook was dubious, and several formerly
+interested drew back, until shipping should be provided and the good
+faith of the enterprise be thus assured.
+
+It transpires from Robinson's letter dated June 14., before quoted (in
+which he says: "For shipping, Master Weston, it should seem is set upon
+hiring"), that Robinson's own idea was to purchase, and he seems to have
+dominated the rest.  There is perhaps a hint of his reason for this in
+the following clause of the same letter, where he writes: "I do not think
+Master Pickering [the friend previously named] will ingage, except in the
+course of buying ['ships?'--Arber interpolates] as in former letters
+specified."  If he had not then "ingaged" (as Robinson intimates), as an
+Adventurer, he surely did later, contrary to the pastor's prediction, and
+the above may have been a bit of special pleading.  Robinson naturally
+wished to keep their, affairs, so far as possible, in known and
+supposedly friendly hands, and had possibly some assurances that, as a
+merchant, Pickering would be willing to invest in a ship for which he
+could get a good charter for an American voyage.  He proved rather an
+unstable friend.
+
+Robinson is emphatic, in the letter cited, as to the imperative necessity
+that shipping should be immediately provided if the enterprise was to be
+held together and the funds subscribed were to be secured.  He evidently
+considered this the only guaranty of good faith and of an honest
+intention to immediately transport the colony over sea, that would be
+accepted.  After saying, as already noted, that those behind-hand with
+their payments refuse to pay in "till they see shipping provided or a
+course taken for it," he adds, referring to Master Weston: "That he
+should not have had either shipping ready before this time, or at least
+certain [i.e. definite] means and course, and the same known to us, for
+it; or have taken other order otherwise; cannot in [according to] my
+conscience be excused."
+
+Bradford also states that one Master Thomas Weston a merchant of London,
+came to Leyden about the same time [apparently while negotiations for
+emigration under their auspices were pending with the Dutch, in February
+or March, 1620], who was "well acquainted with some of them and a
+furtherer of them in their former proceedings....  and persuaded them....
+not to meddle with the Dutch," etc.  This Robinson confirms in his letter
+to Carver before referred to, saying: "You know right well we depend on
+Master Weston alone,....  and when we had in hand another course with the
+Dutchman, broke it off at his motion."
+
+On the morning of the 10th of June, 1620, Robert Cushman, one of the
+Leyden agents at London, after writing to his associate, Master John
+Carver, then at Southampton; and to the Leyden leaders--in reply to
+certain censorious letters received by him from both these sources--
+although disheartened by the difficulties and prospects before him,
+sought Master Weston, and by an urgent appeal so effectively wrought upon
+him, that, two hours later, coming to Cushman, he promised "he would not
+yet give it [the undertaking] up."  Cushman's patience and endurance were
+evidently nearly "at the breaking point," for he says in his letter of
+Sunday, June 11, when success had begun to crown his last grand effort:
+"And, indeed, the many discouragements I find here [in London] together
+with the demurs and retirings there [at Leyden] had made me to say, 'I
+would give up my accounts to John Carver and at his coming from
+Southampton acquaint him fully with all courses [proceedings] and so
+leave it quite, with only the poor clothes on my back: But gathering up
+myself by further consideration, I resolved yet to make one trial more,"
+etc. It was this "one trial more" which meant so much to the Pilgrims;
+to the cause of Religion; to America; and to Humanity.  It will rank with
+the last heroic and successful efforts of Robert the Bruce and others,
+which have become historic. The effect of Cushman's appeal upon Weston
+cannot be doubted.  It not only apparently influenced him at the time,
+but, after reflection and the lapse of hours, it brought him to his
+associate to promise further loyalty, and, what was much better, to act.
+The real animus of Weston's backwardness, it is quite probable, lay in
+the designs of Gorges, which were probably not yet fully matured, or, if
+so, involved delay as an essential part. "And so," Cushman states,
+"advising together, we resolved to hire a ship."  They evidently found one
+that afternoon, "of sixty last" (120 tons) which was called "a fine
+ship," and which they "took liking of [Old English for trial (Dryden),
+equivalent to refusal] till Monday."  The same afternoon they "hired
+another pilot .  .  .  one Master Clarke."--of whom further.
+
+It seems certain that by the expression, "we have hired another pilot
+here, one Master Clarke," etc.; that Cushman was reckoning the "pilott"
+Reynolds whom he had hired and sent over to them in Holland, as shown--as
+at the first, and now Clarke as "another."  It nowhere appears that up to
+this date, any other than these two had been hired, nor had there been
+until then, any occasion for more than one.
+
+If Cushman had been engaged in such important negotiations as these
+before he wrote his letters to Carver and the Leyden friends, on Saturday
+morning, he would certainly have mentioned them.  As he named neither, it
+is clear that they had not then occurred.  It is equally certain that
+Cushman's appeal to Weston was not made, and his renewed activity
+aroused, until after these letters had been dispatched and nothing of the
+kind could have been done without Weston.
+
+His letter-writing of June 10 was obviously in the morning, as proven by
+the great day's work Cushman performed subsequently.  He must have
+written his letters early and have taken them to such place as his
+messenger had suggested (Who his messenger was does not appear, but it
+was not John Turner, as suggested by Arber, for he did not arrive till
+that night.) Cushman must then have looked up Weston and had an hour or
+more of earnest argument with him, for he says: "at the last [as if some
+time was occupied] he gathered himself up a little more" [i.e.  yielded
+somewhat.]  Then came an interval of "two hours," at the end of which
+Weston came to him,
+
+     [It would be highly interesting to know whether, in the two hours
+     which intervened between Cushman's call on Weston and the latter's
+     return call, Weston consulted Gorges and got his instructions.  It
+     is certain that he came prepared to act, and that vigorously, which
+     he had not previously been.]
+
+and they "advised together,"--which took time.  It was by this evidently
+somewhat past noon, a four or five hours having been consumed.  They then
+went to look for a ship and found one, which, from Cushman's remark, "but
+a fine ship it is," they must (at least superficially) have examined.
+While hunting for the ship they seem to have come across, and to have
+hired, John Clarke the "pilot," with whom they necessarily, as with the
+ship's people, spent some time.  It is not improbable that the approach
+of dusk cut short their examination of the ship, which they hence "took
+liking of [refusal of] till Monday."  It is therefore evident that the
+"refusal" of the "sixty last" ship was taken, and the "pilot" Clarke was
+"hired," on Saturday afternoon, June 10, as on Sunday, June 11, Cushman
+informed the Leyden leaders of these facts by letter, as above indicated,
+and gave instructions as to the SPEEDWELL'S "pilott," Master Reynolds.
+
+We are therefore able to fix, nearly to an hour, the "turning of the
+tide" in the affairs of the Pilgrim movement to America.
+
+It is also altogether probable that the Pilgrims and humanity at large
+are still further (indirectly) indebted to Cushman's "one more trial" and
+resultant Saturday afternoon's work, for the MAY-FLOWER (though not found
+that day), and her able commander Jones, who, whatever his faults, safely
+brought the Pilgrims through stormy seas to their "promised land."
+
+Obligations of considerable and rapidly cumulative cost had now been
+incurred, making it imperative to go forward to embarkation with all
+speed, and primarily, to secure the requisite larger ship.  Evidently
+Weston and Cushman believed they had found one that would serve, when on
+Saturday, they "took liking," as we have seen, of the "fine ship" of 120
+tons, "till Monday." No less able authorities than Charles Deane, Goodwin,
+and Brown, with others, have mistakenly concluded that this ship was the
+MAY-FLOWER, and have so stated in terms.  As editor of Bradford's history
+"Of Plimoth Plantation," Mr. Deane (in a footnote to the letter of
+Cushman written Sunday, June 11), after quoting the remark, "But it is a
+fine ship," mistakenly adds, "The renowned MAYFLOWER.--Ed.," thus
+committing himself to the common error in this regard.  John Brown, in
+his "Pilgrim Fathers of New England,"  confuses the vessels, stating
+that, "when all was ready for the start, a pilot came over to conduct the
+emigrants to England, bringing also a letter from Cushman announcing that
+the MAYFLOWER, a vessel of one hundred and eighty tons, Thomas Jones,
+Master, would start from London to Southampton in a week or two," etc.
+As we have seen, these statements are out of their relation.  No pilot
+went for that purpose and none carried such a letter (certainly none from
+Cushman), as alleged.  Cushman's letter, sent as we know by John Turner,
+announced the finding of an entirely different vessel, which was neither
+of 180 tons burden, nor had any relation to the MAY-FLOWER or her future
+historic freight.  Neither was there in his letter any time of starting
+mentioned, or of the port of Southampton as the destination of any vessel
+to go from London, or of Jones as captain. Such loose statements are the
+bane of history.  Goodwin, usually so accurate, stumbles unaccountably in
+this matter--which has been so strangely misleading to other competent
+men--and makes the sadly perverted statement that, "In June, John Turner
+was sent, and he soon returned with a petulant (sic) letter from Cushman,
+which, however, announced that the ship MAYFLOWER had been selected and
+in two weeks would probably leave London for Southampton." He adds, with
+inexcusable carelessness in the presence of the words "sixty last" (which
+his dictionary would have told him, at a glance, was 120 tons), that:
+"This vessel (Thomas Jones, master) was rated at a hundred and eighty
+tons .  .  .  . Yet she was called a fine ship," etc.  It is evident
+that, like Brown, he confused the two vessels, with Cushman's letter
+before his eyes, from failure to compute the "sixty last."  He moreover
+quotes Cushman incorrectly.  The great disparity in size, however, should
+alone render this confusion impossible, and Cushman is clear as to the
+tonnage ("sixty last"), regretting that the ship found is not larger,
+while Bradford and all other chroniclers agree that the MAY-FLOWER was of
+"9 score" tons burden.
+
+It is also evident that for some reason this smaller ship (found on
+Saturday afternoon) was not taken, probably because the larger one, the
+MAY-FLOWER, was immediately offered to and secured by Masters Weston and
+Cushman, and very probably with general approval.  Just how the MAY-
+FLOWER was obtained may never be certainly known. It was only on
+Saturday, June 10, as we have seen, that Master Weston had seriously set
+to work to look for a ship; and although the refusal of one--not wholly
+satisfactory--had been prudently taken that day, it was both natural and
+politic that as early as possible in the following week he should make
+first inquiry of his fellow-merchants among the Adventurers, whether any
+of them had available such a ship as was requisite, seeking to find, if
+possible, one more nearly of the desired capacity than that of which he
+had "taken the refusal" on Saturday.  It appears altogether probable that,
+in reply to this inquiry, Thomas Goffe, Esq., a fellow Adventurer and
+shipping-merchant of London, offered the MAY-FLOWER, which, there is
+ample reason to believe, then and for ten years thereafter, belonged to
+him.
+
+It is quite likely that Clarke, the newly engaged "pilot," learning that
+his employers required a competent commander for their ship, brought to
+their notice the master of the ship (the FALCON) in which he had made his
+recent voyage to Virginia, Captain Jones, who, having powerful friends at
+his back in both Virginia Companies (as later appears), and large
+experience, was able to approve himself to the Adventurers.  It is also
+probable that Thomas Weston engaged him himself, on the recommendation of
+the Earl of Warwick, at the instance of Sir Ferdinando Gorges.
+
+As several weeks would be required to fit the ship for her long voyage on
+such service, and as she sailed from London July 15, her charter-party
+must certainly have been signed by June 20, 1620.  The SPEEDWELL, as
+appears from various sources (Bradford, Winslow et al.), sailed from
+Delfshaven, Saturday, July 22.  She is said to have been four days on the
+passage to Southampton, reaching there Wednesday, July 26.  Cushman, in
+his letter of Thursday, August 17, from Dartmouth to Edward Southworth,
+says, "We lay at Southampton seven days waiting for her" (the SPEEDWELL),
+from which it is evident, both that Cushman came on the MAY-FLOWER from
+London, and that the MAY-FLOWER  must have left London at least ten days
+before the 26th of July, the date of the SPEEDWELL'S arrival.  As given
+traditionally, it was on the 15th, or eleven days before the SPEEDWELL'S
+arrival at Southampton.
+
+By whom the charter-party of the MAY-FLOWER was signed will probably
+remain matter of conjecture, though we are not without intimations of
+some value regarding it.  Captain John Smith tells us that the Merchant
+Adventurers (presumably one of the contracting parties) "were about
+seventy, .  .  . not a Corporation, but knit together by a voluntary
+combination in a Society without constraint or penalty.  They have a
+President and Treasurer every year newly chosen by the most voices, who
+ordereth the affairs of their Courts and meetings; and with the assent of
+most of them, undertaketh all the ordinary business, but in more weighty
+affairs, the assent of the whole Company is required."  It would seem
+from the foregoing--which, from so intelligent a source at a date so
+contemporaneous, ought to be reliable--that, not being an incorporated
+body, it would be essential that all the Adventurers (which Smith
+expressly states was their rule) should "assent" by their signatures,
+which alone could bind them to so important a business document as this
+charter-party.  It was certainly one of their "more weighty affairs," and
+it may well be doubted, also, if the owner of the vessel (even though one
+of their number) would accept less than the signatures of all, when there
+was no legal status by incorporation or co-partnership to hold them
+collectively.
+
+If the facts were indeed as stated by Smith,--whose knowledge of what he
+affirmed there is no reason to doubt,--there can be little question that
+the contract for the service of the MAY-FLOWER was signed by the entire
+number of the Adventurers on the one part.  If so, its covenants would be
+equally binding upon each of them except as otherwise therein stipulated,
+or provided by the law of the realm.  In such case, the charter-party of
+the MAY-FLOWER, with the autograph of each Merchant Adventurer appended,
+would constitute, if it could be found, one of the most interesting and
+valuable of historical documents.  That it was not signed by any of the
+Leyden congregation--in any representative capacity--is well-nigh
+certain.  Their contracts were with the Adventurers alone, and hence they
+were not directly concerned in the contracts of the latter, their
+"agents" being but co-workers with the Adventurers (under their
+partnership agreements), in finding shipping, collecting moneys,
+purchasing supplies, and in generally promoting the enterprise.  That
+they were not signing-parties to this contract, in particular, is made
+very certain by the suggestion of Cushman's letter of Sunday, June 11,
+to the effect that he hoped that "our friends there [at Leyden] if they
+be quitted of the ship-hire [as then seemed certain, as the Adventurers
+would hire on general account] will be induced to venture [invest] the
+more."  There had evidently been a grave fear on the part of the Leyden
+people that if they were ever to get away, they would have to hire the
+necessary ship themselves.
+
+There is just the shadow of a doubt thrown upon the accuracy of Smith's
+statement as to the non-corporate status of the Adventurers, by the loose
+and unwieldy features which must thereby attach to their business
+transactions, to which it seems probable that merchants like Weston,
+Andrews, Beauchamp, Shirley, Pickering, Goffe, and others would object,
+unless the law at that time expressly limited and defined the rights and
+liabilities of members in such voluntary associations.  Neither evidences
+of (primary) incorporation, or of such legal limitation, have, however,
+rewarded diligent search.  There was evidently some more definite and
+corporate form of ownership in the properties and values of the
+Adventurers, arrived at later.  A considerable reduction in the number of
+proprietors was effected before 1624--in most cases by the purchase of
+the interests of certain ones by their associates--for we find their
+holdings spoken of in that year as "sixteenths," and these shares to have
+sometimes been attached for their owners' debts.  A letter of Shirley,
+Brewer et als., to Bradford, Allerton et als., dated London, April 7,
+1624, says: "If it had not been apparently sold, Mr. Beauchamp, who is of
+the company also, unto whom he [Weston] oweth a great deal more, had long
+ago attached it (as he did other's 16ths)," etc.  It is exceedingly
+difficult to reconcile these unquestionable facts with the equal
+certainty that, at the "Composition" of the Adventurers with the Planters
+in 1626, there were forty-two who signed as of the Adventurers.  The
+weight, however, of evidence and of probability must be held to support
+the conclusion that in June, 1620, the organization was voluntary, and
+that the charter-party of the MAY-FLOWER was signed--" on the one part
+"--by each of the enrolled Adventurers engaged in the Leyden
+congregation's colonization scheme.  Goodwin' alone pretends to any
+certain knowledge of the matter, but although a veracious usually
+reliable writer, he is not infallible, as already shown, and could hardly
+have had access to the original documents,--which alone, in this case,
+could be relied on to prove his assertion that "Shortly articles were
+signed by both parties, Weston acting for the Adventurers."  Not a
+particle of confirmatory evidence has anywhere been found in Pilgrim or
+contemporaneous literature to warrant this statement, after exhaustive
+search, and it must hence, until sustained by proof, be regarded as a
+personal inference rather than a verity.  If the facts were as appears,
+they permit the hope that a document of so much prima facie importance
+may have escaped destruction, and will yet be found among the private
+papers of some of the last survivors of the Adventurers, though with the
+acquisition of all their interests by the Pilgrim leaders such documents
+would seem, of right, to have become the property of the purchasers, and
+to have been transferred to the Plymouth planters.
+
+This all-important and historic body--the company of Merchant
+Adventurers--is entitled to more than passing notice.  Associated to
+"finance" the projected transplantation of the Leyden congregation of
+"Independents" to the "northern parts of Virginia," under such patronage
+and protection of the English government and its chartered Companies as
+they might be able to secure, they were no doubt primarily brought
+together by the efforts of one of their number, Thomas Weston, Esq., the
+London merchant previously named, though for some obscure reason Master
+John Pierce (also one of them) was their "recognized" representative in
+dealing with the (London) Virginia Company and the Council for the
+Affairs of New England, in regard to their Patents.
+
+Bradford states that Weston "was well acquainted with some of them the
+Leyden leaders and a furtherer of them in their former proceedings,"
+and this fact is more than once referred to as ground for their gratitude
+and generosity toward him, though where, or in what way, his friendship
+had been exercised, cannot be learned,--perhaps in the difficulties
+attending their escape from "the north country" to Holland.  It was
+doubtless largely on this account, that his confident assurances of all
+needed aid in their plans for America were so relied upon; that he was so
+long and so fully trusted; and that his abominable treachery and later
+abuse were so patiently borne.
+
+We are indebted to the celebrated navigator, Captain John Smith, of
+Virginia fame, always the friend of the New England colonists, for most
+of what we know of the organization and purposes of this Company.  His
+ample statement, worthy of repetition here, recites, that
+"the Adventurers which raised the stock to begin and supply this
+Plantation, were about seventy: some, Gentlemen; some, Merchants; some,
+handicraftsmen; some adventuring great sums, some, small; as their
+estates and affections served .  .  .  .  These dwell most about London.
+They are not a corporation but knit together, by a voluntary combination,
+in a Society, with out constraint or penalty; aiming to do good and to
+plant Religion."  Their organization, officers, and rules of conduct, as
+given by Smith, have already been quoted.  It is to be feared from the
+conduct of such men as Weston, Pierce, Andrews, Shirley, Thornell,
+Greene, Pickering, Alden, and others, that profitable investment, rather
+than desire "to do good and to plant Religion," was their chief interest.
+That the higher motives mentioned by Smith governed such tried and
+steadfast souls as Bass, Brewer, Collier, Fletcher, Goffe, Hatherly,
+Ling, Mullens, Pocock, Thomas, and a few others, there can be no doubt.
+
+     [Weston wrote Bradford, April 10, 1622, "I perceive and know as well
+     as another ye disposition of your adventurers, whom ye hope of gaine
+     hath drawne on to this they have done; and yet I fear ye hope will
+     not draw them much further."  While Weston's character was utterly
+     bad, and he had then alienated his interest in both Pilgrims and
+     Adventurers, his judgment of men was evidently good.]
+
+No complete list of the original "seventy" has ever been found, and we
+are indebted for the names of forty-two, of the fifty who are now known,
+to the final "Composition" made with the Pilgrim colonists, through the
+latter's representatives, November 15/25, 1626, as given by Bradford,
+and to private research for the rest. The list of original members of the
+company of Merchant Adventurers, as ascertained to date, is as follows.
+More extended mention of them appears in the notes appended to this list.
+
+Robert Allden, Thomas Fletcher, Emanuel Altham, Thomas Goffe, Richard
+Andrews, Peter Gudburn, Thomas Andrews, William Greene, Lawrence Anthony,
+Timothy Hatherly, Edward Bass, Thomas Heath, John Beauchamp, William
+Hobson, Thomas Brewer, Robert Holland, Henry Browning, Thomas Hudson,
+William Collier, Robert Keayne, Thomas Coventry, Eliza Knight,
+John Knight, John Revell, Miles Knowles, Newman Rookes, John Ling, Samuel
+Sharpe, Christopher Martin(Treasurer pro tem.), James Shirley
+(Treasurer), Thomas Millsop, William Thomas, Thomas Mott, John Thornell
+William Mullens, Fria Newbald, Matthew Thornell William Pennington,
+William Penrin.  Joseph Tilden, Edward Pickering, Thomas Ward, John
+Pierce, John White, John Pocock, John Wincob, Daniel Poynton, Thomas
+Weston, William Quarles, Richard Wright.
+
+Shirley, in a letter to Governor Bradford, mentions a Mr. Fogge and a Mr.
+Coalson, in a way to indicate that they might have been, like himself,
+Collier, Thomas, Hatherly, Beauchamp, and Andrews, also of the original
+Merchant Adventurers, but no proof that they were such has yet been
+discovered.  It has been suggested that Sir Edwin Sandys was one of the
+number, at the inception of the enterprise, but--though there is evidence
+to indicate that he stood the friend of the Pilgrims in many ways,
+possibly lending them money, etc.--there is no proof that he was ever
+one of the Adventurers.  It is more probable that certain promoters of
+Higginson's and Winthrop's companies, some ten years later, were early
+financial sponsers of the MAY-FLOWER Pilgrims.  Some of them were
+certainly so, and it is likely that others not known as such, in reality,
+were.  Bradford suggests, in a connection to indicate the possibility of
+his having been an "Adventurer," the name of a "Mr. Denison," of whom
+nothing more is known.  George Morton of London, merchant, and friend of
+the leaders from the inception, and later a colonist, is sometimes
+mentioned as probably of the list, but no evidence of the fact as yet
+appears.  Sir George Farrer and his brother were among the first of the
+Adventurers, but withdrew themselves and their subscriptions very early,
+on account of some dissatisfaction.
+
+It is impossible, in the space at command, to give more than briefest
+mention of each of these individual Adventurers.
+
+Allden.  Was at one time unfriendly to the Pilgrims,--Bradford calls him
+     "one of our powerfullest opposers,"--but later their ally.  Little
+     is known of him. He appears to have been of London.
+
+Altham.  Was Master of the pinnace LITTLE JAMES, belonging chiefly to
+     Fletcher, and apparently expected to command her on her voyage to
+     New Plymouth in 1623, as consort of the ANNE, but for some reason
+     did not go, and William Bridge went as her Master, in his stead.
+
+Andrews (Richard).  Was one of the wealthiest and most liberal of the
+     Adventurers.  He was a haberdasher of Cheapside, London, and an
+     Alderman of the city. He became an early proprietor and liberal
+     benefactor of the Massachusetts Bay Company, but most illogically
+     gave the debt due him from Plymouth Colony (L540) to the stronger
+     and richer Bay Colony.  He had been, however, unjustly prejudiced
+     against the Pilgrims, probably through the deceit of Pierce, Weston,
+     Shirley, and Allerton.
+
+Andrews (Thomas).  A Lord Mayor of London, reputed a brother of the last-
+     named.  Never very active in the Adventurers' affairs, but friendly,
+     so far as appears.
+
+Anthony.  Little or nothing is known concerning him.
+
+Bass.  Was one of the enduring friends of the struggling Colony and
+     loaned them money when they were in dire straits and the prospect of
+     recovery was not good.  He was of London, and considerable is known
+     concerning him.
+
+Beauchamp.  Was one of the most active of the Company for many years.
+     Generally to be relied upon as the Colony's friend, but not without
+     some sordid self seeking.  Apparently a wealthy citizen and "salter"
+     of London.
+
+Brewer.  Is too well-known as long the partner of Brewster in the conduct
+     of the "hidden press" at Leyden, and as a sufferer for conscience'
+     sake, to require identification.  He was a wealthy man, a scholar,
+     writer, printer, and publisher.  Was of the University of Leyden,
+     but removed to London after the departure of the chief of the
+     Pilgrims.  Was their stanch friend, a loyal defender of the faith,
+     and spent most of his later life in prison, under persecution of the
+     Bishops.
+
+Browning.  Does not appear to have been active, and little is known of
+     him.
+
+Collier.  Was a stanch and steadfast friend.  Finally cast in his lot
+     with the Pilgrims at New Plymouth and be came a leading man in the
+     government there.  His life is well known.  He was a "brewer."
+
+Coventry.  Appears only as a signer, and nothing is known of him.
+
+Fletcher.  Was a well-to-do merchant of London, a warm friend and a
+     reliance of the Pilgrims.  The loss of the LITTLE JAMES was a severe
+     blow to him financially.
+
+Greene.  Appears to have been a merchant and a partner in Holland (and
+     perhaps at London) of Edward Pickering.  They were well acquainted
+     personally with the Pilgrims, and should have been among their most
+     liberal and surest friends.  Facts indicate, however, that they were
+     sordid in their interest and not entirely just.
+
+Goffe.  Was a London merchant and ship-owner, as else where appears.  He
+     was not only a Merchant Adventurer, but a patentee and deputy-
+     governor of the Massachusetts Company, and an intimate friend of
+     Winthrop.  He lost heavily by his New England ventures.  There is,
+     as shown elsewhere, good reason to believe that he was the owner of
+     the MAY-FLOWER on her historic voyage, as also when she came over in
+     Higginson's and Winthrop's fleets, ten years later.
+
+Gudburn.  Appears only as a signer, so far as known.
+
+Hatherly.  Was a well-to-do friend of the Pilgrims, and after many
+     complaints had been made against them among the "Purchasers"--
+     arising out of the rascality of Shirley and Allerton--went to New
+     England on a mission of inquiry.  He was perfectly convinced of the
+     Pilgrims' integrity and charmed with the country.  He made another
+     visit, and removed thither in 1633, to remain.  He became at once
+     prominent in the government of New Plimoth Colony.
+
+Heath.  Does not appear to have been active, and naught is known of him.
+
+Hobson.  Is known only as a signer of the "Composition."
+
+Holland.  Was a friend and ally of the Pilgrims, and one of their
+     correspondents.  He is supposed to have been of the ancient house of
+     that name and to have lived in London.
+
+Hudson.  Was not active, and appears as a signer only.
+
+Keayne.  Was a well-to-do citizen of the vicinity of London, a friend, in
+     a general way, of the Pilgrims.  He came to Boston with Winthrop.
+     Was prominent in the Massachusetts Colony.  Was the founder and
+     first commander of the early Artillery Company of Boston, the oldest
+     military organization of the United States, and died at Boston,
+     leaving a large estate and a very remarkable will, of which he made
+     Governor Winslow an "overseer."  He was an erratic,--but valuable,
+     citizen.
+
+Knight (Eliza).  Seems to have been the only woman of the Adventurers, so
+     far as they are known, but no thing is known of her.  It has been
+     suggested that the given name has been wrongly spelled and should be
+     "Eleazar,"--a man's name,--but the "Composition" gives the signature
+     as Eliza, clearly, as published.
+
+Knight (John).  Finds no especial mention.  He was probably a relative of
+     Eliza.
+
+Knowles.  Appears only as a signer of the "Composition."
+
+Ling.  Was a wealthy friend of the colonists and always true to them.  He
+     lost his property and was in poverty when the Pilgrims (though not
+     yet well on their feet), in grateful remembrance of his fidelity,
+     sent him a generous gift.
+
+Martin.  Was the first treasurer of the colonists and also a MAY-FLOWER
+     Pilgrim.  Mention of him appears later. He was no credit to the
+     Company, and his early death probably prevented much vexation.
+
+Millsop.  Appears only as a signer of the "Composition."
+
+Mott.  Has no especial mention, but is believed to have sent some of his
+     people to Plymouth Colony at an early day.
+
+Mullens.  Was, as appears elsewhere, a well-conditioned tradesman of
+     Surrey, England, who was both an Adventurer and a MAY-FLOWER
+     Pilgrim, and Martin and himself appear to have been the only ones
+     who enjoyed that distinction.  He died, however, soon after the
+     arrival at Plymouth.  That he was an Adventurer is but recently
+     discovered by the author, but there appears no room for doubt as to
+     the fact. His record was brief, but satisfactory, in its relation to
+     the Pilgrims.
+
+Newbald.  Finds no especial mention.
+
+Pennington.  Appears only as a signer.  It is a London name.
+
+Penrin.  Appears only as a signer of the "Composition."
+
+Pickering.  Is introduced to us first as a Leyden merchant, through John
+     Robinson's letters.  He appears to have been a shrewd, cold-blooded
+     calculator, like his partner-Adventurer, Greene, not interested
+     especially in the Pilgrims, except for gain, and soon deserting the
+     Adventurers.  His family seem to have been in favor with Charles II.
+     (See Pepys' "Diary.")
+
+Pierce (John).  Although recognized by the Virginia Companies and Council
+     for New England, as the representative of the Adventurers, he has
+     only been recently generally reckoned a chief man of the
+     Adventurers. A Protean friend of the Pilgrims, never reliable, ever
+     pretentious, always self-seeking, and of no help. He was finally
+     ruined by the disasters to his ship, the PARAGON, which cost him all
+     his interests.  Having attempted treacherously to secure to himself
+     the Patent granted in the Colony's interest, he was compelled by the
+     Council to surrender its advantages to the Adventurers and
+     colonists.
+
+Pocock.  Was a stanch and firm supporter of the Pilgrims and their
+     interests, at all times, and to the end.  He was also a financial
+     supporter and deputy-governor  the Massachusetts Company, under
+     Winthrop.  A correspondent of Bradford.  A good man.
+
+Poyton.  Finds no especial mention.  He appears as a signer only.
+
+Quarles.  Appears only as a signer of the "Composition."
+
+Revell.  Was a very wealthy citizen, merchant, and ship owner of London,
+     and a good man.  He became also ardently interested in Winthrop's
+     Company.  Was an "assistant" and one of the five "undertakers"
+     chosen to go to New England to reside.  He went to New England on
+     the JEWELL of Winthrop's fleet, and was part owner of the LADY
+     ARBELLA.  He evidently, however, did not like the life, and returned
+     after a few weeks' stay.
+
+Rookes.  Appears only as a signer.
+
+Sharpe.  Was also a friend of both Pilgrim and Puritan. He came to New
+     England in 1629, and settled first at Salem, in the Massachusetts
+     Company.  He died in 1658, having long been a ruling elder of the
+     church there.  He met with many enemies, but was a valuable man and
+     an able one.  He was Governor Cradock's New England agent.
+
+Shirley.  Requires little mention here.  The perfidious friend of the
+     Pilgrims,--perhaps originally true to them,--he sunk everything for
+     hope of gain.  He was treasurer of the Adventurers, one of their
+     most active and intelligent men, but proved a rascal and a canting
+     hypocrite.  He was a "citizen and gold-smith" of London.
+
+Thomas.  Has nowhere been enumerated in any list of the Adventurers
+     (though occasionally mentioned as such by recent writers), which is
+     strange, as repeated letters of his to Bradford, and other data,
+     show him to have been one of the best and truest of them all.  He
+     sold his interests before the "Composition" and became a colonist
+     after 1630.  He was the fifth of the Adventurers to come to New
+     England to remain, and cast in his lot with the Pilgrims at New
+     Plimoth--Martin, Mullens, Collier, and Hatherly preceding him.  A
+     wealthy and well-informed man, he became a power in the government.
+     Probably Welsh by birth, he was a London merchant when the
+     Adventurers were organized.  His home at Marshfield, Massachusetts,
+     has since become additionally famous as the home of Daniel Webster.
+
+Thornell (John).  Is sometimes confounded with another Adventurer,
+     Matthew Thornhill, as his name is some times so spelled.  There is
+     reason to believe they were related.  He was not a friend to the
+     Pilgrims.
+
+Thornhill (or Thornell), (Matthew).  Little is known concerning him.
+
+Tilden.  Was of an old family in Kent, "a citizen and girdler of London,"
+     as his will declares, his brother (Nathaniel) later coming to New
+     England and settling near Hatherly at Scituate.  Nathaniel's son
+     Joseph--named for his uncle--was made his executor and heir.  The
+     uncle was always a firm friend of the Pilgrims.  Mr. Tilden's will
+     is given by Waters ("Genealogical Gleanings," vol. i.  p. 71), and
+     is of much interest.
+
+Ward.  Appears only as a signer.
+
+White.  Probably the Rev. John White, a stanch friend of the Pilgrims,
+     although not a "Separatist," and intimately connected with the
+     upbuilding of New England.  His record was a broad and noble one.
+     Goodwin says: "Haven thinks White was that Dorchester clergyman
+     reputed to be the author of the Planters' Plea."  Probably, but
+     not certainly, William White of the Pilgrims was also an Adventurer.
+
+Wincob (?).  Was a gentleman of the family of the Countess of Lincoln,
+     and the one in whose name the first patent in behalf of the
+     Adventurers and Pilgrims (which, however, was never used) was taken.
+     It is only recently that evidences which, though not conclusive, are
+     yet quite indicative, have caused his name to be added to the list,
+     though there is still a measure of doubt whether it belongs there.
+
+Weston.  Requires little mention here.  Once a friend of the Pilgrims and
+     unmistakably the organizer of the Adventurers, he became a graceless
+     ingrate and rascal.  An instrument of good at first, he became a
+     heartless and designing enemy of the Planters.  He was a "citizen
+     and merchant [ironmonger] of London."  It is altogether probable
+     that he was originally a tool of Sir Ferdinando Gorges and was led
+     by him to influence the Leyden brethren to break off negotiations
+     with the Dutch.  He died poor, at Bristol, England.
+
+Wright.  Perhaps came to New Plimoth and married a daughter of the MAY-
+     FLOWER Pilgrim, Francis Cooke. If so, he settled at Rehoboth and
+     became its leading citizen.  He may possibly have been the settler
+     of that name in the Bay-Colony, and the weight of evidence rather
+     favors the latter supposition.
+
+Of the Adventurers, Collier, Hatherly, Keayne, Mullens, Revell, Pierce,
+Sharpe, Thomas, and Weston, probably Wright and White, possibly others,
+came to America for longer or shorter periods.  Several of them were back
+and forth more than once.  The records show that Andrews, Goffe, Pocock,
+Revell, Sharpe, and White were subsequently members of the Massachusetts
+(Winthrop's) Company.
+
+Professor Arberl finds but six of the Pilgrim Merchant Adventurers who
+later were among the Adventurers with Winthrop's Company of Massachusetts
+Bay, viz.:--Thomas Andrews, John Pocock, Samuel Sharpe, Thomas Goffe,
+John Revell, John White.
+
+He should have added at least, the names of Richard Andrews and Robert
+Keayne, and probably that of Richard Wright.
+
+Of their number, Collier, Hatherly, Martin, Mullens, Thomas, and
+(possibly) Wright were Plymouth colonists Martin and Mullens, as noted,
+being MAY-FLOWER Pilgrims.  Nathaniel Tilden, a brother of Joseph Tilden
+of the Adventurers, came, as previously mentioned, to the Colony from
+Kent, settling at Scituate.  Joseph, being apparently unmarried, made his
+nephew, Joseph of Scituate, his residuary legatee, and his property
+mostly came over to the Colony.
+
+Collier, Hatherly, and Thomas all located within a few miles of one
+another, were all wealthy and prominent men in the government of the
+Colony, were intimate friends,--the first and last especially,--and lent
+not a little dignity and character to this new dependency of King James
+the First.  The remaining twenty or thereabouts whose names are not
+surely known--though a few of them are pretty safely conjectured, some
+being presumably of the Holland Pilgrims and their friends--were probably
+chiefly small contributors, whose rights were acquired from time to time
+by others of larger faith in the enterprise, or greater sympathy or
+means.  Not all, however, who had ceased to hold their interests when the
+"Composition" was made with Allerton in behalf of the colonists, in 1626,
+were of these small holders.  Weston was forced out by stress of
+circumstances; Thomas moved to New England; Pierce was ruined by his
+ventures by sea; Martin and Mullens died in 1621; Pickering and Greene
+got out early, from distrust as to profits; Wincob alone, of this class,
+was a small investor, if he was one at all.
+
+By far the greater portion of the sums invested by the Adventurers in
+behalf of the Colony is represented by those whose names are known, those
+still unknown representing, doubtless, numbers rather than amounts.  It
+is, however, interesting to note, that more than four sevenths of the
+original number, as given by Captain John Smith, continued to retain
+their interests till the "Composition" of 1626.  It is to be hoped that
+it may yet be possible to increase considerably, if not to perfect, the
+list of these coadjutors of the Pilgrims--the Merchant Adventurers--the
+contracting "party of the second part," to the charter-party of the MAY-
+FLOWER.
+
+
+Who the Owner of the MAY-FLOWER was, or who his representative, the
+"party of the first part," to the charter party of the Pilgrim ship,
+cannot be declared with absolute certainty, though naturally a matter of
+absorbing interest.  There is, however, the strongest probability, as
+before intimated, that Thomas Goffe, Esq., one of the Merchant
+Adventurers, and always a stanch friend of the Pilgrims, was the owner of
+the historic vessel,--and as such has interwoven his name and hers with
+the histories of both the Pilgrim and Puritan hegiras from Old to New
+England.  He was, as previously stated, a wealthy "merchant and ship
+owner of London," and not only an Adventurer with the Leyden Pilgrims,
+but--nearly ten years later--a patentee of the Massachusetts Company and
+one of its charter officers.
+
+We are told in the journal of Governor Winthrop of that Company--then on
+board the LADY ARBELLA, the, "Admiral" or flagship of his fleet, riding
+at Cowes, ready to set sail for New England--that on "Easter Monday
+(March 29), 1630, the CHARLES, the MAY-FLOWER, the WILLIAM  AND FRANCIS,
+the HOPEWELL, the WHALE, the SUCCESS,  and the TRIAL," of his fleet, were
+"still at Hampton [Southampton] and are not ready."  Of these seven ships
+it is certain that Mr. Goffe owned at least two, as Governor Winthrop--in
+writing, some days later, of the detention of his son Henry and his
+friend Mr. Pelham, who, going ashore, failed to return to the governor's
+ship before she sailed from Cowes, and so went to the fleet at
+Southampton for passage--says: "So we have left them behind and suppose
+they will come after in one of Mr. Goffe's ships."  It is clear,
+therefore, that Mr. Goffe, who was an intimate friend and business
+associate of Governor Winthrop, as the latter's correspondence amply
+attests, and was a charter deputy-governor of the Massachusetts Company,
+and at this time "an assistant," was the owner of at least two (probably
+not more) of these seven belated ships of the governor's fleet, riding at
+Southampton. Bearing in mind that the MAY-FLOWER and the WHALE were two
+of those ships, it becomes of much importance to find that these two
+ships, evidently sailing in company (as if of one owner), arrived
+together in the harbor of Charlestown, New England, on Thursday, July 1,
+having on board one of them the governor's missing son, Henry Winthrop.
+If he came--as his father expected and as appears certain--"in one of Mr.
+Goffe's ships," then evidently, either the MAY-FLOWER or the WHALE, or
+both, belonged to Mr. Goffe.  That both were Goffe's is rendered probable
+by the fact that Governor Winthrop--writing of the vessels as if
+associated and a single interest--states that "most of their cattle [on
+these ships] were dead, whereof a mare and horse of mine."  This
+probability is increased, too, by the facts that the ships evidently kept
+close company across the Atlantic (as if under orders of a common owner,
+and as was the custom, for mutual defence and assistance, if occasion
+required), and that Winthrop who, as we above noted, had large dealings
+with Goffe, seems to have practically freighted both these ships for
+himself and friends, as his freight bills attest.  They would hence, so
+far as possible, naturally keep together and would discharge their
+cargoes and have their accountings to a single consignee, taken as nearly
+together as practicable.  Both these ships came to Charlestown,--as only
+one other did,--and both were freighted, as noted, by one party.
+
+Sadly enough, the young man, Henry Winthrop, was drowned at Salem the
+very day after his arrival, and before that of either of the other
+vessels: the HOPEWELL, or WILLIAM AND FRANCIS (which arrived at Salem the
+3d); or the TRIAL or CHARLES (which arrived--the first at Charlestown, of
+the last at Salem--the 5th); or the SUCCESS (which arrived the 6th);
+making it certain that he must have come in either the MAY-FLOWER or the
+WHALE. If, as appears, Goffe owned them both, then his ownership of the
+MAY-FLOWER in 1630 is assured, while all authorities agree without cavil
+that the MAY-FLOWER of Winthrop's fleet in that year (1630) and the MAY-
+FLOWER of the Pilgrims were the same. In the second "General Letter of
+Instructions" from the Massachusetts Company in England--dated London,
+May 28, 1629--to Governor Endicott and his Council, a duplicate of which
+is preserved in the First Book of the Suffolk Registry of Deeds at
+Boston, the historic vessel is described as "The MAY-FLOWER, of Yarmouth-
+--William Pierse, Master," and Higginson, in his "Journal of a Voyage to
+New England," says, "The fifth ship is called the MAY-FLOWER carrying
+passengers and provisions."  Yarmouth was hence undoubtedly the place of
+register, and the hailing port of the MAY-FLOWER,--she was very likely
+built there,--and this would remain the same, except by legal change of
+register, wherever she was owned, or from what ever port she might sail.
+Weston and Cushman, according to Bradford, found and hired her at London,
+and her probable owner, Thomas Goffe, Esq., was a merchant of that city.
+Dr. Young remarks: "The MAYFLOWER Of Higginson's fleet is the renowned
+vessel that brought the Pilgrim Fathers to Plymouth in 1620."  Hon.
+James Savage says "The MAYFLOWER had been a name of renown without
+forming part of this fleet [Winthrop's, 1630], because in her came the
+devoted planters of Plimouth [1620] and she had also brought in the year
+preceding [1629] some of Higginson's company to Salem."  Goodwin' says:
+"In 1629 she [the Pilgrim MAY-FLOWER] came to Salem with a company of the
+Leyden people for Plymouth, and in 1630 was one of the large fleet that
+attended John Winthrop, discharging her passengers at Charlestown."  Dr.
+Young remarks in a footnote: "Thirty-five of the Leyden congregation with
+their families came over to Plymouth via Salem, in the MAY-FLOWER and
+TALBOT."
+
+In view of such positive statements as these, from such eminent
+authorities and others, and of the collateral facts as to the probable
+ownership of the MAY-FLOWER in 1630, and on her earlier voyages herein
+presented, the doubt expressed by the Rev. Mr. Blaxland in his "Mayflower
+Essays," whether the ship bearing her name was the same, on these three
+several voyages, certainly does not seem justified.
+
+Captain William Pierce, who commanded the MAY-FLOWER in 1629, when she
+brought over part of the Leyden company, was the very early and intimate
+friend of the Pilgrims--having brought over the ANNE with Leyden
+passengers in 1623--and sailed exclusively in the employ of the Merchant
+Adventurers, or some of their number, for many years, which is of itself
+suggestive.
+
+To accept, as beyond serious doubt, Mr. Goffe's ownership of the MAY-
+FLOWER, when she made her memorable voyage to New Plimoth, one need only
+to compare, and to interpret logically, the significant facts;--that he
+was a ship-owner of London and one of the body of Merchant Adventurers
+who set her forth on her Pilgrim voyage in 1620; and that he stood, as
+her evident owner, in similar relation to the Puritan company which
+chartered her for New England, similarly carrying colonists, self-exiled
+for religion's sake, in 1629 and again in 1630.  This conviction is
+greatly strengthened by the fact that Mr. Goffe continued one of the
+Pilgrim Merchant Adventurers, until their interests were transferred to
+the colonists by the "Composition" of 1626, and three years later (1629)
+sent by the MAY-FLOWER, on her second New England voyage, although under
+a Puritan charter, another company from the Leyden congregation.  The
+(cipher) letter of the "Governor and deputies of the New-England Company
+for a plantation in Massachusetts Bay" to Captain John Endicott, written
+at Gravesend, England, the 17th of April, 1629, says: "If you want any
+Swyne wee have agreed with those of Ne[w] Plimouth that they deliver you
+six Sowes with pigg for which they a[re] to bee allowed 9 lb. in accompt
+of what they the Plymouth people owe unto Mr. Goffe [our] deputie
+[Governor]."  It appears from the foregoing that the Pilgrims at New
+Plymouth were in debt to Mr. Goffe in 1629, presumably for advances and
+passage money on account of the contingent of the Leyden congregation,
+brought over with Higginson's company to Salem, on the second trip of the
+MAY-FLOWER.  Mr. Goffe's intimate connection with the Pilgrims was
+certainly unbroken from the organization of their Merchant Adventurers in
+1619/20, through the entire period of ten years, to 1630. There is every
+reason to believe, and none to doubt, that his ownership of the MAY-
+FLOWER of imperishable renown remained equally unbroken throughout these
+years, and that his signature as her owner was appended to her Pilgrim
+charter-party in 1620. Whoever the signatories of her charter-party may
+have been, there can be no doubt that the good ship MAY-FLOWER, in charge
+of her competent, if treacherous, Master, Captain Thomas Jones, and her
+first "pilot," John Clarke, lay in the Thames near London through the
+latter part of June and the early part of July, in the summer of 1620,
+undergoing a thorough overhauling, under contract as a colonist-
+transport, for a voyage to the far-off shores of "the northern parts of
+Virginia."
+
+In whatever of old English verbiage, with quaint terms and cumbersome
+repetition, the stipulations of this contract of were concealed, there
+can be no doubt that they purported and designed to "ingage" that "the
+Good ship MAY-FLOWER of Yarmouth, of 9 score tuns burthen, whereof for
+the present viage Thomas Joanes is Master," should make the "viage" as a
+colonist-transport, "from the city of London in His Majesty's Kingdom of
+Great Britain," etc., "to the neighborhood of the mouth of Hudson's
+River, in the northern parts of Virginia and return, calling at the Port
+of Southampton, outward bound, to complete her lading, the same of all
+kinds, to convey to, and well and safely deliver at, such port or place,
+at or about the mouth of Hudson's River, so-called, in Virginia
+aforesaid, as those in authority of her passengers shall direct," etc.,
+with provision as to her return lading, through her supercargo, etc.
+
+It is probable that the exact stipulations of the contract will never
+transpire, and we can only roughly guess at them, by somewhat difficult
+comparison with the terms on which the LADY ARBELLA, the "Admiral," or
+flagship, of Winthrop's fleet, was chartered in 1630, for substantially
+the like voyage (of course, without expectation or probability, of so
+long a stay on the New England coast), though the latter was much the
+larger ship.  The contract probably named an "upset" or total sum for the
+"round voyage," as was the of the case with the LADY ARBELLA, though it
+is to be hoped there was no "demurrage" clause, exacting damage, as is
+usual, for each day of detention beyond the "lay days" allowed, for the
+long and unexpected tarries in Cape Cod and Plymouth harbors must have
+rolled up an appalling "demurrage" claim.  Winthrop enters among his
+memoranda, "The agreement for the ARBELLA L750, whereof is to be paid in
+hand [i e.  cash down] the rest upon certificate of our safe arrival."
+The sum was doubtless considerably in excess of that paid for the MAY-
+FLOWER, both because she was a much larger, heavier-armed, and better-
+manned ship, of finer accommodations, and because ships were, in 1630, in
+far greater demand for the New England trade than in 1620, Winthrop's own
+fleet including no less than ten. The adjustments of freight and passage
+moneys between the Adventurers and colonists are matter of much doubt and
+perplexity, and are not likely to be fully ascertained. The only light
+thrown upon them is by the tariffs for such service on Winthrop's fleet,
+and for passage, etc., on different ships, at a little later day.  It is
+altogether probable that transportation of all those accepted as
+colonists, by the agents of the Adventurers and "Planters," was without
+direct charge to any individual, but was debited against the whole.  But
+as some had better quarters than others, some much more and heavier
+furniture, etc., while some had bulky and heavy goods for their personal
+benefit (such as William Mullen's cases of "boots and shoes," etc.), it
+is fair to assume that some schedule of rates for "tonnage," if not for
+individuals, became necessary, to prevent complaints and to facilitate
+accounts.  Winthrop credits Mr. Goffe--owner of two of the ships in 1630
+--as follows:--
+
+         "For ninety-six passengers at L4, L384.
+          For thirty-two tons of goods at L3 (per ton).
+          For passage for a man, his wife and servant, (3 persons)
+          L16/10, L5/10 each."
+
+Goodwin shows the cost of transportation at different times and under
+varying conditions.  "The expense of securing and shipping Thos. Morton
+of 'Merry Mount' to England, was L12 7 0," but just what proportion the
+passage money bore to the rest of the account, cannot now be told.  The
+expense of Mr. Rogers, the young insane clergyman brought over by Isaac
+Allerton,  without authority, was, for the voyage out: "For passage L1 0
+0.  For diet for eleven weeks at 4s. 8d.  per week, total L3 11 4" [A
+rather longer passage than usual.]  Constant Southworth came in the same
+ship and paid the same, L3 11 4, which may hence be assumed as the
+average charge, at that date, for a first-class passage. This does not
+vary greatly from the tariff of to-day, (1900) as, reduced to United
+States currency, it would be about $18; and allowing the value of
+sterling to be about four times this, in purchase ratio, it would mean
+about $73.  The expenses of the thirty-five of the Leyden congregation
+who came over in the MAY-FLOWER in 1620, and of the others brought in the
+LION in 1630, were slightly higher than these figures, but the cost of
+the trip from Leyden to England was included, with that of some clothing.
+In 1650, Judge Sewall, who as a wealthy man would be likely to indulge in
+some luxury, gives his outlay one way, as, "Fare, L2 3 0; cabin expenses,
+L4 11 4; total, L6 14 4."
+
+
+
+
+CHAPTER IV
+
+THE MAY-FLOWER--THE SHIP HERSELF
+
+Unhappily the early chroniclers familiar with the MAY-FLOWER have left us
+neither representation nor general description of her, and but few data
+from which we may reconstruct her outlines and details for ourselves.
+Tradition chiefly determines her place in one of the few classes into
+which the merchant craft of her day were divided, her tonnage and service
+being almost the only other authentic indices to this class.
+
+Bradford helps us to little more than the statement, that a vessel, which
+could have been no other, "was hired at London, being of burden about 9
+score" [tons], while the same extraordinary silence, which we have
+noticed as to her name, exists as to her description, with Smith,
+Bradford, Winslow, Morton, and the other contemporaneous or early writers
+of Pilgrim history.  Her hundred and eighty tons register indicates in
+general her size, and to some extent her probable model and rig.
+
+Long search for a reliable, coetaneous picture of one of the larger ships
+of the merchant service of England, in the Pilgrim period, has been
+rewarded by the discovery of the excel lent "cut" of such a craft, taken
+from M. Blundeville's "New and Necessarie Treatise of Navigation,"
+published early in the seventeenth century.  Appearing in a work of so
+high character, published by so competent a navigator and critic, and
+(approximately) in the very time of the Pilgrim "exodus," there can be no
+doubt that it quite correctly, if roughly and insufficiently, depicts the
+outlines, rig, and general cast of a vessel of the MAY-FLOWER type and
+time, as she appeared to those of that day, familiar therewith.
+
+It gives us a ship corresponding, in the chief essentials, to that which
+careful study of the detail and minutiae of the meagre MAY-FLOWER history
+and its collaterals had already permitted the author and others to
+construct mentally, and one which confirms in general the conceptions
+wrought out by the best artists and students who have attempted to
+portray the historic ship herself.
+
+Captain J. W. Collins, whose experience and labors in this relation are
+further alluded to, and whose opinion is entitled to respect, writes the
+author in this connection, as follows "The cut from Blundeville's
+treatise, which was published more or less contemporaneously with the
+MAYFLOWER, is, in my judgment, misleading, since it doubtless represents
+a ship of an earlier date, and is evidently [sic] reproduced from a
+representation on tapestry, of which examples are still to be seen (with
+similar ships) in England.  The actual builder's plans, reproduced by
+Admiral Paris, from drawings still preserved, of ships of the MAYFLOWER'S
+time, seem to me to offer more correct and conclusive data for accurately
+determining what the famous ship of the Pilgrim Fathers was like."
+
+Decidedly one of the larger and better vessels of the merchant class of
+her day, she presumably followed the prevalent lines of that class, no
+doubt correctly represented, in the main, by the few coeval pictures of
+such craft which have come down to us.  No one can state with absolute
+authority, her exact rig, model, or dimensions; but there can be no
+question that all these are very closely determined from even the meagre
+data and the prints we possess, so nearly did the ships of each class
+correspond in their respective features in those days.  There is a
+notable similarity in certain points of the MAY-FLOWER, as she has been
+represented by these different artists, which is evidence upon two
+points: first, that all delineators have been obliged to study the type
+of vessel to which she belonged from such representations of it as each
+could find, as neither picture nor description of the vessel herself was
+to be had; and second, that as the result of such independent study
+nearly all are substantially agreed as to what the salient features of
+her type and class were. A model of a ship [3 masts] of the MAY-FLOWER
+type, and called in the Society's catalogue "A Model of the MAY FLOWER,
+after De Bry," but itself labelled "Model of one of Sir Walter Raleigh's
+Ships," is (mistakenly) exhibited by the Pilgrim Society at Plymouth.
+It is by no means to be taken as a correct representation of the Pilgrim
+bark.  Few of the putative pictures of the MAY-FLOWER herself are at all
+satisfactory,--apart from the environment or relation in which she is
+usually depicted,--whether considered from an historical, a nautical,
+or an artistic point of view.  The only one of these found by the author
+which has commanded (general, if qualified) approval is that entitled
+"The MAY-FLOWER at Sea," a reproduction of which, by permission, is the
+frontispiece of this volume.  It is from an engraving by the master hand
+of W. J. Linton, from a drawing by Granville Perkins, and appeared in the
+"New England Magazine" for April, 1898, as it has elsewhere.  Its
+comparative fidelity to fact, and its spirited treatment, alike commend
+it to those familiar with the subject, as par excellence the modern
+artistic picture of the MAY-FLOWER, although somewhat fanciful, and its
+rig, as Captain Collies observes, "is that of a ship a century later than
+the MAY-FLOWER; a square topsail on the mizzen," he notes, "being unknown
+in the early part of the seventeenth century, and a jib on a ship equally
+rare."  Halsall's picture of "The Arrival of the MAY-FLOWER in Plymouth
+Harbor," owned by the Pilgrim Society, of Plymouth, and hung in the
+Society's Hall, while presenting several historical inaccuracies,
+undoubtedly more correctly portrays the ship herself, in model, rig,
+etc., than do most of the well-known paintings which represent her.
+It is much to be regretted that the artist, in woeful ignorance, or
+disregard, of the recorded fact that the ship was not troubled with
+either ice or snow on her entrance (at her successful second attempt) to
+Plymouth harbor, should have covered and environed her with both.
+
+Answering, as the MAY-FLOWER doubtless did, to her type, she was
+certainly of rather "blocky," though not unshapely, build, with high poop
+and forecastle, broad of beam, short in the waist, low "between decks,"
+and modelled far more upon the lines of the great nautical prototype, the
+water-fowl, than the requirements of speed have permitted in the carrying
+trade of more recent years.  That she was of the "square rig" of her
+time--when apparently no use was made of the "fore-and-aft" sails which
+have so wholly banished the former from all vessels of her size--goes
+without saying.  She was too large for the lateen rig, so prevalent in
+the Mediterranean, except upon her mizzenmast, where it was no doubt
+employed.
+
+The chief differences which appear in the several "counterfeit
+presentments" of the historic ship are in the number of her masts and
+the height of her poop and her forecastle. A few make her a brig or
+"snow" of the oldest pattern, while others depict her as a full-rigged
+ship, sometimes having the auxiliary rig of a small "jigger" or "dandy-
+mast," with square or lateen sail, on peak of stern, or on the bow sprit,
+or both, though usually her mizzenmast is set well aft upon the poop.
+There is no reason for thinking that the former of these auxiliaries
+existed upon the MAY-FLOWER, though quite possible.  Her 180 tons
+measurement indicates, by the general rule of the nautical construction
+of that period, a length of from 90 to 100 feet, "from taffrail to
+knighthead," with about 24 feet beam, and with such a hull as this, three
+masts would be far more likely than two.  The fact that she is always
+called a "ship"--to which name, as indicating a class, three masts
+technically attach--is also somewhat significant, though the term is
+often generically used.  Mrs. Jane G. Austin calls the MAY-FLOWER a
+"brig," but there does not appear anywhere any warrant for so doing.
+
+At the Smithsonian Institution (National Museum) at Washington, D. C.,
+there is exhibited a model of the MAY-FLOWER, constructed from the ratio
+of measurements given in connection with the sketch and working plans of
+a British ship of the merchant MAY-FLOWER class of the seventeenth
+century, as laid down by Admiral Francois Edmond Paris, of France, in his
+"Souvenirs de Marine."  The hull and rigging of this model were carefully
+worked out by, and under the supervision of Captain Joseph W. Collins
+(long in the service of the Smithsonian Institution, in nautical and
+kindred matters, and now a member of the Massachusetts Commission of
+Inland Fisheries and Game), but were calculated on the erroneous basis of
+a ship of 120 instead of 180 tons measurement.  This model, which is upon
+a scale of 1/2 inch to 1 foot, bears a label designating it as "The
+'MAYFLOWER' of the Puritans" [sic], and giving the following description
+(written by Captain Collins) of such a vessel as the Pilgrim ship, if of
+120 tons burthen, as figured from such data as that given by Admiral
+Paris, must, approximately, have been.  (See photographs of the model
+presented herewith.) "A wooden, carvel-built, keel vessel, with full
+bluff bow, strongly raking below water line; raking curved stem; large
+open head; long round (nearly log-shaped) bottom; tumble in top side;
+short run; very large and high square stern; quarter galleries; high
+forecastle, square on forward end, with open rails on each side; open
+bulwarks to main [spar] and quarter-decks; a succession of three quarter-
+decks or poops, the after one being nearly 9 feet above main [spar] deck;
+two boats stowed on deck; ship-rigged, with pole masts [i. e.  masts in
+one piece]; without jibs; square sprit sail (or water sail under
+bowsprit); two square sails on fore and main masts, and lateen sail on
+mizzenmast."
+
+Dimensions of Vessel.  Length, over all, knightheads to taffrail, 82
+feet; beam, 22 feet; depth, 14 feet; tonnage, 120; bowsprit, outboard, 40
+feet 6 inches; spritsail yard, 34 feet 6 inches; foremast, main deck to
+top, 39 feet; total length, main [spar] deck to truck, 67 feet 6 inches;
+fore-yard, 47 feet 6 inches; foretopsail yard, 34 feet 1 2 inches;
+mainmast, deck to top, 46 feet; total, deck to truck, 81 feet; main yard,
+53 feet; maintopsail yard, 38 feet 6 inches; mizzen mast, deck to top, 34
+feet; total, deck to truck, 60 feet 6 inches; spanker yard, 54 feet 6
+inches; boats, one on port side of deck, 17 feet long by 5 feet 2 inches
+wide; one on starboard side, 13 feet 6 inches long by 4 feet 9 inches
+wide.  The above description "worked out" by Captain Collins, and in
+conformity to which his putative model of the "MAY FLOWER" was
+constructed, rests, of course, for its correctness, primarily, upon the
+assumptions (which there is no reason to question) that the "plates" of
+Admiral Paris, his sketches, working plans, dimensions, etc., are
+reliable, and that Captain Collins's mathematics are correct, in reducing
+and applying the Admiral's data to a ship of 120 tons.  That there would
+be some considerable variance from the description given, in applying
+these data to a ship of 60 tons greater measurement (i.e. of 180 tons),
+goes without saying, though the changes would appear more largely in the
+hull dimensions than in the rigging.  That the description given, and its
+expression in the model depicted, present, with considerable fidelity, a
+ship of the MAY-FLOWER'S class arid type, in her day,--though of sixty
+tons less register, and amenable to changes otherwise,--is altogether
+probable, and taken together, they afford a fairly accurate idea of the
+general appearance of such a craft.
+
+In addition to mention of the enlargements which the increased tonnage
+certainly entails, the following features of the description seem to call
+for remark.
+
+It is doubtful whether the vessels of this class had "open bulwarks to
+the main [spar] deck," or "a succession of three quarter-decks or poops."
+Many models and prints of ships of that period and class show but two.
+It is probable that if the jib was absent, as Captain Collins believes
+(though it was evidently in use upon some of the pinnaces and shallops of
+the time, and its utility therefore appreciated), there was a small
+squaresail on a "dandy" mast on the bowsprit, and very possibly the
+"sprit" or "water-sail" he describes.  The length of the vessel as given
+by Captain Collins, as well as her beam, being based on a measurement of
+but 120 tons, are both doubtless less than they should be, the depth
+probably also varying slightly, though there would very likely be but few
+and slight departures otherwise from his proximate figures.  The long-
+boat would be more likely to be lashed across the hatch amidships than
+stowed on the port side of the deck, unless in use for stowage purposes,
+as previously suggested.  Captain Collins very interestingly notes in a
+letter to the author, concerning the measurements indicated by his model:
+"Here we meet with a difficulty, even if it is not insurmountable.  This
+is found in the discrepancy which exists between the dimensions--length,
+breadth, and depth--requisite to produce a certain tonnage, as given by
+Admiral Paris and the British Admiralty.  Whether this is due to a
+difference in estimating tonnage between France (or other countries) and
+Great Britain, I am unable to say, but it is a somewhat remarkable fact
+that the National Museum model, which was made for a vessel of 120 tons,
+as given by Admiral Paris who was a Frenchman, has almost exactly the
+proportions of length, depth, and breadth that an English ship of 180
+tons would have, if we can accept as correct the lists of measurements
+from the Admiralty records published by Charnock .  .  .  .  In the third
+volume of Charnock's 'History of Marine Architecture,' p. 274., I find
+that a supply transport of 175 tons, built in 1759, and evidently a
+merchant ship originally, or at least a vessel of that class, was 79.4
+feet long (tonnage measure), 22.6 feet beam, and 11.61 feet deep."  The
+correspondence is noticeable and of much interest, but as the writer
+comments, all depends upon whether or not "the measurement of the middle
+of the eighteenth century materially differed in Great Britain from what
+it was in the early part of the previous century."
+
+Like all vessels having high stems and sterns, she was unquestionably "a
+wet ship,"--upon this voyage especially so, as Bradford shows, from being
+overloaded, and hence lower than usual in the water. Captain John Smith
+says: "But being pestered [vexed] nine weeks in this leaking,
+unwholesome ship, lying wet in their cabins; most of them grew very weak
+and weary of the sea."  Bradford says, quoting the master of the MAY-
+FLOWER and others: "As for the decks and upper works they would caulk
+them as well as they could, .  .  .  though with the working of the ship,
+they would not long keep staunch."  She was probably not an old craft, as
+her captain and others declared they "knew her to be strong and firm
+under water;" and the weakness of her upper works was doubtless due to
+the strain of her overload, in the heavy weather of the autumnal gales.
+Bradford says: "They met with many contrary winds and fierce storms with
+which their ship was shrewdly shaken and her upper works made very
+leaky."  That the confidence of her master in her soundness below the
+water-line was well placed, is additionally proven by her excellent
+voyages to America, already noted, in 1629, and 1630, when she was ten
+years older.
+
+That she was somewhat "blocky" above water was doubtless true of her, as
+of most of her class; but that she was not unshapely below the water-line
+is quite certain, for the re markable return passage she made to England
+(in ballast) shows that her lower lines must have been good.  She made
+the run from Plymouth to London on her return voyage in just thirty-one
+days, a passage that even with the "clipper ships" of later days would
+have been respectable, and for a vessel of her model and rig was
+exceptionally good.  She was "light" (in ballast), as we know from the
+correspondence of Weston and Bradford, the letter of the former to
+Governor Carver--who died before it was received--upbraiding him for
+sending her home "empty."  The terrible sickness and mortality of the
+whole company, afloat and ashore, had, of course, made it impossible to
+freight her as intended with "clapboards" [stave-stock], sassafras roots,
+peltry, etc. No vessels of her class of that day were without the high
+poop and its cabin possibilities,--admirably adapting them to passenger
+service,--and the larger had the high and roomy topgallant forecastles so
+necessary for their larger crews.  The breadth of beam was always
+considerably greater in that day than earlier, or until much later,
+necessitated by the proportionately greater height ("topsides"), above
+water, at stem and stern.  The encroachments of her high poop and
+forecastle left but short waist-room; her waist-ribs limited the height
+of her "between decks;" while the "perked up" lines of her bow and stern
+produced the resemblance noted, to the croup and neck of the wild duck.
+That she was low "between decks" is demonstrated by the fact that it was
+necessary to "cut down" the Pilgrims' shallop--an open sloop, of
+certainly not over 30 feet in length, some 10 tons burden, and not very
+high "freeboard"--"to stow" her under the MAY-FLOWER'S spar deck.  That
+she was "square-rigged" follows, as noted, from the fact that it was the
+only rig in use for ships of her class and size, and that she had
+"topsails" is shown by the fact that the "top-saile halliards" were
+pitched over board with John Howland, and saved his life.  Bradford says:
+"A lustie yonge man (called John Howland) coming upon some occasion above
+ye grattings, was with a seele of ye shipe throwne into ye sea: but it
+pleased God yt he caught hould of ye top-saile halliards which hunge over
+board & rane out at length yet he held his hould .  .  .  till he was
+haled up," etc. Howland had evidently just come from below upon the poop-
+deck (as there would be no "grattings" open in the waist to receive the
+heavy seas shipped).  The ship was clearly experiencing "heavy weather"
+and a great lurch ("seele") which at the stern, and on the high,
+swinging, tilting poop-deck would be most severely felt, undoubtedly
+tossed him over the rail.  The topsail halliards were probably trailing
+alongside and saved him, as they have others under like circumstances.
+
+Whether or not the MAY-FLOWER had the "round house" under her poop-deck,
+---a sort of circular-end deck-house, more especially the quarters, by
+day, of the officers and favored passengers; common, but apparently not
+universal, in vessels of her class,--we have no positive knowledge, but
+the presumption is that she had, as passenger ships like the PARAGON (of
+only 140 tons), and others of less tonnage, seem to have been so fitted!
+
+It is plain that, in addition to the larger cabin space and the smaller
+cabins,--"staterooms," nowadays,--common to ships of the MAY-FLOWER'S
+size and class, the large number of her passengers, and especially of
+women and children, made it necessary to construct other cabins between
+decks.  Whether these were put up at London, or Southampton, or after the
+SPEEDWELL'S additional passengers were taken aboard at Plymouth, does not
+appear.  The great majority of the men and boys were doubtless provided
+with bunks only, "between decks," but it seems that John Billington had a
+cabin there.  Bradford narrates of the gunpowder escapade of young
+Francis Billington, that, "there being a fowling-piece, charged in his
+father's cabin [though why so inferior a person as Billington should have
+a cabin when there could not have been enough for better men, is a query],
+shot her off in the cabin, there being a little barrel of powder half-
+full scattered in and about the cabin, the fire being within four feet of
+the bed, between the decks, .  .  .  and many people gathered about the
+fire," etc.
+
+Whatever other deductions may be drawn from this very badly constructed
+and ambiguous paragraph of Bradford, two things appear certain,--one,
+that Billington had a "cabin" of his own "between decks;" and the other,
+that there was a "fire between decks," which "many people" were gathered
+"about."  We can quite forgive the young scamp for the jeopardy in which
+he placed the ship and her company, since it resulted in giving us so
+much data concerning the MAY-FLOWER'S "interior."  Captain John Smith's
+remark, already quoted, as to the MAY-FLOWER'S people "lying wet in their
+cabins," is a hint of much value from an experienced navigator of that
+time, as to the "interior" construction of ships and the bestowal of
+passengers in them, in that day, doubtless applicable to the MAY-FLOWER.
+
+While it was feasible, when lying quietly at anchor in a land-locked
+harbor, with abundance of fire-wood at hand, to have a fire, about which
+they could gather, even if only upon the "sand-hearth" of the early
+navigators, when upon boisterous seas, in mid-ocean, "lying .  .  .  in
+their cabins" was the only means of keeping warm possible to voyagers.
+In "Good Newes from New England," we find the lines:--
+
+                   "Close cabins being now prepared,
+                    With bred, bief, beire, and fish,
+                    The passengers prepare themselves,
+                    That they might have their wish."
+
+Her magazine, carpenter's and sailmaker's lockers, etc., were doubtless
+well forward under her forecastle, easily accessible from the spar-deck,
+as was common to merchant vessels of her class and size.  Dr. Young, in
+his "Chronicles of the Pilgrim Fathers" (p. 86, note), says: "This vessel
+was less than the average size of the fishing-smacks that go to the Grand
+Banks.  This seems a frail bark in which to cross a stormy ocean of three
+thousand miles in extent.  Yet it should be remembered that two of the
+ships of Columbus on his first daring and perilous voyage of discovery,
+were light vessels, without decks, little superior to the small craft
+that ply on our rivers and along our coasts .  .  .  .  Frobisher's fleet
+consisted of two barks of twenty-five tons each and a pinnace of ten
+tons, when he sailed in 1576 to discover a north-west passage to the
+Indies.  Sir Francis Drake, too, embarked on his voyage for
+circumnavigating the globe, in 1577, with five vessels, of which the
+largest was of one hundred, and the smallest fifteen tons.  The bark in
+which Sir Humphrey Gilbert perished was of ten tons only."  The LITTLE
+JAMES, which the Company sent to Plymouth in July, 1623, was "a pinnace
+of only forty-four tons," and in a vessel of fifty tons (the SPEEDWELL),
+Martin Pring, in 1603, coasted along the shores of New England.  Goodwin
+says: "In 1587 there were not in all England's fleet more than five
+merchant vessels exceeding two hundred tons."  The SPARROW-HAWK wrecked
+on Cape Cod in 1626 was only 40 feet "over all."  The Dutch seem to have
+built larger vessels.  Winthrop records that as they came down the
+Channel, on their way to New England (1630), they passed the wreck of
+"a great Dutch merchantman of a thousand tons."
+
+The MAY-FLOWER'S galley, with its primitive conditions for cooking,
+existed rather as a place for the preparation of food and the keeping of
+utensils, than for the use of fire.  The arrangements for the latter were
+exceedingly crude, and were limited to the open "hearth-box" filled with
+sand, the chief cooking appliance being the tripod-kettle of the early
+navigators: This might indeed be set up in any part of the ship where the
+"sand-hearth" could also go, and the smoke be cared for.  It not
+infrequently found space in the fore castle, between decks, and, when
+fine weather prevailed, upon the open deck, as in the open caravels of
+Columbus, a hundred years before.  The bake-kettle and the frying-pan
+held only less important places than the kettle for boiling. It must have
+been rather a burst of the imagination that led Mrs. Austin, in "Standish
+of Standish," to make Peter Browne remind poor half-frozen Goodman--whom
+he is urging to make an effort to reach home, when they had been lost,
+but had got in sight of the MAY-FLOWER In the harbor--of "the good fires
+aboard of her."  Moreover, on January 22, when Goodman was lost, the
+company had occupied their "common-house" on shore. Her ordnance
+doubtless comprised several heavy guns (as such were then reckoned),
+mounted on the spar-deck amid ships, with lighter guns astern and on.
+the rail, and a piece of longer range and larger calibre upon the
+forecastle.  Such was the general disposal of ordnance upon merchant
+vessels of her size in that day, when an armament was a 'sine qua non'.
+Governor Winslow in his "Hypocrisie Unmasked," 1646 (p. 91), says, in
+writing of the departure of the Pilgrims from Delfshaven, upon the
+SPEEDWELL: "The wind being fair we gave them a volley of small shot and
+three pieces of ordnance," by which it seems that the SPEEDWELL, of only
+sixty tons, mounted at least "three pieces of ordnance" as, from the form
+of expression, there seem to have been "three pieces," rather than three
+discharges of the same piece.
+
+The inference is warranted that the MAY-FLOWER, being three times as
+large, would carry a considerably heavier and proportionate armament.
+The LADY ARBELLA, Winthrop's ship, a vessel of 350 tons, carried "twenty-
+eight pieces of ordnance;" but as "Admiral" of the fleet, at a time when
+there was a state of war with others, and much piracy, she would
+presumably mount more than a proportionate weight of metal, especially as
+she convoyed smaller and lightly armed vessels, and carried much value.
+There is no reason to suppose that the MAY-FLOWER, in her excessively
+crowded condition, mounted more than eight or ten guns, and these chiefly
+of small calibre.  Her boats included her "long-boat," with which the
+experience of her company in "Cape Cod harbor" have made us familiar, and
+perhaps other smaller boats,--besides the Master's "skiff" or "gig," of
+whose existence and necessity there are numerous proofs.  "Monday the
+27," Bradford and Winslow state, "it proved rough weather and cross
+winds, so as we were constrained, some in the shallop and others in the
+long-boat," etc.  Bradford states, in regard to the repeated springings-
+a-leak of the SPEEDWELL: "So the Master of the bigger ship, called Master
+Jones, being consulted with;" and again, "The Master of the small ship
+complained his ship was so leaky .  .  .  so they [Masters Jones and
+Reynolds] came to consultation, again," etc.  It is evident that Jones
+was obliged to visit the SPEEDWELL to inspect her and to consult with the
+leaders, who were aboard her.  For this purpose, as for others, a smaller
+boat than the "long-boat" would often serve, while the number of
+passengers and crew aboard would seem to demand still other boats.
+Winthrop notices that their Captain (Melborne) frequently "had his skiff
+heaved out," in the course of their voyage.  The Master's small boat,
+called the "skiff" or "gig," was, no doubt, stowed (lashed) in the waist
+of the ship, while the "long-boat" was probably lashed on deck forward,
+being hoisted out and in, as the practice of those days was, by "whips,"
+from the yardarms.  It was early the habit to keep certain of the live-
+stock, poultry, rabbits, etc., in the unused boats upon deck, and it is
+possible that in the crowded state of the MAY-FLOWER this custom was
+followed. Bradford  remarks that their "goods or common store .  .  .
+were long in unlading [at New Plimoth] for want of boats."  It seems
+hardly possible that the Admiralty authorities,--though navigation laws
+were then few, crude, and poorly enforced,--or that the Adventurers and
+Pilgrim chiefs themselves, would permit a ship carrying some 130 souls to
+cross the Atlantic in the stormy season, without a reasonable boat
+provision.  The capacity of the "long-boat" we know to have been about
+twenty persons, as nearly that number is shown by Bradford and Winslow
+to have gone in her on the early expeditions from the ship, at Cape Cod.
+She would therefore accommodate only about one sixth of the ship's
+company.  As the "gig" would carry only five or six persons,--while the
+shallop was stowed between decks and could be of no service in case of
+need upon the voyage,--the inference is warranted that other boats were
+carried, which fail of specific mention, or that she was wofully lacking.
+The want of boats for unlading, mentioned by Bradford, suggests the
+possibility that some of the ship's quota may have been lost or destroyed
+on her boisterous voyage, though no such event appears of record, or is
+suggested by any one.  In the event of wreck, the Pilgrims must have
+trusted, like the Apostle Paul and his associates when cast away on the
+island of Melita, to get to shore, "some on boards and some on broken
+pieces of the ship."  Her steering-gear, rigging, and the mechanism for
+"getting her anchors," "slinging," "squaring," and "cockbilling" her
+yards; for "making" and "shortening" sail; "heaving out" her boats and
+"handling" her cargo, were of course all of the crude and simple patterns
+and construction of the time, usually so well illustrating the ancient
+axiom in physics, that "what is lost [spent] in power is gained in time."
+
+The compass-box and hanging-compass, invented by the English cleric,
+William Barlow, but twelve years before the Pilgrim voyage, was almost
+the only nautical appliance possessed by Captain Jones, of the MAY-
+FLOWER, in which no radical improvement has since been made.  Few charts
+of much value--especially of western waters--had yet been drafted, but
+the rough maps and diagrams of Cabot, Smith, Gosnold, Pring, Champlain
+and Dermer, Jones was too good a navigator not to have had.  In speaking
+of the landing at Cape Cod, the expression is used by Bradford in
+"Mourt's Relation," "We went round all points of the compass," proving
+that already the mariner's compass had become familiar to the speech even
+of those not using it professionally.
+
+That the ship was "well-found" in anchors (with solid stocks), hemp
+cables, "spare" spars, "boat-tackling" and the heavy "hoisting-gear" of
+those days, we have the evidence of recorded use.  "The MAY-FLOWER,"
+writes Captain Collins, would  have had a hemp cable about 9 inches in
+circumference.  Her anchors would probably weigh as follows: sheet anchor
+(or best bower) 500 to 600 lbs.; stream anchor 350 to 400 lbs.; the spare
+anchors same as the stream anchor.
+
+"Charnock's Illustrations" show that the anchors used in the MAY-FLOWER
+period were shaped very much like the so called Cape Ann anchor now made
+for our deep-sea fishing vessels.  They had the conventional shaped
+flukes, with broad pointed palms, and a long shank, the upper end passing
+through a wooden stock.  [Tory shows in his diagrams some of the anchors
+of that period with the space between the shank and flukes nearly filled
+up in the lower part with metal.]  Such an anchor has the maximum of
+holding powers, and bearing in mind the elasticity of the hemp cables
+then used, would enable a vessel to ride safely even when exposed to
+heavy winds and a racing sea:  There is no doubt, according to the
+British Admiralty Office,--which should be authority upon the matter,--
+that the flag under which the MAY-FLOWER, and all other vessels of the
+merchant marine of Great Britain, sailed, at the time she left England
+(as noted concerning the SPEEDWELL), was what became known as the "Union
+Jack," as decreed by James the First, in 1606, supplanting the English
+ensign, which had been the red cross of St. George upon a white field.
+The new flag resulted from the "union" of the crowns and kingdoms of
+England and Scotland, upon the accession of James VI. of Scotland to the
+English throne, as James I. of England, upon the death of queen
+Elizabeth.  Its design was formed by superimposing the red cross of St.
+George upon the white cross of St. Andrew, on a dark blue field; in other
+words, by imposing the cross of St. George, taken from the English
+ensign, upon the Scotch flag, and creating there by the new flag of Great
+Britain.
+
+In a little monograph on "The British Flag--Its Origin and History," a
+paper read by its author, Jona. F. Morris, Esq., before the Connecticut
+Historical Society, June 7, 1881, and reprinted at Hartford (1889), Mr.
+Morris, who has made much study of the matter, states (p. 4): "In 1603,
+James VI. of Scotland was crowned James I. of England.  The Scots, in
+their pride that they had given a king to England, soon began to contend
+that the cross of St. Andrew should take precedence of the cross of St.
+George, that ships bearing the flag of the latter should salute that of
+St. Andrew. To allay the contention, the King, on the 12th of April,
+1606, ordered that all subjects of Great Britain travelling by sea shall
+bear at the maintop the red cross of St. George and the white cross,
+commonly called the cross of St. Andrew, joined together according to a
+form made by his heralds besides this all vessels belonging to South
+Britain or England might wear the cross of St. George at the peak or
+fore, as they were wont, and all vessels belonging to North Britain or
+Scotland might wear the cross of St. Andrew at the fore top, as they had
+been accustomed; and all vessels were for bidden to wear any other flag
+at their peril.  The new flag thus designed by the heralds and proclaimed
+by this order was called the 'King's Colors.'  For a long period the red
+cross had been the colors of English navigators, as well as the badge of
+English soldiery .  .  .  .  No permanent English settlement in America
+was made until after the adoption of the 'King's Colors.'  Jamestown,
+Plymouth, Salem, and Boston were settled under the new flag, though the
+ships bringing over settlers, being English vessels, also carried the red
+cross as permitted."  Mr. Barlow Cumberland, of Toronto, Canada, has also
+given, in a little monograph entitled "The Union Jack" (published by
+William Briggs of that city, 1898), an admirable account of the history
+of the British jack, which confirms the foregoing conclusions.  The early
+English jack was later restored.  Such, roughly sketched, was the Pilgrim
+ship, the renowned MAY-FLOWER, as, drafted from the meagre but fairly
+trustworthy and suggestive data available, she appears to us of to-day.
+
+
+
+
+HER HISTORY:
+
+In even the little we know of the later history of the ship, one cannot
+always be quite sure of her identity in the records of vessels of her
+name, of which there have been many.  Dr. Nathaniel B. Shurtleff, of
+Boston, says that "a vessel bearing this name was owned in England about
+fifteen years or more before the voyage of our forefathers, but it would
+be impossible to prove or disprove its identity with the renowned MAY-
+FLOWER, however great such a probability might be.  It is known,
+nevertheless, that--the identical famous vessel afterwards hailed from
+various English ports, such as London, Yarmouth, and Southampton, and
+that it was much used in transporting immigrants to this country.  What
+eventually became of it and what was the end of its career, are equally
+unknown to history."  Goodwin  says: "It does not appear that the MAY-
+FLOWER ever revisited Plymouth, but in 1629 she came to Salem," with a
+company of the Leyden people for Plymouth, under command of Captain
+William Peirce, the warm friend of the Pilgrims, and in 1630 was one of
+the large fleet that attended John Winthrop, under a different master,
+discharging her passengers at Charlestown.  Nothing is certainly known of
+her after that time.  In 1648 a ship [hereinafter mentioned by Hunter]
+named the MAY-FLOWER was engaged in the slave trade, and the ill-informed
+as well as the ill-disposed have sometimes sneeringly alleged that this
+was our historic ship; but it is ascertained that the slaver was a vessel
+of three hundred and fifty tons,--nearly twice the size of our ship of
+happy memory.  In 1588 the officials of Lynn (England) offered the "MAY-
+FLOWER" (150 tons) to join the fleet against the dreaded Spanish Armada.
+In 1657, Samuel Vassall, of London, complained that the government had
+twice impressed his ship, MAY-FLOWER, which he had "fitted out with sixty
+men, for the Straits."  Rev. Joseph Hunter, author of "The Founders of
+New Plymouth," one of the most eminent antiquarians in England, and an
+indefatigable student of Pilgrim history among British archives, says:
+"I have not observed the name of MAY FLOWER [in which style he always
+writes it] before the year 1583 .  .  .  .  But the name soon became
+exceedingly popular among those to whom belonged the giving of the names
+to vessels in the merchant-service.  Before the close of that century
+[the sixteenth] we have a MAY-FLOWER of Hastings; a MAY-FLOWER of Rie;
+a MAY-FLOWER of Newcastle: a  MAY FLOWER of Lynn; and a MAY-FLOWER Of
+Yarmouth: both in 1589.  Also a MAY-FLOWER of Hull, 1599; a MAY FLOWER of
+London of eighty tons burden, 1587, and 1594, Of which Richard Ireland
+was the master, and another MAY-FLOWER of the same port, of ninety tons
+burthen, of which Robert White was the master in 1594, and a third MAY-
+FLOWER of London, unless it is the same vessel with one of the two just
+spoken of, only with a different master, William Morecock.  In 1587 there
+was a MAY-FLOWER Of Dover, of which John Tooke was the master.  In 1593
+there was a MAY-FLOWER of Yarmouth of 120 tons, of which William Musgrove
+was the master.  In 1608 there was a MAY-FLOWER of Dartmouth, of which
+Nicholas Waterdonne was the master; and in 1609 a MAY-FLOWER of
+Middleburgh entered an English port."
+
+Later in the century we find a MAY-FLOWER of Ipswich, and another of
+Newcastle in 1618; a MAY-FLOWER of York in 1621; a MAY-FLOWER of
+Scarborough in 1630, Robert Hadock the master; a MAY-FLOWER of Sandwich
+the same year, John Oliver the master; a MAY-FLOWER of Dover, 1633,
+Walter Finnis, master, in which two sons of the Earl of Berkshire crossed
+to Calais. "Which of these was the vessell which carried over the
+precious [Pilgrim] freight cannot perhaps be told [apparently neither,
+unless perhaps the MAY-FLOWER of Yarmouth of 1593, in which case her
+tonnage is incorrectly given], but we learn from Mr. Sherley's letter to
+Governor Bradford' that the same vessel was employed in 1629 in passing
+between the two countries, a company of the church at Leyden, who had
+joined in the first emigration, intending to pass in it to America; and
+in the same author we find that the vessel arrived in the harbour of
+Charlestown [N. E.] on July 1, 1630.  There was a MAY-FLOWER which, in
+1648, gained an unenviable notoriety as a slaver.  But this was not the
+MAY-FLOWER which had carried over the first settlers, it being a vessel
+Of 350 tons, while the genuine MAY-FLOWER was of only 180 tons."  Of the
+first of her two known visits, after her voyage with the Pilgrim company
+from Leyden, Goodwin says: "In August, 1629, the renowned MAY-FLOWER came
+from England to Salem under Plymouth's old friend [William] Peirce, and
+in her came thirty-five Leyden people, on their way to Plymouth."  The
+number has been in dispute, but the large cost of bringing them, over
+L500, would suggest that their families must have also come, as has been
+alleged, but for the following from Governor Bradford's Letter Book:
+"These persons," he says, "were in all thirty-five, which came at this
+time unto us from Leyden, whose charge out of Holland into England, and
+in England till the ship was ready, and then their transportation hither,
+came to a great deal of money, for besides victuals and other expenses,
+they were all newly apparelled."  Shirley, one of the Adventurers,
+writing to Governor Bradford in 1629, says: "Here are now many of your
+friends from Leyden coming over.  With them also we have sent some
+servants, or in the ship that went lately (I think called the TALBOT),
+and this that these come in is the MAY-FLOWER."  All that Higginson's
+journal tells of her, as noted, is, that "she was of Yarmouth;" was
+commanded by William Peirce, and carried provisions and passengers, but
+the fact that she was under command of Captain Peirce of itself tells
+much.  On her next trip the MAY-FLOWER sailed from Southampton, in May,
+1630, as part of Winthrop's fleet, and arrived at Charlestown July 1.
+She was, on this voyage, under command of a new master (perhaps a Captain
+Weatherby), Captain Peirce having, at this time, command of the ship
+LYON, apparently in the service of Plymouth Colony.  A vessel of this
+name [MAY-FLOWER] was sailing between England and Boston in 1656.  Young
+says: "The MAY-FLOWER is a ship of renown in the history of the
+colonization of New England.  She was one of the five vessels which, in
+1629, conveyed Higginson's company to Salem, and also one of the fleet
+which, in 1630, brought over his colony to Massachusetts Bay."
+
+October 6, 1652, "Thomas Webber, Mr. of the good shipp called the
+MAYFLOWER of the burden of Two hundred Tuns or there abouts .  .  .  .
+Rideing at Ancor in the Harber of Boston," sold one-sixteenth of the ship
+"for good & valluable Consideracons to Mr. John Pinchon of Springfield
+Mrchant."  The next day, October 7, 1652, the same "Thomas Webber, Mr, of
+the good Shipp called the MAY FLOWER of Boston in New England now bound
+for the barbadoes and thence to London," acknowledges an indebtedness to
+Theodore Atkinson, a wealthy "hatter, felt-maker," and merchant of
+Boston, and the same day (October 7, 1652), the said "Thomas Webber, Mr.
+of the good shipp called the MAY FLOWER of the burthen of Two hundred
+tuns or thereabouts," sold "unto Theodore Atkinson felt-maker one-
+sixteenth part as well of said Shipp as of all & singular her masts Sails
+Sail-yards Ancors Cables Ropes Cords Gunns Gunpowder Shott Artillery
+Tackle Munition apparrell boate skiffe and furniture to the same
+belonging."  It is of course possible that this was the historic ship,
+though, if so, reappearing twenty two years after her last known voyage
+to New England.  If the same, she was apparently under both new master
+and owner.  From the facts that she is called "of Boston in New England"
+and was trading between that port, "the Barbadoes" and London, it is not
+impossible that she may have been built at Boston--a sort of namesake
+descendant of the historic ship--and was that MAY-FLOWER mentioned as
+belonging, in 1657, to Mr. Samuel Vassall; as he had large interests
+alike in Boston, Barbadoes, and London.  Masters of vessels were often
+empowered to sell their ships or shares in them. Although we know not
+where her keel was laid, by what master she was built, or where she laid
+her timbers when her work was done, by virtue of her grand service to
+humanity, her fame is secure, and her name written among the few, the
+immortal names that were not born to die.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Personal inference rather than a verity
+Transplantation to the "northern parts of Virginia"
+
+
+
+
+End of this Project Gutenberg Etext of The Mayflower and Her Log, V2
+by Azel Ames
+

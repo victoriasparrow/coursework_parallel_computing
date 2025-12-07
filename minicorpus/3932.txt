@@ -1,0 +1,1757 @@
+The Project Gutenberg Etext of Zibeline, by Phillipe de Massa, v2
+#19 in our series The French Immortals Crowned by the French Academy
+#2 in our series by Phillipe de Massa
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Zibeline, v2
+
+Author: Phillipe de Massa
+
+Release Date: April, 2003  [Etext #3932]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 09/02/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of Zibeline, v2, by Phillipe de Massa
+******This file should be named 3932.txt or 3932.zip******
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07/27/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+ZIBELINE
+
+By PHILIPPE DE MASSA
+
+
+
+BOOK 2.
+
+
+CHAPTER XIII
+
+THE INDUSTRIAL ORPHAN ASYLUM
+
+When the prefectoral axe of the Baron Haussmann hewed its way through the
+Faubourg St. Germain in order to create the boulevard to which this
+aristocratic centre has given its flame, the appropriation of private
+property for public purposes caused to disappear numerous ancient
+dwellings bearing armorial devices, torn down in the interest of the
+public good, to the equalizing level of a line of tramways.  In the midst
+of this sacrilegious upheaval, the Hotel de Montgeron, one of the largest
+in the Rue St. Dominique, had the good fortune to be hardly touched by
+the surveyor's line; in exchange for a few yards sliced obliquely from
+the garden, it received a generous addition of air and light on that side
+of the mansion which formerly had been shut in.
+
+The Duke lived there in considerable state.  His electors, faithful in
+all things, had made of their deputy a senator who sat in the Luxembourg,
+in virtue of the Republican Constitution, as he would have sat as a peer
+of France had the legitimate monarchy followed its course.  He was a
+great lord in the true meaning of the word: gracious to the humble,
+affable among his equals, inclined, among the throng of new families, to
+take the part of the disinherited against that of the usurpers.
+
+In Mademoiselle de Prerolles he had found a companion animated with the
+same sentiments, and the charitable organization, meeting again at the
+Duchess's residence, on the day following the revival of 'Adrienne
+Lecouvreuer', to appoint officers for the Industrial Orphan Asylum, could
+not have chosen a president more worthy or more devoted.
+
+Besides such austere patronesses as Madame Desvanneaux and her daughter,
+the organization included several persons belonging to the world of
+fashion, such as Madame de Lisieux and Madame de Nointel, whose influence
+was the more effective because their circle of acquaintance was more
+extensive.  The gay world often fraternizes willingly with those who are
+interested in philanthropic works.
+
+The founders of the Industrial Orphan Asylum intended that the
+institution should harbor, bring up, and instruct as great a number as
+possible of the children of infirm or deceased laborers.
+
+The secretary, M. Andre Desvanneaux, churchwarden of Ste.-Clotilde, as
+was his father before him, and in addition a Roman count, had just
+finished his address, concluding by making the following double
+statement: First, the necessity for combining all available-funds for the
+purchase of the land required, and for the building of the asylum itself;
+second, to determine whether the institution could be maintained by the
+annual resources of the organization.
+
+"I should like to observe," said the Duchesse de Montgeron, "that the
+first of these two questions is the only order of the day.  Not counting
+the purchase of the land, the architect's plan calls for an estimate of
+five hundred thousand francs in round numbers."
+
+"And we have on hand--" said the Comtesse de Lisieux.
+
+"One hundred and sixty-odd thousand francs from the first subscriptions,"
+said M. Desvanneaux.  "It has been decided that the work shall not begin
+until we have disposed of half of the sum total.  Therefore, the
+difference we have to make up at present is about one hundred and forty
+thousand francs.  In order to realize this sum, the committee of action
+proposes to organize at the Palais de l'Industrie a grand kermess, with
+the assistance of the principal artists from the theatres of Paris,
+including that of Mademoiselle Gontier, of the Comedie Francaise," added
+the secretary, with a sly smile on observing the expression of General de
+Prerolles.
+
+"Good!"  Henri promptly rejoined.  "That will permit Monsieur Desvanneaux
+to combine very agreeably the discharge of his official duties with the
+making of pleasant acquaintances!"
+
+"The object of my action in this matter is above all suspicion," remarked
+the churchwarden, with great dignity, while his wife darted toward him a
+furious glance.
+
+"You?  Come, come!"  continued the General, who took a mischievous
+delight in making trouble for the worthy Desvanneaux.  "Every one knows
+quite well that you have by no means renounced Satan, his pomps--"
+
+"And his good works!"  added Madame de Nointel, with a burst of laughter
+somewhat out of place in this formal gathering for the discussion of
+charitable works.
+
+"We are getting outside of the question," said the Duchess, striking her
+bell.  "Moreover, is not the assistance of these ladies necessary?"
+
+"Indispensable," the secretary replied.  "Their assistance will greatly
+increase the receipts."
+
+"What sum shall we decide upon as the price of admission?" asked Madame
+de Lisieux.
+
+"Twenty francs," said Desvanneaux.  "We have a thousand tickets printed
+already, and, if the ladies present wish to solicit subscriptions, each
+has before her the wherewithal to inscribe appropriate notes of appeal."
+
+"To be drawn upon at sight," said the Comtesse de Lisieux, taking a pen.
+"A tax on vanity, I should call it."
+
+She wrote rapidly, and then read aloud:
+
+     "MY DEAR BARON:
+
+     "Your proverbial generosity justifies my new appeal.  You will
+     accept, I am sure, the ten tickets which I enclose, when you know
+     that your confreres, the Messieurs Axenstein, have taken double that
+     number."
+
+"And here," said the Vicomtesse de Nointel, "is a tax on gallantry."  And
+she read aloud:
+
+     "MY DEAR PRINCE:
+
+     "You have done me the honor to write to me that you love me.  I
+     suppose I ought to show your note to my husband, who is an expert
+     swordsman; but I prefer to return to you your autograph letter for
+     the price of these fifteen tickets.  Go--and sin again, should your
+     heart prompt you!"
+
+"But that is a species of blackmail, Madame!" cried Madame Desvanneaux.
+
+"The end justifies the means," replied the Vicomtesse gayly.  "Besides, I
+am accountable only to the Duc de Montgeron.  What is his opinion?"
+
+"I call it a very clever stroke," said the Duke.
+
+"You hear, Madame!  Only, of course, not every lady has a collection of
+similar little notes!"  said the Vicomtesse de Nointel.
+
+The entrance of M. Durand, treasurer of the society, interrupted the
+progress of this correspondence.
+
+"Do not trouble yourselves so much, Mesdames," said the notary.  "The
+practical solution of the matter I am about to lay before you, if Madame
+the president will permit me to speak."
+
+"I should think so!"  said the Duchess.  "Speak, by all means!"
+
+"A charitable person has offered to assume all the expenses of the
+affair," said the notary, "on condition that carte blanche is granted to
+her in the matter of the site.  In case her offer is accepted, she will
+make over to the society, within three months, the title to the real
+estate, in regular order."
+
+"Do you guarantee the solvency of this person?"  demanded M. Desvanneaux,
+who saw the project of the kermess falling to the ground.
+
+"It is one of my rich clients; but I have orders not to reveal her name
+unless her offer is accepted."
+
+The unanimity with which all hands were raised did not even give time to
+put the question.
+
+"Her name?"  demanded the Duchess.
+
+"Here it is," replied the notary, handing her a visiting card.
+
+"'Valentine de Vermont,'" she read aloud.
+
+"Zibeline?"  cried Madame de Nointel.  "Bravo!  I offer her the assurance
+of my esteem!"
+
+"And I also," added Madame de Lisieux.
+
+"I can not offer mine," said Madame Desvanneaux, dryly.  "A young woman
+who is received nowhere!"
+
+"So generous an act should open all doors to her, beginning with mine,"
+said the Duchesse de Montgeron.  "I beg that you will tell her so from
+me, Monsieur Durand."
+
+"At once, Madame.  She is waiting below in her carriage."
+
+"Why did you not say so before?  I must beg her myself to join us here,"
+said the master of the house, leaving the room in haste.
+
+"See how any one can purchase admission to our world in these days!"
+whispered Madame Desvanneaux in her daughter's ear.
+
+"Heavens!  yes, dear mother!  The only question is whether one is able to
+pay the price."
+
+We must render justice to the two titled patronesses by saying that the
+immediate admission of Mademoiselle de Vermont to their circle seemed to
+them the least they could do, and that they greeted her appearance, as
+she entered on the arm of the Duke, with a sympathetic murmur which put
+the final stroke to the exasperation of the two malicious dames.
+
+"You are very welcome here, Mademoiselle," said the Duchess, advancing to
+greet her guest.  "I am delighted to express to you, in behalf of all
+these ladies, the profound gratitude with which your generous aid
+inspires them!"
+
+"It is more than I deserve, Madame la Duchesse!"  said Valentine.  "The
+important work in which they have taken the initiative is so interesting
+that each of us should contribute to it according to his means.  I am
+alone in Paris, without relatives or friends, and these ladies have
+furnished me the means to cure my idleness; so it is I, rather, who am
+indebted to them."
+
+Whether this speech were studied or not, it was pronounced to be in very
+good taste, and the stranger's conquest of the assemblage was more and
+more assured.
+
+"Since you wish to join us," resumed the Duchess, "allow me to present to
+you these gentlemen: Monsieur Desvanneaux, our zealous general
+secretary--"
+
+"I have already had the pleasure of seeing Monsieur at my house," said
+Valentine, "also Madame Desvanneaux; and although I was unable to accede
+to their wishes, I retain, nevertheless, the pleasantest recollections of
+their visit."
+
+"Good hit!"  whispered Madame de Nointel to her neighbor.
+
+"The Marquis de Prerolles, my brother," the Duchess continued.
+
+"The smiles of Fortune must be sweet, Mademoiselle," said the General,
+bowing low.
+
+"Not so sweet as those of Glory, General," Zibeline replied, with a
+pretty air of deference.
+
+"She possesses a decidedly ready wit," said Madame de Lisieux in a
+confidential aside.
+
+"Now, ladies," added the president, "I believe that the best thing we can
+do is to leave everything in the hands of Mademoiselle and our treasurer.
+The examination of the annual resources will be the object of the next
+meeting.  For to-day, the meeting is adjourned."
+
+Then, as Mademoiselle de Vermont was about to mingle with the other
+ladies, the Duchess detained her an instant, inquiring:
+
+"Have you any engagement for this evening, Mademoiselle?"
+
+"None, Madame."
+
+"Will you do us the honor to join us in my box at the opera?"
+
+"But--I have no one to accompany me," said Zibeline.  "I dismissed my
+cousin De Sainte-Foy, thinking that I should have no further need of his
+escort to-day."
+
+"That does not matter at all," the Duchess replied.  "We will stop for
+you on our way."
+
+"I should not like to trouble you so much, Madame.  If you will allow me,
+I will stop at your door at whatever hour will be agreeable to you, and
+my carriage shall follow yours."
+
+"Very well.  At nine o'clock, if you please.  They sing Le Prophete
+tonight, and we shall arrive just in time for the ballet."
+
+"The 'Skaters' Ballet,'" said the General.
+
+This remark recalled to Mademoiselle her triumph of the evening before.
+"Do you bear a grudge against me?"  she said, with a smile.
+
+"Less and less of one," the General replied.
+
+"Then, let us make a compact of peace," said Zibeline, holding out her
+hand in the English fashion.
+
+With these words she left the room on the arm of the Duke, who claimed
+the honor of escorting her to her carriage.
+
+"Shall you go to the opera also?"  asked the Duchess of her brother.
+
+"Yes, but later.  I shall dine in town."
+
+"Then-au-revoir--this evening!"
+
+"This evening!"
+
+
+
+
+CHAPTER XIV
+
+A WOMAN'S INSTINCT
+
+The General had been more favorably impressed with Zibeline's appearance
+than he cared to show.  The generous action of this beautiful girl, her
+frankness, her ease of manner, her cleverness in repartee, were likely to
+attract the attention of a man of his character.  He reproached himself
+already for having allowed himself to be influenced by the rancorous
+hostility of the Desvanneaux, and, as always happens with just natures,
+the sudden change of his mind was the more favorable as his first opinion
+had been unjust.
+
+Such was the theme of his reflections on the route from the Hotel de
+Montgeron to that of Eugenic Gontie's, with whom he was engaged to dine
+with some of her friends, invited to celebrate her success of the evening
+before.
+
+On entering her dining-room Eugenie took the arm of Lenaieff, placed
+Henri de Prerolles on her left and Samoreau opposite her--in his
+character of senior member, so that no one could mistake his transitory
+function with that of an accredited master of the house.
+
+The four other guests were distinguished writers or artists, including
+the painter Edmond Delorme, and, like him, all were intimate friends of
+the mistress of the house.
+
+Naturally the conversation turned upon the representation of Adrienne,
+and on the applause of the fashionable audience, usually rather
+undemonstrative.
+
+"Never have I received so many flowers as were given to me last night,"
+said Eugenic, displaying an enormous beribboned basket which ornamented
+the table.  "But that which particularly flattered me," she added, "was
+the spontaneous tribute from that pretty foreigner who sought me in the
+greenroom expressly to offer me her bouquet."
+
+"The young lady in the proscenium box, I will wager," said Lenaieff.
+
+"Precisely.  I know that they call her Zibeline, but I did not catch her
+real name."
+
+"It is Mademoiselle de Vermont," said Edmond Delorme.  "She is, in my
+opinion, the most dashing of all the Amazons in the Bois de Boulogne.
+The Chevalier de Sainte-Foy brought her to visit my studio last autumn,
+and I am making a life-size portrait of her on her famous horse, Seaman,
+the winner of the great steeplechase at Liverpool, in 1882."
+
+"What were you pencilling on the back of your menu while you were
+talking?"  asked the actress, curiously.
+
+"The profile of General de Prerolles," the painter replied.  "I think
+that his mare Aida would make a capital companion picture for Seaman, and
+that he himself would be an appropriate figure to adorn a canvas hung on
+the line opposite her at the next Salon!"
+
+"Pardon me, dear master!"  interrupted the General.  "Spare me, I pray,
+the honor of figuring in this equestrian contradance.  I have not the
+means to bequeath to posterity that your fair model possesses--"
+
+"Is she, then, as rich as they say?"  inquired one of the guests.
+
+"I can answer for that," said the Baron de Samoreau.  "She has a letter
+of credit upon me from my correspondent in New York.  Last night, during
+an entr'acte, she gave me an order to hold a million francs at her
+disposal before the end of the week."
+
+"I know the reason why," added Henri.
+
+"But," Lenaieff exclaimed, "you told me that you did not know her!"
+
+"I have made her acquaintance since then."
+
+"Ah!  Where?"  Eugenie inquired, with interest.
+
+"At my sister's house, during the meeting of a charitable society."
+
+"Had it anything to do with the society for which Monsieur Desvanneaux
+asked me to appear in a kermess?"
+
+"Well, yes.  In fact, he has gone so far as to announce that he is
+assured of your cooperation."
+
+"I could not refuse him," said Eugenie.  "Under the mantle of charity,
+the holy man paid court to me!"
+
+"I knew well enough that he had not yet laid down his arms forever," said
+the General.
+
+"Oh, he is not the only one.  His son-in-law also honored me with an
+attack."
+
+"What, Monsieur de Thomery?  Well, that is a good joke!"
+
+"But what is funnier yet," continued the actress, "is the fact that the
+first-named gentleman was on his knees, just about to make me a
+declaration, apparently, when the second was announced!  Immediately the
+father-in-law jumped to his feet, entreating me not to allow them to
+meet.  I was compelled to open for him the door leading to the servants'
+stairway--"
+
+"And what did you do with the other man?"  asked Lenaieff, laughing
+loudly.
+
+"I rid myself of him in the same way.  At a sign from me, my maid
+announced the name of the father-in-law, and the alarmed son-in-law
+escaped by the same road!  Oh, but I know them!  They will come back!"
+
+"Under some other pretext, however," said the General.  "Because
+Mademoiselle de Vermont's million francs have destroyed their amorous
+designs."
+
+"So now we see Zibeline fairly launched," remarked the banker.  "Since
+the Duchesse de Montgeron has taken her up, all the naughty tales that
+have been fabricated about her will go to pieces like a house of cards."
+
+"That is very probable," the General concluded, "for she has made a
+complete conquest of my sister."
+
+At these words a slight cloud passed over the actress's face.  The
+imagination of a jealous mistress sees rivals everywhere; especially that
+of an actress.
+
+After dinner, while her other guests went into the smoking-room, Eugenic
+made a sign to her lover to remain with her, and seated herself beside
+him.
+
+"I wish to ask you a question, Henri," said she.
+
+"What is it?"
+
+"Do you still love me?"
+
+"What reason have you to doubt it?"
+
+"None that warrants me in reproaching you for anything.  But so many
+things separate us!  Your career, to which you owe everything!  Your
+social standing, so different from mine!  Oh, I know that you are
+sincere, and that if you ever have a scruple regarding our liaison, you
+will not be able to hide it from me.  It is this possibility of which I
+think."
+
+"You are quite wrong, I assure you.  Did I hide myself last night in
+order to prove openly my admiration for you?  Did I appear to disclaim
+the allusions which you emphasized in seeming to address me in the course
+of your role?"
+
+"No, that is true.  Shall I make a confession?  When I am on the stage,
+I fear nothing, because there the points of comparison are all in my
+favor, since you can say to yourself: 'This woman on whom all eyes are
+fixed, whose voice penetrates to the depths of the soul--this woman,
+beautiful, applauded, courted, belongs to me--wholly to me,' and your
+masculine vanity is pleasantly flattered.  But later, Henri!  When the
+rouge is effaced from my lips, when the powder is removed from my cheeks
+--perhaps revealing some premature line caused by study and late hours--
+if, after that, you return to your own circle, and there encounter some
+fresh young girl, graceful and blooming, the object, in her turn, of the
+fickle admiration of the multitude, forgetful already of her who just now
+charmed them--tell me, Henri!  do you not, as do the others, covet that
+beautiful exotic flower, and must not the poor comedienne weep for her
+lost prestige?"
+
+"It is Mademoiselle de Vermont, then, who inspires you with this
+apprehension," said the General, smiling.
+
+"Well, yes, it is she!"
+
+"What childishness!  Lenaieff will tell you that I have never even looked
+at her."
+
+"Last night, perhaps--but to-day?"
+
+"We exchanged no more than a dozen words."
+
+"But the more I think of her visit to the greenroom, the more
+inexplicable it appears to me."
+
+"You need not be surprised at that: she does nothing that any one else
+does."
+
+"These things are not done to displease you."
+
+"I may agree as to that; but what conclusion do you draw?"
+
+"That she is trying to turn your head."
+
+"My head!  You jest!  I might be her father."
+
+"That is not always a reason--"
+
+Nevertheless, Henri's exclamation had been so frank that Eugenie felt
+somewhat reassured.
+
+"Are you going so soon?"  she said, seeing him take his hat.
+
+"I promised my sister to join her at the opera.  Besides, this is your
+reception night, and I leave you to your duties as hostess.  To-morrow,
+at the usual hour-and we will talk of something else, shall we not?"
+
+"Ah, dearest, that is all I ask!"  said Eugenie.
+
+He attempted to kiss her hand, but she held up her lips.  He pressed his
+own upon them in a long kiss, and left her.
+
+
+
+
+CHAPTER XV
+
+DEFIANCE OF MRS. GRUNDY
+
+For more than fifty years the first proscenium box on the ground floor,
+to the left, at the Opera, had belonged exclusively to ten members of the
+jockey Club, in the name of the oldest member of which the box is taken.
+When a place becomes vacant through any cause, the nine remaining
+subscribers vote on the admission of a new candidate for the vacant
+chair; it is a sort of academy within the national Academy of Music.
+
+When this plan was originated, that particular corner was called "the
+infernal box," but the name has fallen into desuetude since the
+dedication of the fine monument of M. Gamier.  Nevertheless, as it is
+counted a high privilege to be numbered among these select subscribers,
+changes are rare among them; besides, the members are not, as a rule, men
+in their first youth.  They have seen, within those walls, the blooming
+and the renewal of several generations of pretty women; and the number of
+singers and dancers to whom they have paid court in the coulisses is
+still greater.
+
+From their post of observation nothing that occurs either before or
+behind the curtain escapes their analysis--an analysis undoubtedly
+benevolent on the part of men who have seen much of life, and who accord
+willingly, to their younger fellow-members, a little of that indulgence
+of which they stand in need themselves.
+
+An event so unexpected as the enthronement of Zibeline in one of the two
+large boxes between the columns, in company with the Duchesse de
+Montgeron, Madame de Lisieux, and Madame de Nointel, did not escape their
+observation and comment.
+
+"The Duchess is never thoughtless in her choice of associates," said one
+of the ten.  "There must be some very powerful motive to induce her to
+shield with her patronage a foreigner who sets so completely at defiance
+anything that people may say about her."
+
+"Nonsense!  What is it, after all, that they say about this young woman?"
+demanded the senior member of the party.  "That she rides alone on
+horseback.  If she were to ride with a groom, some one would be sure to
+say that he was her lover.  They say that she drives out without any
+female chaperon beside her in the carriage.  Well, if she had one, they
+would probably find some other malicious thing to say.  Paris has become
+like a little country town in its gossip."
+
+"And all this," added a third member, "because she is as lovely as a
+dream, and because she drives the handsomest turnout in the Bois.  If she
+were ugly, and contented herself with a hired carriage, she would be
+absolved without confession!"
+
+"Where the deuce does Christian charity come in, in all this gossip?"
+said Henri de Prerolles to himself, who had just entered the box and
+overheard the last remarks.  "Will you grant me your hospitality until
+the beginning of the next act, gentlemen?"  he said aloud.  "My sister's
+box is full of guests and transient visitors; she can not admit even me!"
+
+The General was a great favorite with the members of the club. One of
+them rose to offer him his place.
+
+"I shall stay only a moment, to escape a cloud of questioners in the
+foyer.  Every one that stops me asks--"
+
+"About the new recruit in the Duchess's box, eh?"  said a member.  "We,
+too, wish to inquire about her; we are all leagued together."
+
+"Thank you, no," said the General.
+
+"But if it is a secret--"
+
+"There is no secret about it," the General replied; and in a few words he
+explained the enigma.
+
+"Why, then," exclaimed the senior member, "she is indeed the fowl that
+lays the golden eggs!  What a lucky bird will be the one that mates with
+her!"
+
+The rising curtain sent the spectators back to their places.  The augurs
+of the Duchess's box reinstalled themselves before it where they could
+examine at their ease through their lorgnettes the fair stranger of whom
+so much had been said; and, mounting to the next floor, the General was
+at last able to find room among his sister's guests.
+
+"You can see for yourself that our young friend is altogether charming,"
+whispered Madame de Nointel, behind the shelter of her fan, and
+indicating Zibeline.
+
+"If you pronounce her so, Madame, she can receive no higher praise," said
+Henri.
+
+"Say at once that you think me exasperating," laughed the lady.
+
+"Was it not you that first called her Zibeline?"  Henri inquired.
+
+"Yes, but she calls herself Valentine--which rhymes, after all.  Not
+richly enough for her, I know, but her means allow her to do without the
+supporting consonant.  See how beautiful she is to-night!"
+
+In fact, twenty-four hours had sufficed to change the lonely stranger of
+the day before into the heroine of this evening, and the satisfaction
+that shone in her face tempered the somewhat haughty and disdainful
+expression that had hitherto characterized her.
+
+"You have not yet said 'good-evening' to Mademoiselle de Vermont, Henri,"
+said the Duchess to her brother, and he changed his place in order to act
+upon her hint.
+
+"Ah, is it you, General?"  said Zibeline, affecting not to have seen him
+until that moment.  "It seems that music interests you less than comedy."
+
+"What has made you form that opinion, Mademoiselle?"
+
+"The fact that you arrive much later at the opera than at the Comedie
+Francaise."
+
+"Have you, then, kept watch upon my movements?"
+
+"Only a passing observation of signs--quite allowable in warfare!"
+
+"But I thought we had made a compact of peace."
+
+"True enough, we did make it, but suppose it were only an armistice?"
+
+"You are ready, then, to resume hostilities?"  said Henri.
+
+"Now that I have Madame la Duchesse, your sister, for an ally, I fear no
+enemies."
+
+"Not even if I should call for aid upon the camp of Desvanneaux?"
+
+"Alceste leagued with Tartufe?  That idea never occurred to Moliere,"
+said Zibeline, mischievously.
+
+"Take care!"  said the Duchess, interrupting this skirmishing, "you will
+fall over into the orchestra!  It is growing late, and if Mademoiselle de
+Vermont does not wish to remain to see the final conflagration, we might
+go now, before the crowd begins to leave."
+
+"I await your orders, Madame la Duchesse," said Zibeline, rising.
+
+The other ladies followed her example, receiving their cloaks from the
+hands of their cavaliers, and the occupants of the box made their exit in
+the following order: Zibeline, on the arm of the Duke; the Comtesse de
+Lisieux, leaning upon M. de Nointel; Madame de Nointel with the General;
+the Duchess bringing up the procession with M. de Lisieux.
+
+As soon as they reached the outer lobby their footmen ran to find their
+carriages, and that of the Duc de Montgeron advanced first.
+
+"I beg, Madame, that you will not trouble yourself to wait here until my
+carriage comes," said Mademoiselle de Vermont to the Duchess, who
+hesitated to leave her guest alone.
+
+"Since you wish it, I will leave you, then," said the Duchess, "and we
+thank you for giving us your society this evening.  My brother will
+accompany you to your carriage."
+
+When Zibeline's vehicle drove up to the entrance in its turn, the General
+conducted his charge to the door of a marvellously equipped brougham, to
+which was harnessed a carriage-horse of powerful frame, well suited to
+the kind of vehicle he drew.
+
+A thaw had begun, not yet transforming the gutters into yellow torrents
+rushing toward the openings of the sewer, but covering the streets with
+thick, black mud, over which the wheels rolled noiselessly.
+
+"Your carriage is late, is it not?"  said Zibeline, after the General had
+handed her into the brougham.
+
+"My carriage?"  said the General.  "Behold it!"
+
+He pointed to a passing fiacre, at the same time hailing the driver.
+
+"Don't call him.  I will take you home myself," said Zibeline, as if such
+a suggestion were the most natural thing in the world.
+
+"You know that in France it is not the custom," said the General.
+
+"What!  Do you bother yourself with such things at your age?"
+
+"If my age seems to you a sufficient guaranty, that is different.
+I accept your invitation."
+
+"To the Hotel de Montgeron," said Zibeline to her footman.
+
+"I never shall forget your sister's kindness to me," she continued, as
+the carriage rolled away.  "She fulfils my idea of the great lady better
+than any other woman I have seen."
+
+"You may be proud of her friendship," said Henri.  "When once she likes a
+person, it is forever.  I am like her in that respect.  Only I am rather
+slow in forming friendships."
+
+"And so am I."
+
+"That is obvious, else you would have been married ere this."
+
+"No doubt--to some one like young Desvanneaux, perhaps.  You are very
+flattering!  If you think that I would sacrifice my independence for a
+man like that--"
+
+"But surely you do not intend to remain unmarried."
+
+"Perhaps I shall--if I do not meet my ideal."
+
+"All women say that, but they usually change their minds in the end."
+
+"Mine is one and indivisible.  If I do not give all I give nothing."
+
+"And shall you wait patiently until your ideal presents himself?"
+
+"On the contrary, I am always looking for him."
+
+"Did you come to Europe for that purpose?"
+
+"For that and for nothing else."
+
+"And suppose, should you find your ideal, that he himself raises
+obstacles?"
+
+"I shall try to smooth them away."
+
+"Do you believe, then, that the power of money is irresistible?"
+
+"Far from it!  A great fortune is only a trust which Providence has
+placed in our hands, in order that we may repair, in its name, the
+injustices of fate.  But I have another string to my bow."
+
+"What is it?"
+
+"The force of my will."
+
+"You have plenty of that!  But suppose, by some impossible chance, your
+ideal resists you even then?"
+
+"Then I know what will remain for me to do."
+
+"You will resort to the pistol?"
+
+"Not for him, but for myself," she replied, in a tone so resolute as to
+exclude any suggestion of bravado.
+
+Zibeline's horse, which was a rapid trotter, now stopped before the Hotel
+de Montgeron, arriving just in advance of the Duchess's carriage, for
+which the Swiss was watching at the threshold of the open  Porte cochere.
+He drew himself up;  the brougham entered the gate at a swift pace,
+described a circle, and halted under the marquee at the main entrance.
+The General sprang lightly to the ground.
+
+"I thank you, Mademoiselle," bowing, hat in hand, to his charming
+conductor.
+
+"Call me Valentine, please," she responded, with her usual ease of
+manner.
+
+"Even in the character of a stage father, that would be rather too
+familiar," said the Marquis.
+
+"Not so much so as to call me Zibeline," said Mademoiselle de Vermont,
+laughing.
+
+"Ha! ha!  You know your sobriquet, then?"
+
+"I have known it a long time!  Good-night, General!  We shall meet
+again."
+
+Then, addressing her footman, she said in English: "Home!"
+
+
+
+
+CHAPTER XVI
+
+FRATERNAL ADVICE
+
+Like all residences where the owners receive much company, the Hotel de
+Montgeron had a double porte-cochere.  Just as the Swiss opened the outer
+gate to allow the departure of Mademoiselle de Vermont, the two carriages
+crossed each other on the threshold.  In fact, Henri had had hardly time
+to cross the courtyard to mount to his own apartments before his brother-
+in-law and his sister stopped him at the foot of the steps.  He rejoined
+them to say good-night.
+
+"Won't you come and take a cup of tea with us in the little salon?"  they
+asked.
+
+"Willingly," was his response.  He followed them, and all three seated
+themselves beside a table which was already laid, and upon which the
+boiling water sang in the kettle.
+
+"Leave us," said the Duchess to the butler.  "I will serve tea myself.
+Did Mademoiselle de Vermont bring you home?"  she asked, when the servant
+had retired.
+
+"Well," said Henri, "in proposing to do so she mentioned my discreet age,
+which appeared to her to make the thing all right!  If I had declined her
+invitation, I should have seemed to pose as a compromising person!  That
+is the reason why I accepted."
+
+"You did quite right.  What do you really think of her?"
+
+"She is very different from what I had fancied her: I find her frank,
+intellectual, full of originality.  I have only one fault to mention: she
+is too rich."
+
+"Well, surely, you do not expect her to ruin herself to please you."
+
+"I should think not!  Besides, what would be the object?"
+
+"To permit you to fall in love with her."
+
+"Oh, that is what you are thinking of, is it?"
+
+"Certainly, for, if need be, perhaps you would make a sacrifice to your
+feelings."
+
+"In what way?"
+
+"In the toleration of a few remaining millions which she might retain, so
+that when you marry her neither of you will be reduced to absolute
+beggary!"
+
+"Marry her!--I?"  cried the General, astonished.
+
+"What is there to prevent your doing so?"
+
+"The past, my dear sister.  To speculate upon my title and my rank in
+order to make a wealthy marriage?  To quit my nomad's tent for a fixed
+residence other than that where the Prerolles have succeeded one another
+from generation to generation?  Never!  Of all our ancient prejudices,
+that is the only one I cherish.  Besides, I am free at present to serve
+my country under any form of government which it may please her to adopt.
+But, with his hereditary estates lost, through his own fault, shall he
+who has nothing left to him but his name form a mere branch of another
+family?  He has no right to do so."
+
+This declaration was categorical.  Madame de Montgeron bent her head; her
+jesting vein was quenched in a moment.
+
+After a moment of silence the Duke spoke.
+
+"There are scruples that one does not discuss," he said.  "But, on the
+other hand, if I do not deceive myself, there are others which can be
+adjusted to suit circumstances."
+
+"What circumstances?" said the General.
+
+"The subject is rather delicate--especially to mention before you, my
+dear Jeanne."
+
+"I was just about to propose that I should retire," said the Duchess.
+"Good-night, Henri!"  And she bent to kiss him.
+
+"You are not vexed?"  said her brother, embracing her tenderly.
+
+"What an idea!  Good-night!"
+
+"Am I always to be considered as occupying the stool of repentance?"
+Henri inquired, as soon as his sister had left the room.
+
+"Yes, but you will not be offended if I interrogate you a little, after
+the manner of a judge?"  said the Duke.
+
+"Quite the contrary.  Go on; I will listen."
+
+"Had you not just now expressed yourself very distinctly in disfavor of
+any project of marriage because of perfectly unimpeachable principles,
+I should not permit myself to make any allusion to your private life.
+Every man is his own master in his choice of liaisons, and on that head
+is answerable only to his own conscience.  In these days, moreover, art
+is on a level with birth, and talent with military glory.  You see that I
+am quite modern in my ideas!  However--"
+
+"Ah, there is a reserve?"
+
+"Without liability.  Mademoiselle Gontier is surrounded by great luxury.
+She maintains an expensive house and keeps an open table.  Her annual
+salary and her income can not possibly cover these expenses.  Whence does
+she obtain further resources?"
+
+"From the investments made for her by the Baron de Samoreau."
+
+"Without her having to pay a commission of any kind?  A most remarkable
+case of disinterestedness!"
+
+"I never have sought to examine the matter particularly," said Henri.
+
+"And is that the way you keep yourself informed?  A future general-in-
+chief!"
+
+"I was not aware that I am in an enemy's country."
+
+"No, but you are in a conquered country, which is still more dangerous.
+Oh, no one will attack you face to face at the point of the sword.  But
+behind your back, in the shadow, you have already massed against you
+various rejected swains, the Desvanneaux of the coulisses, jealous of a
+preference which wounds their own vanity, and the more ready to throw
+discredit--were they able--upon a man of your valor, because they are
+better armed against him with the logic of facts."
+
+"What logic, in heaven's name?"
+
+"That which emanates from the following dilemma: Either Danae is obliged
+to hide from Jupiter--or, rather, from Maecenas--her intimacy with you--
+and you are only a lover who simply loves her--or else Maecenas is an
+epicurean who has no objection to share his fortune philosophically; so
+that ostensibly you sit at the feast without paying the cost--which is
+worse yet."
+
+"Does any one dare to say that of me?"  cried the General, springing from
+his chair.
+
+"They are beginning to say it," the Duke replied, his eyes fixed on his
+brother-in-law, who paced to and fro, gnawing his moustache.  "I ask your
+pardon for throwing such a bucket of ice-water on you, but with men of
+your constitution--"
+
+"Pleurisy is not mortal," Henri interrupted briefly.  "I know.  Don't
+worry about me."
+
+"I knew you would understand," said the Duke, going toward the door of
+his own apartments.  "That is the reason why I have not spared you a
+thorough ducking!"
+
+"I thank you," said the General, as he was about to leave the room.
+"I will talk to you about this tomorrow.  The night brings counsel."
+
+Wrapped in thought, he made his way to the little suite of apartments
+between the ground floor and the first story which he occupied, and which
+had a separate door opening on the Rue de Bellechase.
+
+At the foot of the stairs, in a coach-house which had been transformed
+into a chamber, slept the orderlies beneath the apartment of their chief.
+This apartment, composed of four rooms, was of the utmost simplicity,
+harmonizing with the poverty of its occupant, who made it a point of
+honor not to attempt to disguise his situation.
+
+The ante-chamber formed a military bureau for the General and his chief
+orderly.
+
+The salon, hung with draperies to simulate a tent, had no other
+decoration than some trophies of Arabian arms, souvenirs of raids upon
+rebellious tribes.
+
+More primitive still was the bedroom, furnished with a simple canteen
+bed, as if it were put up in a temporary camp, soon to be abandoned.
+
+The only room which suggested nothing of the anchorite was the dressing-
+room, furnished with all the comforts and conveniences necessary to an
+elegant and fastidious man of the world.
+
+But his real luxury, which, by habit and by reason of his rank, the
+General had always maintained, was found among his horses, as he devoted
+to them all the available funds that could be spared from his salary.
+Hence the four box-stalls placed at his disposal in the stables of his
+brother-in-law were occupied by four animals of remarkably pure blood,
+whose pedigrees were inscribed in the French stud-book.  Neither years,
+nor the hard service which their master had seen, had deteriorated any of
+his ability as a dashing horseman.  His sober and active life having even
+enabled him to preserve a comparatively slender figure, he would have
+joined victoriously in the races, except that his height made his weight
+too heavy for that amusement.
+
+Entering his own domain, still overwhelmed, with the shock of the
+revelations and the gossip of which he never had dreamed, he felt himself
+wounded to the quick in all those sentiments upon which his 'amour
+propre' had been most sensitive.
+
+The more he pondered proudly over his pecuniary misfortunes, the more
+grave the situation appeared to him, and the more imperious the necessity
+of a rupture.
+
+When it had been a question of dismissing Fanny Dorville, an actress of
+humble standing, his parting gift, a diamond worth twenty-five thousand
+francs, had seemed to him a sufficient indemnity to cancel all accounts.
+
+But now, in the presence of an artiste of merit, who had given herself
+without calculation and who loved him for himself alone, how, without
+wounding her heart and her dignity, could he break violently a chain so
+light yesterday, so heavy to-day?
+
+To indulge in tergiversation, to invent some subterfuge to cover his
+retreat--he did not feel himself capable of such a course; moreover, his
+manoeuvre would be quickly suspected by a clever woman whom nothing
+escaped.
+
+To ask to be sent back to Africa, just at the time when his intelligent
+and practical instruction in the latest grand manoeuvres had drawn all
+eyes upon him, would compromise, by an untimely retirement, the
+advantages of this new office, the object of his ambition.
+
+For the first time this nobleman, always prompt and radical in his
+decisions, found himself hesitating; and, such is the power of human
+egotism even in generous natures, he felt almost incensed against
+Eugenie, the involuntary cause of his hesitation.
+
+After weighing everything carefully in his mind, he finally said to
+himself that an open confession, sincere and unrestricted, would be the
+best solution of the difficulty; and just as the first light of day came
+to dissipate the shadow that overcast his mind, when his orderly entered
+to open the blinds in his chamber, he formed a fixed resolution as to his
+course.
+
+
+
+
+CHAPTER XVII
+
+THE LADY BOUNTIFUL
+
+Valentine de Vermont was not yet twenty-two years old.
+
+Her birth had cost the life of her mother, and, brought up by an active
+and enterprising man, her education had been directed by plain common-
+sense, rather masculine, perhaps, but without injury to her personal
+attractions, nor to those of her delicate and lofty spirit.
+
+Her father, who was endowed with a veritable genius for commercial
+action, had monopolized more than the fur-trade of Alaska and of Hudson's
+Bay.  From year to year he had extended the field of his operations: in
+Central America, dealing in grains and salt meats; in Europe in wines and
+brandy; commodities always bought at the right time, in enormous
+quantities, and, without pausing in transshipment from one country to
+another, carried in vessels belonging to him and sailing under the
+English flag.
+
+Without giving her any unnecessary instruction as to the management of
+his affairs, he wished his daughter to possess sufficient knowledge of
+them to handle herself the wealth that she would receive as a dowry and
+at his death; and he decided that she should not contract a marriage
+except under the law of the separation of goods, according to the custom
+generally adopted in the United States.
+
+An attack of paralysis having condemned him to his armchair, he
+consecrated the remainder of his days to settling all his enterprises,
+and when he died, about two years before the arrival of Valentine in
+Paris, that young lady found herself in the possession of more than one
+hundred and twenty million francs, nearly all invested in English,
+American, and French State bonds.
+
+At the expiration of her period of mourning, the wealthy heiress could
+then live in London, New York, or Paris, at her pleasure; but the French
+blood that ran in her veins prevented her from hesitating a moment, and
+she chose the last named of the three cities for her abode.
+
+Being passionately fond of saddle and driving-horses, she did not stop in
+England without taking the necessary time to acquire everything of the
+best for the fitting-up of a stable, and after a time she established
+herself temporarily in a sumptuous apartment in the Place de l'Etoile,
+furnished with a taste worthy of the most thorough Parisian.
+
+On the evening after her appearance at the Opera, just as she left her
+breakfast-table, M. Durand presented himself at her dwelling with the
+architect's plan for the building of the orphan asylum, and declared
+himself ready to take her orders regarding the plan, as well as on the
+subject of the gift of money to the Society.
+
+"I have resolved," said Zibeline, "to transform into an asylum, following
+a certain plan, the model farm belonging to the estate that I have
+recently purchased through you.  If I required carte blanche in choosing
+the site, it was because I desire that Monsieur Desvanneaux shall have
+nothing to do with the matter until the day when I shall put the
+committee in possession of the building and its premises, which I have
+engaged to furnish, free of all expense to the Society.  I shall employ
+my own architect to execute the work, and I shall ask you to indemnify,
+for me, the architect who has drawn up this first plan, which will remain
+as the minimum expense incurred on my part.  But I wish to be the only
+person to superintend the arrangements, and to be free to introduce,
+without control, such improvements as I may judge suitable.  Should the
+committee demand a guaranty, I have on deposit with Monsieur de Samoreau
+a million francs which I intend to use in carrying out these operations.
+Half of that sum may be consigned to the hands of some one they may wish
+to choose; the other half will serve to pay the laborers in proportion to
+their work.  In order to insure even greater regularity, have the
+kindness to draw up, to cover the interval that will elapse before I make
+my final definite donation, a provisionary document, setting forth the
+engagement that I have undertaken to carry out."
+
+"Here it is," said the notary; "I have already prepared it."
+
+Having examined the document carefully, to assure herself that all
+statements contained therein were according to her intentions, Zibeline
+took her pen and wrote at the foot of the page: "Read and approved," and
+signed the paper.
+
+"Mademoiselle appears to be well accustomed to business habits," observed
+M. Durand, with a smile.
+
+"That is because I have been trained to them since childhood," she
+replied.  "My plan is to place this document myself in the hands of
+Madame la Duchesse de Montgeron."
+
+"You can do so this very afternoon, if you wish.  Thursday is her
+reception day," said the notary, rising with a bow, preparatory to taking
+his leave.
+
+"I shall take good care not to fail to call," earnestly replied the fair
+Lady Bountiful.
+
+She telephoned immediately to her head-groom, ordering ham to bring
+around her brougham at three o'clock.
+
+
+
+
+CHAPTER XVIII
+
+A MODERN TARTUFE
+
+At the same hour that the elegant carriage of Zibeline was conducting her
+to the Hotel de Montgeron, M. Desvanneaux descended from a modest fiacre
+at the gate of the hotel occupied by Eugenie Gontier.
+
+The first impulse of the actress--who was engaged in studying a new role
+in her library--was not to receive her importunate visitor; but a sudden
+idea changed her determination, and she gave the order to admit him.
+
+"This is the first time that I have had the high favor of being admitted
+to this sanctuary," said the churchwarden, kissing with ardor the hand
+that the actress extended to him.
+
+"Don't let us have so great a display of pious manifestations," she said,
+withdrawing her hand from this act of humility, which was rather too
+prolonged.  "Sit down and be sensible," she added.
+
+"Can one be sensible when he finds himself at your feet, dear
+Mademoiselle?  At the feet of the idol who is so appropriately enthroned
+among so many artistic objects!"  replied the honey-tongued Prudhomme,
+adjusting his eyeglasses.  "The bust of General de Prerolles, no doubt?"
+he added, inquiringly, scrutinizing a marble statuette placed on the high
+mantelpiece.
+
+"You are wrong, Monsieur Desvanneaux; it is that of Moliere!"
+
+"I beg your pardon!--I am standing so far below it!  I, too, have on my
+bureau a bust of our great Poquelin, but Madame Desvanneaux thinks that
+this author's style is somewhat too pornographic, and has ordered me to
+replace his profane image by the more edifying one of our charitable
+patron, Saint Vincent de Paul."
+
+"Is it to tell me of your family jars that you honor me with this visit?"
+said Eugenie.
+
+"No, indeed!  It was rather to escape from them, dear Mademoiselle!  But
+alas!  my visit has also another object: to release you from the promise
+you were so kind as to make me regarding the matter of our kermess; a
+project now unfortunately rendered futile by that Zibeline!"
+
+"Otherwise called 'Mademoiselle de Vermont.'"
+
+"I prefer to call her Zibeline--that name is better suited to a
+courtesan."
+
+"You are very severe toward her!"
+
+"I can not endure hypocrites!" naively replied the worthy man.
+
+"She appeared to me to be very beautiful, however," continued Eugenie
+Gontier, in order to keep up the conversation on the woman who she felt
+instinctively was her rival.
+
+"Beautiful!  Not so beautiful as you," rejoined M. Desvanneaux,
+gallantly.  "She is a very ambitious person, who throws her money at our
+heads, the better to humiliate us."
+
+"But, since it is all in the interest of the Orphan Asylum--"
+
+"Say, rather, in her own interest, to put herself on a pedestal because
+of her generosity!  Oh, she has succeeded at the first stroke!  Already,
+at the Hotel de Montgeron they swear by her; and if this sort of thing
+goes on, I shall very soon be regarded only as a pariah!"
+
+"Poor Monsieur Desvanneaux!"
+
+"You pity me, dear Mademoiselle?  I thank you!  The role of consoler is
+truly worthy of your large heart, and if you do not forbid me to hope--"
+said this modern Tartufe, approaching Eugenie little by little.
+
+"Take care!"  said she; "suppose the General should be hidden under that
+table, like Orgon!"
+
+"The General!"  exclaimed Desvanneaux; "he is too much occupied
+elsewhere!"
+
+"Occupied with whom?"
+
+"With Zibeline, probably.  He never left her side all the evening, last
+night at the Opera."
+
+"Pardon me!  He was here until after ten o'clock."
+
+"Yes, but afterward--when the opera was over?"
+
+"Well, what happened when the opera was over?"  Eugenie inquired, forcing
+herself to hide her emotion.
+
+"They went away together!  I saw them--I was watching them from behind a
+column.  What a scandal!"
+
+"And your conclusion on all this, Monsieur Desvanneaux?"
+
+"It is that the General is deceiving you, dear Mademoiselle."
+
+"With that young girl?"
+
+"A bold hussy, I tell you!  A Messalina!  Ah, I pity you sincerely in my
+turn!  And should a devoted consoler, a discreet avenger, be able to make
+you forget this outrage to your charms, behold me at your feet, devoting
+to you my prayers, awaiting only a word from you to become the most
+fortunate among the elect--"
+
+A loud knock at the outer door spared Mademoiselle Gontier the trouble of
+repelling her ridiculous adorer, who promptly scrambled to his feet at
+the sound.
+
+"A visitor!"  he murmured, turning pale.  "Decidedly, I have no luck--"
+
+"Monsieur le Marquis de Prerolles is in the drawing-room," a domestic
+announced.
+
+"Beg him to wait," said Eugenie, reassured by this visit, which was
+earlier than the usual hour.  "You see that you are badly informed,
+Monsieur Desvanneaux," she added.
+
+"For heaven's sake, spare me this embarrassing meeting!" said the
+informer, whose complexion had become livid.
+
+"I understand.  You fear a challenge?"
+
+"Oh, no, not that!  My religious principles would forbid me to fight a
+duel.  But the General would not fail to rally me before my wife
+regarding my presence here, and Madame Desvanneaux would be pitiless."
+
+"Own, however, that you richly deserve a lesson, Lovelace that you are!
+But I will take pity on you," said Eugenie, opening a door at the end of
+the room.  "The servants' stairway is at the end of that corridor.  You
+know the way!"  she added, laughing.
+
+"I am beginning to know it, dear Mademoiselle!"  said the pitiful
+beguiler, slipping through the doorway on tiptoe.
+
+
+
+
+CHAPTER XIX
+
+BROKEN TIES
+
+After picking up a chair which, in his alarm, the fugitive had overturned
+in his flight, Mademoiselle Gontier herself opened the door leading to
+the drawing-room.
+
+"Come in, Henri!"  said she, lifting the portiere.
+
+"Do I disturb you?"  the General inquired, entering the library.
+
+"Never!  You know that well!  But how gravely you asked the question!"
+
+"For the reason that I wish to speak to you about serious matters, my
+dear Eugenie."
+
+The image of Zibeline passed before the eyes of the actress.  That which
+Desvanneaux had revealed, in accusing the girl of debauchery, now
+appeared plausible to her, if considered in another way.
+
+"You are about to marry!"  she exclaimed.
+
+They were the same words pronounced by Fanny Dorville in similar
+circumstances.
+
+"Never!  You know that well enough!"  he replied, in his turn.
+
+"Speak, then!"  said she, sinking upon a chair and motioning him to a
+seat before her.
+
+He obeyed, and sitting so far forward upon his chair that his knees
+touched her skirt, he took both her hands in his own, and said gently:
+
+"You know how much I love you, and how much I esteem you.  You know, too,
+the story of my life: my past follies, and also the honorable career I
+have run in order to atone for them morally, for in a material sense they
+are irreparable--according to my ideas, at least.  This career has been
+fortunate.  I have reached the highest rank that a soldier can attain to-
+day.  But my rapid promotion, however justifiable it may be, has none the
+less awakened jealousy.  The nature of my services being above all
+possibility of suspicion, calumny has sought another quarter at which to
+strike, and at this moment it is my delicacy which is impugned."
+
+"Your delicacy, Henri!  What do you mean?"  asked Eugenie, in an altered
+voice.
+
+"Our friendship is well known.  You are rich, and I have only my pay: the
+antithesis is flagrant!  The gossips comment upon it, and exploit the
+fact against me."
+
+"Against you!"  cried Eugenie, indignantly.
+
+"Against me--yes.  I have proof of it.  A man in private life would be
+justified in ignoring such gossip, but for a man in my profession
+ambiguity has no place, nor has compromise.  Himself a severe judge of
+the conduct of others, he must not afford them a single instance whereby
+they can accuse him of not following his own precepts."
+
+And, as his companion remained silent and startled before an explanation
+so unexpected, he added:
+
+"You say nothing, my love.  You must divine the depth of my chagrin at
+the prospect of a necessary separation, and you are sufficiently
+charitable not to remind me that I ought to have made these tardy
+reflections before I yielded to a fascination which made me close my eyes
+to facts."
+
+"I reproach you with nothing, Henri," said Eugenie in a trembling voice.
+"I myself yielded to the same enchantment, and in abandoning myself to
+it, I did not foresee that some day it might be prejudicial to your
+honor.  A singular moral law is that of the world!"  she pursued, growing
+more excited.  "Let General de Prerolles be the lover of Madame de
+Lisieux or of Madame de Nointel; let him sit every day at their tables--
+if there be only a husband whose hand he may clasp in greeting, no one
+will call this hospitable liaison a crime!  But let him feel anything
+more than a passing fancy for Eugenie Gontier, who violates no conjugal
+vow in loving him, but whose love he is not rich enough to buy--even were
+that love for sale--oh, then, everyone must point at him the finger of
+scorn!  As for myself, it seems that it was useless for me to resist so
+many would-be lovers in order to open my door more freely to the man of
+my choice--an action which no one holds against me, however, because I am
+only an actress, and the public classes us in a separate category, so
+that they may more readily offer up to us the incense with which they
+smother us!  Be it so!  There are also in my profession disinterested
+hearts which may serve as examples--and I pretend to the very highest
+rank as an actress in every role I assume, even in this city.  Take back
+your liberty, Henri!"
+
+"I have most unwillingly offended you," said he, sadly.
+
+"You?  Ah, no!  I know that you are loyal and sincere, and I could not
+harbor resentment against you after your avowal.  You would have lacked
+self-confidence had you acted otherwise.  But," she continued, "have you
+indeed told me all?"
+
+"All!"  he replied, without hesitation.
+
+"Will you give me your word of honor that no other woman stands between
+you and me?"
+
+"I swear it to you!"
+
+"I thank you!  You are incapable of lying.  Whatever happens, you never
+will have a better friend than I, for your just pride is still more dear
+to me than my own.  If you cease to come to the theatre, and appear no
+more at my receptions, that will be sufficient to insure the silence of
+gossip concerning us.  Go without remorse, Henri!  But come back to see
+me sometimes--quietly, without the knowledge of the envious--will you
+not?"
+
+"Do you doubt it?"  he responded, folding her tenderly in his arms.
+
+"Yes and no!  But if this is our supreme farewell, do not tell me so!"
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Ambiguity has no place, nor has compromise
+But if this is our supreme farewell, do not tell me so!
+Chain so light yesterday, so heavy to-day
+Every man is his own master in his choice of liaisons
+If I do not give all I give nothing
+Indulgence of which they stand in need themselves
+Ostensibly you sit at the feast without paying the cost
+Paris has become like a little country town in its gossip
+The night brings counsel
+You are in a conquered country, which is still more dangerous
+
+
+
+
+End of this Project Gutenberg Etext of Zibeline, v2
+by Phillipe de Massa
+

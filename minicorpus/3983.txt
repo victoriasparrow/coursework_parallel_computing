@@ -1,0 +1,2467 @@
+The Project Gutenberg Etext of Gerfaut by Charles de Bernard, v3
+#70 in our series The French Immortals Crowned by the French Academy
+#3 in our series by Charles de Bernard
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Gerfaut, v3
+
+Author: Charles de Bernard
+
+Release Date: April, 2003  [Etext #3983]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 09/25/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of Gerfaut by Charles de Bernard, v3
+******This file should be named 3983.txt or 3983.zip******
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07/27/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+GERFAUT
+
+By CHARLES DE BERNARD
+
+
+
+BOOK 3.
+
+
+CHAPTER XIII
+
+MONSIEUR DE BERGENHEIM
+
+Some men in society marry too soon, a great number too late, a small and
+fortunate proportion at an opportune time.  Young men in the country, of
+good family, are usually established in marriage by their parents as
+early as possible.  When the family council finds an heiress who answers
+all the conditions of the programme laid out, they begin by giving the
+victim his cue.  Provided the young lady has not a positively crooked
+nose, arms too red, and too uncouth a waist--sometimes even
+notwithstanding these little misfortunes--the transaction is concluded
+without any difficulty.
+
+Clemence and Christian should be placed in the first rank of privileged
+couples of this kind.  The most fastidious old uncle or precise old
+dowager could not discover the slightest pretense for criticism.  Age,
+social position, wealth, physical endowments, all seemed united by a
+chance as rare as fortunate.  So Mademoiselle de Corandeuil, who had very
+high pretensions for her niece, made no objection upon receiving the
+first overtures.  She had not, at this time, the antipathy for her future
+nephew's family which developed later.  The Bergenheims were in her eyes
+very well-born gentleman.
+
+A meeting took place at the Russian Embassy.  Bergenheim came in uniform;
+it was etiquette to do so, as the minister of war was present; but at the
+same time, of course, there was a little vanity on his part, for his
+uniform showed off his tall, athletic figure to the best advantage.
+Christian was certainly a very handsome soldier; his moustache and
+eyebrows were of a lighter tint than his complexion, and gave him that
+martial air which pleases women.  Clemence could find no reason for a
+refusal.  The way in which she had been brought up by her aunt had not
+rendered her so happy but that she often desired to change her situation.
+Like the greater number of young girls, she consented to become a wife so
+as not to remain a maiden; she said yes, so as not to say no.
+
+As to Christian, he was in love with his wife as nine out of ten cavalry
+officers know how to love, and he seemed perfectly satisfied with the
+sentiment that he received in return for this sudden affection.  A few
+successes with young belles, for whom an epaulette has an irresistible
+attraction, had inspired Baron de Bergenheim with a confidence in himself
+the simplicity of which excused the conceit.  He persuaded himself that
+he pleased Clemence because she suited him exactly.
+
+There are singers who pretend to read music at sight; give them a score
+by Gluck--"I beg your pardon," they will say, "my part is written here in
+the key of 'C' and I sing only in the key of 'G'!"  How many men do not
+know even the key of 'G' in matters of love!  Unfortunately for him,
+Bergenheim was one of that number.  After three years of married life,
+he had not divined the first note in Clemence's character.  He decided
+in his own mind, at the end of a few months, that she was cold, if not
+heartless.  This discovery, which ought to have wounded his vanity,
+inspired him, on the contrary, with a deeper respect for her; insensibly
+this reserve reacted upon himself, for love is a fire whose heat dies out
+for want of fuel, and its cooling off is more sudden when the flame is
+more on the surface than in the depths.
+
+The revolution of 1830 stopped Christian's career, and gave further
+pretexts for temporary absences which only added to the coolness which
+already existed between husband and wife.  After handing in his
+resignation, the Baron fixed his residence at his chateau in the Vosges
+mountains, for which he shared the hereditary predilection of his family.
+His tastes were in perfect harmony with this dwelling, for he had quickly
+become the perfect type of a country gentleman, scorning the court and
+rarely leaving his ancestral acres.  He was too kind-hearted to exact
+that his wife should share his country tastes and retired life.  The
+unlimited confidence which he had in her, a loyalty which never allowed
+him to suppose evil or suspect her, a nature very little inclined to
+jealousy, made him allow Clemence the greatest liberty.  The young woman
+lived at will in Paris with her aunt, or at Bergenheim with her husband,
+without a suspicious thought ever entering his head.  Really,--what had
+he to fear?  What wrong could she reproach him with?  Was he not full of
+kindness and attention toward her?  Did he not leave her mistress of her
+own fortune, free to do as she liked, to gratify every caprice?  He thus
+lived upon his faith in the marriage contract, with unbounded confidence
+and old-fashioned loyalty.
+
+According to general opinion, Madame de Bergenheim was a very fortunate
+woman, to whom virtue must be so easy that it could hardly be called a
+merit.  Happiness, according to society, consists in a box at the Opera,
+a fine carriage, and a husband who pays the bills without frowning.  Add
+to the above privileges, a hundred thousand francs' worth of diamonds,
+and a woman has really no right to dream or to suffer.  There are,
+however, poor, loving creatures who stifle under this happiness as if
+under one of those leaden covers that Dante speaks of; they breathe, in
+imagination, the pure, vital air that a fatal instinct has revealed to
+them; they struggle between duty and desire; they gaze, like captive
+doves and with a sorrowful eye, upon the forbidden region where it would
+be so blissful to soar; for, in fastening a chain to their feet, the law
+did not bandage their eyes, and nature gave them wings; if the wings tear
+the chain asunder, shame and misfortune await them!  Society will never
+forgive the heart that catches a glimpse of the joys it is unacquainted
+with; even a brief hour in that paradise has to be expiated by implacable
+social damnation and its everlasting flames.
+
+
+
+
+CHAPTER XIV
+
+GERFAUT'S ALLEGORY
+
+There almost always comes a moment when a woman, in her combat against
+love, is obliged to call falsehood to the help of duty.  Madame de
+Bergenheim had entered this terrible period, in which virtue, doubting
+its own strength, does not blush to resort to other resources.  At the
+moment when Octave, a man of experience, was seeking assistance in
+exciting her jealousy, she was meditating a plan of defence founded upon
+deceit.  In order to take away all hope from her lover, she pretended a
+sudden affection for her husband, and in spite of her secret remorse she
+persisted in this role for two days; but during the night her tears
+expiated her treachery.  Christian greeted his wife's virtuous coquetry
+with the gratitude and eagerness of a husband who has been deprived of
+love more than he likes.  Gerfaut was very indignant at the sight of this
+perfidious manoeuvre, the intention of which he immediately divined; and
+his rage wanted only provocation to break out in full force.
+
+One evening they were all gathered in the drawing-room with the exception
+of Aline, whom a reprimand from Mademoiselle de Corandeuil had exiled to
+her room.  The old lady, stretched out in her chair, had decided to be
+unfaithful to her whist in favor of conversation.  Marillac, leaning his
+elbows upon a round table, was negligently sketching some political
+caricatures, at that time very much the fashion, and particularly
+agreeable to the Legitimist party.  Christian, who was seated near his
+wife, whose hand he was pressing with caressing familiarity, passed from
+one subject to another, and showed in his conversation the overwhelming
+conceit of a happy man who regards his happiness as a proof of
+superiority.
+
+Gerfaut, standing, gazed gloomily at Clemence, who leaned toward her
+husband and seemed to listen eagerly to his slightest word.  Bergenheim
+was a faithful admirer of the classics, as are all country gentlemen,
+who introduce a sentiment of propriety into their literary opinions and
+prefer the ancient writers to the modern, for the reason that their
+libraries are much richer in old works than in modern books.  The Baron
+unmercifully sacrificed Victor Hugo and Alexandre Dumas, whom he had
+never read, upon the altar of Racine and Corneille, of which he possessed
+two or three editions, and yet it would have embarrassed him to recite
+half a dozen verses from them.  Marillac boldly defended the cause of
+contemporary literature, which he considered as a personal matter, and
+poured out a profusion of sarcastic remarks in which there was more wit
+than good taste.
+
+"The gods fell from Olympus, why should they not also fall from
+Parnassus?"  said the artist, finally, with a triumphant air.  "Say what
+you will, Bergenheim, your feeble opposition will not prevail against the
+instincts of the age.  The future is ours, let me tell you, and we are
+the high priests of the new religion; is it not so, Gerfaut?"
+
+At these words, Mademoiselle de Corandeuil shook her head, gravely.
+
+"A new religion!"  said she; "if this pretension should be verified you
+would only be guilty of heresy, and, without allowing myself to be taken
+in, I can understand how elevated minds and enthusiastic hearts might be
+attracted by the promises of a deceptive Utopia; but you, gentlemen, whom
+I believe to be sincere, do you not see to what an extent you delude
+yourselves?  What you call religion is the most absolute negation of
+religious principles; it is the most distressing impiety ornamented with
+a certain sentimental hypocrisy which has not even the courage frankly to
+proclaim its principles."
+
+"I swear to you, Mademoiselle, that I am religious three days out of
+four," replied Marillac; "that is something; there are some Christians
+who are pious only on Sunday."
+
+"Materialism is the source from which modern literature takes its
+inspiration," continued the old lady; "and this poisonous stream not only
+dries up the thoughts which would expand toward heaven, but also withers
+all that is noble in human sentiment.  To-day, people are not content to
+deny God, because they are not pure enough to comprehend Him; they disown
+even the weakness of the heart, provided they have an exalted and
+dignified character.  They believe no longer in love.  All the women that
+your fashionable writers tell us about are vulgar and sometimes unchaste
+creatures, to whom formerly a gentleman would have blushed to give one
+glance or to offer a supper.  I say this for your benefit, Monsieur
+de Gerfaut, for in this respect you are far from being irreproachable;
+and I could bring forth your books to support my theory.  If I accuse you
+of atheism, in love, what have you to say in reply?"
+
+Carried away by one of those impulsive emotions which men of imagination
+can not resist, Octave arose and said:
+
+"I should not deny such an accusation.  Yes, it is a sad thing, but true,
+and only weak minds recoil from the truth: reality exists only in
+material objects; all the rest is merely deception and fancy.  All poetry
+is a dream, all spiritualism a fraud!  Why not apply to love the
+accommodating philosophy which takes the world as it is, and does not
+throw a savory fruit into the press under the pretext of extracting I
+know not what imaginary essence?  Two beautiful eyes, a satin skin, white
+teeth, and a shapely foot and hand are of such positive and inestimable
+value!  Is it not unreasonable, then, to place elsewhere than in them all
+the wealth of love?  Intellect sustains its owner, they say; no,
+intelligence kills.  It is thought that corrupts sensation and causes
+suffering where, but for that, joy would reign supreme.
+
+"Thought!  accursed gift!  Do we give or ask a thought of the rose whose
+perfume we breathe?  Why not love as we breathe?  Would not woman,
+considered simply as a perfectly organized vegetation, be the queen of
+creation?  Why not enjoy her perfume as we bend before her, leaving her
+clinging to the ground where she was born and lives?  Why tear her from
+the earth, this flower so fresh, and have her wither in our hands as we
+raise her up like an offering?  Why make of so weak and fragile a
+creature a being above all others, for whom our enthusiasm can find no
+name, and then discover her to be but an unworthy angel?
+
+"Angel!  yes, of course, but an angel of the Earth, not of Heaven;
+an angel of flesh, not of light!  By dint of loving, we love wrongly.
+We place our mistress too high and ourselves too low; there is never a
+pedestal lofty enough for her, according to our ideas.  Fools!  Oh!
+reflection is always wise, but desire is foolish, and our conduct is
+regulated by our desire.  We, above all, with our active, restless minds,
+blase in many respects, unbelieving in others and disrespectful in the
+remainder, soar over life as over an impure lake, and look at everything
+with contempt, seeking in love an altar before which we can humble our
+pride and soften our disdain.
+
+"For there is in every man an insurmountable need to fall on his knees
+before no matter what idol, if it remains standing and allows itself to
+be adored.  At certain hours, a prayerbell rings in the depth of the
+heart, the sound of which throws him upon his knees as it cries: 'Kneel!'
+And then the very being who ignores God in His churches and scorns kings
+upon their thrones, the being who has already exhausted the hollow idols
+of glory and fame, not having a temple to pray in, makes a fetich for
+himself in order to have a divinity to adore, so as not to be alone in
+his impiety, and to see, above his head when he arises, something that
+shall not be empty and vacant space.  This man seeks a woman, takes all
+that he has, talent passion, youth, enthusiasm, all the wealth of his
+heart, and throws them at her feet like the mantle that Raleigh spread
+out before Elizabeth, and he says to this woman: 'Walk, O my queen;
+trample under your blessed feet the heart of your adoring slave!'  This
+man is a fool, is he not?  For when the queen has passed, what remains
+upon the mantle?  Mud!"
+
+Gerfaut accompanied these words with such a withering glance that the one
+for whom they were intended felt her blood freeze in her veins, and
+withdrew the hand her husband had kept till then in his; she soon arose
+and seated herself at the other side of the table, under the pretext of
+getting nearer the lamp to work, but in reality in order to withdraw from
+Christian's vicinity.  Clemence had expected her lover's anger, but not
+his scorn; she had not strength to endure this torture, and the conjugal
+love which had, not without difficulty, inflamed her heart for the last
+few days, fell to ashes at the first breath of Octave's indignation.
+
+Mademoiselle de Corandeuil greeted the Vicomte's words indulgently; for,
+from consummate pride, she separated herself from other women.
+
+"So then," said she, "you pretend that if to-day love is painted under
+false and vulgar colors, the fault is the model's, not the artist's."
+
+"You express my thought much better than I could have done it myself,"
+said Gerfaut, in an ironical tone; "where are the angels whose portraits
+are called for?"
+
+"They are in our poetical dreams," said Marillac, raising his eyes to the
+ceiling with an inspired air.
+
+"Very well!  tell us your dreams then, instead of copying a reality which
+it is impossible for you to render poetic, since you yourselves see it
+without illusions."
+
+Gerfaut smiled bitterly at this suggestion, artlessly uttered by the
+Baron.
+
+"My dreams," he replied, "I should tell them to you poorly indeed, for
+the first blessing of the awakening is forgetfulness, and to-day I am
+awake.  However, I remember how I allowed myself to be once overcome by a
+dream that has now vanished, but still emits its luminous trail in my
+eyes.  I thought I had discovered, under a beautiful and attractive
+appearance, the richest treasure that the earth can bestow upon the heart
+of man; I thought I had discovered a soul, that divine mystery, deep as
+the ocean, ardent as a flame, pure as air, glorious as heaven itself,
+infinite as space, immortal as eternity!  It was another universe, where
+I should be king.  With what ardent and holy love I attempted the
+conquest of this new world, but, less fortunate than Columbus, I met with
+shipwreck instead of triumph."
+
+Clemence, at this avowal of her lover's defeat, threw him a glance of
+intense contradiction, then lowered her eyes, for she felt her face
+suffused with burning blushes.
+
+When he entered his room that night, Gerfaut went straight to the window.
+He could see in the darkness the light which gleamed in Clemence's room.
+
+"She is alone," said he to himself; "certainly heaven protects us, for in
+the state of exasperation I am in, I should have killed them both."
+
+
+
+
+CHAPTER XV
+
+DECLARATION OF WAR
+
+Far from rejoicing at this moment in the triumph he had just obtained,
+Gerfaut fell into one of those attacks of disenchantment, during which,
+urged on by some unknown demon, he unmercifully administered to himself
+his own dreaded sarcasm.  Being unable to sleep, he arose and opened his
+window again, and remained with his elbows resting upon the sill for some
+time.  The night was calm, numberless stars twinkled in the heavens, the
+moon bathed with its silvery light the tops of the trees, through which a
+monotonous breeze softly rustled.  After gazing at this melancholy
+picture of sleeping nature, the poet smiled disdainfully, and said to
+himself "This comedy must end.  I can not waste my life thus.  Doubtless,
+glory is a dream as well as love; to pass the night idiotically gazing at
+the moon and stars is, after all, as reasonable as to grow pale over a
+work destined to live a day, a year, or a century! for what renown lasts
+longer than that?  If I were really loved, I should not regret those
+wasted hours; but is it true that I am loved?  There are moments when I
+recover my coolness and clearness of mind, a degree of self possession
+incompatible with the enthusiasm of genuine passion; at other times, it
+is true, a sudden agitation renders me powerless and leaves me as weak as
+a child.  Oh, yes, I love her in a strange manner; the sentiment that I
+feel for her has become a study of the mind as well as an emotion of the
+heart, and that is what gives it its despotic tenacity; for a material
+impression weakens and gradually dies out, but when an energetic
+intelligence is brought to bear upon it, it becomes desperate.  I should
+be wrong to complain.  Passion, a passive sentiment!  This word has a
+contradictory meaning for me.  I am a lover as Napoleon was an emperor:
+nobody forced the crown upon him, he took it and crowned himself with his
+own hand.  If my crown happens to be a thorny one, whom can I accuse?
+Did not my brow crave it?
+
+"I have loved this woman of my own choosing, above all others; the choice
+made, I have worked at my love as I would at a cherished poem; it has
+been the subject of all my meditations, the fairy of all my dreams, for
+more than a year.  I have not had a thought in which I have not paid her
+homage.  I have devoted my talents to her; it seemed to me that by loving
+and perpetually contemplating her image, I might at last become worthy of
+painting it.  I was conscious of a grand future, if only she had
+understood me; I often thought of Raphael and his own Fornarina.  There
+is a throne vacant in poetry; I had dreamed of this throne in order to
+lay it at Clemence's feet.  Oh! although this may never be more than a
+dream, this dream has given me hours of incomparable happiness!  I should
+be ungrateful to deny it.
+
+"And yet this love is only a fictitious sentiment; I realize it today.
+It is not with her that I am in love, it is with a woman created by my
+imagination, and whom I see clearly within this unfeeling marble shape.
+When we have meditated for a long time, our thoughts end by taking life
+and walking by our side.  I can now understand the allegory of Adam
+taking Eve from his own substance; but flesh forms a palpitating flesh
+akin to itself; the mind creates only a shadow, and a shadow can not
+animate a dead body.  Two dead bodies can not make a living one; a body
+without a soul is only a cadaver--and she has no soul."
+
+Gerfaut sat motionless for some time with his face buried in his hands;
+suddenly he raised his head and burst into harsh laughter.
+
+"Enough of this soaring in the clouds!"  he exclaimed; "let us come down
+to earth again.  It is permissible to think in verse, but one must act in
+prose, and that is what I shall do tomorrow.  This woman's caprices,
+which she takes for efforts of virtue, have made of me a cruel and
+inexorable man; I have begged in vain for peace; if she wishes war, very
+well, so be it, she shall have war."
+
+
+
+
+CHAPTER XVI
+
+GERFAUT WINS A POINT
+
+For several days, Gerfaut followed, with unrelenting perseverance, the
+plan which he had mapped out in that eventful night.  The most exacting
+woman could but appear satisfied with the politeness he displayed toward
+Madame de Bergenheim, but nothing in his conduct showed the slightest
+desire for an explanation.  He was so careful of every look, gesture, and
+word of his, that it would have been impossible to discover the slightest
+difference in his actions toward Mademoiselle de Corandeuil, and the
+manner in which he treated Clemence.  His choicest attentions and most
+particular efforts at amiability were bestowed upon Aline.  He used as
+much caution as cunning, in his little game, for he knew that in spite of
+her inclination to be jealous, Madame de Bergenheim would never believe
+in a sudden desertion, and that she would surely discover the object of
+his ruse, if he made the mistake of exaggerating it in the least.
+
+While renouncing the idea of a direct attack, he did not work with any
+less care to fortify his position.  He redoubled his activity in widening
+the breach between the old aunt and the husband, following the principles
+of military art, that one should become master of the exterior works of a
+stronghold before seriously attacking its ramparts.
+
+It was, in a way, by reflection that Octave's passion reached Clemence.
+Every few moments she learned some detail of this indirect attack, to
+which it was impossible for her to raise any objections.
+
+"Monsieur de Gerfaut has promised to spend a fortnight longer with us,"
+said her aunt to her, in a jeering tone.
+
+"Really, Gerfaut is very obliging," said her husband, in his turn; "he
+thinks it very strange that we have not had a genealogical tree made to
+put in the drawing-room.  He pretends that it is an indispensable
+complement to my collection of family portraits, and he offers to do me
+the favor of assuming charge of it.  It seems, from what your aunt tells
+me, that he is very learned in heraldry.  Would you believe it, he spent
+the whole morning in the library looking over files of old manuscripts?
+I am delighted, for this will prolong his stay here.  He is a very
+charming fellow; a Liberal in politics, but a gentleman at heart.
+Marillac, who is a superb penman, undertakes to make a fair copy of the
+genealogy and to illuminate the crests.  Do you know, we can not find my
+great-grandmother Cantelescar's coat-of-arms?  But, my darling, it seems
+to me that you are not very kindly disposed toward your cousin Gerfaut."
+
+Madame de Bergenheim, when these remarks and various others of a similar
+nature came up, tried to change the conversation, but she felt an
+antipathy for her husband bordering upon aversion.  For lack of
+intelligence is one of the faults women can pardon the least; they look
+upon a confidence which is lulled into security by faith in their honor,
+and a blindness which does not suspect the possibility of a fall, as
+positive crimes.
+
+"Look at these pretty verses Monsieur de Gerfaut has written in my album,
+Clemence," said Aline, in her turn.  During vacation, among her other
+pleasures forbidden her at the Sacred Heart, the young girl had purchased
+a superbly bound album, containing so far but two ugly sketches in sepia,
+one very bad attempt in water-colors, and the verses in question.  She
+called this "my album!"  as she called a certain little blank book, "my
+diary!"  To the latter she confided every night the important events of
+the day.  This book had assumed such proportions, during the last few
+days, that it threatened to reach the dimensions of the Duchesse
+d'Abrantes' memoires, but if the album was free to public admiration,
+nobody ever saw the diary, and Justine herself never had been able to
+discover the sanctuary that concealed this mysterious manuscript.
+
+Aline was not so pleasantly received as the others, and Madame de
+Bergenheim hardly concealed the ill-humor her pretty sister-in-law's
+beaming face caused her every time Octave's name was mentioned.
+
+The latter's diplomatic conduct was bearing fruit, and his expectations
+were being fulfilled with a precision which proved the correctness of his
+calculations.
+
+In the midst of all the contradictory sentiments of fear, remorse,
+vexation, love, and jealousy, Clemence's head was so turned, at times,
+that she did not know what she did want.  She found herself in one of
+those situations when a woman of a complex and mobile character whom all
+sensations impress, passes, with surprising facility, from one resolve to
+another entirely opposed to it.  After being frightened beyond measure by
+her lover's presence in her husband's house, she ended by becoming
+accustomed to it, and then by ridiculing her first terror.
+
+"Truly," she thought, at times, "I was too silly thus to torment myself
+and make myself ill; I was wanting in self-respect to mistrust myself to
+such an extent, and to see danger where there was none.  He can not
+expect to make himself so very formidable while scrawling this
+genealogical tree.  If he came one hundred leagues from Paris for that,
+he really does not merit such severe treatment."
+
+Then, having thus reassured herself against the perils of her position,
+without realizing that to fear danger less was to embolden love, she
+proceeded to examine her lover's conduct.
+
+"He seems perfectly resigned," she said, to herself; "not one word or
+glance for two days!  Since he resigns himself so easily, he might, it
+seems to me, obey me entirely and go away; or, if he wishes to disobey
+me, he might do it in a less disagreeable manner.  For really, his manner
+is almost rude; he might at least remember that I am his hostess, and
+that he is in my house.  I do not see what pleasure he can take in
+talking to this little girl.  I wager that his only object is to annoy
+me!  He deceives himself most assuredly; it is all the same to me!  But
+Aline takes all this seriously!  She has become very coquettish, the last
+few days!  It certainly is very wrong for him to try to turn this child's
+head.  I should like to know what he would say to justify himself."
+
+Thus, little by little, she mentally reached the point to which Octave
+wished to bring her.  The desire for an explanation with him, which she
+dared not admit to herself at first from a feeling of pride, became
+greater from day to day, and at last Octave himself could not have longed
+more ardently for an interview.  Now that Octave seemed to forget her,
+she realized that she loved him almost to adoration.  She reproached
+herself for her harshness toward him more than she had ever reproached
+herself for her weakness.  Her antipathy for all that did not concern him
+increased to such a degree that the most simple of household duties
+became odious to her.  It seemed to her that all the people about her
+were enemies bent upon separating her from happiness, for happiness was
+Octave; and this happiness, made up of words, letters, glances from him,
+was lost!
+
+The evening of the fourth day, she found this torture beyond her
+strength.
+
+"I shall become insane," she thought; "to-morrow I will speak to him."
+
+Gerfaut was saying to himself, at nearly the same moment: "To-morrow I
+will have a talk with her."  Thus, by a strange sympathy, their hearts
+seemed to understand each other in spite of their separation.  But what
+was an irresistible attraction in Clemence was only a determination
+resulting from almost a mathematical calculation on her lover's part.
+By the aid of this gift of second sight which intelligent men who are in
+love sometimes possess, he had followed, degree by degree, the variations
+of her heart, without her saying one word; and in spite of the veil of
+scorn and indifference with which she still had the courage to shield
+herself, he had not lost a single one of the tortures she had endured for
+the last four days.  Now he thought that he had discovered enough to
+allow him to risk a step that, until then, he would have deemed
+dangerous; and with the egotism common to all men, even the best of
+lovers, he trusted in the weakness born of sorrow.
+
+The next day a hunting party was arranged with some of the neighbors.
+Early in the morning, Bergenheim and Marillac started for the rendezvous,
+which was at the foot of the large oak-tree where the artist's tete-a-
+tete had been so cruelly interrupted.  Gerfaut refused to join them,
+under the pretence of finishing an article for the 'Revue de Paris',
+and remained at home with the three ladies.  As soon as dinner was ended,
+he went to his room in order to give a semblance of truth to his excuse.
+
+He had been busying himself for some time trimming a quill pen at the
+window, which looked out upon the park, when he saw in the garden,
+directly beneath him, Constance's forefeet and nose; soon the dog jumped
+upon the sill in order to warm herself in the sun.
+
+"The old lady has entered her sanctuary," thought Gerfaut, who knew that
+it was as impossible to see Constance without her mistress as St.-Roch
+without his dog.
+
+A moment later he saw Justine and Mademoiselle de Corandeuil's maid
+starting off, arm in arm, as if they were going for a promenade.
+Finally, he had hardly written half a page, when he noticed Aline
+opposite his window, with a straw hat upon her head and a watering-pot in
+her hand.  A servant carried a bucket of water and placed it near a mass
+of dahlias, which the young girl had taken under her protection, and she
+at once set about her work with great zeal.
+
+"Now," said Gerfaut, "let us see whether the place is approachable."  And
+closing his desk, he stealthily descended the stairs.
+
+After crossing the vestibule on the first floor, and a small gallery
+decorated with commonplace pictures, he found himself at the library
+door.  Thanks to the genealogical tree which he had promised to compile,
+he possessed a key to this room, which was not usually open.  By dint of
+preaching about the danger in certain reading for young girls,
+Mademoiselle de Corandeuil had caused this system of locking-up,
+especially designed to preserve Aline from the temptation of opening
+certain novels which the old lady rejected en masse.  "Young girls did
+not read novels in 1780," she would say.  This put an end to all
+discussion and cut short the protestations of the young girl, who was
+brought up exclusively upon a diet of Le Ragois and Mentelle's geography,
+and such solid mental food.
+
+Several large books and numerous manuscripts were spread out upon the
+table in the library, together with a wide sheet of Holland paper, upon
+which was sketched the family tree of the Bergenheims.  Instead of going
+to work, however, Gerfaut locked the door, and then went across the room
+and pressed a little knob which opened a small door no one would have
+noticed at first.
+
+Leather bands representing the binding of books, like those which covered
+the rest of the walls, made it necessary for one to be informed of the
+existence of this secret exit in order to distinguish it from the rest of
+the room.  This door had had a singular attraction for Gerfaut ever since
+the day he first discovered it.  After silently opening it, he found
+himself in a small passage at the end of which was a small spiral
+staircase leading to the floor above.  A cat creeping to surprise a bird
+asleep could not have walked more stealthily than he, as he mounted the
+stairs.
+
+When he crossed the last step, he found himself in a small room, filled
+with wardrobes, lighted by a small glass door covered with a muslin
+curtain.  This door opened into a little parlor which separated Madame de
+Bergenheim's private sitting-room from her sleeping-apartment.  The only
+window was opposite the closet and occupied almost the whole of the
+woodwork, the rest of which was hung with pearl-gray stuff with lilac
+figures upon it.  A broad, low divan, covered with the same material as
+the hanging, occupied the space in front of the window.  It was the only
+piece of furniture, and it seemed almost impossible to introduce even one
+chair more.
+
+The blinds were carefully closed, as well as the double curtains, and
+they let in so little light that Octave had to accustom himself to the
+obscurity before he could distinguish Madame de Bergenheim through the
+muslin, curtains and the glass door.  She was lying upon the divan, with
+her head turned in his direction and a book in her hand.  He first
+thought her asleep, but soon noticed her gleaming eyes fastened upon the
+ceiling.
+
+"She is not asleep, she does not read, then she is thinking of me!" said
+he to himself, by a logical deduction he believed incontestable.
+
+After a moment's hesitation, seeing that the young woman remained
+motionless, Gerfaut tried to turn the handle of the door as softly as
+possible so as to make his entrance quietly.  The bolt had just
+noiselessly slipped in the lock when the drawing-room door suddenly
+opened, a flood of light inundated the floor, and Aline appeared upon the
+threshold, watering-pot in hand.
+
+The young girl stopped an instant, for she thought her sister-in-law was
+asleep; but, meeting in the shade Clemence's sparkling eyes, she entered,
+saying in a fresh, silvery voice:
+
+"All my flowers are doing well; I have come to water yours."
+
+Madame de Bergenheim made no reply, but her eyebrows contracted slightly
+as she watched the young girl kneel before a superb datura.  This almost
+imperceptible symptom, and the rather ill-humored look, foretold a storm.
+A few drops of water falling upon the floor gave her the needed pretext,
+and Gerfaut, as much in love as he was, could not help thinking of the
+fable of the wolf and the lamb, when he heard the lady of his thoughts
+exclaim, in an impatient tone:
+
+"Let those flowers alone; they do not need to be watered.  Do you not see
+that you are wetting the floor?"
+
+Aline turned around and looked at the scolder for a moment; then, placing
+her watering-pot upon the floor, she darted toward the divan like a
+kitten that has just received a blow from its mother's paw and feels
+authorized to play with her.  Madame de Bergenheim tried to rise at this
+unexpected attack; but before she could sit up, she was thrown back upon
+the cushions by the young girl, who seized both her hands and kissed her
+on each cheek.
+
+"Good gracious!  how cross you have been for the last few days!"  cried
+Aline, pressing her sister's hands.  "Are you going to be like your aunt?
+You do nothing but scold now.  What have I done?  Are you vexed with me?
+Do you not love me any longer?"
+
+Clemence felt a sort of remorse at this question, asked with such a
+loving accent; but her jealousy she could not overcome.  To make up for
+it, she kissed her sister-in-law with a show of affection which seemed to
+satisfy the latter.
+
+"What are you reading?"  asked the young girl, picking up the book which
+had fallen to the floor in their struggle--"Notre Dame de Paris.  That
+must be interesting!  Will you let me read it?  Oh!  do!  will you?"
+
+"You know very well that my aunt has forbidden you to read novels."
+
+"Oh!  she does that just to annoy me and for no other reason.  Do you
+think that is right?  Must I remain an idiot, and never read anything but
+history and geography the rest of my life?  As if I did not know that
+Louis Thirteenth was the son of Henri Fourth, and that there are eighty-
+six departments in France.  You read novels.  Does it do you any harm?"
+
+Clemence replied in a rather imperative tone, which should have put an
+end to the discussion
+
+"When you are married you can do as you like.  Until then you must leave
+your education in the hands of those who are interested in you."
+
+"All my friends," replied Aline with a pout, "have relatives who are
+interested in them, at least as much as your aunt is in me, and they do
+not prevent their reading the books they like.  There is Claire de
+Saponay, who has read all of Walter Scott's novels, Maleck-Adel, Eugenie
+and Mathilde--and I do not know how many more; Gessner, Mademoiselle de
+Lafayette--she has read everything; and I--they have let me read Numa
+Ponzpilius and Paul and Virginia.  Isn't that ridiculous at sixteen years
+of age?"
+
+"Do not get excited, but go into the library and get one of Walter
+Scott's novels; but do not let my aunt know anything about it."
+
+At this act of capitulation, by which Madame de Bergenheim doubtless
+wished to atone for her disagreeableness, Aline made one joyous bound for
+the glass door.  Gerfaut had barely time to leave his post of observation
+and to conceal himself between two wardrobes, under a cloak which was
+hanging there, when the young girl made her appearance, but she paid no
+attention to the pair of legs which were but imperfectly concealed.  She
+bounded down the stairs and returned a moment later with the precious
+volumes in her hand.
+
+"Waverley, or, Scotland Sixty Years Ago," said she, as she read the
+title.  "I took the first one on the shelf, because you are going to lend
+them all to me, one by one, are you not?  Claire says that a young girl
+can read Walter Scott, and that his books are very nice."
+
+"We shall see whether you are sensible," replied Clemence, smiling; "but,
+above all things, do not let my aunt see these books, for I am the one
+who would get the scolding."
+
+"Do not worry;--I will go and hide them in my room."
+
+She went as far as the door, then stopped and came back a few steps.
+
+"It seems," said she, "that Monsieur de Gerfaut worked in the library
+yesterday, for there are piles of books on the table.  It is very kind of
+him to be willing to make this tree, is it not?  Shall we both be in it?
+Do they put women in such things?  I hope your aunt will not be there;
+she is not one of our family."
+
+Clemence's face clouded again at the name of Gerfaut.
+
+"I know no more about it than you," she replied, a little harshly.
+
+"The reason I asked is because there are only pictures of men in the
+drawing-room; it is not very polite on their part.  I should much prefer
+that there should be portraits of our grandmothers; it would be so
+amusing to see the beautiful dresses that they wore in those days rather
+than those old beards which frighten me.  But perhaps they do not put
+young girls in genealogical trees," she continued, in a musing tone.
+
+"You might ask Monsieur de Gerfaut; he wishes to please you too much to
+refuse to tell you," said Clemence, with an almost ironical smile.
+
+"Do you think so?"  asked Aline, innocently.  "I should never dare to ask
+him."
+
+"You are still afraid of him, then?"
+
+"A little," replied the young girl, lowering her eyes, for she felt her
+face flush.
+
+This symptom made Madame de Bergenheim more vexed than ever, and she
+continued, in a cutting, sarcastic tone:
+
+"Has your cousin d'Artigues written you lately?"
+
+Mademoiselle de Bergenheim raised her eyes and looked at her for a moment
+with an indifferent air:
+
+"I don't know," she said, at last.
+
+"What!  you do not know whether you have received a letter from your
+cousin?"  continued Clemence, laughing affectedly.
+
+"Ah!  Alphonse--no, that is, yes; but it was a long time ago."
+
+"How cold and indifferent you are all of a sudden to this dear Alphonse!
+You do not remember, then, how you wept at his departure, a year ago, and
+how vexed you were with your brother who tried to tease you about this
+beautiful affection, and how you swore that you would never have any
+other husband than your cousin?"
+
+"I was a simpleton, and Christian was right.  Alphonse is only one year
+older than I!  Think of it, what a fine couple we should make!  I know
+that I am not very sensible, and so it is necessary that my husband
+should be wise enough for both.  Christian is nine years older than you,
+is he not?"
+
+"Do you think that is too much?"  asked Madame de Bergenheim.
+
+"Quite the contrary."
+
+"What age should you like your husband to be?"
+
+"Oh!--thirty," replied the young girl, after a slight hesitation.
+
+"Monsieur de Gerfaut's age?"
+
+They gazed at each other in silence.  Octave, who, from his place of
+concealment heard the whole of this conversation, noticed the sad
+expression which passed over Clemence's face, and seemed to provoke
+entire confidence.  The young girl allowed herself to be caught by this
+appearance of interest and affection.
+
+"I will tell you something," said she, "if you will promise never to tell
+a soul."
+
+"To whom should I repeat it?  You know that I am very discreet as to your
+little secrets."
+
+"It is because this might be perhaps a great secret," continued Aline.
+
+Clemence took her sister-in-law's hand, and drew her down beside her.
+
+"You know," said Aline, "that Christian has promised to give me a watch
+like yours, because I do not like mine.  Yesterday, when we were out
+walking, I told him I thought it was very unkind of him not to have given
+it to me yet.  Do you know what he replied?--It is true that he laughed
+a little--It is hardly worth while buying you one now; when you are the
+Vicomtesse de Gerfaut, your husband will give you one.'"
+
+"Your brother was joking at your expense; how could you be such a child
+as not to perceive it?"
+
+"I am not such a child!"  exclaimed Aline, rising with a vexed air;
+"I know what I have seen.  They were talking a long time together in the
+drawing-room last evening, and I am sure they were speaking of me."
+
+Madame de Bergenheim burst into laughter, which increased her sister-in-
+law's vexation, for she was less and less disposed to be treated like a
+young girl.
+
+"Poor Aline!"  said the Baroness, at last; "they were talking about the
+fifth portrait; Monsieur de Gerfaut can not find the name of the original
+among the old papers, and he thinks he did not belong to the family.  You
+know, that old face with the gray beard, near the door."
+
+The young girl bent her head, like a child who sees her naughty sister
+throw down her castle of cards.
+
+"And how do you know?"  said she, after a moment's reflection.  "You were
+at the piano.  How could you hear at the other end of the room what
+Monsieur de Gerfaut was saying?"
+
+It was Clemence's turn to hang her head, for it seemed to her that the
+girl had suspected the constant attention which, under an affectation of
+indifference, never allowed her to lose one of Octave's words.  As usual,
+she concealed her embarrassment by redoubling her sarcasm.
+
+"Very likely," said she, "I was mistaken, and you may be right after all.
+What day shall we have the honor of saluting Madame la Vicomtesse de
+Gerfaut?"
+
+"I foolishly told you what I imagined, and you at once make fun of me,"
+said Aline, whose round face lengthened at each word, and passed from
+rose-color to scarlet; "is it my fault that my brother said this?"
+
+"I do not think it was necessary for him to speak of it, for you to think
+a great deal about the matter."
+
+"Very well; must one not think of something?"
+
+"But one should be careful of one's thoughts; it is not proper for a
+young girl to think of any man," replied Clemence, with an accent of
+severity which would have made her aunt recognize with pride the pure
+blood of the Corandeuils.
+
+"I think it is more proper for a young girl to do so than for a married
+woman."
+
+At this unexpected retort, Madame de Bergenheim lost countenance and sat
+speechless before the young maiden, like a pupil who has just been
+punished by his teacher.
+
+"Where the devil did the little serpent get that idea?"  thought Gerfaut,
+who was very ill at ease between the two wardrobes where he was
+concealed.
+
+Seeing that her sister-in-law did not reply to her, Aline took this
+silence from confusion for an expression of bad temper, and at once
+became angry in her turn.
+
+"You are very cross to-day," said she; "good-by, I do not want your
+books."
+
+She threw the volumes of Waverley upon the sofa, picked up her watering-
+pot and went out, closing the door with a loud bang.  Madame de
+Bergenheim sat motionless with a pensive, gloomy air, as if the young
+girl's remark had changed her into a statue.
+
+"Shall I enter?"  said Octave to himself, leaving his niche and putting
+his hand upon the door-knob.  "This little simpleton has done me an
+infinite wrong with her silly speeches.  I am sure that she is cruising
+with full sails set upon the stormy sea of remorse, and that those two
+rosebuds she is gazing at now seem to her like her husband's eyes."
+
+Before the poet could make up his mind what to do, the Baroness arose and
+left the room, closing the door almost as noisily as her sister-in-law
+had done.
+
+Gerfaut went downstairs, cursing, from the very depths of his heart,
+boarding-school misses and sixteen-year-old hearts.  After walking up and
+down the library for a few moments, he left it and started to return to
+his room.  As he passed the drawing-room, loud music reached his ear;
+chromatic fireworks, scales running with the rapidity of the cataract of
+Niagara, extraordinary arpeggios, hammering in the bass with a petulance
+and frenzy which proved that the 'furie francaise' is not the exclusive
+right of the stronger sex.  In this jumble of grave, wild, and sad notes,
+Gerfaut recognized, by the clearness of touch and brilliancy of some of
+the passages, that this improvisation could not come from Aline's
+unpractised fingers.  He understood that the piano must be at this moment
+Madame de Bergenheim's confidant, and that she was pouring out the
+contradictory emotions in which she had indulged for several days; for,
+to a heart deprived of another heart in which to confide its joys and
+woes, music is a friend that listens and replies.
+
+Gerfaut listened for some time in silence, with his head leaning against
+the drawing-room door.  Clemence wandered through vague melodies without
+fixing upon any one in particular.  At last a thought seemed to captivate
+her.  After playing the first measures of the romance from Saul, she
+resumed the motive with more precision, and when she had finished the
+ritornello she began to sing, in a soft, veiled voice,
+
+                    "Assisa al pie d'un salice--"
+
+Gerfaut had heard her sing this several times, in society, but never with
+this depth of expression.  She sang before strangers with her lips; now
+it all came from her heart.  At the third verse, when he believed her to
+be exalted by her singing and the passion exhaled in this exquisite song,
+the poet softly entered, judging it to be a favorable moment, and enough
+agitated himself to believe in the contagion of his agitation.
+
+The first sight which met his eyes was Mademoiselle de Corandeuil
+stretched out in her armchair, head thrown back, arms drooping and
+letting escape by way of accompaniment a whistling, crackling, nasal
+melody.  The old maid's spectacles hanging on the end of her nose had
+singularly compromised the harmony of her false front.  The 'Gazette de
+France' had fallen from her hands and decorated the back of Constance,
+who, as usual, was lying at her mistress's feet.
+
+"Horrible old witch!"  said Gerfaut to himself.  "Decidedly, the Fates
+are against me to-day."  However, as both mistress and dog were sleeping
+soundly, he closed the door and tiptoed across the floor.
+
+Madame de Bergenheim had ceased to sing, but her fingers still continued
+softly to play the motive of the song.  As she saw Octave approaching
+her, she leaned over to look at her aunt, whom she had not noticed to be
+asleep, as the high back of her chair was turned toward her.  Nobody
+sleeps in a very imposing manner, but the old lady's profile, with her
+false front awry, was so comical that it was too much for her niece's
+gravity.  The desire to laugh was, for the moment, stronger than respect
+for melancholy; and Clemence, through that necessity for sympathy
+peculiar to acute merriment, glanced involuntarily at Octave, who was
+also smiling.  Although there was nothing sentimental in this exchange of
+thoughts, the latter hastened to profit by it; a moment more, and he was
+seated upon a stool in front of the piano, at her left and only a few
+inches from her.
+
+"How can a person sleep when you are singing?"
+
+The most embarrassed freshman could have turned out as bright a speech as
+this; but the eloquence of it lay less in the words than in the
+expression.  The ease and grace with which Octave seated himself, the
+elegant precision of his manner, the gracious way in which he bent his
+head toward Clemence, while speaking, showed a great aptitude in this
+kind of conversation.  If the words were those of a freshman, the accent
+and pose were those of a graduate.
+
+The Baroness's first thought was to rise and leave the room, but an
+invincible charm held her back.  She was not mistress enough of her eyes
+to dare to let them meet Octave's; so she turned them away and pretended
+to look at the old lady.
+
+"I have a particular talent for putting my aunt to sleep," said she, in a
+gay tone; "she will sleep until evening, if I like; when I stop playing,
+the silence awakens her."
+
+"I beg of you, continue to play; never awaken her," said Gerfaut; and, as
+if he were afraid his wish would not be granted, he began to pound in the
+bass without being disturbed by the unmusical sounds.
+
+"Do not play discords," said Clemence, laughing; "let us at least put her
+to sleep in tune."
+
+She was wrong to say us; for her lover took this as complicity for
+whatever might happen.  Us, in a tete-a-tete, is the most traitorous word
+in the whole language.
+
+It may be that Clemence had no great desire that her aunt should awaken;
+perhaps she wished to avoid a conversation; perhaps she wished to enjoy
+in silence the happiness of feeling that she was still loved, for since
+he had seated himself beside her Octave's slightest action had become a
+renewed avowal.  Madame de Bergenheim began to play the Duke of
+Reichstadt's Waltz, striking only the first measure of the accompaniment,
+in order to show her lover where to put his fingers.
+
+The waltz went on.  Clemence played the air and Octave the bass, two of
+their hands remaining unoccupied--those that were close to each other.
+Now, what could two idle hands do, when one belonged to a man deeply in
+love, the other to a young woman who for some time had ill-treated her
+lover and exhausted her severity?  Before the end of the first part, the
+long unoccupied, tapering fingers of the treble were imprisoned by those
+of the bass, without the least disturbance in the musical effect--and the
+old aunt slept on!
+
+A moment later, Octave's lips were fastened upon this rather trembling
+hand, as if he wished to imbibe, to the very depths of his soul, the
+soft, perfumed tissue.  Twice the Baroness tried to disengage herself,
+twice her strength failed her.  It was beginning to be time for the aunt
+to awaken, but she slept more soundly than ever; and if a slight
+indecision was to be noticed in the upper hand, the lower notes were
+struck with an energy capable of metamorphosing Mademoiselle de
+Corandeuil into a second Sleeping Beauty.
+
+When Octave had softly caressed this hand for a long time, he raised his
+head in order to obtain a new favor.  This time Madame de Bergenheim did
+not turn away her eyes, but, after looking at Octave for an instant, she
+said to him in a coquettish, seductive way:
+
+"Aline?"
+
+The mute glance which replied to this question was such an eloquent
+denial that all words were superfluous.  His sweet, knowing smile
+betrayed the secret of his duplicity; he was understood and forgiven.
+There was at this moment no longer any doubt, fear, or struggle between
+them.  They did not feel the necessity of any explanation as to the
+mutual suffering they had undergone; the suffering no longer existed.
+They were silent for some time, happy to look at each other, to be
+together and alone-for the old aunt still slept.  Not a sound was to be
+heard; one would have said that sleep had overcome the two lovers also.
+Suddenly the charm was broken by a terrible noise, like a trumpet calling
+the guilty ones to repentance.
+
+
+
+
+CHAPTER XVII
+
+A RUDE INTERRUPTION
+
+Had a cannon-ball struck the two lovers in the midst of their ecstasy it
+would have been less cruel than the sensation caused by this horrible
+noise.  Clemence trembled and fell back in her chair, frozen with horror.
+Gerfaut rose, almost as frightened as she; Mademoiselle de Corandeuil,
+aroused from her sleep, sat up in her chair as suddenly as a Jack-in-a-
+box that jumps in one's face when a spring is touched.  As to Constance,
+she darted under her mistress's chair, uttering the most piteous howls.
+
+One of the folding-doors opposite the window opened; the bell of a
+hunting-horn appeared in the opening, blown at full blast and waking the
+echoes in the drawing-room.  The curtain of the drama had risen upon a
+parody, a second incident had changed the pantomime and sentiments of the
+performers.  The old lady fell back in her chair and stopped up her ears
+with her fingers, as she stamped upon the floor; but it was in vain for
+her to try to speak, her words were drowned by the racket made by this
+terrible instrument.  Clemence also stopped her ears.  After running in
+her terror, under every chair in the room, Constance, half wild, darted,
+in a fit of despair, through the partly opened door.  Gerfaut finally
+began to laugh heartily as if he thought it all great fun, for M. de
+Bergenheim's purple face took the place of the trumpet and his hearty
+laugh rang out almost as noisily.
+
+"Ah! ha! you did not expect that kind of accompaniment," said the Baron,
+when his gayety had calmed a little; "this is the article that you were
+obliged to write for the Revue de Paris, is it?  Do you think that I am
+going to leave you to sing Italian duets with Madame while I am scouring
+the woods?  You must take me for a very careless husband, Vicomte.  Now,
+then, right about face!  March!  Do me the kindness to take a gun.  We
+are going to shoot a few hares in the Corne woods before supper."
+
+"Monsieur de Bergenheim," exclaimed the old lady, when her emotion would
+allow her to speak, "this is indecorous--vulgar--the conduct of a common
+soldier--of a cannibal!  My head is split open; I am sure to have an
+awful neuralgia in a quarter of an hour.  It is the conduct of a
+herdsman."
+
+"Do not think of your neuralgia, my dear aunt," replied Christian, whose
+good-humor seemed aroused by the day's sport; "you are as fresh as a
+rosebud--and Constance shall have some hares' heads roasted for her
+supper."
+
+At this moment a second uproar was heard in the courtyard; a horn was
+evidently being played by an amateur, accompanied by the confused yelps
+and barks of a numerous pack of hounds; the whole was mingled with shouts
+of laughter, the cracking of whips, and clamors of all kinds.  In the
+midst of this racket, a cry, more piercing than the others, rang out, a
+cry of agony and despair.
+
+"Constance!" exclaimed Mademoiselle de Corandeuil, in a falsetto voice
+full of terror; she rushed to one of the windows and all followed her.
+
+The spectacle in the courtyard was as noisy as it was picturesque.
+Marillac, seated upon a bench, was blowing upon a trumpet, trying to play
+the waltz from Robert-le-Diable in a true infernal manner.  At his feet
+were seven or eight hunters and as many servants encouraging him by their
+shouts.  The Baron's pack of hounds, of great renown in the country, was
+composed of about forty dogs, all branded upon their right thighs with
+the Bergenheim coat-of-arms.  From time immemorial, the chateau's dogs
+had been branded thus with their master's crest, and Christian, who was a
+great stickler for old customs, had taken care not to drop this one.
+This feudal sign had probably acted upon the morals of the pack, for it
+was impossible to find, within twenty leagues, a collection of more
+snarly terriers, dissolute hounds, ugly bloodhounds, or more quarrelsome
+greyhounds.  They were perfect hunters, but it seemed as if, on account
+of their being dogs of quality, all vices were permitted them.
+
+In the midst of this horde, without respect for law or order, the
+unfortunate Constance had found herself after crossing the ante-chamber,
+vestibule, and outside steps, still pursued by the sounds from
+Christian's huge horn.  An honest merchant surprised at the turn of the
+road by a band of robbers would not have been greeted any better than the
+poodle was at the moment she darted into the yard.  It may have been that
+the quarrel between the Bergenheims and Corandeuils had reached the
+canine species; it may have been at the instigation of the footmen, who
+all cordially detested the beast--the sad fact remains that she was
+pounced upon in a moment as if she were a deer, snatched, turned topsy-
+turvy, rolled, kicked about, and bitten by the forty four-legged
+brigands, who each seemed determined to carry away as a trophy some
+portion of her cafe-au-lait  blanket.
+
+The person who took the most delight in this deplorable spectacle was
+Pere Rousselet.  He actually clapped his hands together behind his back,
+spread his legs apart in the attitude of the Colossus of Rhodes, while
+his coat-skirts almost touched the ground, giving him the look of a
+kangaroo resting his paws under his tail.  From his large cockatoo mouth
+escaped provoking hisses, which encouraged the assassins in their crime
+as much as did Marillac's racket.
+
+"Constance!"  exclaimed Mademoiselle de Corandeuil a second time, frozen
+with horror at the sight of her poodle lying upon its back among its
+enemies.
+
+This call produced no effect upon the animal section of the actors in
+this scene, but it caused a sudden change among the servants and a few of
+the hunters; the shouts of encouragement ceased at once; several of the
+participants prudently tried to efface themselves; as to Rousselet, more
+politic than the others, he boldly darted into the melee and picked up
+the fainting puppy in his arms, carrying her as tenderly as a mother
+would an infant, without troubling himself whether or not he was leaving
+part of his coat-tails with the savage hounds.
+
+When the old lady saw the object of her love placed at her feet covered
+with mud, sprinkled with blood, and uttering stifled groans, which she
+took for the death-rattle, she fell back in her chair speechless.
+
+"Let us go," said Bergenheim in a low voice, taking his guest by the arm.
+Gerfaut threw a glance around him and sought Clemence's eyes, but he did
+not find them.  Without troubling herself as to her aunt's despair,
+Clemence had hurried to her room; for she felt the necessity of solitude
+in order to calm her emotions, or perhaps to live them over a second
+time.  Octave resigned himself to following his companion.  At the end of
+a few moments, the barking of the dogs, the joking of the hunters, even
+the wind in the trees and the rustling leaves, had bored Octave to such
+an extent that, in spite of himself, his face betrayed him.
+
+"What a doleful face you have!"  exclaimed his host, laughingly.  "I am
+sorry that I took you away from Madame de Bergenheim; it seems that you
+decidedly prefer her society to ours."
+
+"Would you be very jealous if I were to admit the fact?"  replied Octave,
+making an effort to assume the same laughing tone as the Baron.
+
+"Jealous!  No, upon my honor!  However, you are well constituted to give
+umbrage to a poor husband.
+
+But jealousy is not one of my traits of character, nor among my
+principles."
+
+"You are philosophical!"  said the lover, with a forced smile.
+
+"My philosophy is very simple.  I respect my wife too much to suspect
+her, and I love her too much to annoy her in advance with an imaginary
+trouble.  If this trouble should come, and I were sure of it, it would be
+time enough to worry myself about it.  Besides, it would be an affair
+soon settled."
+
+"What affair?"  asked Marillac, slackening his pace in order to join in
+the conversation.
+
+"A foolish affair, my friend, which does not concern you, Monsieur de
+Gerfaut, nor myself any longer, I hope; although I belong to the class
+exposed to danger.  We were speaking of conjugal troubles."
+
+The artist threw a glance at his friend which signified: "What the deuce
+made you take it into your head to start up this hare?"
+
+"There are many things to be said on this subject," said he, in a
+sententious tone, thinking that his intervention might be useful in
+getting his friend out of the awkward position in which he found himself,
+"an infinite number of things may be said; books without number have been
+written upon this subject.  Every one has his own system and plan of
+conduct as to the way of looking at and acting upon it."
+
+"And what would be yours, you consummate villain?"  asked Christian;
+"would you be as cruel a husband as you are an immoral bachelor?  That
+usually happens; the bolder a poacher one has been, the more intractable
+a gamekeeper one becomes.  What would be your system?"
+
+"Hum! hum! you are mistaken, Bergenheim; my boyish love adventures have
+disposed me to indulgence.  'Debilis caro', you know!  Shakespeare has
+translated it, 'Frailty, thy name is woman!'"
+
+"I am a little rusty in my; Latin and I never knew a word of English.
+What does that mean?"
+
+"Upon my word, it means, if I were married and my wife deceived me, I
+should resign myself to it like a gentleman, considering the fragility of
+this enchanting sex."
+
+"Mere boy's talk, my friend!  And you, Gerfaut?"
+
+"I must admit," replied the latter, a little embarrassed, "that I have
+never given the subject very much thought.  However, I believe in the
+virtue of women."
+
+"That is all very well, but in case of misfortune what would you do?"
+
+"I think I should say with Lanoue: 'Sensation is for the <DW2>, complaints
+for the fool, an honest man who is deceived goes away and says nothing.'"
+
+"I partly agree with Lanoue; only I should make a little variation--
+instead of goes away should say avenges himself."
+
+Marillac threw at his friend a second glance full of meaning.
+
+"Per Bacco!" said he, "are you a Venetian or a Castilian husband?"
+
+"Eh!"  replied Bergenheim, "I suppose that without being either, I should
+kill my wife, the other man, and then myself, without even crying,
+'Beware!' Here!  Brichou!  pay attention; Tambeau is separated from the
+rest."
+
+As he said these words the Baron leaped over a broad ditch, which divided
+the road from the clearing which the hunters had already entered.
+
+"What do you say to that?"  murmured the artist, in a rather dramatic
+tone, in his friend's ear.
+
+Instead of replying, the lover made a gesture which signified, according
+to all appearance: "I do not care."
+
+The clearing they must cross in order to reach the woods formed a large,
+square field upon an inclined plane which sloped to the river side.  Just
+as Marillac in his turn was jumping the ditch, his friend saw, at the
+extremity of the clearing, Madame de Bergenheim walking slowly in the
+avenue of sycamores.  A moment later, she had disappeared behind a mass
+of trees without the other men noticing her.
+
+"Take care that you do not slip," said the artist, "the ground is wet."
+
+This warning brought misfortune to Gerfaut, who in jumping caught his
+foot in the root of a tree and fell.
+
+"Are you hurt?"  asked Bergenheim.
+
+Octave arose and tried to walk, but was obliged to lean upon his gun.
+
+"I think I have twisted my foot," said he, and he carried his hand to it
+as if he felt a sharp pain there.
+
+"The devil!  it may be a sprain," observed the Baron, coming toward them;
+"sit down.  Do you think you will be able to walk?"
+
+"Yes, but I fear hunting would be too much for me; I will return to the
+house."
+
+"Do you wish us to make a litter and carry you?"
+
+"You are laughing at me; it's not so bad as that.  I will walk back
+slowly, and will take a foot-bath in my room."
+
+"Lean upon me, then, and I will help you," said the artist, offering his
+arm.
+
+"Thanks; I do not need you," Octave replied; "go to the devil!"  he
+continued, in an expressive aside.
+
+"Capisco!" Marillac replied, in the same tone, giving his arm an
+expressive pressure.  "Excuse me," said he aloud, "I am not willing that
+you should go alone.  I will be your Antigone--
+
+          Antigone me reste, Antigone est and fille.
+
+"Bergenheim, I will take charge of him.  Go on with your hunting, the
+gentlemen are waiting for you.  We will meet again at supper; around the
+table; legs are articles of luxury and sprains a delusion, provided that
+the throat and stomach are properly treated."
+
+The Baron looked first at his guests, then at the group that had just
+reached the top of the clearing.  For an instant Christian charity
+struggled against love of hunting, then the latter triumphed.  As he saw
+that Octave, although limping slightly, was already in a condition to
+walk, especially with the aid of his friend's arm, he said:
+
+"Do not forget to put your foot in water, and send for Rousselet; he
+understands all about sprains."
+
+This advice having eased his conscience, he joined his companions, while
+the two friends slowly took the road back to the chateau, Octave resting
+one hand upon the artist's arm and the other upon his gun.
+
+"The bourgeois is outwitted!"  said Marillac with a stifled laugh, as
+soon as he was sure that Bergenheim could not hear him.  "Upon my word,
+these soldiers have a primitive, baptismal candor!  It is not so with us
+artists; they could not bamboozle us in this way.  Your strain is an old
+story; it is taken from the 'Mariage de raison', first act, second
+scene."
+
+"You will do me the favor to leave me as soon as we reach the woods,"
+said Gerfaut, as he continued to limp with a grace which would have made
+Lord Byron envious; "you may go straight ahead, or you may turn to the
+left, as you choose; the right is forbidden you."
+
+"Very well.  Hearts are trumps, it seems, and, for the time being, you
+agree with Sganarelle, who places the heart on the right side."
+
+"Do not return to the chateau, as it is understood that we are together.
+If you rejoin the hunting-party, say to Bergenheim that you left me
+seated at the foot of a tree and that the pain in my foot had almost
+entirely gone.  You would have done better not to accompany me, as I
+tried to make you understand."
+
+"I had reasons of my own for wishing to get out of Christian's crowd.
+To-day is Monday, and I have an appointment at four o'clock which
+interests you more than me.  Now, will you listen to a little advice?"
+
+"Listen, yes; follow it, not so sure."
+
+"O race of lovers!"  exclaimed the artist, in a sort of transport,
+"foolish, absurd, wicked, impious, and sacrilegious kind!"
+
+"What of it?"
+
+"What of it?  I tell you this will all end with swords for two."
+
+"Bah!"
+
+"Do you know that this rabid Bergenheim, with his round face and good-
+natured smile, killed three or four men while he was in the service, on
+account of a game of billiards or some such trivial matter?"
+
+"Requiescat in pace."
+
+"Take care that he does not cause the 'De Profundis' to be sung for you.
+He was called the best swords man at Saint-Cyr: he has the devil of a
+lunge.  As to pistol-shooting, I have seen him break nine plaster images
+at Lepage's one after another."
+
+"Very well, if I have an engagement with him, we will fight it out with
+arsenic."
+
+"By Jove, joking is out of place.  I tell you that he is sure to discover
+something, and then your business will soon be settled; he will kill you
+as if you were one of the hares he is hunting this moment."
+
+"You might find a less humiliating comparison for me," replied Gerfaut,
+with an indifferent smile; "however, you exaggerate.  I have always
+noticed that these bullies with mysterious threats of their own and these
+slaughterers of plaster images were not such very dangerous fellows to
+meet.  This is not disputing Bergenheim's bravery, for I believe it to be
+solid and genuine."
+
+"I tell you, he is a regular lion!  After all, you will admit that it is
+sheer folly to come and attack him in his cage and pull his whiskers
+through the bars.  And that is what you are doing.  To be in love with
+his wife and pay court to her in Paris, when he is a hundred leagues from
+you, is all very well, but to install yourself in his house, within reach
+of his clutches!  that is not love, it is sheer madness.  This is nothing
+to laugh at.  I am sure that this will end in some horrible tragedy.  You
+heard him speak of killing his wife and her lover just now, as if it were
+a very slight matter.  Very.  well; I know him; he will do as he says
+without flinching.  These ruddy-faced people are very devils, if you
+meddle with their family affairs!  He is capable of murdering you in some
+corner of his park, and of burying you at the foot of some tree and then
+of forcing Madame de Bergenheim to eat your heart fricasseed in
+champagne, as they say Raoul de Coucy did."
+
+"You will admit, at least, that it would be a very charming repast, and
+that there would be nothing bourgeois about it."
+
+"Certainly, I boast of detesting the bourgeois; I am celebrated for that;
+but I should much prefer to die in a worsted nightcap, flannel underwear,
+and cotton night-shirt, than to have Bergenheim assist me, too brusquely,
+in this little operation.  He is such an out-and-out Goliath!  Just look
+at him!"
+
+And the artist forced his friend to turn about, and pointed at Christian,
+who stood with the other hunters upon the brow of the hill, a few steps
+from the spot where they had left him.  The Baron was indeed a worthy
+representative of the feudal ages, when physical strength was the only
+incontestable superiority.  In spite of the distance, they could hear his
+clear, ringing voice although they could not distinguish his words.
+
+"He really has a look of the times of the Round Table," said Gerfaut;
+"five or six hundred years ago it would not have been very agreeable to
+find one's self face to face with him in a tournament; and if to-day, as
+in those times, feminine hearts were won by feats with double-edged
+swords, I admit that my chances would not be very good.  Fortunately, we
+are emancipated from animal vigor; it is out, of fashion."
+
+"Out of fashion, if you like; meanwhile, he will kill you."
+
+"You do not understand the charms of danger nor the attractions that
+difficulties give to pleasure.  I have studied Christian thoroughly since
+I have been here, and I know him as well as if I had passed my life with
+him.  I am also sure that, at the very first revelation, he will kill me
+if he can, and I take a strange interest in knowing that I risk my life
+thus.  Here we are in the woods," said Gerfaut, as he dropped the
+artist's arm and ceased limping; "they can no longer see us; the farce is
+played out.  You know what I told you to say if you join them: you left
+me at the foot of a tree.  You are forbidden to approach the sycamores,
+under penalty of receiving the shot from my gun in your moustache."
+
+At these words he threw the gun which had served him as crutch over his
+shoulder, and darted off in the direction of the river.
+
+
+
+
+CHAPTER XVIII
+
+ESPIONAGE
+
+At the extremity of the sycamore walk, the shore formed a bluff like the
+one upon which the chateau was built, but much more abrupt, and partly
+wooded.  In order to avoid this stretch, which was not passable for
+carriages, the road leading into the principal part of the valley turned
+to the right, and reached by an easier ascent a more level plateau.
+There was only one narrow path by the river, which was shaded by branches
+of beeches and willows that hung over this bank into the river.  After
+walking a short distance through this shady path, one found himself
+before a huge triangular rock covered with moss, which nature had rolled
+from the top of the mountain as if to close up the passage.
+
+This obstacle was not insurmountable; but in order to cross it, one must
+have a sure foot and steady head, for the least false step would
+precipitate the unlucky one into the river, which was rapid as well as
+deep.  From the rock, one could reach the top of the cliff by means of
+some natural stone steps, and then, descending on the other side, could
+resume the path by the river, which had been momentarily interrupted.  In
+this case, one would reach, in about sixty steps, a place where the river
+grew broader and the banks projected, forming here and there little
+islands of sand covered with bushes.  Here was a ford well known to
+shepherds and to all persons who wished to avoid going as far as the
+castle bridge.
+
+Near the mossy rock of which we have spoken as being close to the
+sycamore walk, at the foot of a wall against which it flowed, forming a
+rather deep excavation, the current had found a vein of soft, brittle
+stone which, by its incessant force, it had ended in wearing away.  It
+was a natural grotto formed by water, but which earth, in its turn, had
+undertaken to embellish.  An enormous willow had taken root in a few
+inches of soil in a fissure of the rock, and its drooping branches fell
+into the stream, which drifted them along without being able to detach
+them.
+
+Madame de Bergenheim was seated at the front of this grotto, upon a seat
+formed by the base of the rock.  She was tracing in the sand, with a
+stick which she had picked up on the way, strange figures which she
+carefully erased with her foot.  Doubtless these hieroglyphics had some
+meaning to her, and perhaps she feared lest the slightest marks might be
+carelessly forgotten, as they would betray the secret they concealed.
+Clemence was plunged into one of those ecstatic reveries which abolish
+time and distance.  The fibres of her heart, whose exquisite vibrating
+had been so suddenly paralyzed by Christian's arrival, had resumed their
+passionate thrills.  She lived over again in her mind the tete-a-tete in
+the drawing-room; she could hear the entrancing waltz again; she felt her
+lover's breath in her hair; her hand trembled again under the pressure of
+his kiss.  When she awoke from this dream it was a reality; for Octave
+was seated by her side without her having seen him arrive, and he had
+taken up the scene at the piano just where it had been interrupted.
+
+She was not afraid.  Her mind had reached that state of exaltation which
+renders imperceptible the transition from dreaming to reality.  It seemed
+to her that Octave had always been there, that it was his place, and for
+a moment she no longer thought, but remained motionless in the arms which
+embraced her.  But soon her reason came back to her.  She arose
+trembling, and drew away a few steps, standing before her lover with
+lowered head and face suffused with blushes.
+
+"Why are you afraid of me?  Do you not think me worthy of your love?"
+he asked, in an altered voice, and, without trying to retain or approach
+her, he fell upon his knees with a movement of sweet, sad grace.
+
+He had analyzed Madame de Bergenheim's character well enough to perceive
+the least variation in her capricious nature.  By the young woman's
+frightened attitude, her burning cheeks and the flashes which he saw from
+her eyes through her long, drooping lashes, he saw that a reaction had
+taken place, and he feared the next outburst; for he knew that women,
+when overcome with remorse, always smite their lover by way of expiation
+for themselves.
+
+"If I let this recovered virtue have the mastery, I am a lost man for a
+fortnight at least," he thought.
+
+He quickly abandoned the dangerous ground upon which he had taken
+position, and passed, by an adroit transition, from the most passionate
+frenzy to the most submissive bearing.  When Clemence raised her large
+eyes, in which was a threatening gleam, she saw, instead of an audacious
+man to be punished, an imploring slave.
+
+There was something so flattering in this attitude of humility that she
+was completely disarmed.  She approached Octave, and took him by the hand
+to raise him, seated herself again and allowed him to resume his position
+beside her.  She softly pressed his hand, of which she had not let go,
+and, looking her lover in the eyes, said in that deep, penetrating voice
+that women sometimes have:
+
+"My friend!"
+
+"Friend!"  he thought; "yes, certainly.  I will raise no dispute as to
+the word, provided the fact is recognized.  What matters the color of the
+flag?  Only fools trouble themselves about that.  'Friend' is not the
+throne I aspire to, but it is the road that leads to it.  So then, let it
+be 'friend,' while waiting for better.  This word is very pleasant to
+hear when spoken in these siren's accents, and when at the same time the
+eyes say 'lover!'"
+
+"Will you always love me thus?"  Octave asked, whose face beamed with
+virtuous pledges.
+
+"Always!"  sighed Clemence, without lowering eyes under the burning
+glance which met hers.
+
+"You will be the soul of my soul; the angel of my heaven?"
+
+"Your sister," she said, with a sweet smile, as she caressed her lover's
+cheek with her hand.
+
+He felt the blood mount to his face at this caress, and turned his eyes
+away with a dreamy air.
+
+"I probably am one of the greatest fools that has ever existed since the
+days of Joseph and Hippolytus," thought he.
+
+He remained silent and apparently indifferent for several moments.
+
+"Of what are you thinking?"  asked Madame de Bergenheim, surprised by
+Octave's silence and rather listless air.
+
+He gave a start of surprise at this question.
+
+"May I die if I tell her!"  he thought; "she must think me ridiculous
+enough as it is."
+
+"Tell me, I wish you to speak out," she continued, in that despotic tone
+which a woman assumes when sure of her empire.
+
+Instead of replying, as she demanded, he gave her a long, questioning
+glance, and it would have been impossible at that moment for her to keep
+a single secret from her lover.  Madame de Bergenheim felt the magnetic
+influence of his penetrating glance so deeply that it seemed to her these
+sharp eyes were fathoming her very heart.  She felt intensely disturbed
+to be gazed at in that way, and, in order to free herself from this mute
+questioning, she leaned her head upon Octave's shoulder, as she said
+softly:
+
+"Do not look at me like that or I shall not love your eyes any more."
+
+Her straw hat, whose ribbons were not tied, slipped and fell, dragging
+with it the comb which confined her beautiful hair, and it fell in
+disorder over her shoulders.  Gerfaut passed his hand behind the charming
+head which rested upon his breast, in order to carry this silky, perfumed
+fleece to his lips.  At the same time, he gently pressed the supple form
+which, as it bent toward him, seemed to ask for this caress.
+
+Clemence made a sudden effort and arose, fastening her hair at the back
+of her head with an almost shamed haste.
+
+"Will you refuse me one lock of your hair as a souvenir of this hour?"
+said Octave, stopping her gently as she was about to replace her comb.
+
+"Do you need any souvenir?"  she replied, giving him a glance which was
+neither a reproach nor a refusal.
+
+"The souvenir is in my heart, the hair will never leave my bosom!  We
+live in an unworthy age.  I can not boast of wearing your colors in
+everybody's eyes, and yet I should like to wear a sign of my bondage."
+
+She let her hair fall down her back again, but seemed embarrassed as to
+how to execute his wish.
+
+"I can not cut my hair with my teeth," she said, with a smile which
+betrayed a double row of pearls.
+
+Octave took a stiletto from his pocket.
+
+"Why do you always carry this stiletto?"  asked the young woman, in a
+changed voice; "it frightens me to see you armed thus."
+
+"Fear nothing," said Gerfaut, who did not reply to her question, "I will
+respect the hair which serves you as a crown.  I know where I must cut
+it, and, if my ambition is great, my hand shall be discreet."
+
+Madame de Bergenheim had no confidence in his moderation, and, fearing to
+leave her beautiful hair to her lover's mercy, she took the stiletto and
+cut off a little lock which she drew through her fingers and then offered
+to him, with a loving gesture that doubled the value of the gift.  At
+this moment, hunting-horns resounded in the distance.
+
+"I must leave you now!"  exclaimed Clemence, "I must.  My dear love, let
+me go now; say good-by to me."
+
+She leaned toward him and presented her forehead to receive this adieu.
+It was her lips which met Octave's, but this kiss was rapid and fleeting
+as a flash of light.  Withdrawing from the arms which would yet retain
+her, she darted out of the grotto, and in a moment had disappeared in one
+of the shady paths.
+
+For some time, plunged in deep reflection, Gerfaut stood on the same
+spot; but at last arousing himself from this dreamy languor, he climbed
+the rock so as to reach the top of the cliff.  After taking a few steps
+he stopped with a frightened look, as if he had espied some venomous
+reptile in his path.  He could see, through the bushes which bordered the
+crest of the plateau at the top of the ladder cut in the rock,
+Bergenheim, motionless, and in the attitude of a man who is trying to
+conceal himself in order that he may watch somebody.  The Baron's eyes
+not being turned in Gerfaut's direction, he could not tell whether he was
+the object of this espionage, or whether the lay of the land allowed him
+to see Madame de Bergenheim, who must be under the sycamores by this
+time.  Uncertain as to what he should do, he remained motionless, half
+crouched down upon the rock, behind the ledge of which, thanks to his
+position, he could hide from the Baron.
+
+
+
+
+CHAPTER XIX
+
+THE REVELATION
+
+A few moments before the castle clock struck four, a man leaped across
+the ditch which served as enclosure to the park.  Lambernier, for it was
+he who showed himself so prompt at keeping his promise, directed his
+steps through the thickets toward the corner of the Corne woods which he
+had designated to Marillac; but, after walking for some time, he was
+forced to slacken his steps.  The hunting-party were coming in his
+direction, and Lambernier knew that to continue in the path he had first
+chosen would take him directly among the hunters; and, in spite of his
+insolence, he feared the Baron too much to wish to expose himself to the
+danger of another chastisement.  He therefore retraced his steps and took
+a roundabout way through the thickets, whose paths were all familiar to
+him; he descended to the banks of the river ready to ascend to the place
+appointed for the rendezvous as soon as the hunting party had passed.
+
+He had hardly reached the plateau covered with trees, which extended
+above the rocks, when, as he entered a clearing which had been recently
+made, he saw two men coming toward him who were walking very fast, and
+whom to meet in this place caused him a very disagreeable sensation.  The
+first man was Mademoiselle de Corandeuil's coachman, as large a fellow as
+ever crushed the seats of landau or brougham with his rotundity.  He was
+advancing with hands in the pockets of his green jacket and his broad
+shoulders thrown back, as if he had taken it upon himself to replace
+Atlas.  His cap, placed in military fashion upon his head, his scowling
+brows, and his bombastic air, announced that he was upon the point of
+accomplishing some important deed which greatly interested him.  Leonard
+Rousselet, walking by his side, moved his spider legs with equal
+activity, carefully holding up the skirts of his long coat as if they
+were petticoats.
+
+Lambernier, at sight of them, turned to enter the woods again, but he was
+stopped in his retreat by a threatening shout.
+
+"Stop, you vagabond!"  exclaimed the coachman; "halt!  If you take a
+trot, I shall take a gallop."
+
+"What do you want?  I have no business with you," replied the workman, in
+a surly tone.
+
+"But I have business with you," replied the big domestic, placing himself
+in front of him and balancing himself first on his toes then on his
+heels, with a motion like the wooden rocking-horses children play with.
+"Come here, Rousselet; are you wheezy or foundered?"
+
+"I have not as good legs as your horses," replied the old man, who
+reached them at last, breathless, and took off his hat to wipe his
+forehead.
+
+"What does this mean, jumping out upon one from a corner in the woods
+like two assassins?"  asked Lambernier, foreseeing that this beginning
+might lead to some scene in which he was threatened to be forced to play
+a not very agreeable role.
+
+"It means," said the coachman: "first, that Rousselet has nothing to do
+with it; I do not need anybody's help to punish an insignificant fellow
+like you; second, that you are going to receive your quietus in a trice."
+
+At these words he pushed his cap down over his ears and rolled up his
+sleeves, in order to give freer action to his large, broad hands.
+
+The three men were standing upon a plot of ground where charcoal had been
+burned the year before.  The ground was black and slippery, but being
+rather level, it was a very favorable place for a duel with fists or any
+other weapons.  When Lambernier saw the lackey's warlike preparations,
+he placed his cap and coat upon an old stump and stationed himself in
+front of his adversary.  But, before the hostilities had begun, Rousselet
+advanced, stretching his long arms out between them, and said, in a voice
+whose solemnity seemed to be increased by the gravity of the occasion:
+
+"I do not suppose that you both wish to kill each other; only uneducated
+people conduct themselves in this vulgar manner; you ought to have a
+friendly explanation, and see if the matter is not susceptible of
+arrangement.  That was the way such things were done when I was in the
+twenty-fifth demi-brigade."
+
+"The explanation is," said the coachman, in his gruff voice, "that here
+is a low fellow who takes every opportunity to undervalue me and my
+horses, and I have sworn to give him a good drubbing the first time I
+could lay my hands upon him.  So, Pere Rousselet, step aside.  He will
+see if I am a pickle; he will find out that the pickle is peppery!"
+
+"If you made use of such a vulgar expression as that," observed
+Rousselet, turning to Lambernier, "you were at fault, and should beg his
+pardon as is the custom among educated people."
+
+"It is false!"  exclaimed Lambernier; "and besides, everybody calls the
+Corandeuils that, on account of the color of their livery."
+
+"Did you not say Sunday, at the 'Femme-sans-Tete', and in the presence of
+Thiedot, that all the servants of the chateau were idlers and good-for-
+nothings, and that if you met one of them who tried to annoy you, you
+would level him with your plane?"
+
+"If you used the word 'level,' it was very uncivil," observed Rousselet.
+
+"Thiedot had better keep in his own house," growled the carpenter,
+clenching his fists.
+
+"It looks well for a tramp like you to insult gentlemen like us,"
+continued the lackey, in an imposing tone.  "And did you not say that
+when I took Mademoiselle to mass I looked like a green toad upon the box,
+..thus trying to dishonor my physique and my clothes?  Did you not say
+that?"
+
+"Only a joke about the color of your livery.  They call the others
+measles and lobsters."
+
+"Lobsters are lobsters," replied the coachman, in an imperative tone; "if
+that vexes them, they can take care of themselves.  But I will not allow
+any one to attack my honor or that of my beasts by calling them screws--
+and that is what you did, you vagabond!  And did you not say that I sent
+bags of oats to Remiremont to be sold, and that, for a month, my team had
+steadily been getting thin?  Did you ever hear anything so scandalous,
+Pere Rousselet?  to dare to say that I endanger the lives of my horses?
+Did you not say that, you rascal?  And did you not say that Mademoiselle
+Marianne and I had little private feasts in her room, and that was why I
+could not eat more at the table?  Here is Rousselet, who has been a
+doctor and knows that I am on a diet on account of my weak stomach."  At
+these words, the servant, carried away by his anger, gave his stomach a
+blow with his fist.
+
+"Lambernier," said Rousselet, turning up his lips with a look of
+contempt, "I must admit that, for a man well brought up, you have made
+most disgusting remarks."
+
+"To say that I eat the horses' oats!"  roared the coachman.
+
+"I ought to have said that you drank them," replied Lambernier, with his
+usual sneer.
+
+"Rousselet, out of the way!"  exclaimed the burly lackey at this new
+insult; the old peasant not moving as quickly as he desired, he seized
+him by the arm and sent him whirling ten steps away.
+
+At this moment, a new person completed the scene, joining in it, if not
+as actor at least as interested spectator.  If the two champions had
+suspected his presence they would have probably postponed their fight
+until a more opportune moment, for this spectator was no other than the
+Baron himself.  As he saw from a distance the trio gesticulating in a
+very animated manner, he judged that a disorderly scene was in
+preparation, and as he had wished for a long time to put an end to the
+quarrelsome ways of the chateau servants, he was not sorry to catch them
+in the very act, so as to make an example of them.  At first, he stooped
+and concealed himself in the thickets, ready to appear for the
+denouement.
+
+As Lambernier saw the giant's fist coming down upon him, be darted to one
+side and the blow only struck the air, making the coachman stumble from
+the force of his impetuosity.  Lambernier profited by this position to
+gather all his strength, and threw himself upon his adversary, whom he
+seized by the flank and gave such a severe blow as to bring him down upon
+his knees.  He then gave him a dozen more blows upon the head, and
+succeeded in overthrowing him completely.
+
+If the coachman had not had a cranium as hard as iron, he probably could
+not have received such a storm of fisticuffs without giving up the ghost.
+Fortunately for him, he had one of those excellent Breton heads that
+break the sticks which beat them.  Save for a certain giddiness, he came
+out of the scramble safe and sound.  Far from losing his presence of mind
+by the disadvantageous position in which he found himself, he supported
+himself upon the ground with his left hand, and, passing his other arm
+behind him, he wound it around the workman's legs, who thus found himself
+reaped down, so to speak, and a moment later was lying on his back in
+front of his adversary.  The latter, holding him fast with his strong
+hands, placed a knee, as large as a plate, upon his chest and then pulled
+off the cap that his enemy had pushed down over his eyes, and proceeded
+to administer full justice to him.
+
+"Ah!  you thought you'd attack me treacherously, did you?" said he, with
+a derisive chuckle as if to slacken the speed of his horses.  "You know
+short reckonings make good friends.  Oh! what a fine thrashing you are
+going to receive, my friend!  Take care!  if you try to bite my hand,
+I'll choke you with my two fingers, do you hear!  Now, then, take this
+for the green toad; this, for my horses' sake; this, for Mademoiselle
+Marianne!"
+
+He followed each "this" with a heavy blow from his fist.  At the third
+blow the blood poured out of the mouth of the carpenter, who writhed
+under the pressure of his adversary's knee like a buffalo stifled by a
+boa-constrictor; he succeeded at last in freeing one hand, which he
+thrust into his trousers' pocket.
+
+"Ah! you rascal!  I am killed!"  howled the coachman, giving a bound
+backward.  Lambernier, profiting by his freedom, jumped upon his feet,
+and, without troubling himself as to his adversary, who had fallen on his
+knees and was pressing his hand to his left thigh; he picked up his cap
+and vest and started off through the clearing.  Rousselet, who until then
+had prudently kept aside, tried to stop the workman, at a cry from his
+companion, but the scoundrel brandished his iron compass before his eyes
+with such an ugly look that the peasant promptly left the way open for
+him.
+
+At this tragic and unexpected denouement, Bergenheim, who was getting
+ready to make his appearance from behind the trees and to interpose his
+authority, started in full pursuit of the would-be murderer.  From the
+direction he took, he judged that he would try to reach the river by
+passing over the rock.  He walked in this direction, with his gun over
+his shoulder, until he reached the foot of the steps which descended into
+the grotto.  Christian crouched behind some bushes to wait for
+Lambernier, who must pass this way, and it was at this moment that
+Gerfaut, who was forty feet below him, saw him without suspecting the
+reason for his attitude.
+
+Bergenheim soon found out that he had calculated correctly when he heard
+a sound like that made by a wild boar when he rushes through the thickets
+and breaks the small branches in his path, as if they were no more than
+blades of grass.  Soon Lambernier appeared with a haggard, wild look and
+a face bleeding from the blows he had received.  He stopped for a moment
+to catch his breath and to wipe off his compass with a handful of grass;
+he then staunched the blood streaming from his nose and mouth, and after
+putting on his coat started rapidly in the direction of the river.
+
+"Halt!"  exclaimed the Baron, suddenly, rising before him and barring his
+passage.
+
+The workman jumped back in terror; then he drew out his compass a second
+time and made a movement as if to throw himself upon this new adversary,
+out of sheer desperation.  Christian, at this threatening pantomime,
+raised his gun to his cheek with as much coolness and precision as he
+would have shown at firing into a body of soldiers.
+
+"Down with your weapon!"  he exclaimed, in his commanding voice, "or I
+will shoot you down like a rabbit."
+
+The carpenter uttered a hoarse cry as he saw the muzzle of the gun within
+an inch of his head, ready to blow his brains out.  Feeling assured that
+there was no escape for him, he closed his compass and threw it with an
+angry gesture at the Baron's feet.
+
+"Now," said the latter, "you will walk straight ahead of me as far as the
+chateau, and if you turn one step to the right or left, I will send the
+contents of my gun into you.  So right about march!"
+
+As he said these words, he stooped, without losing sight of the workman,
+and picked up the compass, which he put in his pocket.
+
+"Monsieur le Baron, it was the coachman who attacked me first; I had to
+defend myself," stammered Lambernier.
+
+"All right, we will see about that later.  March on!"
+
+"You will deliver me up to the police--I am a ruined man!"
+
+"That will make one rascal the less," exclaimed Christian, repelling with
+disgust the workman, who had thrown himself on his knees before him.
+
+"I have three children, Monsieur, three children," he repeated, in a
+supplicating tone.
+
+"Will you march!"  replied Bergenheim imperiously, as he made a gesture
+with his gun as if to shoot him.
+
+Lambernier arose suddenly, and the expression of terror upon his
+countenance gave place to one of resolution mingled with hatred and
+scorn.
+
+"Very well," he exclaimed, "let us go on! but remember what I tell you;
+if you have me arrested, you will be the first to repent of it, Baron
+though you are.  If I appear before a judge, I will tell something that
+you would pay a good price for."
+
+Bergenheim looked fixedly at Lambernier.
+
+"What do you mean by such insolence?"  said he.
+
+"I will tell you what I mean, if you will promise to let me go; if you
+give me into the hands of the police, I repeat it, you will repent not
+having listened to me to-day."
+
+"This is some idle yarn, made to gain time; no matter, speak; I will
+listen."
+
+The workman darted a defiant glance at Christian.
+
+"Give me your word of honor to let me go afterward."
+
+"If I do not do so, are you not at liberty to repeat your story?"
+replied the Baron, who, in spite of his curiosity, would not give his
+word to a scoundrel whose only aim probably was to escape justice.
+
+This observation impressed Lambernier, who, after a moment's reflection,
+assumed a strange attitude of cool assurance, considering the position in
+which he found himself.  Not a sound was to be heard; even the barking of
+the dogs in the distance had ceased.  The deepest silence surrounded
+them; even Gerfaut, in the place where he was concealed, could no longer
+see them, now that Bergenheim had left the edge of the cliff; from time
+to time their voices reached him, but he could not distinguish the
+meaning of their words.
+
+Leaning with one hand upon his gun, Christian waited for the carpenter to
+begin his story, gazing at him with his clear, piercing eyes.  Lambernier
+bore this glance without flinching, returning it in his insolent way.
+
+"You know, Monsieur, that when the alterations were made in Madame's
+apartment, I had charge of the carving for her chamber.  When I took away
+the old woodwork, I saw that the wall between the windows was constructed
+out of square, and I asked Madame if she wished that the panel should be
+fastened like the other or if she preferred it to open so that it would
+make a closet.  She said to have it open by means of a secret spring.  So
+I made the panel with concealed hinges and a little button hidden in the
+lower part of the woodwork; it only needs to be pressed, after turning it
+to the right, and the woodwork will open like a door."
+
+Christian had now become extremely attentive.
+
+"Monsieur will remember that he was in Nancy at the time, and that
+Madame's chamber was completed during his absence.  As I was the only one
+who worked in this room, the other workmen not being capable of carving
+the wood as Madame wished, I was the only person who knew that the panel
+was not nailed down the length of the wall."
+
+"Well?"  asked the Baron, impatiently.
+
+"Well," Lambernier replied, in a careless tone, "if, on account of the
+blow which I gave the coachman, it is necessary for me to appear in
+court, I shall be obliged to tell, in order to revenge myself, what I saw
+in that closet not more than a month ago."
+
+"Finish your story," exclaimed Bergenheim, as he clenched the handle of
+his gun.
+
+"Mademoiselle Justine took me into this room in order to hang some
+curtains; as I needed some nails, she went out to get them.  While I was
+examining the woodwork, which I had not seen since it had been put in
+place, I saw that the oak had warped in one place because it was not dry
+enough when it was used.  I wished to see if the same thing had happened
+between the windows, and if the panel could open.  I pressed the spring,
+and when the door opened I saw a small package of letters upon the little
+shelf; it seemed very singular to me that Madame should choose this place
+to keep her letters, and the thought came to me that she wished to
+conceal them from Monsieur."
+
+Bergenheim gave the workman a withering glance, and made a sign for him
+to continue.
+
+"They were already talking about discharging me from the chateau's
+employ; I do not know how it happened, but the thought entered my head
+that perhaps one of these letters would be of use to me, and I took the
+first one in the package; I had only time to close the panel when
+Mademoiselle Justine returned."
+
+"Very well! what is there in common between these letters and the
+criminal court that awaits you?"  asked Christian, in an altered voice,
+although he tried to appear indifferent.
+
+"Oh!  nothing at all," replied the carpenter, with an air of
+indifference; "but I thought that you would not like people to know that
+Madame had a lover."
+
+Bergenheim shivered as if he were taken with a chill, and his gun dropped
+from his hand to the ground.
+
+As quick as thought Lambernier stooped over to seize the gun, but he did
+not have time to carry out his intention, for he was seized by the throat
+and half choked by an iron hand.
+
+"That letter! that letter!"  said Christian to him, in a low, trembling
+voice, and he put his face down close to the carpenter's, as if he feared
+that a breath of wind might carry away his words and repeat them.
+
+"Let me alone first, I can not breathe--" stammered the workman, whose
+face, was becoming purple and his eyes starting out of his head, as if
+his adversary's fingers had been a rope.
+
+The latter granted the prayer by loosening his hold of the carpenter's
+neck and seizing him by his vest in such a way as to take away all chance
+of escape while leaving him free to speak.
+
+"This letter!"  he repeated.
+
+Frightened by the shaking he had just received, and not in a condition to
+reflect with his usual prudence, Lambernier mechanically obeyed this
+order; he hunted in his pockets for some time, and at last took a
+carefully folded paper from his vest-pocket, saying with a stunned air:
+
+"Here it is.  It is worth ten louis."
+
+Christian seized the paper and opened it with his teeth, for he could not
+use his hands without releasing his prisoner.  It was, like all notes of
+this kind, without address, seal, or signature.  It did not differ from
+most of its kind save in the natural beauty of its style and its simple
+eloquence.  Ardent protestations, sweet and loving complaints, those
+precious words that one bestows only upon the woman he loves and which
+betray a love that has yet much to desire but as much to hope.  The
+handwriting was entirely unknown to Bergenheim, but Clemence's name,
+which was repeated several times, did not permit him to doubt for a
+moment that this note was written to his wife.  When he had finished
+reading, he put it in his pocket with apparent serenity, and then looked
+at Lambernier, who, during this time, had remained motionless under the
+hand that detained him.
+
+"You are mistaken, Lambernier," said he to him; "it is one of my letters
+before my marriage."  And he tried to force himself to smile; but the
+muscles of his lips refused to act this falsehood, and drops of cold
+perspiration stood upon his forehead and at the roots of his hair.
+
+The carpenter had watched the change in the Baron's countenance as he
+read the letter.  He was persuaded that he could turn the capital
+importance of his revelations into profit for himself; he believed that
+the time had come when he might gain advantage by showing that he
+understood perfectly well the value of the secret he had just imparted.
+So he replied with a glance of intelligence:
+
+"Monsieur's handwriting must have changed greatly, then; I have some of
+his orders which do not resemble this any more than a glass of water does
+a glass of wine."
+
+Christian tried to find a response but failed.  His eyebrows contracted
+in a manner that betokened a coming storm, but Lambernier was not
+disturbed by this symptom; he continued in a more and more assured voice:
+
+"When I said that this letter was worth ten louis, I meant that it was
+worth that much to a mere stranger, and I am very sure I should not have
+to go very far to find one; but Monsieur le Baron is too sensible not to
+know the value of this secret.  I do not wish to set a price upon it, but
+since I am obliged to go away on account of this coachman, and have no
+money--"
+
+He did not have time to finish; Bergenheim seized him in the middle of
+the body and made him describe a horizontal half-circle without touching
+the ground, then threw him upon his knees on the edge of the path which
+descended almost perpendicularly alongside the rocks.  Lambernier
+suddenly saw his haggard face reflected in the river fifty feet below.
+At this sight, and feeling a powerful knee between his shoulders which
+bent him over the abyss, as if to make him appreciate its dangers, the
+workman uttered a terrified cry; his hands clutched wildly at the tufts
+of grass and roots of plants which grew here and there on the sides of
+the rocks, and he struggled with all his might to throw himself back upon
+the ground.  But it was in vain for him to struggle against the superior
+strength of his adversary, and his attempts only aggravated the danger of
+his position.  After two or three powerless attempts, he found himself
+lying upon his stomach with half his body hanging over the precipice,
+having nothing to prevent him from falling over but Bergenheim's hand,
+which held him by the collar and at the same time hindered him from
+rising.
+
+"Have you ever said one word about this?"  asked the Baron, as he took
+hold of the trunk of a tree to steady himself upon this dangerous ground
+that he had chosen as the field of discussion.
+
+"To nobody!--ah!--how my head swims!"  replied the carpenter, closing his
+eyes in terror, for the blood rushing to his brain made him dizzy, and it
+seemed to him that the river was slowly reaching him.
+
+"You see that if I make one gesture, you are a dead man," replied the
+Baron, leaning upon him harder yet.
+
+"Give me up to the police; I will say nothing about the letters; as sure
+as there is a God, I will say nothing.  But do not let me fall--hold me
+tight--do not let go of me--I am slipping--oh!  holy mother of God!"
+
+Christian taking hold of the tree near him, leaned over and raised
+Lambernier up, for he really was incapable of doing so himself; fright
+and the sight of the water had given him vertigo.  When he was upon his
+legs again, he reeled like a drunken man and his feet nearly gave way
+beneath him.  The Baron looked at him a moment in silence, but at last he
+said:
+
+"Go away, leave the country at once; you have time to fly before there
+will be any pursuit.  But remember that if I ever hear one word of what
+has passed between us from your lips, I shall know how to find you and
+you will die by my hand."
+
+"I swear by the Holy Virgin and by all the saints--" stammered
+Lambernier, who had suddenly become a very fervent Catholic.
+
+Christian pointed with his finger to the stone steps beneath them.
+
+"There is your road; pass over the rock, through the woods, and reach
+Alsace.  If you conduct yourself well, I will assure your living.  But
+remember; one single indiscreet word, and you are a dead man."
+
+At these words he pushed him into the path with one of those quick
+movements which very powerful men can not always calculate the effect of.
+Lambernier, whose strength was almost exhausted by the struggles he had
+undergone, had not vigor enough left to stand, and he lost his balance at
+this violent as well as unexpected push.  He stumbled over the first
+step, reeled as he tried to regain his footing, and fell head first down
+the almost vertical declivity.  A ledge of the cliff, against which he
+first struck, threw him upon the loose rocks.  He slowly glided downward,
+uttering lamentable cries; he clutched, for a moment, a little bush which
+had grown in a crevice of the rocks but he did not have strength enough
+to hold on to it, his arm having been broken in three places by his fall.
+He let go of it suddenly, and dropped farther and farther down uttering a
+last terrible shriek of despair; he rolled over twice again-and then fell
+into the torrent below, that swallowed him up like a mass already
+deprived of life.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Antipathy for her husband bordering upon aversion
+Attractions that difficulties give to pleasure
+Consented to become a wife so as not to remain a maiden
+Despotic tone which a woman assumes when sure of her empire
+Love is a fire whose heat dies out for want of fuel
+Regards his happiness as a proof of superiority
+She said yes, so as not to say no
+
+
+
+
+End of this Project Gutenberg Etext of The Immortals: Gerfaut, v3
+by Charles de Bernard

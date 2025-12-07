@@ -1,0 +1,2065 @@
+The Project Gutenberg Etext of An "Attic" Philosopher by E. Souvestre, v2
+#84 in our series The French Immortals Crowned by the French Academy
+#2 in our series by Emile Souvestre
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: An "Attic" Philosopher, v2
+
+Author: Emile Souvestre
+
+Release Date: April, 2003  [Etext #3997]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 10/02/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of An "Attic" Philosopher by E. Souvestre, v2
+**********This file should be named 3997.txt or 3997.zip***********
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07/27/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+AN "ATTIC" PHILOSOPHER
+(Un Philosophe sous les Toits)
+
+By EMILE SOUVESTRE
+
+
+
+BOOK 2.
+
+
+CHAPTER VI
+
+UNCLE MAURICE
+
+June 7th, Four O'clock A.M.
+
+I am not surprised at hearing, when I awake, the birds singing so
+joyfully outside my window; it is only by living, as they and I do, in a
+top story, that one comes to know how cheerful the mornings really are up
+among the roofs.  It is there that the sun sends his first rays, and the
+breeze comes with the fragrance of the gardens and woods; there that a
+wandering butterfly sometimes ventures among the flowers of the attic,
+and that the songs of the industrious work-woman welcome the dawn of day.
+The lower stories are still deep in sleep, silence, and shadow, while
+here labor, light, and song already reign.
+
+What life is around me!  See the swallow returning from her search for
+food, with her beak full of insects for her young ones; the sparrows
+shake the dew from their wings while they chase one another in the
+sunshine; and my neighbors throw open their windows, and welcome the
+morning with their fresh faces!  Delightful hour of waking, when
+everything returns to feeling and to motion; when the first light of day
+strikes upon creation, and brings it to life again, as the magic wand
+struck the palace of the Sleeping Beauty in the wood!  It is a moment of
+rest from every misery; the sufferings of the sick are allayed, and a
+breath of hope enters into the hearts of the despairing.  But, alas!  it
+is but a short respite!  Everything will soon resume its wonted course:
+the great human machine, with its long strains, its deep gasps, its
+collisions, and its crashes, will be again put in motion.
+
+The tranquillity of this first morning hour reminds me of that of our
+first years of life.  Then, too, the sun shines brightly, the air is
+fragrant, and the illusions of youth-those birds of our life's morning-
+sing around us.  Why do they fly away when we are older?  Where do this
+sadness and this solitude, which gradually steal upon us, come from?  The
+course seems to be the same with individuals and with communities: at
+starting, so readily made happy, so easily enchanted; and at the goal,
+the bitter disappointment or reality!  The road, which began among
+hawthorns and primroses, ends speedily in deserts or in precipices!  Why
+is there so much confidence at first, so much doubt at last?  Has, then,
+the knowledge of life no other end but to make it unfit for happiness?
+Must we condemn ourselves to ignorance if we would preserve hope?  Is the
+world and is the individual man intended, after all, to find rest only in
+an eternal childhood?
+
+How many times have I asked myself these questions!  Solitude has the
+advantage or the danger of making us continually search more deeply into
+the same ideas.  As our discourse is only with ourself, we always give
+the same direction to the conversation; we are not called to turn it to
+the subject which occupies another mind, or interests another's feelings;
+and so an involuntary inclination makes us return forever to knock at the
+same doors!
+
+I interrupted my reflections to put my attic in order.  I hate the look
+of disorder, because it shows either a contempt for details or an
+unaptness for spiritual life.  To arrange the things among which we have
+to live, is to establish the relation of property and of use between them
+and us: it is to lay the foundation of those habits without which man
+tends to the savage state.  What, in fact, is social organization but a
+series of habits, settled in accordance with the dispositions of our
+nature?
+
+I distrust both the intellect and the morality of those people to whom
+disorder is of no consequence--who can live at ease in an Augean stable.
+What surrounds us, reflects more or less that which is within us.  The
+mind is like one of those dark lanterns which, in spite of everything,
+still throw some light around.  If our tastes did not reveal our
+character, they would be no longer tastes, but instincts.
+
+While I was arranging everything in my attic, my eyes rested on the
+little almanac hanging over my chimney-piece.  I looked for the day of
+the month, and I saw these words written in large letters: "FETE DIEU!"
+
+It is to-day!  In this great city, where there are no longer any public
+religious solemnities, there is nothing to remind us of it; but it is,
+in truth, the period so happily chosen by the primitive church.  "The day
+kept in honor of the Creator," says Chateaubriand, "happens at a time
+when the heaven and the earth declare His power, when the woods and
+fields are full of new life, and all are united by the happiest ties;
+there is not a single widowed plant in the fields."
+
+What recollections these words have just awakened!  I left off what I was
+about, I leaned my elbows on the windowsill, and, with my head between my
+two hands, I went back in thought to the little town where the first days
+of my childhood were passed.
+
+The 'Fete Dieu' was then one of the great events of my life!  It was
+necessary to be diligent and obedient a long time beforehand, to deserve
+to share in it.  I still recollect with what raptures of expectation I
+got up on the morning of the day.  There was a holy joy in the air.  The
+neighbors, up earlier than usual, hung cloths with flowers or figures,
+worked in tapestry, along the streets.  I went from one to another, by
+turns admiring religious scenes of the Middle Ages, mythological
+compositions of the Renaissance, old battles in the style of Louis XIV,
+and the Arcadias of Madame de Pompadour.  All this world of phantoms
+seemed to be coming forth from the dust of past ages, to assist--silent
+and motionless--at the holy ceremony.  I looked, alternately in fear and
+wonder, at those terrible warriors with their swords always raised, those
+beautiful huntresses shooting the arrow which never left the bow, and
+those shepherds in satin breeches always playing the flute at the feet of
+the perpetually smiling shepherdess.  Sometimes, when the wind blew
+behind these hanging pictures, it seemed to me that the figures
+themselves moved, and I watched to see them detach themselves from the
+wall, and take their places in the procession!  But these impressions
+were vague and transitory.  The feeling that predominated over every
+other was that of an overflowing yet quiet joy.  In the midst of all the
+floating draperies, the scattered flowers, the voices of the maidens, and
+the gladness which, like a perfume, exhaled from everything, you felt
+transported in spite of yourself.  The joyful sounds of the festival were
+repeated in your heart, in a thousand melodious echoes.  You were more
+indulgent, more holy, more loving!  For God was not only manifesting
+himself without, but also within us.
+
+And then the altars for the occasion!  the flowery arbors!  the triumphal
+arches made of green boughs!  What competition among the different
+parishes for the erection of the resting-places where the procession was
+to halt!  It was who should contribute the rarest and the most beautiful
+of his possessions!
+
+It was there I made my first sacrifice!
+
+The wreaths of flowers were arranged, the candles lighted, and the
+Tabernacle dressed with roses; but one was wanting fit to crown the
+whole!  All the neighboring gardens had been ransacked.  I alone
+possessed a flower worthy of such a place.  It was on the rose-tree given
+me by my mother on my birthday.  I had watched it for several months, and
+there was no other bud to blow on the tree.  There it was, half open, in
+its mossy nest, the object of such long expectations, and of all a
+child's pride!  I hesitated for some moments.  No one had asked me for
+it; I might easily avoid losing it.  I should hear no reproaches, but one
+rose noiselessly within me.  When every one else had given all they had,
+ought I alone to keep back my treasure?  Ought I to grudge to God one of
+the gifts which, like all the rest, I had received from him?  At this
+last thought I plucked the flower from the stem, and took it to put at
+the top of the Tabernacle.  Ah! why does the recollection of this
+sacrifice, which was so hard and yet so sweet to me, now make me smile?
+Is it so certain that the value of a gift is in itself, rather than in
+the intention?  If the cup of cold water in the gospel is remembered to
+the poor man, why should not the flower be remembered to the child?  Let
+us not look down upon the child's simple act of generosity; it is these
+which accustom the soul to self-denial and to sympathy.  I cherished this
+moss-rose a long time as a sacred talisman; I had reason to cherish it
+always, as the record of the first victory won over myself.
+
+It is now many years since I witnessed the celebration of the 'Fete
+Dieu'; but should I again feel in it the happy sensations of former days?
+I still remember how, when the procession had passed, I walked through
+the streets strewed with flowers and shaded with green boughs.  I felt
+intoxicated by the lingering perfumes of the incense, mixed with the
+fragrance of syringas, jessamine, and roses, and I seemed no longer to
+touch the ground as I went along.  I smiled at everything; the whole
+world was Paradise in my eyes, and it seemed to me that God was floating
+in the air!
+
+Moreover, this feeling was not the excitement of the moment: it might be
+more intense on certain days, but at the same time it continued through
+the ordinary course of my life.  Many years thus passed for me in an
+expansion of heart, and a trustfulness which prevented sorrow, if not
+from coming, at least from staying with me.  Sure of not being alone,
+I soon took heart again, like the child who recovers its courage, because
+it hears its mother's voice close by.  Why have I lost that confidence of
+my childhood?  Shall I never feel again so deeply that God is here?
+
+How strange the association of our thoughts!  A day of the month recalls
+my infancy, and see, all the recollections of my former years are growing
+up around me!  Why was I so happy then?  I consider well, and nothing is
+sensibly changed in my condition.  I possess, as I did then, health and
+my daily bread; the only difference is, that I am now responsible for
+myself!  As a child, I accepted life when it came; another cared and
+provided for me.  So long as I fulfilled my present duties I was at peace
+within, and I left the future to the prudence of my father!  My destiny
+was a ship, in the directing of which I had no share, and in which I
+sailed as a common passenger.  There was the whole secret of childhood's
+happy security.  Since then worldly wisdom has deprived me of it.  When
+my lot was intrusted to my own and sole keeping, I thought to make myself
+master of it by means of a long insight into the future.  I have filled
+the present hour with anxieties, by occupying my thoughts with the
+future; I have put my judgment in the place of Providence, and the happy
+child is changed into the anxious man.
+
+A melancholy course, yet perhaps an important lesson.  Who knows that,
+if I had trusted more to Him who rules the world, I should not have been
+spared all this anxiety?  It may be that happiness is not possible here
+below, except on condition of living like a child, giving ourselves up to
+the duties of each day as it comes, and trusting in the goodness of our
+heavenly Father for all besides.
+
+This reminds me of my Uncle Maurice!  Whenever I have need to strengthen
+myself in all that is good, I turn my thoughts to him; I see again the
+gentle expression of his half-smiling, half-mournful face; I hear his
+voice, always soft and soothing as a breath of summer!  The remembrance
+of him protects my life, and gives it light.  He, too, was a saint and
+martyr here below.  Others have pointed out the path of heaven; he has
+taught us to see those of earth aright.
+
+But, except the angels, who are charged with noting down the sacrifices
+performed in secret, and the virtues which are never known, who has ever
+heard of my Uncle Maurice?  Perhaps I alone remember his name, and still
+recall his history.
+
+Well!  I will write it, not for others, but for myself!  They say that,
+at the sight of the Apollo, the body erects itself and assumes a more
+dignified attitude: in the same way, the soul should feel itself raised
+and ennobled by the recollection of a good man's life!
+
+A ray of the rising sun lights up the little table on which I write; the
+breeze brings me in the scent of the mignonette, and the swallows wheel
+about my window with joyful twitterings.  The image of my Uncle Maurice
+will be in its proper place amid the songs, the sunshine, and the
+fragrance.
+
+
+Seven o'clock.--It is with men's lives as with days: some dawn radiant
+with a thousand colors, others dark with gloomy clouds.  That of my Uncle
+Maurice was one of the latter.  He was so sickly, when he came into the
+world, that they thought he must die; but notwithstanding these
+anticipations, which might be called hopes, he continued to live,
+suffering and deformed.
+
+He was deprived of all joys as well as of all the attractions of
+childhood.  He was oppressed because he was weak, and laughed at for his
+deformity.  In vain the little hunchback opened his arms to the world:
+the world scoffed at him, and went its way.
+
+However, he still had his mother, and it was to her that the child
+directed all the feelings of a heart repelled by others.  With her he
+found shelter, and was happy, till he reached the age when a man must
+take his place in life; and Maurice had to content himself with that
+which others had refused with contempt.  His education would have
+qualified him for any course of life; and he became an octroi-clerk--
+[The octroi is the tax on provisions levied at the entrance of the town]
+--in one of the little toll-houses at the entrance of his native town.
+
+He was always shut up in this dwelling of a few feet square, with no
+relaxation from the office accounts but reading and his mother's visits.
+On fine summer days she came to work at the door of his hut, under the
+shade of a clematis planted by Maurice.  And, even when she was silent,
+her presence was a pleasant change for the hunchback; he heard the
+clinking of her long knitting-needles; he saw her mild and mournful
+profile, which reminded him of so many courageously-borne trials; he
+could every now and then rest his hand affectionately on that bowed neck,
+and exchange a smile with her!
+
+This comfort was soon to be taken from him.  His old mother fell sick,
+and at the end of a few days he had to give up all hope.  Maurice was
+overcome at the idea of a separation which would henceforth leave him
+alone on earth, and abandoned himself to boundless grief.  He knelt by
+the bedside of the dying woman, he called her by the fondest names, he
+pressed her in his arms, as if he could so keep her in life.  His mother
+tried to return his caresses, and to answer him; but her hands were cold,
+her voice was already gone.  She could only press her lips against the
+forehead of her son, heave a sigh, and close her eyes forever!
+
+They tried to take Maurice away, but he resisted them and threw himself
+on that now motionless form.
+
+"Dead!"  cried he; "dead!  She who had never left me, she who was the
+only one in the world who loved me!  You, my mother, dead!  What then
+remains for me here below?"
+
+A stifled voice replied:
+
+"God!"
+
+Maurice, startled, raised himself!  Was that a last sigh from the dead,
+or his own conscience, that had answered him?  He did not seek to know,
+but he understood the answer, and accepted it.
+
+It was then that I first knew him.  I often went to see him in his little
+toll-house.  He joined in my childish games, told me his finest stories,
+and let me gather his flowers.  Deprived as he was of all external
+attractiveness, he showed himself full of kindness to all who came to
+him, and, though he never would put himself forward, he had a welcome for
+everyone.  Deserted, despised, he submitted to everything with a gentle
+patience; and while he was thus stretched on the cross of life, amid the
+insults of his executioners, he repeated with Christ, "Father, forgive
+them, for they know not what they do."
+
+No other clerk showed so much honesty, zeal, and intelligence; but those
+who otherwise might have promoted him as his services deserved were
+repelled by his deformity.  As he had no patrons, he found his claims
+were always disregarded.  They preferred before him those who were better
+able to make themselves agreeable, and seemed to be granting him a favor
+when letting him keep the humble office which enabled him to live.  Uncle
+Maurice bore injustice as he had borne contempt; unfairly treated by men,
+he raised his eyes higher, and trusted in the justice of Him who cannot
+be deceived.
+
+He lived in an old house in the suburb, where many work-people, as poor
+but not as forlorn as he, also lodged.  Among these neighbors there was a
+single woman, who lived by herself in a little garret, into which came
+both wind and rain.  She was a young girl, pale, silent, and with nothing
+to recommend her but her wretchedness and her resignation to it.  She was
+never seen speaking to any other woman, and no song cheered her garret.
+She worked without interest and without relaxation; a depressing gloom
+seemed to envelop her like a shroud.  Her dejection affected Maurice; he
+attempted to speak to her; she replied mildly, but in few words.  It was
+easy to see that she preferred her silence and her solitude to the little
+hunchback's good-will; he perceived it, and said no more.
+
+But Toinette's needle was hardly sufficient for her support, and
+presently work failed her!  Maurice learned that the poor girl was in
+want of everything, and that the tradesmen refused to give her credit.
+He immediately went to them privately and engaged to pay them for what
+they supplied Toinette with.
+
+Things went on in this way for several months.  The young dressmaker
+continued out of work, until she was at last frightened at the bills she
+had contracted with the shopkeepers.  When she came to an explanation
+with them, everything was discovered.  Her first impulse was to run to
+Uncle Maurice, and thank him on her knees.  Her habitual reserve had
+given way to a burst of deepest feeling.  It seemed as if gratitude had
+melted all the ice of that numbed heart.
+
+Being now no longer embarrassed with a secret, the little hunchback could
+give greater efficacy to his good offices.  Toinette became to him a
+sister, for whose wants he had a right to provide.  It was the first time
+since the death of his mother that he had been able to share his life
+with another.  The young woman received his attentions with feeling, but
+with reserve.  All Maurice's efforts were insufficient to dispel her
+gloom: she seemed touched by his kindness, and sometimes expressed her
+sense of it with warmth; but there she stopped.  Her heart was a closed
+book, which the little hunchback might bend over, but could not read.  In
+truth he cared little to do so; he gave himself up to the happiness of
+being no longer alone, and took Toinette such as her long trials had made
+her; he loved her as she was, and wished for nothing else but still to
+enjoy her company.
+
+This thought insensibly took possession of his mind, to the exclusion of
+all besides.  The poor girl was as forlorn as himself; she had become
+accustomed to the deformity of the hunchback, and she seemed to look on
+him with an affectionate sympathy!  What more could he wish for?  Until
+then, the hopes of making himself acceptable to a helpmate had been
+repelled by Maurice as a dream; but chance seemed willing to make it a
+reality.  After much hesitation he took courage, and decided to speak to
+her.
+
+It was evening; the little hunchback, in much agitation, directed his
+steps toward the work-woman's garret just as he was about to enter, he
+thought he heard a strange voice pronouncing the maiden's name.  He
+quickly pushed open the door, and perceived Toinette weeping, and leaning
+on the shoulder of a young man in the dress of a sailor.
+
+At the sight of my uncle, she disengaged herself quickly, and ran to him,
+crying out:
+
+"Ah! come in--come in!  It is he that I thought was dead: it is Julien;
+it is my betrothed!"
+
+Maurice tottered, and drew back.  A single word had told him all!
+
+It seemed to him as if the ground shook and his heart was about to break;
+but the same voice that he had heard by his mother's deathbed again
+sounded in his ears, and he soon recovered himself.  God was still his
+friend!
+
+He himself accompanied the newly-married pair on the road when they left
+the town, and, after wishing them all the happiness which was denied to
+him, he returned with resignation to the old house in the suburb.
+
+It was there that he ended his life, forsaken by men, but not as he said
+by the Father which is in heaven.  He felt His presence everywhere; it
+was to him in the place of all else.  When he died, it was with a smile,
+and like an exile setting out for his own country.  He who had consoled
+him in poverty and ill-health, when he was suffering from injustice and
+forsaken by all, had made death a gain and blessing to him.
+
+
+Eight o'clock.--All I have just written has pained me!  Till now I have
+looked into life for instruction how to live.  Is it then true that human
+maxims are not always sufficient?  that beyond goodness, prudence,
+moderation, humility, self-sacrifice itself, there is one great truth,
+which alone can face great misfortunes?  and that, if man has need of
+virtues for others, he has need of religion for himself?
+
+When, in youth, we drink our wine with a merry heart, as the Scripture
+expresses it, we think we are sufficient for ourselves; strong, happy,
+and beloved, we believe, like Ajax, we shall be able to escape every
+storm in spite of the gods.  But later in life, when the back is bowed,
+when happiness proves a fading flower, and the affections grow chill-
+then, in fear of the void and the darkness, we stretch out our arms, like
+the child overtaken by night, and we call for help to Him who is
+everywhere.
+
+I was asking this morning why this growing confusion alike for society
+and for the individual?  In vain does human reason from hour to hour
+light some new torch on the roadside: the night continues to grow ever
+darker!  Is it not because we are content to withdraw farther and farther
+from God, the Sun of spirits?
+
+But what do these hermit's reveries signify to the world?  The inward
+turmoils of most men are stifled by the outward ones; life does not give
+them time to question themselves.  Have they time to know what they are,
+and what they should be, whose whole thoughts are in the next lease or
+the last price of stock?  Heaven is very high, and wise men look only at
+the earth.
+
+But I--poor savage amid all this civilization, who seek neither power nor
+riches, and who have found in my own thoughts the home and shelter of my
+spirit--I can go back with impunity to these recollections of my
+childhood; and, if this our great city no longer honors the name of God
+with a festival, I will strive still to keep the feast to Him in my
+heart.
+
+
+
+
+CHAPTER VII
+
+THE PRICE OF POWER AND THE WORTH OF FAME
+
+Sunday, July 1st
+
+Yesterday the month dedicated to Juno (Junius, June) by the Romans ended.
+To-day we enter on July.
+
+In ancient Rome this latter month was called Quintiles (the fifth),
+because the year, which was then divided into only ten parts, began in
+March.  When Numa Pompilius divided it into twelve months this name of
+Quintiles was preserved, as well as those that followed--Sexteles,
+September, October, November, December--although these designations did
+not accord with the newly arranged order of the months.  At last, after a
+time the month Quintiles, in which Julius Caesar was born, was called
+Julius, whence we have July.  Thus this name, placed in the calendar, is
+become the imperishable record of a great man; it is an immortal epitaph
+on Time's highway, engraved by the admiration of man.
+
+How many similar inscriptions are there!  Seas, continents, mountains,
+stars, and monuments, have all in succession served the same purpose!  We
+have turned the whole world into a Golden Book, like that in which the
+state of Venice used to enroll its illustrious names and its great deeds.
+It seems that mankind feels a necessity for honoring itself in its elect
+ones, and that it raises itself in its own eyes by choosing heroes from
+among its own race.  The human family love to preserve the memory; of the
+parvenus of glory, as we cherish that of a great ancestor, or of a
+benefactor.
+
+In fact, the talents granted to a single individual do not benefit
+himself alone, but are gifts to the world; everyone shares them, for
+everyone suffers or benefits by his actions.  Genius is a lighthouse,
+meant to give light from afar; the man who bears it is but the rock upon
+which this lighthouse is built.
+
+I love to dwell upon these thoughts; they explain to me in what consists
+our admiration for glory.  When glory has benefited men, that admiration
+is gratitude; when it is only remarkable in itself, it is the pride of
+race; as men, we love to immortalize the most shining examples of
+humanity.
+
+Who knows whether we do not obey the same instinct in submitting to the
+hand of power?  Apart from the requirements of a gradation of ranks, or
+the consequences of a conquest, the multitude delight to surround their
+chiefs with privileges--whether it be that their vanity makes them thus
+to aggrandize one of their own creations, or whether they try to conceal
+the humiliation of subjection by exaggerating the importance of those who
+rule them.  They wish to honor themselves through their master; they
+elevate him on their shoulders as on a pedestal; they surround him with a
+halo of light, in order that some of it may be reflected upon themselves.
+It is still the fable of the dog who contents himself with the chain and
+collar, so that they are of gold.
+
+This servile vanity is not less natural or less common than the vanity of
+dominion.  Whoever feels himself incapable of command, at least desires
+to obey a powerful chief.  Serfs have been known to consider themselves
+dishonored when they became the property of a mere count after having
+been that of a prince, and Saint-Simon mentions a valet who would only
+wait upon marquises.
+
+
+July 7th, seven o'clock P. M.--I have just now been up the Boulevards;
+it was the opera night, and there was a crowd of carriages in the Rue
+Lepelletier.  The foot-passengers who were stopped at a crossing
+recognized the persons in some of these as we went by, and mentioned
+their names; they were those of celebrated or powerful men, the
+successful ones of the day.
+
+Near me there was a man looking on with hollow cheeks and eager eyes,
+whose thin black coat was threadbare.  He followed with envious looks
+these possessors of the privileges of power or of fame, and I read on his
+lips, which curled with a bitter smile, all that passed in his mind.
+
+"Look at them, the lucky fellows!"  thought he; "all the pleasures of
+wealth, all the enjoyments of pride, are theirs.  Their names are
+renowned, all their wishes fulfilled; they are the sovereigns of the
+world, either by their intellect or their power; and while I, poor and
+unknown, toil painfully along the road below, they wing their way over
+the mountain-tops gilded by the broad sunshine of prosperity."
+
+I have come home in deep thought.  Is it true that there are these
+inequalities, I do not say in the fortunes, but in the happiness of men?
+Do genius and authority really wear life as a crown, while the greater
+part of mankind receive it as a yoke?  Is the difference of rank but a
+different use of men's dispositions and talents, or a real inequality in
+their destinies?  A solemn question, as it regards the verification of
+God's impartiality.
+
+
+July 8th, noon.--I went this morning to call upon a friend from the same
+province as myself, who is the first usher-in-waiting to one of our
+ministers.  I took him some letters from his family, left for him by a
+traveller just come from Brittany.  He wished me to stay.
+
+"To-day," said he, "the Minister gives no audience: he takes a day of
+rest with his family.  His younger sisters are arrived; he will take them
+this morning to St. Cloud, and in the evening he has invited his friends
+to a private ball.  I shall be dismissed directly for the rest of the
+day.  We can dine together; read the news while you are waiting for me."
+
+I sat down at a table covered with newspapers, all of which I looked over
+by turns.  Most of them contained severe criticisms on the last political
+acts of the minister; some of them added suspicions as to the honor of
+the minister himself.
+
+Just as I had finished reading, a secretary came for them to take them to
+his master.
+
+He was then about to read these accusations, to suffer silently the abuse
+of all those tongues which were holding him up to indignation or to
+scorn!  Like the Roman victor in his triumph, he had to endure the
+insults of him who followed his car, relating to the crowd his follies,
+his ignorance, or his vices.
+
+But, among the arrows shot at him from every side, would no one be found
+poisoned?  Would not one reach some spot in his heart where the wound
+would be incurable?  What is the worth of a life exposed to the attacks
+of envious hatred or furious conviction?  The Christians yielded only the
+fragments of their flesh to the beasts of the amphitheatres; the man in
+power gives up his peace, his affections, his honor, to the cruel bites
+of the pen.
+
+While I was musing upon these dangers of greatness, the usher entered
+hastily.  Important news had been received: the minister is just summoned
+to the council; he will not be able to take his sisters to St. Cloud.
+
+I saw, through the windows, the young ladies, who were waiting at the
+door, sorrowfully go upstairs again, while their brother went off to the
+council.  The carriage, which should have gone filled with so much family
+happiness, is just out of sight, carrying only the cares of a statesman
+in it.
+
+The usher came back discontented and disappointed.  The more or less of
+liberty which he is allowed to enjoy, is his barometer of the political
+atmosphere.  If he gets leave, all goes well; if he is kept at his post,
+the country is in danger.  His opinion on public affairs is but a
+calculation of his own interest.  My friend is almost a statesman.
+
+I had some conversation with him, and he told me several curious
+particulars of public life.
+
+The new minister has old friends whose opinions he opposes, though he
+still retains his personal regard for them.  Though separated from them
+by the colors he fights under, they remain united by old associations;
+but the exigencies of party forbid him to meet them.  If their
+intercourse continued, it would awaken suspicion; people would imagine
+that some dishonorable bargain was going on; his friends would be held to
+be traitors desirous to sell themselves, and he the corrupt minister
+prepared to buy them.  He has, therefore, been obliged to break off
+friendships of twenty years' standing, and to sacrifice attachments which
+had become a second nature.
+
+Sometimes, however, the minister still gives way to his old feelings; he
+receives or visits his friends privately; he shuts himself up with them,
+and talks of the times when they could be open friends.  By dint of
+precautions they have hitherto succeeded in concealing this blot of
+friendship against policy; but sooner or later the newspapers will be
+informed of it, and will denounce him to the country as an object of
+distrust.
+
+For whether hatred be honest or dishonest, it never shrinks from any
+accusation.  Sometimes it even proceeds to crime.  The usher assured me
+that several warnings had been given the minister which had made him fear
+the vengeance of an assassin, and that he no longer ventured out on foot.
+
+Then, from one thing to another, I learned what temptations came in to
+mislead or overcome his judgment; how he found himself fatally led into
+obliquities which he could not but deplore.  Misled by passion, over-
+persuaded by entreaties, or compelled for reputation's sake, he has many
+times held the balance with an unsteady hand.  How sad the condition of
+him who is in authority!  Not only are the miseries of power imposed upon
+him, but its vices also, which, not content with torturing, succeed in
+corrupting him.
+
+We prolonged our conversation till it was interrupted by the minister's
+return.  He threw himself out of the carriage with a handful of papers,
+and with an anxious manner went into his own room.  An instant afterward
+his bell was heard; his secretary was called to send off notices to all
+those invited for the evening; the ball would not take place; they spoke
+mysteriously of bad news transmitted by the telegraph, and in such
+circumstances an entertainment would seem to insult the public sorrow.
+
+I took leave of my friend, and here I am at home.  What I have just seen
+is an answer to my doubts the other day.  Now I know with what pangs men
+pay for their dignities; now I understand
+
+          That Fortune sells what we believe she gives.
+
+This explains to me the reason why Charles V aspired to the repose of the
+cloister.
+
+And yet I have only glanced at some of the sufferings attached to power.
+What shall I say of the falls in which its possessors are precipitated
+from the heights of heaven to the very depths of the earth? of that path
+of pain along which they must forever bear the burden of their
+responsibility? of that chain of decorums and ennuis which encompasses
+every act of their lives, and leaves them so little liberty?
+
+The partisans of despotism adhere with reason to forms and ceremonies.
+If men wish to give unlimited power to their fellow-man, they must keep
+him separated from ordinary humanity; they must surround him with a
+continual worship, and, by a constant ceremonial, keep up for him the
+superhuman part they have granted him.  Our masters cannot remain
+absolute, except on condition of being treated as idols.
+
+But, after all, these idols are men, and, if the exclusive life they must
+lead is an insult to the dignity of others, it is also a torment to
+themselves.  Everyone knows the law of the Spanish court, which used to
+regulate, hour by hour, the actions of the king and queen; "so that,"
+says Voltaire, "by reading it one can tell all that the sovereigns of
+Spain have done, or will do, from Philip II to the day of judgment."  It
+was by this law that Philip III, when sick, was obliged to endure such an
+excess of heat that he died in consequence, because the Duke of Uzeda,
+who alone had the right to put out the fire in the royal chamber,
+happened to be absent.
+
+When the wife of Charles II was run away with on a spirited horse, she
+was about to perish before anyone dared to save her, because etiquette
+forbade them to touch the queen.  Two young officers endangered their
+lives for her by stopping the horse.  The prayers and tears of her whom
+they had just snatched from death were necessary to obtain pardon for
+their crime.  Every one knows the anecdote related by Madame Campan of
+Marie Antoinette, wife of Louis XVI.  One day, being at her toilet, when
+the chemise was about to be presented to her by one of the assistants, a
+lady of very ancient family entered and claimed the honor, as she had the
+right by etiquette; but, at the moment she was about to fulfil her duty,
+a lady of higher rank appeared, and in her turn took the garment she was
+about to offer to the queen; when a third lady of still higher title came
+in her turn, and was followed by a fourth, who was no other than the
+king's sister.  The chemise was in this manner passed from hand to hand,
+with ceremonies, courtesies, and compliments, before it came to the
+queen, who, half naked and quite ashamed, was shivering with cold for the
+great honor of etiquette.
+
+
+12th, seven o'clock, P.M.--On coming home this evening, I saw, standing
+at the door of a house, an old man, whose appearance and features
+reminded me of my father.  There was the same beautiful smile, the same
+deep and penetrating eye, the same noble bearing of the head, and the
+same careless attitude.
+
+I began living over again the first years of my life, and recalling to
+myself the conversations of that guide whom God in his mercy had given
+me, and whom in his severity he had too soon withdrawn.
+
+When my father spoke, it was not only to bring our two minds together by
+an interchange of thought, but his words always contained instruction.
+
+Not that he endeavored to make me feel it so: my father feared everything
+that had the appearance of a lesson.  He used to say that virtue could
+make herself devoted friends, but she did not take pupils: therefore he
+was not desirous to teach goodness; he contented himself with sowing the
+seeds of it, certain that experience would make them grow.
+
+How often has good grain fallen thus into a corner of the heart, and,
+when it has been long forgotten, all at once put forth the blade and come
+into ear!  It is a treasure laid aside in a time of ignorance, and we do
+not know its value till we find ourselves in need of it.
+
+Among the stories with which he enlivened our walks or our evenings,
+there is one which now returns to my memory, doubtless because the time
+is come to derive its lesson from it.
+
+My father, who was apprenticed at the age of twelve to one of those
+trading collectors who call themselves naturalists, because they put all
+creation under glasses that they may sell it by retail, had always led a
+life of poverty and labor.  Obliged to rise before daybreak, by turns
+shop-boy, clerk, and laborer, he was made to bear alone all the work of a
+trade of which his master reaped all the profits.  In truth, this latter
+had a peculiar talent for making the most of the labor of other people.
+Though unfit himself for the execution of any kind of work, no one knew
+better how to sell it.  His words were a net, in which people found
+themselves taken before they were aware.  And since he was devoted to
+himself alone, and looked on the producer as his enemy, and the buyer as
+prey, he used them both with that obstinate perseverance which avarice
+teaches.
+
+My father was a slave all the week, and could call himself his own only
+on Sunday.  The master naturalist, who used to spend the day at the house
+of an old female relative, then gave him his liberty on condition that he
+dined out, and at his own expense.  But my father used secretly to take
+with him a crust of bread, which he hid in his botanizing-box, and,
+leaving Paris as soon as it was day, he would wander far into the valley
+of Montmorency, the wood of Meudon, or among the windings of the Marne.
+Excited by the fresh air, the penetrating perfume of the growing
+vegetation, or the fragrance of the honeysuckles, he would walk on until
+hunger or fatigue made itself felt.  Then he would sit under a hedge, or
+by the side of a stream, and would make a rustic feast, by turns on
+watercresses, wood strawberries, and blackberries picked from the hedges;
+he would gather a few plants, read a few pages of Florian, then in
+greatest vogue, of Gessner, who was just translated, or of Jean Jacques,
+of whom he possessed three old volumes.  The day was thus passed
+alternately in activity and rest, in pursuit and meditation, until the
+declining sun warned him to take again the road to Paris, where he would
+arrive, his feet torn and dusty, but his mind invigorated for a whole
+week.
+
+One day, as he was going toward the wood of Viroflay, he met, close to
+it, a stranger who was occupied in botanizing and in sorting the plants
+he had just gathered.  He was an elderly man with an honest face; but his
+eyes, which were rather deep-set under his eyebrows, had a somewhat
+uneasy and timid expression.  He was dressed in a brown cloth coat, a
+gray waistcoat, black breeches, and worsted stockings, and held an ivory-
+headed cane under his arm.  His appearance was that of a small retired
+tradesman who was living on his means, and rather below the golden mean
+of Horace.
+
+My father, who had great respect for age, civilly raised his hat to him
+as he passed.  In doing so, a plant he held fell from his hand; the
+stranger stooped to take it up, and recognized it.
+
+"It is a Deutaria heptaphyllos," said he; "I have not yet seen any of
+them in these woods; did you find it near here, sir?"
+
+My father replied that it was to be found in abundance on the top of the
+hill, toward Sevres, as well as the great Laserpitium.
+
+"That, too!"  repeated the old man more briskly.  "Ah!  I shall go and
+look for them; I have gathered them formerly on the hillside of Robaila."
+
+My father proposed to take him.  The stranger accepted his proposal with
+thanks, and hastened to collect together the plants he had gathered; but
+all of a sudden he appeared seized with a scruple.  He observed to his
+companion that the road he was going was halfway up the hill, and led in
+the direction of the castle of the Dames Royales at Bellevue; that by
+going to the top he would consequently turn out of his road, and that it
+was not right he should take this trouble for a stranger.
+
+My father insisted upon it with his habitual good-nature; but, the more
+eagerness he showed, the more obstinately the old man refused; it even
+seemed to my father that his good intention at last excited his
+suspicion.  He therefore contented himself with pointing out the road to
+the stranger, whom he saluted, and he soon lost sight of him.
+
+Many hours passed by, and he thought no more of the meeting.  He had
+reached the copses of Chaville, where, stretched on the ground in a mossy
+glade, he read once more the last volume of Emile.  The delight of
+reading it had so completely absorbed him that he had ceased to see or
+hear anything around him.  With his cheeks flushed and his eyes moist,
+he repeated aloud a passage which had particularly affected him.
+
+An exclamation uttered close by him awoke him from his ecstasy; he raised
+his head, and perceived the tradesman-looking person he had met before on
+the crossroad at Viroflay.
+
+He was loaded with plants, the collection of which seemed to have put him
+into high good-humor.
+
+"A thousand thanks, sir," said he to my father.  "I have found all that
+you told me of, and I am indebted to you for a charming walk."
+
+My father respectfully rose, and made a civil reply.  The stranger had
+grown quite familiar, and even asked if his young "brother botanist" did
+not think of returning to Paris.  My father replied in the affirmative,
+and opened his tin box to put his book back in it.
+
+The stranger asked him with a smile if he might without impertinence ask
+the name of it.  My father answered that it was Rousseau's Emile.
+
+The stranger immediately became grave.
+
+They walked for some time side by side, my father expressing, with the
+warmth of a heart still throbbing with emotion, all that this work had
+made him feel; his companion remaining cold and silent.  The former
+extolled the glory of the great Genevese writer, whose genius had made
+him a citizen of the world; he expatiated on this privilege of great
+thinkers, who reign in spite of time and space, and gather together a
+people of willing subjects out of all nations; but the stranger suddenly
+interrupted him:
+
+"And how do you know," said he, mildly, "whether Jean Jacques would not
+exchange the reputation which you seem to envy for the life of one of the
+wood-cutters whose chimneys' smoke we see?  What has fame brought him
+except persecution?  The unknown friends whom his books may have made for
+him content themselves with blessing him in their hearts, while the
+declared enemies that they have drawn upon him pursue him with violence
+and calumny!  His pride has been flattered by success: how many times has
+it been wounded by satire?  And be assured that human pride is like the
+Sybarite who was prevented from sleeping by a crease in a roseleaf.  The
+activity of a vigorous mind, by which the world profits, almost always
+turns against him who possesses it.  He expects more from it as he grows
+older; the ideal he pursues continually disgusts him with the actual; he
+is like a man who, with a too-refined sight, discerns spots and blemishes
+in the most beautiful face.  I will not speak of stronger temptations and
+of deeper downfalls.  Genius, you have said, is a kingdom; but what
+virtuous man is not afraid of being a king?  He who feels only his great
+powers, is--with the weaknesses and passions of our nature--preparing for
+great failures.  Believe me, sir, the unhappy man who wrote this book is
+no object of admiration or of envy; but, if you have a feeling heart,
+pity him!"
+
+My father, astonished at the excitement with which his companion
+pronounced these last words, did not know what to answer.
+
+Just then they reached the paved road which led from Meudon Castle to
+that of Versailles; a carriage was passing.
+
+The ladies who were in it perceived the old man, uttered an exclamation
+of surprise, and leaning out of the window repeated:
+
+"There is Jean Jacques--there is Rousseau!"
+
+Then the carriage disappeared in the distance.
+
+My father remained motionless, confounded, and amazed, his eyes wide
+open, and his hands clasped.
+
+Rousseau, who had shuddered on hearing his name spoken, turned toward
+him:
+
+"You see," said he, with the bitter misanthropy which his later
+misfortunes had produced in him, "Jean Jacques cannot even hide himself:
+he is an object of curiosity to some, of malignity to others, and to all
+he is a public thing, at which they point the finger.  It would signify
+less if he had only to submit to the impertinence of the idle; but, as
+soon as a man has had the misfortune to make himself a name, he becomes
+public property.  Every one rakes into his life, relates his most trivial
+actions, and insults his feelings; he becomes like those walls, which
+every passer-by may deface with some abusive writing.  Perhaps you will
+say that I have myself encouraged this curiosity by publishing my
+Confessions.  But the world forced me to it.  They looked into my house
+through the blinds, and they slandered me; I have opened the doors and
+windows, so that they should at least know me such as I am.  Adieu, sir.
+Whenever you wish to know the worth of fame, remember that you have seen
+Rousseau."
+
+
+Nine o'clock.--Ah! now I understand my father's story!  It contains the
+answer to one of the questions I asked myself a week ago.  Yes, I now
+feel that fame and power are gifts that are dearly bought; and that, when
+they dazzle the soul, both are oftenest, as Madame de Stael says, but 'un
+deuil eclatant de bonheur!
+
+                   'Tis better to be lowly born,
+                    And range with humble livers in content,
+                    Than to be perk'd up in a glistering grief,
+                    And wear a golden sorrow.
+
+                    [Henry VIII., Act II., Scene 3.]
+
+
+
+
+CHAPTER VIII
+
+MISANTHROPY AND REPENTANCE
+
+August 3d, Nine O'clock P.M.
+
+There are days when everything appears gloomy to us; the world, like the
+sky, is covered by a dark fog.  Nothing seems in its place; we see only
+misery, improvidence, and cruelty; the world seems without God, and given
+up to all the evils of chance.
+
+Yesterday I was in this unhappy humor.  After a long walk in the
+faubourgs, I returned home, sad and dispirited.
+
+Everything I had seen seemed to accuse the civilization of which we are
+so proud!  I had wandered into a little by-street, with which I was not
+acquainted, and I found myself suddenly in the middle of those dreadful
+abodes where the poor are born, to languish and die.  I looked at those
+decaying walls, which time has covered with a foul leprosy; those
+windows, from which dirty rags hang out to dry; those fetid gutters,
+which coil along the fronts of the houses like venomous reptiles!
+I felt oppressed with grief, and hastened on.
+
+A little farther on I was stopped by the hearse of a hospital; a dead
+man, nailed down in his deal coffin, was going to his last abode, without
+funeral pomp or ceremony, and without followers.  There was not here even
+that last friend of the outcast--the dog, which a painter has introduced
+as the sole attendant at the pauper's burial!  He whom they were
+preparing to commit to the earth was going to the tomb, as he had lived,
+alone; doubtless no one would be aware of his end.  In this battle of
+society, what signifies a soldier the less?
+
+But what, then, is this human society, if one of its members can thus
+disappear like a leaf carried away by the wind?
+
+The hospital was near a barrack, at the entrance of which old men, women,
+and children were quarrelling for the remains of the coarse bread which
+the soldiers had given them in charity!  Thus, beings like ourselves
+daily wait in destitution on our compassion till we give them leave to
+live!  Whole troops of outcasts, in addition to the trials imposed on all
+God's children, have to endure the pangs of cold, hunger, and
+humiliation.  Unhappy human commonwealth!  Where man is in a worse
+condition than the bee in its hive, or the ant in its subterranean city!
+
+Ah! what then avails our reason?  What is the use of so many high
+faculties, if we are neither the wiser nor the happier for them?  Which
+of us would not exchange his life of labor and trouble with that of the
+birds of the air, to whom the whole world is a life of joy?
+
+How well I understand the complaint of Mao, in the popular tales of the
+'Foyer Breton' who, when dying of hunger and thirst, says, as he looks at
+the bullfinches rifling the fruit-trees:
+
+"Alas! those birds are happier than Christians; they have no need of
+inns, or butchers, or bakers, or gardeners.  God's heaven belongs to
+them, and earth spreads a continual feast before them!  The tiny flies
+are their game, ripe grass their cornfields, and hips and haws their
+store of fruit.  They have the right of taking everywhere, without paying
+or asking leave: thus comes it that the little birds are happy, and sing
+all the livelong day!"
+
+But the life of man in a natural state is like that of the birds; he
+equally enjoys nature.  "The earth spreads a continual feast before him."
+What, then, has he gained by that selfish and imperfect association which
+forms a nation?  Would it not be better for every one to turn again to
+the fertile bosom of nature, and live there upon her bounty in peace and
+liberty?
+
+
+August 20th, four o'clock A.M.--The dawn casts a red glow on my bed-
+curtains; the breeze brings in the fragrance of the gardens below.  Here
+I am again leaning on my elbows by the windows, inhaling the freshness
+and gladness of this first wakening of the day.
+
+My eye always passes over the roofs filled with flowers, warbling, and
+sunlight, with the same pleasure; but to-day it stops at the end of a
+buttress which separates our house from the next.
+
+The storms have stripped the top of its plaster covering, and dust
+carried by the wind has collected in the crevices, and, being fixed there
+by the rain, has formed a sort of aerial terrace, where some green grass
+has sprung up.  Among it rises a stalk of wheat, which to-day is
+surmounted by a sickly ear that droops its yellow head.
+
+This poor stray crop on the roofs, the harvest of which will fall to the
+neighboring sparrows, has carried my thoughts to the rich crops which are
+now falling beneath the sickle; it has recalled to me the beautiful walks
+I took as a child through my native province, when the threshing-floors
+at the farmhouses resounded from every part with the sound of a flail,
+and when the carts, loaded with golden sheaves, came in by all the roads.
+I still remember the songs of the maidens, the cheerfulness of the old
+men, the open-hearted merriment of the laborers.  There was, at that
+time, something in their looks both of pride and feeling.  The latter
+came from thankfulness to God, the former from the sight of the harvest,
+the reward of their labor.  They felt indistinctly the grandeur and the
+holiness of their part in the general work of the world; they looked with
+pride upon their mountains of corn-sheaves, and they seemed to say, Next
+to God, it is we who feed the world!
+
+What a wonderful order there is in all human labor!
+
+While the husbandman furrows his land, and prepares for every one his
+daily bread, the town artizan, far away, weaves the stuff in which he is
+to be clothed; the miner seeks underground the iron for his plow; the
+soldier defends him against the invader; the judge takes care that the
+law protects his fields; the tax-comptroller adjusts his private
+interests with those of the public; the merchant occupies himself in
+exchanging his products with those of distant countries; the men of
+science and of art add every day a few horses to this ideal team, which
+draws along the material world, as steam impels the gigantic trains of
+our iron roads!  Thus all unite together, all help one another; the toil
+of each one benefits himself and all the world; the work has been
+apportioned among the different members of the whole of society by a
+tacit agreement.  If, in this apportionment, errors are committed, if
+certain individuals have not been employed according to their capacities,
+those defects of detail diminish in the sublime conception of the whole.
+The poorest man included in this association has his place, his work, his
+reason for being there; each is something in the whole.
+
+There is nothing like this for man in the state of nature.  As he depends
+only upon himself, it is necessary that he be sufficient for everything.
+All creation is his property; but he finds in it as many hindrances as
+helps.  He must surmount these obstacles with the single strength that
+God has given him; he cannot reckon on any other aid than chance and
+opportunity.  No one reaps, manufactures, fights, or thinks for him; he
+is nothing to any one.  He is a unit multiplied by the cipher of his own
+single powers; while the civilized man is a unit multiplied by the whole
+of society.
+
+But, notwithstanding this, the other day, disgusted by the sight of some
+vices in detail, I cursed the latter, and almost envied the life of the
+savage.
+
+One of the infirmities of our nature is always to mistake feeling for
+evidence, and to judge of the season by a cloud or a ray of sunshine.
+
+Was the misery, the sight of which made me regret a savage life, really
+the effect of civilization?  Must we accuse society of having created
+these evils, or acknowledge, on the contrary, that it has alleviated
+them?  Could the women and children, who were receiving the coarse bread
+from the soldier, hope in the desert for more help or pity?  That dead
+man, whose forsaken state I deplored, had he not found, by the cares of a
+hospital, a coffin and the humble grave where he was about to rest?
+Alone, and far from men, he would have died like the wild beast in his
+den, and would now be serving as food for vultures!  These benefits of
+human society are shared, then, by the most destitute.  Whoever eats the
+bread that another has reaped and kneaded, is under an obligation to his
+brother, and cannot say he owes him nothing in return.  The poorest of us
+has received from society much more than his own single strength would
+have permitted him to wrest from nature.
+
+But cannot society give us more?  Who doubts it?  Errors have been
+committed in this distribution of tasks and workers.  Time will diminish
+the number of them; with new lights a better division will arise; the
+elements of society go on toward perfection, like everything else.  The
+difficulty is to know how to adapt ourselves to the slow step of time,
+whose progress can never be forced on without danger.
+
+
+August 14th, six o'clock A.M.--My garret window rises upon the roof like
+a massive watch-tower.  The corners are covered by large sheets of lead,
+which run into the tiles; the successive action of cold and heat has made
+them rise, and so a crevice has been formed in an angle on the right
+side.  There a sparrow has built her nest.
+
+I have followed the progress of this aerial habitation from the first
+day.  I have seen the bird successively bring the straw, moss, and wool
+designed for the construction of her abode; and I have admired the
+persevering skill she expended in this difficult work.  At first, my new
+neighbor spent her days in fluttering over the poplar in the garden, and
+in chirping along the gutters; a fine lady's life seemed the only one to
+suit her.  Then all of a sudden, the necessity of preparing a shelter for
+her brood transformed our idler into a worker; she no longer gave herself
+either rest or relaxation.  I saw her always either flying, fetching, or
+carrying; neither rain nor sun stopped her.  A striking example of the
+power of necessity!  We are indebted to it not only for most of our
+talents, but for many of our virtues!
+
+Is it not necessity that has given the people of less favored climates
+that constant activity which has placed them so quickly at the head of
+nations?  As they are deprived of most of the gifts of nature, they have
+supplied them by their industry; necessity has sharpened their
+understanding, endurance awakened their foresight.  While elsewhere man,
+warmed by an ever brilliant sun, and loaded with the bounties of the
+earth, was remaining poor, ignorant, and naked, in the midst of gifts he
+did not attempt to explore, here he was forced by necessity to wrest his
+food from the ground, to build habitations to defend himself from the
+intemperance of the weather, and to warm his body by clothing himself
+with the wool of animals.  Work makes him both more intelligent and more
+robust: disciplined by it, he seems to mount higher on the ladder of
+creation, while those more favored by nature remain on the step nearest
+to the brutes.
+
+I made these reflections while looking at the bird, whose instinct seemed
+to have become more acute since she had been occupied in work.  At last
+the nest was finished; she set up her household there, and I followed her
+through all the phases of her new existence.
+
+When she had sat on the eggs, and the young ones were hatched, she fed
+them with the most attentive care.  The corner of my window had become a
+stage of moral action, which fathers and mothers might come to take
+lessons from.  The little ones soon became large, and this morning I have
+seen them take their first flight.  One of them, weaker than the others,
+was not able to clear the edge of the roof, and fell into the gutter.  I
+caught him with some difficulty, and placed him again on the tile in
+front of his house, but the mother has not noticed him.  Once freed from
+the cares of a family, she has resumed her wandering life among the trees
+and along the roofs.  In vain I have kept away from my window, to take
+from her every excuse for fear; in vain the feeble little bird has called
+to her with plaintive cries; his bad mother has passed by, singing and
+fluttering with a thousand airs and graces.  Once only the father came
+near; he looked at his offspring with contempt, and then disappeared,
+never to return!
+
+I crumbled some bread before the little orphan, but he did not know how
+to peck it with his bill.  I tried to catch him, but he escaped into the
+forsaken nest.  What will become of him there, if his mother does not
+come back!
+
+
+August 15th, six o'clock.--This morning, on opening my window, I found
+the little bird dying upon the tiles; his wounds showed me that he had
+been driven from the nest by his unworthy mother.  I tried in vain to
+warm him again with my breath; I felt the last pulsations of life; his
+eyes were already closed, and his wings hung down!  I placed him on the
+roof in a ray of sunshine, and I closed my window.  The struggle of life
+against death has always something gloomy in it: it is a warning to us.
+
+Happily I hear some one in the passage; without doubt it is my old
+neighbor; his conversation will distract my thoughts.
+
+It was my portress.  Excellent woman!  She wished me to read a letter
+from her son the sailor, and begged me to answer it for her.
+
+I kept it, to copy it in my journal.  Here it is:
+
+     "DEAR MOTHER: This is to tell you that I have been very well ever
+     since the last time, except that last week I was nearly drowned with
+     the boat, which would have been a great loss, as there is not a
+     better craft anywhere.
+
+     "A gust of wind capsized us; and just as I came up above water, I
+     saw the captain sinking.  I went after him, as was my duty, and,
+     after diving three times, I brought him to the surface, which
+     pleased him much; for when we were hoisted on board, and he had
+     recovered his senses, he threw his arms round my neck, as he would
+     have done to an officer.
+
+     "I do not hide from you, dear mother, that this has delighted me.
+     But it isn't all; it seems that fishing up the captain has reminded
+     them that I had a good character, and they have just told me that I
+     am promoted to be a sailor of the first class!  Directly I knew it,
+     I cried out, 'My mother shall have coffee twice a day!'  And really,
+     dear mother, there is nothing now to hinder you, as I shall now have
+     a larger allowance to send you.
+
+     "I include by begging you to take care of yourself if you wish to do
+     me good; for nothing makes me feel so well as to think that you want
+     for nothing.
+
+     "Your son, from the bottom of my heart,
+
+                                                  JACQUES."
+
+
+This is the answer that the portress dictated to me:
+
+     "MY GOOD JACQUOT: It makes me very happy to see that your heart is
+     still as true as ever, and that you will never shame those who have
+     brought you up.  I need not tell you to take care of your life,
+     because you know it is the same as my own, and that without you,
+     dear child, I should wish for nothing but the grave; but we are not
+     bound to live, while we are bound to do our duty.
+
+     "Do not fear for my health, good Jacques; I was never better!  I do
+     not grow old at all, for fear of making you unhappy.  I want
+     nothing, and I live like a lady.  I even had some money over this
+     year, and as my drawers shut very badly, I put it into the savings'
+     bank, where I have opened an account in your name.  So, when you
+     come back, you will find yourself with an income.  I have also
+     furnished your chest with new linen, and I have knitted you three
+     new sea-jackets.
+
+     "All your friends are well.  Your cousin is just dead, leaving his
+     widow in difficulties.  I gave her your thirty francs' remittance
+     and said that you had sent it her; and the poor woman remembers you
+     day and night in her prayers.  So, you see, I have put that money in
+     another sort of savings' bank; but there it is our hearts that get
+     the interest.
+
+     "Good-bye, dear Jacquot.  Write to me often, and always remember the
+     good God, and your old mother,
+
+                                        "PHROSINE MILLOT."
+
+
+Good son, and worthy mother!  how such examples bring us back to a love
+for the human race!  In a fit of fanciful misanthropy, we may envy the
+fate of the savage, and prefer that of the bird to such as he; but
+impartial observation soon does justice to such paradoxes.  We find, on
+examination, that in the mixed good and evil of human nature, the good so
+far abounds that we are not in the habit of noticing it, while the evil
+strikes us precisely on account of its being the exception.  If nothing
+is perfect, nothing is so bad as to be without its compensation or its
+remedy.  What spiritual riches are there in the midst of the evils of
+society!  how much does the moral world redeem the material!
+
+That which will ever distinguish man from the rest of creation, is his
+power of deliberate affection and of enduring self-sacrifice.  The mother
+who took care of her brood in the corner of my window devoted to them the
+necessary time for accomplishing the laws which insure the preservation
+of her kind; but she obeyed an instinct, and not a rational choice.  When
+she had accomplished the mission appointed her by Providence, she cast
+off the duty as we get rid of a burden, and she returned again to her
+selfish liberty.  The other mother, on the contrary, will go on with her
+task as long as God shall leave her here below: the life of her son will
+still remain, so to speak, joined to her own; and when she disappears
+from the earth, she will leave there that part of herself.
+
+Thus, the affections make for our species an existence separate from all
+the rest of creation.  Thanks to them, we enjoy a sort of terrestrial
+immortality; and if other beings succeed one another, man alone
+perpetuates himself.
+
+
+
+
+CHAPTER IX
+
+THE FAMILY OF MICHAEL AROUT
+
+September 15th, Eight O'clock
+
+This morning, while I was arranging my books, Mother Genevieve came in,
+and brought me the basket of fruit I buy of her every Sunday.  For the
+nearly twenty years that I have lived in this quarter, I have dealt in
+her little fruit-shop.  Perhaps I should be better served elsewhere, but
+Mother Genevieve has but little custom; to leave her would do her harm,
+and cause her unnecessary pain.  It seems to me that the length of our
+acquaintance has made me incur a sort of tacit obligation to her; my
+patronage has become her property.
+
+She has put the basket upon my table, and as I want her husband, who is a
+joiner, to add some shelves to my bookcase, she has gone downstairs again
+immediately to send him to me.
+
+At first I did not notice either her looks or the sound of her voice:
+but, now that I recall them, it seems to me that she was not as jovial as
+usual.  Can Mother Genevieve be in trouble about anything?
+
+Poor woman!  All her best years were subject to such bitter trials, that
+she might think she had received her full share already.  Were I to live
+a hundred years, I should never forget the circumstances which made her
+known to me, and which obtained for her my respect.
+
+It was at the time of my first settling in the faubourg.  I had noticed
+her empty fruit-shop, which nobody came into, and, being attracted by its
+forsaken appearance, I made my little purchases in it.  I have always
+instinctively preferred the poor shops; there is less choice in them, but
+it seems to me that my purchase is a sign of sympathy with a brother in
+poverty.  These little dealings are almost always an anchor of hope to
+those whose very existence is in peril--the only means by which some
+orphan gains a livelihood.  There the aim of the tradesman is not to
+enrich himself, but to live!  The purchase you make of him is more than
+an exchange--it is a good action.
+
+Mother Genevieve at that time was still young, but had already lost that
+fresh bloom of youth which suffering causes to wither so soon among the
+poor.  Her husband, a clever joiner, gradually left off working to
+become, according to the picturesque expression of the workshops, a
+worshipper of Saint Monday.  The wages of the week, which was always
+reduced to two or three working days, were completely dedicated by him to
+the worship of this god of the Barriers,--[The cheap wine shops are
+outside the Barriers, to avoid the octroi, or municipal excise.]--and
+Genevieve was obliged herself to provide for all the wants of the
+household.
+
+One evening, when I went to make some trifling purchases of her, I heard
+a sound of quarrelling in the back shop.  There were the voices of
+several women, among which I distinguished that of Genevieve, broken by
+sobs.  On looking farther in, I perceived the fruit-woman holding a child
+in her arms, and kissing it, while a country nurse seemed to be claiming
+her wages from her.  The poor woman, who without doubt had exhausted
+every explanation and every excuse, was crying in silence, and one of her
+neighbors was trying in vain to appease the countrywoman.  Excited by
+that love of money which the evils of a hard peasant life but too well
+excuse, and disappointed by the refusal of her expected wages, the nurse
+was launching forth in recriminations, threats, and abuse.  In spite of
+myself, I listened to the quarrel, not daring to interfere, and not
+thinking of going away, when Michael Arout appeared at the shop-door.
+
+The joiner had just come from the Barriers, where he had passed part of
+the day at a public-house.  His blouse, without a belt, and untied at the
+throat, showed none of the noble stains of work: in his hand he held his
+cap, which he had just picked up out of the mud; his hair was in
+disorder, his eye fixed, and the pallor of drunkenness in his face.  He
+came reeling in, looked wildly around him, and called Genevieve.
+
+She heard his voice, gave a start, and rushed into the shop; but at the
+sight of the miserable man, who was trying in vain to steady himself, she
+pressed the child in her arms, and bent over it with tears.
+
+The countrywoman and the neighbor had followed her.
+
+"Come! come!"  cried the former in a rage, "do you intend to pay me,
+after all?"
+
+"Ask the master for the money," ironically answered the woman from the
+next door, pointing to the joiner, who had just fallen against the
+counter.
+
+The countrywoman looked at him.
+
+"Ah!  he is the father," returned she.  "Well, what idle beggars! not to
+have a penny to pay honest people; and get tipsy with wine in that way."
+
+The drunkard raised his head.
+
+"What! what!"  stammered he; "who is it that talks of wine?  I've had
+nothing but brandy!  But I am going back again to get some wine!  Wife,
+give me your money; there are some friends waiting for me at the 'Pere
+la Tuille'."
+
+Genevieve did not answer: he went round the counter, opened the till, and
+began to rummage in it.
+
+"You see where the money of the house goes!"  observed the neighbor to
+the countrywoman; "how can the poor unhappy woman pay you when he takes
+all?"
+
+"Is that my fault?"  replied the nurse, angrily.  "They owe to me, and
+somehow or other they must pay me!"
+
+And letting loose her tongue, as these women out of the country do, she
+began relating at length all the care she had taken of the child, and all
+the expense it had been to her.  In proportion as she recalled all she
+had done, her words seemed to convince her more than ever of her rights,
+and to increase her anger.  The poor mother, who no doubt feared that her
+violence would frighten the child, returned into the back shop, and put
+it into its cradle.
+
+Whether it is that the countrywoman saw in this act a determination to
+escape her claims, or that she was blinded by passion, I cannot say; but
+she rushed into the next room, where I heard the sounds of quarrelling,
+with which the cries of the child were soon mingled.  The joiner, who was
+still rummaging in the till, was startled, and raised his head.
+
+At the same moment Genevieve appeared at the door, holding in her arms
+the baby that the countrywoman was trying to tear from her.  She ran
+toward the counter, and throwing herself behind her husband, cried:
+
+"Michael, defend your son!"
+
+The drunken man quickly stood up erect, like one who awakes with a start.
+
+"My son!"  stammered he; "what son?"
+
+His looks fell upon the child; a vague ray of intelligence passed over
+his features.
+
+"Robert," resumed he; "it is Robert!"
+
+He tried to steady himself on his feet, that he might take the baby, but
+he tottered.  The nurse approached him in a rage.
+
+"My money, or I shall take the child away!"  cried she.  "It is I who
+have fed and brought it up: if you don't pay me for what has made it
+live, it ought to be the same to you as if it were dead.  I shall not go
+until I have my due, or the baby."
+
+"And what would you do with him?"  murmured Genevieve, pressing Robert
+against her bosom.
+
+"Take it to the Foundling!"  replied the countrywoman, harshly; "the
+hospital is a better mother than you are, for it pays for the food of its
+little ones."
+
+At the word "Foundling," Genevieve had exclaimed aloud in horror.  With
+her arms wound round her son, whose head she hid in her bosom, and her
+two hands spread over him, she had retreated to the wall, and remained
+with her back against it, like a lioness defending her young.  The
+neighbor and I contemplated this scene, without knowing how we could
+interfere.  As for Michael, he looked at us by turns, making a visible
+effort to comprehend it all.  When his eye rested upon Genevieve and the
+child, it lit up with a gleam of pleasure; but when he turned toward us,
+he again became stupid and hesitating.
+
+At last, apparently making a prodigious effort, he cried out, "Wait!"
+
+And going to a tub filled with water, he plunged his face into it several
+times.
+
+Every eye was turned upon him; the countrywoman herself seemed
+astonished.  At length he raised his dripping head.  This ablution had
+partly dispelled his drunkenness; he looked at us for a moment, then he
+turned to Genevieve, and his face brightened up.
+
+"Robert!"  cried he, going up to the child, and taking him in his arms.
+"Ah!  give him me, wife; I must look at him."
+
+The mother seemed to give up his son to him with reluctance, and stayed
+before him with her arms extended, as if she feared the child would have
+a fall.  The nurse began again in her turn to speak, and renewed her
+claims, this time threatening to appeal to law.  At first Michael
+listened to her attentively, and when he comprehended her meaning, he
+gave the child back to its mother.
+
+"How much do we owe you?"  asked he.
+
+The countrywoman began to reckon up the different expenses, which
+amounted to nearly thirty francs.  The joiner felt to the bottom of his
+pockets, but could find nothing.  His forehead became contracted by
+frowns; low curses began to escape him.  All of a sudden he rummaged in
+his breast, drew forth a large watch, and holding it up above his head:
+
+"Here it is--here's your money!" cried he with a joyful laugh; "a watch,
+a good one!  I always said it would keep for a drink on a dry day; but it
+is not I who will drink it, but the young one.  Ah! ah! ah! go and sell
+it for me, neighbor, and if that is not enough, I have my earrings.  Eh!
+Genevieve, take them off for me; the earrings will square all!  They
+shall not say you have been disgraced on account of the child--no, not
+even if I must pledge a bit of my flesh!  My watch, my earrings, and my
+ring--get rid of all of them for me at the goldsmith's; pay the woman,
+and let the little fool go to sleep.  Give him me, Genevieve; I will put
+him to bed."
+
+And, taking the baby from the arms of his mother, he carried him with a
+firm step to his cradle.
+
+It was easy to perceive the change which took place in Michael from this
+day.  He cut all his old drinking acquaintances.  He went early every
+morning to his work, and returned regularly in the evening to finish the
+day with Genevieve and Robert.  Very soon he would not leave them at all,
+and he hired a place near the fruit-shop, and worked in it on his own
+account.
+
+They would soon have been able to live in comfort, had it not been for
+the expenses which the child required.  Everything was given up to his
+education.  He had gone through the regular school training, had studied
+mathematics, drawing, and the carpenter's trade, and had only begun to
+work a few months ago.  Till now, they had been exhausting every resource
+which their laborious industry could provide to push him forward in his
+business; and, happily, all these exertions had not proved useless: the
+seed had brought forth fruit, and the days of harvest were close by.
+
+While I was thus recalling these remembrances to my mind, Michael had
+come in, and was occupied in fixing shelves where they were wanted.
+
+During the time I was writing the notes of my journal, I was also
+scrutinizing the joiner.
+
+The excesses of his youth and the labor of his manhood have deeply marked
+his face; his hair is thin and gray, his shoulders stoop, his legs are
+shrunken and slightly bent.  There seems a sort of weight in his whole
+being.  His very features have an expression of sorrow and despondency.
+He answers my questions by monosyllables, and like a man who wishes to
+avoid conversation.  Whence comes this dejection, when one would think he
+had all he could wish for?  I should like to know!
+
+
+Ten o'clock.--Michael is just gone downstairs to look for a tool he has
+forgotten.  I have at last succeeded in drawing from him the secret of
+his and Genevieve's sorrow.  Their son Robert is the cause of it!
+
+Not that he has turned out ill after all their care--not that he is idle
+or dissipated; but both were in hopes he would never leave them any more.
+The presence of the young man was to have renewed and made glad their
+lives once more; his mother counted the days, his father prepared
+everything to receive their dear associate in their toils; and at the
+moment when they were thus about to be repaid for all their sacrifices,
+Robert had suddenly informed them that he had just engaged himself to a
+contractor at Versailles.
+
+Every remonstrance and every prayer were useless; he brought forward the
+necessity of initiating himself into all the details of an important
+contract, the facilities he should have in his new position of improving
+himself in his trade, and the hopes he had of turning his knowledge to
+advantage.  At, last, when his mother, having come to the end of her
+arguments, began to cry, he hastily kissed her, and went away that he
+might avoid any further remonstrances.
+
+He had been absent a year, and there was nothing to give them hopes of
+his return.  His parents hardly saw him once a month, and then he only
+stayed a few moments with them.
+
+"I have been punished where I had hoped to be rewarded," Michael said to
+me just now.  "I had wished for a saving and industrious son, and God has
+given me an ambitious and avaricious one!  I had always said to myself
+that when once he was grown up we should have him always with us, to
+recall our youth and to enliven our hearts.  His mother was always
+thinking of getting him married, and having children again to care for.
+You know women always will busy themselves about others.  As for me, I
+thought of him working near my bench, and singing his new songs; for he
+has learnt music, and is one of the best singers at the Orpheon.
+
+A dream, sir, truly!  Directly the bird was fledged, he took to flight,
+and remembers neither father nor mother.  Yesterday, for instance, was
+the day we expected him; he should have come to supper with us.  No
+Robert to-day, either!  He has had some plan to finish, or some bargain
+to arrange, and his old parents are put down last in the accounts, after
+the customers and the joiner's work.  Ah! if I could have guessed how it
+would have turned out!  Fool! to have sacrificed my likings and my money,
+for nearly twenty years, to the education of a thankless son!  Was it for
+this I took the trouble to cure myself of drinking, to break with my
+friends, to become an example to the neighborhood?  The jovial good
+fellow has made a goose of himself.  Oh! if I had to begin again!  No,
+no!  you see women and children are our bane.  They soften our hearts;
+they lead us a life of hope and affection; we pass a quarter of our lives
+in fostering the growth of a grain of corn which is to be everything to
+us in our old age, and when the harvest-time comes--good-night, the ear
+is empty!"
+
+While he was speaking, Michael's voice became hoarse, his eyes fierce,
+and his lips quivered.  I wished to answer him, but I could only think of
+commonplace consolations, and I remained silent.  The joiner pretended he
+needed a tool, and left me.
+
+Poor father!  Ah! I know those moments of temptation when virtue has
+failed to reward us, and we regret having obeyed her!  Who has not felt
+this weakness in hours of trial, and who has not uttered, at least once,
+the mournful exclamation of Brutus?
+
+But if virtue is only a word, what is there then in life that is true
+and real?  No, I will not believe that goodness is in vain!  It does not
+always give the happiness we had hoped for, but it brings some other.
+In the world everything is ruled by order, and has its proper and
+necessary consequences, and virtue cannot be the sole exception to the
+general law.  If it had been prejudicial to those who practised it,
+experience would have avenged them; but experience has, on the contrary,
+made it more universal and more holy.  We only accuse it of being a
+faithless debtor because we demand an immediate payment, and one apparent
+to our senses.  We always consider life as a fairytale, in which every
+good action must be rewarded by a visible wonder.  We do not accept as
+payment a peaceful conscience, self-content, or a good name among men--
+treasures that are more precious than any other, but the value of which
+we do not feel till after we have lost them!
+
+Michael is come back, and has returned to his work.  His son has not yet
+arrived.
+
+By telling me of his hopes and his grievous disappointments, he became
+excited; he unceasingly went over again the same subject, always adding
+something to his griefs.  He had just wound up his confidential discourse
+by speaking to me of a joiner's business which he had hoped to buy, and
+work to good account with Robert's help.  The present owner had made a
+fortune by it, and, after thirty years of business, he was thinking of
+retiring to one of the ornamental cottages in the outskirts of the city,
+a usual retreat for the frugal and successful workingman.  Michael had
+not indeed the two thousand francs which must be paid down; but perhaps
+he could have persuaded Master Benoit to wait.  Robert's presence would
+have been a security for him, for the young man could not fail to insure
+the prosperity of a workshop; besides science and skill, he had the power
+of invention and bringing to perfection.  His father had discovered among
+his drawings a new plan for a staircase, which had occupied his thoughts
+for a long time; and he even suspected him of having engaged himself to
+the Versailles contractor for the very purpose of executing it.  The
+youth was tormented by this spirit of invention, which took possession of
+all his thoughts, and, while devoting his mind to study, he had no time
+to listen to his feelings.
+
+Michael told me all this with a mixed feeling of pride and vexation.  I
+saw he was proud of the son he was abusing, and that his very pride made
+him more sensitive to that son's neglect.
+
+
+Six o'clock P.M.--I have just finished a happy day.  How many events have
+happened within a few hours, and what a change for Genevieve and Michael!
+
+He had just finished fixing the shelves, and telling me of his son, while
+I laid the cloth for my breakfast.
+
+Suddenly we heard hurried steps in the passage, the door opened, and
+Genevieve entered with Robert.
+
+The joiner gave a start of joyful surprise, but he repressed it
+immediately, as if he wished to keep up the appearance of displeasure.
+
+The young man did not appear to notice it, but threw himself into his
+arms in an open-hearted manner, which surprised me.  Genevieve, whose
+face shone with happiness, seemed to wish to speak, and to restrain
+herself with difficulty.
+
+I told Robert I was glad to see him, and he answered me with ease and
+civility.
+
+"I expected you yesterday," said Michael Arout, rather dryly.
+
+"Forgive me, father," replied the young workman, "but I had business at
+St.  Germain's.  I was not able to come back till it was very late, and
+then the master kept me."
+
+The joiner looked at his son sidewise, and then took up his hammer again.
+
+"All right," muttered he, in a grumbling tone; "when we are with other
+people we must do as they wish; but there are some who would like better
+to eat brown bread with their own knife than partridges with the silver
+fork of a master."
+
+"And I am one of those, father," replied Robert, merrily, "but, as the
+proverb says, "you must shell the peas before you can eat them."  It was
+necessary that I should first work in a great workshop--"
+
+"To go on with your plan of the staircase," interrupted Michael,
+ironically.
+
+"You must now say Monsieur Raymond's plan, father," replied Robert,
+smiling.
+
+"Why?"
+
+"Because I have sold it to him."
+
+The joiner, who was planing a board, turned round quickly.
+
+"Sold it!"  cried he, with sparkling eyes.
+
+"For the reason that I was not rich enough to give it him."
+
+Michael threw down the board and tool.
+
+"There he is again!"  resumed he, angrily; "his good genius puts an idea
+into his head which would have made him known, and he goes and sells it
+to a rich man, who will take the honor of it himself."
+
+"Well, what harm is there done?"  asked Genevieve.
+
+"What harm!"  cried the joiner, in a passion.  "You understand nothing
+about it--you are a woman; but he--he knows well that a true workman
+never gives up his own inventions for money, no more than a soldier would
+give up his cross.  That is his glory; he is bound to keep it for the
+honor it does him!  Ah, thunder!  if I had ever made a discovery, rather
+than put it up at auction I would have sold one of my eyes!  Don't you
+see that a new invention is like a child to a workman?  He takes care of
+it, he brings it up, he makes a way for it in the world, and it is only a
+poor creature who sells it."
+
+Robert colored a little.
+
+"You will think differently, father," said he, "when you know why I sold
+my plan."
+
+"Yes, and you will thank him for it," added Genevieve, who could no
+longer keep silence.
+
+"Never !"  replied Michael.
+
+"But, wretched man!"  cried she, "he sold it only for our sakes!"
+
+The joiner looked at his wife and son with astonishment.  It was
+necessary to come to an explanation.  The latter related how he had
+entered into a negotiation with Master Benoit, who had positively refused
+to sell his business unless one half of the two thousand francs were
+first paid down.  It was in the hopes of obtaining this sum that he had
+gone to work with the contractor at Versailles; he had had an opportunity
+of trying his invention, and of finding a purchaser.  Thanks to the money
+he received for it, he had just concluded the bargain with Benoit, and
+had brought his father the key of the new work-yard.
+
+This explanation was given by the young workman with so much modesty and
+simplicity that I was quite affected by it.  Genevieve cried; Michael
+pressed his son to his heart, and in a long embrace he seemed to ask his
+pardon for having unjustly accused him.
+
+All was now explained with honor to Robert.  The conduct which his
+parents had ascribed to indifference really sprang from affection; he had
+neither obeyed the voice of ambition nor of avarice, nor even the nobler
+inspiration of inventive genius: his whole motive and single aim had been
+the happiness of Genevieve and Michael.  The day for proving his
+gratitude had come, and he had returned them sacrifice for sacrifice!
+
+After the explanations and exclamations of joy were over, all three were
+about to leave me; but, the cloth being laid, I added three more places,
+and kept them to breakfast.
+
+The meal was prolonged: the fare was only tolerable; but the over-
+flowings of affection made it delicious.  Never had I better understood
+the unspeakable charm of family love.  What calm enjoyment in that
+happiness which is always shared with others; in that community of
+interests which unites such various feelings; in that association of
+existences which forms one single being of so many!  What is man without
+those home affections, which, like so many roots, fix him firmly in the
+earth, and permit him to imbibe all the juices of life?  Energy,
+happiness--do not all these come from them?  Without family life where
+would man learn to love, to associate, to deny himself?  A community in
+little, is it not this which teaches us how to live in the great one?
+Such is the holiness of home, that, to express our relation with God, we
+have been obliged to borrow the words invented for our family life.  Men
+have named themselves the sons of a heavenly Father!
+
+Ah!  let us carefully preserve these chains of domestic union.  Do not
+let us unbind the human sheaf, and scatter its ears to all the caprices
+of chance and of the winds; but let us rather enlarge this holy law; let
+us carry the principles and the habits of home beyond set bounds; and,
+if it may be, let us realize the prayer of the Apostle of the Gentiles
+when he exclaimed to the newborn children of Christ: "Be ye like-minded,
+having the same love, being of one accord, of one mind."
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Always to mistake feeling for evidence
+Fame and power are gifts that are dearly bought
+Fortune sells what we believe she gives
+Make himself a name:  he becomes public property
+My patronage has become her property
+Not desirous to teach goodness
+Power of necessity
+Progress can never be forced on without danger
+So much confidence at first, so much doubt at las
+The man in power gives up his peace
+Virtue made friends, but she did not take pupils
+We are not bound to live, while we are bound to do our duty
+
+
+
+
+End of this Project Gutenberg Etext of An "Attic" Philosopher, v2
+by Emile Souvestre
+

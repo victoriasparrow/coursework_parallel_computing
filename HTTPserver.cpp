@@ -107,12 +107,12 @@ void serveStaticFile(int socketFD, const std::string& relativePath) {
 }
 
 std::string dynamicHTML(const std::vector<QueryResult>& results, const std::string& query, int page, uint32_t totalDocs) {
-    std::string html = "";
+    std::string html;
+    html += "<style>#result-box { display: block !important; }</style>";
     if (results.empty()) {
         html += "<p class='no-results'>no results found :(</p>";
         return html;
     }
-    html += "<style>#result-box { display: block !important; }</style>";
     for (const auto& res : results) {
         html += "<div class='result-item'>";
         html += "<h3>";
@@ -152,6 +152,7 @@ void handleSearchRequest(int socketFD, const HttpRequest& req, SearchEngine& dat
     std::string resultsHTML;
 
     if (!query.empty()) {
+        for (char& c : query) { c = tolower(c); }
         SearchResult result = getSearchResult(query, page, data);
         resultsHTML = dynamicHTML(result.results, query, page, result.totalDocs);
     }

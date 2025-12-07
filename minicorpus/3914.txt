@@ -1,0 +1,3201 @@
+The Project Gutenberg Etext of Serge Panine, by Georges Ohnet, v1
+#1 in our series The French Immortals Crowned by the French Academy
+#1 in our series by Georges Ohnet
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Serge Panine, v1
+
+Author: Georges Ohnet
+
+Release Date: April, 2003  [Etext #3914]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 08/19/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of Serge Panine, v1, by George Ohnet
+******This file should be named 3914.txt or 3914.zip******
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07/27/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+SERGE PANINE
+
+By GEORGES OHNET
+
+
+With a General Introduction to the Series by GASTON BOISSIER, Secretaire
+Perpetuel de l'academie Francaise.
+
+
+
+
+GENERAL INTRODUCTION
+
+1905
+
+BY ROBERT ARNOT
+
+The editor-in-chief of the Maison Mazarin--a man of letters who cherishes
+an enthusiastic yet discriminating love for the literary and artistic
+glories of France--formed within the last two years the great project of
+collecting and presenting to the vast numbers of intelligent readers of
+whom New World boasts a series of those great and undying romances which,
+since 1784, have received the crown of merit awarded by the French
+Academy--that coveted assurance of immortality in letters and in art.
+
+In the presentation of this serious enterprise for the criticism and
+official sanction of The Academy, 'en seance', was included a request
+that, if possible, the task of writing a preface to the series should be
+undertaken by me.  Official sanction having been bestowed upon the plan,
+I, as the accredited officer of the French Academy, convey to you its
+hearty appreciation, endorsement, and sympathy with a project so nobly
+artistic.  It is also my duty, privilege, and pleasure to point out, at
+the request of my brethren, the peculiar importance and lasting value of
+this series to all who would know the inner life of a people whose
+greatness no turns of fortune have been able to diminish.
+
+In the last hundred years France has experienced the most terrible
+vicissitudes, but, vanquished or victorious, triumphant or abased, never
+has she lost her peculiar gift of attracting the curiosity of the world.
+She interests every living being, and even those who do not love her
+desire to know her.  To this peculiar attraction which radiates from her,
+artists and men of letters can well bear witness, since it is to
+literature and to the arts, before all, that France owes such living and
+lasting power.  In every quarter of the civilized world there are
+distinguished writers, painters, and eminent musicians, but in France
+they exist in greater numbers than elsewhere.  Moreover, it is
+universally conceded that French writers and artists have this particular
+and praiseworthy quality: they are most accessible to people of other
+countries.  Without losing their national characteristics, they possess
+the happy gift of universality.  To speak of letters alone: the books
+that Frenchmen write are read, translated, dramatized, and imitated
+everywhere; so it is not strange that these books give to foreigners a
+desire for a nearer and more intimate acquaintance with France.
+
+Men preserve an almost innate habit of resorting to Paris from almost
+every quarter of the globe.  For many years American visitors have been
+more numerous than others, although the journey from the United States is
+long and costly.  But I am sure that when for the first time they see
+Paris--its palaces, its churches, its museums--and visit Versailles,
+Fontainebleau, and Chantilly, they do not regret the travail they have
+undergone.  Meanwhile, however, I ask myself whether such sightseeing is
+all that, in coming hither, they wish to accomplish.  Intelligent
+travellers--and, as a rule, it is the intelligent class that feels the
+need of the educative influence of travel--look at our beautiful
+monuments, wander through the streets and squares among the crowds that
+fill them, and, observing them, I ask myself again: Do not such people
+desire to study at closer range these persons who elbow them as they
+pass; do they not wish to enter the houses of which they see but the
+facades; do they not wish to know how Parisians live and speak and act by
+their firesides?  But time, alas! is lacking for the formation of those
+intimate friendships which would bring this knowledge within their grasp.
+French homes are rarely open to birds of passage, and visitors leave us
+with regret that they have not been able to see more than the surface of
+our civilization or to recognize by experience the note of our inner home
+life.
+
+How, then, shall this void be filled?  Speaking in the first person, the
+simplest means appears to be to study those whose profession it is to
+describe the society of the time, and primarily, therefore, the works of
+dramatic writers, who are supposed to draw a faithful picture of it.  So
+we go to the theatre, and usually derive keen pleasure therefrom.  But is
+pleasure all that we expect to find?  What we should look for above
+everything in a comedy or a drama is a representation, exact as possible,
+of the manners and characters of the dramatis persona of the play; and
+perhaps the conditions under which the play was written do not allow such
+representation.  The exact and studied portrayal of a character demands
+from the author long preparation, and cannot be accomplished in a few
+hours.  From, the first scene to the last, each tale must be posed in the
+author's mind exactly as it will be proved to be at the end.  It is the
+author's aim and mission to place completely before his audience the
+souls of the "agonists" laying bare the complications of motive, and
+throwing into relief the delicate shades of motive that sway them.
+Often, too, the play is produced before a numerous audience--an audience
+often distrait, always pressed for time, and impatient of the least
+delay.  Again, the public in general require that they shall be able to
+understand without difficulty, and at first thought, the characters the
+author seeks to present, making it necessary that these characters be
+depicted from their most salient sides--which are too often vulgar and
+unattractive.
+
+In our comedies and dramas it is not the individual that is drawn, but
+the type.  Where the individual alone is real, the type is a myth of the
+imagination--a pure invention.  And invention is the mainspring of the
+theatre, which rests purely upon illusion, and does not please us unless
+it begins by deceiving us.
+
+I believe, then, that if one seeks to know the world exactly as it is,
+the theatre does not furnish the means whereby one can pursue the study.
+A far better opportunity for knowing the private life of a people is
+available through the medium of its great novels.  The novelist deals
+with each person as an individual.  He speaks to his reader at an hour
+when the mind is disengaged from worldly affairs, and he can add without
+restraint every detail that seems needful to him to complete the rounding
+of his story.  He can return at will, should he choose, to the source of
+the plot he is unfolding, in order that his reader may better understand
+him; he can emphasize and dwell upon those details which an audience in a
+theatre will not allow.
+
+The reader, being at leisure, feels no impatience, for he knows that he
+can at any time lay down or take up the book.  It is the consciousness of
+this privilege that gives him patience, should he encounter a dull page
+here or there.  He may hasten or delay his reading, according to the
+interest he takes in his romance-nay, more, he can return to the earlier
+pages, should he need to do so, for a better comprehension of some
+obscure point.  In proportion as he is attracted and interested by the
+romance, and also in the degree of concentration with which he reads it,
+does he grasp better the subtleties of the narrative.  No shade of
+character drawing escapes him.  He realizes, with keener appreciation,
+the most delicate of human moods, and the novelist is not compelled to
+introduce the characters to him, one by one, distinguishing them only by
+the most general characteristics, but can describe each of those little
+individual idiosyncrasies that contribute to the sum total of a living
+personality.
+
+When I add that the dramatic author is always to a certain extent a slave
+to the public, and must ever seek to please the passing taste of his
+time, it will be recognized that he is often, alas! compelled to
+sacrifice his artistic leanings to popular caprice-that is, if he has the
+natural desire that his generation should applaud him.
+
+As a rule, with the theatre-going masses, one person follows the fads or
+fancies of others, and individual judgments are too apt to be
+irresistibly swayed by current opinion.  But the novelist, entirely
+independent of his reader, is not compelled to conform himself to the
+opinion of any person, or to submit to his caprices.  He is absolutely
+free to picture society as he sees it, and we therefore can have more
+confidence in his descriptions of the customs and characters of the day.
+
+It is precisely this view of the case that the editor of the series has
+taken, and herein is the raison d'etre of this collection of great French
+romances.  The choice was not easy to make.  That form of literature
+called the romance abounds with us.  France has always loved it, for
+French writers exhibit a curiosity--and I may say an indiscretion--that
+is almost charming in the study of customs and morals at large; a quality
+that induces them to talk freely of themselves and of their neighbors,
+and to set forth fearlessly both the good and the bad in human nature.
+In this fascinating phase of literature, France never has produced
+greater examples than of late years.
+
+In the collection here presented to American readers will be found those
+works especially which reveal the intimate side of French social life-
+works in which are discussed the moral problems that affect most potently
+the life of the world at large.  If inquiring spirits seek to learn the
+customs and manners of the France of any age, they must look for it among
+her crowned romances.  They need go back no farther than Ludovic Halevy,
+who may be said to open the modern epoch.  In the romantic school, on its
+historic side, Alfred de Vigny must be looked upon as supreme.  De Musset
+and Anatole France may be taken as revealing authoritatively the moral
+philosophy of nineteenth-century thought.  I must not omit to mention the
+Jacqueline of Th. Bentzon, and the "Attic " Philosopher of Emile
+Souvestre, nor the, great names of Loti, Claretie, Coppe, Bazin, Bourget,
+Malot, Droz, De Massa, and last, but not least, our French Dickens,
+Alphonse Daudet.  I need not add more; the very names of these
+"Immortals" suffice to commend the series to readers in all countries.
+
+One word in conclusion: America may rest assured that her students of
+international literature will find in this series of 'ouvrages couronnes'
+all that they may wish to know of France at her own fireside--a knowledge
+that too often escapes them, knowledge that embraces not only a faithful
+picture of contemporary life in the French provinces, but a living and
+exact description of French society in modern times.  They may feel
+certain that when they have read these romances, they will have sounded
+the depths and penetrated into the hidden intimacies of France, not only
+as she is, but as she would be known.
+
+                                        GASTON BOISSIER
+
+SECRETAIRE PERPETUEL DE L'ACADEMIE FRANCAISE
+
+
+
+
+GEORGES OHNET
+
+The only French novelist whose books have a circulation approaching the
+works of Daudet and of Zola is Georges Ohnet, a writer whose popularity
+is as interesting as his stories, because it explains, though it does not
+excuse, the contempt the Goncourts had for the favor of the great French
+public, and also because it shows how the highest form of Romanticism
+still ferments beneath the varnish of Naturalism in what is called genius
+among the great masses of readers.
+
+Georges Ohnet was born in Paris, April 3, 1848, the son of an architect.
+He was destined for the Bar, but was early attracted by journalism and
+literature.  Being a lawyer it was not difficult for him to join the
+editorial staff of Le Pays, and later Le Constitutionnel.  This was soon
+after the Franco-German War.  His romances, since collected under the
+title 'Batailles de la Vie', appeared first in 'Le Figaro,
+L'Illustration, and Revue des Deux Mondes', and have been exceedingly
+well received by the public.  This relates also to his dramas, some of
+his works meeting with a popular success rarely extended to any author.
+For some time Georges Ohnet did not find the same favor with the critics,
+who often attacked him with a passionate violence and unusual severity.
+True, a high philosophical flow of thoughts cannot be detected in his
+writings, but nevertheless it is certain that the characters and the
+subjects of which he treats are brilliantly sketched and clearly
+developed.  They are likewise of perfect morality and honesty.
+
+There was expected of him, however, an idea which was not quite realized.
+Appearing upon the literary stage at a period when Naturalism was
+triumphant, it was for a moment believed that he would restore Idealism
+in the manner of George Sand.
+
+In any case the hostile critics have lost.  For years public opinion has
+exalted him, and the reaction is the more significant when compared with
+the tremendous criticism launched against his early romances and novels.
+
+A list of his works follows:
+
+Serge Panine (1881), crowned by the French Academy, has since gone
+through one hundred and fifty French editions; Le Maitre des Forges (1882),
+a prodigious success, two hundred and fifty editions being printed (1900);
+La Comtesse Sarah (1882); Lise Fleuyon (1884);  La Grande Maynieye
+(1886);  Les Dames de Croix-Mort (1886); Volonte (1888);  Le Docteur
+Rameau (1889);  Deynier Amour (1889);  Le Cure de Favieyes (1890);  Dette
+de Haine (1891);  Nemsod et Cie. (1892); Le Lendemain des Amours (1893);
+Le Droit de l'Enfant (1894.);  Les Vielles Rancunes (1894);  La Dame en
+Gris (1895); La Fille du Depute (1896);  Le Roi de Paris (1898);  Au Fond
+du Gouffre (1899);  Gens de la Noce (1900);  La Tenibreuse (1900); Le
+Cyasseur d'Affaires (1901); Le Crepuscule (1901);  Le Marche a l'Amour
+(1902).
+
+Ohnet's novels are collected under the titles, 'Noir et Rose (1887) and
+L'Ame de Pierre (1890).
+
+The dramatic writings of Georges Ohnet, mostly taken from his novels,
+have greatly contributed to his reputation.  Le Maitre des Forges was
+played for a full year (Gymnase, 1883); it was followed by Serge Panine
+(1884); La Comtesse Sarah (1887).  La Grande Mayniere (1888), met also
+with a decided and prolonged success; Dernier Amour (Gymnase, 1890);
+Colonel Roquebrune (Porte St.  Martin, 1897).  Before that he had already
+written the plays Regina Sarpi (1875) and Marthe (1877), which yet hold a
+prominent place upon the French stage.
+
+I have shown in this rapid sketch that a man of the stamp of Georges
+Ohnet must have immortal qualities in himself, even though flayed and
+roasted alive by the critics.  He is most assuredly an artist in form,
+is endowed with a brilliant style, and has been named "L'Historiographe
+de la bourgeoise contemporaine."  Indeed, antagonism to plutocracy and
+hatred of aristocracy are the fundamental theses in almost every one of
+his books.
+
+His exposition, I repeat, is startlingly neat, the development of his
+plots absolutely logical, and the world has acclaimed his ingenuity in
+dramatic construction.  He is truly, and in all senses, of the Ages.
+
+                                        VICTOR CHERBOULIEZ
+                                     de l'Academie Francaise
+
+
+
+
+
+SERGE PANINE
+
+
+CHAPTER I
+
+THE HOUSE OF DESVARENNES
+
+The firm of Desvarennes has been in an ancient mansion in the Rue Saint
+Dominique since 1875; it is one of the best known and most important in
+French industry.  The counting-houses are in the wings of the building
+looking upon the courtyard, which were occupied by the servants when the
+family whose coat-of-arms has been effaced from above the gate-way were
+still owners of the estate.
+
+Madame Desvarennes inhabits the mansion which she has had magnificently
+renovated.  A formidable rival of the Darblays, the great millers of
+France, the firm of Desvarennes is a commercial and political power.
+Inquire in Paris about its solvency, and you will be told that you may
+safely advance twenty millions of francs on the signature of the head of
+the firm.  And this head is a woman.
+
+This woman is remarkable.  Gifted with keen understanding and a firm
+will, she had in former times vowed to make a large fortune, and she has
+kept her word.
+
+She was the daughter of a humble packer of the Rue Neuve-Coquenard.
+Toward 1848 she married Michel Desvarennes, who was then a journeyman
+baker in a large shop in the Chaussee d'Antin.  With the thousand francs
+which the packer managed to give his daughter by way of dowry, the young
+couple boldly took a shop and started a little bakery business.  The
+husband kneaded and baked the bread, and the young wife, seated at the
+counter, kept watch over the till.  Neither on Sundays nor on holidays
+was the shop shut.
+
+Through the window, between two pyramids of pink and blue packets of
+biscuits, one could always catch sight of the serious-looking Madame
+Desvarennes, knitting woollen stockings for her husband while waiting for
+customers.  With her prominent forehead, and her eyes always bent on her
+work, this woman appeared the living image of perseverance.
+
+At the end of five years of incessant work, and possessing twenty
+thousand francs, saved sou by sou, the Desvarennes left the <DW72>s of
+Montmartre, and moved to the centre of Paris.  They were ambitious and
+full of confidence.  They set up in the Rue Vivienne, in a shop
+resplendent with gilding and ornamented with looking-glasses.  The
+ceiling was painted in panels with bright hued pictures that caught the
+eyes of the passers-by.  The window-shelves were of white marble, and the
+counter, where Madame Desvarennes was still enthroned, was of a width
+worthy of the receipts that were taken every day.  Business increased
+daily; the Desvarennes continued to be hard and systematic workers.  The
+class of customers alone had changed; they were more numerous and richer.
+The house had a specialty for making small rolls for the restaurants.
+Michel had learned from the Viennese bakers how to make those golden
+balls which tempt the most rebellious appetite, and which, when in an
+artistically folded damask napkin, set off a dinner-table.
+
+About this time Madame Desvarennes, while calculating how much the
+millers must gain on the flour they sell to the bakers, resolved, in
+order to lessen expenses, to do without middlemen and grind her own corn.
+Michel, naturally timid, was frightened when his wife disclosed to him
+the simple project which she had formed.  Accustomed to submit to the
+will of her whom he respectfully called "the mistress," and of whom he
+was but the head clerk, he dared not oppose her.  But, a red-tapist by
+nature, and hating innovations, owing to weakness of mind, he trembled
+inwardly and cried in agony:
+
+"Wife, you'll ruin us."
+
+The mistress calmed the poor man's alarm; she tried to impart to him some
+of her confidence, to animate him with her hope, but without success, so
+she went on without him.  A mill was for sale at Jouy, on the banks of
+the Oise; she paid ready money for it, and a few weeks later the bakery
+in the Rue Vivienne was independent of every one.  She ground her own
+flour, and from that time business increased considerably. Feeling
+capable of carrying out large undertakings, and, moreover, desirous of
+giving up the meannesses of retail trade, Madame Desvarennes, one fine
+day, sent in a tender for supplying bread to the military hospitals. It
+was accepted, and from that time the house ranked among the most
+important.  On seeing the Desvarennes take their daring flight, the
+leading men in the trade had said:
+
+"They have system and activity, and if they do not upset on the way, they
+will attain a high position."
+
+But the mistress seemed to have the gift of divination.  She worked
+surely--if she struck out one way you might be certain that success was
+there.  In all her enterprises, "good luck" stood close by her; she
+scented failures from afar, and the firm never made a bad debt.  Still
+Michel continued to tremble.  The first mill had been followed by many
+more; then the old system appeared insufficient to Madame Desvarennes.
+As she wished to keep up with the increase of business she had steam-
+mills built,--which are now grinding three hundred million francs' worth
+of corn every year.
+
+Fortune had favored the house immensely, but Michel continued to tremble.
+From time to time when the mistress launched out a new business, he
+timidly ventured on his usual saying:
+
+"Wife, you're going to ruin us."
+
+But one felt it was only for form's sake, and that he himself no longer
+meant what he said.  Madame Desvarennes received this plaintive
+remonstrance with a calm smile, and answered, maternally, as to a child:
+
+"There, there, don't be frightened."
+
+Then she would set to work again, and direct with irresistible vigor the
+army of clerks who peopled her counting-houses.
+
+In fifteen years' time, by prodigious efforts of will and energy, Madame
+Desvarennes had made her way from the lonely and muddy Rue Neuve-
+Coquenard to the mansion in the Rue Saint-Dominique.  Of the bakery there
+was no longer question.  It was some time since the business in the Rue
+Vivienne had been transferred to the foreman of the shop.  The flour
+trade alone occupied Madame Desvarennes's attention.  She ruled the
+prices in the market; and great bankers came to her office and did
+business with her on a footing of equality.  She did not become any
+prouder for it, she knew too well the strength and weakness of life to
+have pride; her former plain dealing had not stiffened into self-
+sufficiency.  Such as one had known her when beginning business, such one
+found her in the zenith of her fortune.  Instead of a woollen gown she
+wore a silk one, but the color was still black; her language had not
+become refined; she retained the same blunt familiar accent, and at the
+end of five minutes' conversation with any one of importance she could
+not resist calling him "my dear," to come morally near him.  Her commands
+had more fulness.  In giving her orders, she had the manner of a
+commander-in-chief, and it was useless to haggle when she had spoken.
+The best thing to do was to obey, as well and as promptly as possible.
+
+Placed in a political sphere, this marvellously gifted woman would have
+been a Madame Roland; born to the throne, she would have been a Catherine
+II.; there was genius in her.  Sprung from the lower ranks, her
+superiority had given her wealth; had she come from the higher, the great
+mind might have governed the world.
+
+Still she was not happy; she had been married fifteen years, and her
+fireside was devoid of a cradle.  During the first years she had rejoiced
+at not having a child.  Where could she have found time to occupy herself
+with a baby?  Business engrossed her attention; she had no leisure to
+amuse herself with trifles.  Maternity seemed to her a luxury for rich
+women; she had her fortune to make.  In the struggle against the
+difficulties attending the enterprise she had begun, she had not had time
+to look around her and perceive that her home was lonely.  She worked
+from morning till night.  Her whole life was absorbed in this work, and
+when night came, overcome with fatigue, she fell asleep, her head filled
+with cares which stifled all tricks of the imagination.
+
+Michel grieved, but in silence; his feeble and dependent nature missed a
+child.  He, whose mind lacked occupation, thought of the future.  He said
+to himself that the day when the dreamt-of fortune came would be more
+welcome if there were an heir to whom to leave it.  What was the good of
+being rich, if the money went to collateral relatives?  There was his
+nephew Savinien, a disagreeable urchin whom he looked on with
+indifference; and he was biased regarding his brother, who had all but
+failed several times in business, and to whose aid he had come to save
+the honor of the name.  The mistress had not hesitated to help him, and
+had prevented the signature of "Desvarennes" being protested.  She had
+not taunted him, having as large a heart as she had a mind.  But Michel
+had felt humiliated to see his own folk make a gap in the financial
+edifice erected so laboriously by his wife.  Out of this had gradually
+sprung a sense of dissatisfaction with the Desvarennes of the other
+branch, which manifested itself by a marked coolness, when, by chance,
+his brother came to the house, accompanied by his son Savinien.
+
+And then the paternity of his brother made him secretly jealous.
+Why should that incapable fellow, who succeeded in nothing, have a son?
+It was only those ne'er-do-well sort of people who were thus favored.
+He, Michel, already called the rich Desvarennes, he had not a son.  Was
+it just?  But where is there justice in this world?
+
+The first time that she saw him with a downcast face the mistress had
+questioned him, and he had frankly expressed his regrets.  But he had
+been so repelled by his wife, in whose heart a great trouble, steadily
+repressed, however, had been produced, that he never dared to recur to
+the subject.
+
+He suffered in silence.  But he no longer suffered alone.  Like an
+overflowing river that finds an outlet in the valley, which it inundates,
+the longings for maternity, hitherto repressed by the preoccupations of
+business, had suddenly seized Madame Desvarennes.
+
+Strong and unyielding, she struggled and would not own herself conquered.
+Still she became sad.  Her voice sounded less sonorously in the offices
+where she gave an order; her energetic nature seemed subdued.  Now she
+looked around her.  She beheld prosperity made stable by incessant work,
+respect gained by spotless honesty; she had attained the goal which she
+had marked out in her ambitious dreams, as being paradise itself.
+Paradise was there; but it lacked the angel.  They had no child.
+
+From that day a change came over this woman, slowly but surely; scarcely
+perceptible to strangers, but easy to be seen by those around her.
+She became benevolent, and gave away considerable sums of money,
+especially to children's "Homes."  But when the good people who governed
+these establishments, lured on by her generosity, came to ask her to be
+on their committee of management, she became angry, asking them if they
+were joking with her?  What interest could those brats have for her?
+She had other fish to fry.  She gave them what they needed, and what
+more could they want?  The fact was she felt weak and troubled before
+children.  But within her a powerful and unknown voice had arisen, and
+the hour was not far distant when the bitter wave of her regrets was to
+overflow and be made manifest.
+
+She did not like Savinien, her nephew, and kept all her sweetness for the
+son of one of their old neighbors in the Rue Neuve-Coquenard, a small
+haberdasher, who had not been able to get on, but continued humbly to
+sell thread and needles to the thrifty folks of the neighborhood.  The
+haberdasher, Mother Delarue, as she was called, had remained a widow
+after one year of married life.  Pierre, her boy, had grown up under the
+shadow of the bakery, the cradle of the Desvarennes's fortunes.
+
+On Sundays the mistress would give him a gingerbread or a cracknel, and
+amuse herself with his baby prattle.  She did not lose sight of him when
+she removed to the Rue Vivienne.  Pierre had entered the elementary
+school of the neighborhood, and by his precocious intelligence and
+exceptional application, had not been long in getting to the top of his
+class.  The boy had left school after gaining an exhibition admitting him
+to the Chaptal College.  This hard worker, who was in a fair way of
+making his own position without costing his relatives anything, greatly
+interested Madame Desvarennes.  She found in this plucky nature a
+striking analogy to herself.  She formed projects for Pierre's future;
+in fancy she saw him enter the Polytechnic school, and leave it with
+honors.  The young man had the choice of becoming a mining or civil
+engineer, and of entering the government service.
+
+He was hesitating what to do when the mistress came and offered him a
+situation in her firm as junior partner; it was a golden bridge that she
+placed before him.  With his exceptional capacities he was not long in
+giving to the house a new impulse.  He perfected the machinery, and
+triumphantly defied all competition.  All this was a happy dream in which
+Pierre was to her a real son; her home became his, and she monopolized
+him completely.  But suddenly a shadow came o'er the spirit of her
+dreams.  Pierre's mother, the little haberdasher, proud of her son, would
+she consent to give him up to a stranger?  Oh! if Pierre had only been an
+orphan!  But one could not rob a mother of her son!  And Madame
+Desvarennes stopped the flight of her imagination.  She followed Pierre
+with anxious looks; but she forbade herself to dispose of the youth: he
+did not belong to her.
+
+This woman, at the age of thirty-five, still young in heart, was
+disturbed by feelings which she strove, but vainly, to rule.  She hid
+them especially from her husband, whose repining chattering she feared.
+If she had once shown him her weakness he would have overwhelmed her
+daily with the burden of his regrets.  But an unforeseen circumstance
+placed her at Michel's mercy.
+
+Winter had come, bringing December and its snow.  The weather this year
+was exceptionally inclement, and traffic in the streets was so difficult,
+business was almost suspended.  The mistress left her deserted offices
+and retired early to her private apartments.  The husband and wife spent
+their evenings alone.  They sat there, facing each other, at the
+fireside.  A shade concentrated the light of the lamp upon the table
+covered with expensive knick-knacks.  The ceiling was sometimes vaguely
+lighted up by a glimmer from the stove which glittered on the gilt
+cornices.  Ensconced in deep comfortable armchairs, the pair respectively
+caressed their favorite dream without speaking of it.
+
+Madame Desvarennes saw beside her a little pink-and-white baby girl,
+toddling on the carpet.  She heard her words, understood her language,
+untranslatable to all others than a mother.  Then bedtime came.  The
+child, with heavy eyelids, let her little fair-haired head fall on her
+shoulders.  Madame Desvarennes took her in her arms and undressed her
+quietly, kissing her bare and dimpled arms.  It was exquisite enjoyment
+which stirred her heart deliciously.  She saw the cradle, and devoured
+the child with her eyes.  She knew that the picture was a myth.  But what
+did it matter to her?  She was happy.  Michel's voice broke on her
+reverie.
+
+"Wife," said he, "this is Christmas Eve; and as there are only us two,
+suppose you put your slipper on the hearth."
+
+Madame Desvarennes rose.  Her eyes vaguely turned toward the hearth on
+which the fire was dying, and beside the upright of the large sculptured
+mantelpiece she beheld for a moment a tiny shoe, belonging to the child
+which she loved to see in her dreams.  Then the vision vanished, and
+there was nothing left but the lonely hearth.  A sharp pain tore her
+swollen heart; a sob rose to her lips, and, slowly, two tears rolled down
+her cheeks.  Michel, quite pale, looked at her in silence; he held out
+his hand to her, and said, in a trembling voice:
+
+"You were thinking about it, eh?"
+
+Madame Desvarennes bowed her head, twice, silently, and without adding
+another word, the pair fell into each other's arms and wept.
+
+From that day they hid nothing from each other, and shared their troubles
+and regrets in common.  The mistress unburdened her heart by making a
+full confession, and Michel, for the first time in his life, learned the
+depth of soul of his companion to its inmost recesses.  This woman, so
+energetic, so obstinate, was, as it were, broken down.  The springs of
+her will seemed worn out.  She felt despondencies and wearinesses until
+then unknown.  Work tired her.  She did not venture down to the offices;
+she talked of giving up business, which was a bad sign.  She longed for
+country air.  Were they not rich enough?  With their simple tastes so
+much money was unnecessary.  In fact, they had no wants.  They would go
+to some pretty estate in the suburbs of Paris, live there and plant
+cabbages.  Why work?  they had no children.
+
+Michel agreed to these schemes.  For a long time he had wished for
+repose.  Often he had feared that his wife's ambition would lead them too
+far.  But now, since she stopped of her own accord, it was all for the
+best.
+
+At this juncture their solicitor informed them that, near to their works,
+the Cernay estate was to be put up for sale.  Very often, when going from
+Jouy to the mills, Madame Desvarennes had noticed the chateau, the slate
+roofs of the turrets of which rose gracefully from a mass of deep
+verdure.  The Count de Cernay, the last representative of a noble race,
+had just died of consumption, brought on by reckless living, leaving
+nothing behind him but debts and a little girl two years old.  Her
+mother, an Italian singer and his mistress, had left him one morning
+without troubling herself about the child.  Everything was to be sold,
+by order of the Court.
+
+Some most lamentable incidents had saddened the Count's last hours.  The
+bailiffs had entered the house with the doctor when he came to pay his
+last call, and the notices of the sale were all but posted up before the
+funeral was over.  Jeanne, the orphan, scared amid the troubles of this
+wretched end, seeing unknown men walking into the reception-rooms with
+their hats on, hearing strangers speaking loudly and with arrogance, had
+taken refuge in the laundry.  It was there that Madame Desvarennes found
+her, playing, plainly dressed in a little alpaca frock, her pretty hair
+loose and falling on her shoulders.  She looked astonished at what she
+had seen; silent, not daring to run or sing as formerly in the great
+desolate house whence the master had just been taken away forever.
+
+With the vague instinct of abandoned children who seek to attach
+themselves to some one or some thing, Jeanne clung to Madame Desvarennes,
+who, ready to protect, and longing for maternity, took the child in her
+arms.  The gardener's wife acted as guide during her visit over the
+property.  Madame Desvarennes questioned her.  She knew nothing of the
+child except what she had heard from the servants when they gossiped in
+the evenings about their late master.  They said Jeanne was a bastard.
+Of her relatives they knew nothing.  The Count had an aunt in England who
+was married to a rich lord; but he had not corresponded with her lately.
+The little one then was reduced to beggary as the estate was to be sold.
+
+The gardener's wife was a good woman and was willing to keep the child
+until the new proprietor came; but when once affairs were settled, she
+would certainly go and make a declaration to the mayor, and take her to
+the workhouse.  Madame Desvarennes listened in silence.  One word only
+had struck her while the woman was speaking.  The child was without
+support, without ties, and abandoned like a poor lost dog.  The little
+one was pretty too; and when she fixed her large deep eyes on that
+improvised mother, who pressed her so tenderly to her heart, she seemed
+to implore her not to put her down, and to carry her away from the
+mourning that troubled her mind and the isolation that froze her heart.
+
+Madame Desvarennes, very superstitious, like a woman of the people, began
+to think that, perhaps, Providence had brought her to Cernay that day and
+had placed the child in her path.  It was perhaps a reparation which
+heaven granted her, in giving her the little girl she so longed for.
+Acting unhesitatingly, as she did in everything, she left her name with
+the woman, carried Jeanne to her carriage, and took her to Paris,
+promising herself to make inquiries to find her relatives.
+
+A month later, the property of Cernay pleasing her, and the researches
+for Jeanne's friends not proving successful, Madame Desvarennes took
+possession of the estate and the child into the bargain.
+
+Michel welcomed the child without enthusiasm.  The little stranger was
+indifferent to him; he would have preferred adopting a boy.  The mistress
+was delighted.  Her maternal instincts, so long stifled, developed fully.
+She made plans for the future.  Her energy returned; she spoke loudly and
+firmly.  But in her appearance there was revealed an inward contentment
+never remarked before, which made her sweeter and more benevolent.  She
+no longer spoke of retiring from business.  The discouragement which had
+seized her left her as if by magic.  The house which had been so dull for
+some months became noisy and gay.  The child, like a sunbeam, had
+scattered the clouds.
+
+It was then that the most unlooked-for phenomenon, which was so
+considerably to influence Madame Desvarennes's life, occurred.  At the
+moment when the mistress seemed provided by chance with the heiress so
+much longed for, she learned with surprise that she was about to become a
+mother!  After sixteen years of married life, this discovery was almost a
+discomfiture.  What would have been delight formerly was now a cause for
+fear.  She, almost an old woman!
+
+There was an incredible commotion in the business world when the news
+became known.  The younger branch of Desvarennes had witnessed Jeanne's
+arrival with little satisfaction, and were still more gloomy when they
+learned that the chances of their succeeding to great wealth were over.
+Still they did not lose all hopes.  At thirty-five years of age one
+cannot always tell how these little affairs will come off.  An accident
+was possible.  But none occurred; all passed off well.
+
+Madame Desvarennes was as strong physically as she was morally, and
+proved victorious by bringing into the world a little girl, who was named
+Michelins in honor of her father.  The mistress's heart was large enough
+to hold two children; she kept the orphan she had adopted, and brought
+her up as if she had been her very own.  Still there was soon an enormous
+difference in her manner of loving Jeanne and Michelins.  This mother had
+for the long-wished-for child an ardent, mad, passionate love like that
+of a tigress for her cubs.  She had never loved her husband.  All the
+tenderness which had accumulated in her heart blossomed, and it was like
+spring.
+
+This autocrat, who had never allowed contradiction, and before whom all
+her dependents bowed either with or against the grain, was now led in her
+turn; the bronze of her character became like wax in the little pink
+hands of her daughter.  The commanding woman bent before the little fair
+head.  There was nothing good enough for Micheline.  Had the mother owned
+the world she would have placed it at the little one's feet.  One tear
+from the child upset her.  If on one of the most important subjects
+Madame Desvarennes had said "No," and Micheline came and said "Yes," the
+hitherto resolute will became subordinate to the caprice of a child.
+They knew it in the house and acted upon it.  This manoeuvre succeeded
+each time, although Madame Desvarennes had seen through it from the
+first.  It appeared as if the mother felt a secret joy in proving under
+all circumstances the unbounded adoration which she felt for her
+daughter.  She often said:
+
+"Pretty as she is, and rich as I shall make her, what husband will be
+worthy of Micheline?  But if she believes me when it is time to choose
+one, she will prefer a man remarkable for his intelligence, and will give
+him her fortune as a stepping-stone to raise him as high as she chooses
+him to go."
+
+Inwardly she was thinking of Pierre Delarue, who had just taken honors at
+the Polytechnic school, and who seemed to have a brilliant career before
+him.  This woman, humbly born, was proud of her origin, and sought a
+plebeian for her son-in-law, to put into his hand a golden tool powerful
+enough to move the world.
+
+Micheline was ten years old when her father died.  Alas, Michel was not a
+great loss.  They wore mourning for him; but they hardly noticed that he
+was absent.  His whole life had been a void.  Madame Desvarennes, it is
+sad to say, felt herself more mistress of her child when she was a widow.
+She was jealous of Micheline's affections, and each kiss the child gave
+her father seemed to the mother to be robbed from her.  With this fierce
+tenderness, she preferred solitude around this beloved being.
+
+At this time Madame Desvarennes was really in the zenith of womanly
+splendor.  She seemed taller, her figure had straightened, vigorous and
+powerful.  Her gray hair gave her face a majestic appearance.  Always
+surrounded by a court of clients and friends, she seemed like a
+sovereign.  The fortune of the firm was not to be computed.  It was said
+Madame Desvarennes did not know how rich she was.
+
+Jeanne and Micheline grew up amid this colossal prosperity.  The one,
+tall, brown-haired, with blue eyes changing like the sea; the other,
+fragile, fair, with dark dreamy eyes.  Jeanne, proud, capricious, and
+inconstant; Micheline, simple, sweet, and tenacious.  The brunette
+inherited from her reckless father and her fanciful mother a violent and
+passionate nature; the blonde was tractable and good like Michel, but
+resolute and firm like Madame Desvarennes.  These two opposite natures
+were congenial, Micheline sincerely loving Jeanne, and Jeanne feeling the
+necessity of living amicably with Micheline, her mother's idol, but
+inwardly enduring with difficulty the inequalities which began to exhibit
+themselves in the manner with which the intimates of the house treated
+the one and the other.  She found these flatteries wounding, and thought
+Madame Desvarennes's preferences for Micheline unjust.
+
+All these accumulated grievances made Jeanne conceive the wish one
+morning of leaving the house where she had been brought up, and where she
+now felt humiliated.  Pretending to long to go to England to see that
+rich relative of her father, who, knowing her to be in a brilliant
+society, had taken notice of her, she asked Madame Desvarennes to allow
+her to spend a few weeks from home.  She wished to try the ground in
+England, and see what she might expect in the future from her family.
+Madame Desvarennes lent herself to this whim, not guessing the young
+girl's real motive; and Jeanne, well attended, went to her aunt's home in
+England.
+
+Madame Desvarennes, besides, had attained the summit of her hopes, and an
+event had just taken place which preoccupied her.  Micheline, deferring
+to her mother's wishes, had decided to allow herself to be betrothed to
+Pierre Delarue, who had just lost his mother, and whose business improved
+daily.  The young girl, accustomed to treat Pierre like a brother, had
+easily consented to accept him as her future husband.
+
+Jeanne, who had been away for six months, had returned sobered and
+disillusioned about her family.  She had found them kind and affable,
+had received many compliments on her beauty, which was really remarkable,
+but had not met with any encouragement in her desires for independence.
+She came home resolved not to leave until she married.  She arrived in
+the Rue Saint-Dominique at the moment when Pierre Delarue, thirsting with
+ambition, was leaving his betrothed, his relatives, and gay Paris to
+undertake engineering work on the coasts of Algeria and Tunis that would
+raise him above his rivals.  In leaving, the young man did not for a
+moment think that Jeanne was returning from England at the same hour with
+trouble for him in the person of a very handsome cavalier, Prince Serge
+Panine, who had been introduced to her at a ball during the London
+season.  Mademoiselle de Cernay, availing herself of English liberty, was
+returning escorted only by a maid in company with the Prince.  The
+journey had been delightful.  The tete-a-tete travelling had pleased the
+young people, and on leaving the train they had promised to see each
+other again.  Official balls facilitated their meeting; Serge was
+introduced to Madame Desvarennes as being an English friend, and soon
+became the most assiduous partner of Jeanne and Micheline.  It was thus,
+under the most trivial pretext, that the man gained admittance to the
+house where he was to play such an important part.
+
+
+
+
+CHAPTER II
+
+THE GALLEY-SLAVE OF PLEASURE
+
+One morning in the month of May, 1879, a young man, elegantly attired,
+alighted from a well-appointed carriage before the door of Madame
+Desvarennes's house.  The young man passed quickly before the porter in
+uniform, decorated with a military medal, stationed near the door.  The
+visitor found himself in an anteroom which communicated with several
+corridors.  A messenger was seated in the depth of a large armchair,
+reading the newspaper, and not even lending an inattentive ear to the
+whispered conversation of a dozen canvassers, who were patiently awaiting
+their turn for gaining a hearing.  On seeing the young man enter by the
+private door, the messenger rose, dropped his newspaper on the armchair,
+hastily raised his velvet skullcap, tried to smile, and made two steps
+forward.
+
+"Good-morning, old Felix," said the young man, in a friendly tone to the
+messenger.  "Is my aunt within?"
+
+"Yes, Monsieur Savinien, Madame Desvarennes is in her office; but she has
+been engaged for more than an hour with the Financial Secretary of the
+War Department."
+
+In uttering these words old Felix put on a mysterious and important air,
+which denoted how serious the discussions going on in the adjoining room
+seemed to his mind.
+
+"You see," continued he, showing Madame Desvarennes's nephew the anteroom
+full of people, "madame has kept all these waiting since this morning,
+and perhaps she won't see them."
+
+"I must see her though," murmured the young man.
+
+He reflected a moment, then added:
+
+"Is Monsieur Marechal in?"
+
+"Yes, sir, certainly.  If you will allow me I will announce you."
+
+"It is unnecessary."
+
+And, stepping forward, he entered the office adjoining that of Madame
+Desvarennes.
+
+Seated at a large table of black wood, covered with bundles of papers and
+notes, a young man was working.  He was thirty years of age, but appeared
+much older.  His prematurely bald forehead, and wrinkled brow, betokened
+a life of severe struggles and privations, or a life of excesses and
+pleasures.  Still those clear and pure eyes were not those of a
+libertine, and the straight nose solidly joined to the face was that of a
+searcher.  Whatever the cause, the man was old before his time.
+
+On hearing the door of his office open, he raised his eyes, put down his
+pen, and was making a movement toward his visitor, when the latter
+interrupted him quickly with these words:
+
+"Don't stir, Marechal, or I shall be off!  I only came in until Aunt
+Desvarennes is at liberty; but if I disturb you I will go and take a
+turn, smoke a cigar, and come back in three quarters of an hour."
+
+"You do not disturb me, Monsieur Savinien; at least not often enough,
+for be it said, without reproaching you, it is more than three months
+since we have seen anything of you.  There, the post is finished.
+I was writing the last addresses."
+
+And taking a heavy bundle of papers off the desk, Marechal showed them to
+Savinien.
+
+"Gracious!  It seems that business is going on well here."
+
+"Better and better."
+
+"You are making mountains of flour."
+
+"Yes; high as Mont Blanc; and then, we now have a fleet."
+
+"What!  a fleet?"  cried Savinien, whose face expressed doubt and
+surprise at the same time.
+
+"Yes, a steam fleet.  Last year Madame Desvarennes was not satisfied with
+the state in which her corn came from the East.  The corn was damaged
+owing to defective stowage; the firm claimed compensation from the
+steamship company.  The claim was only moderately satisfied, Madame
+Desvarennes got vexed, and now we import our own.  We have branches at
+Smyrna and Odessa."
+
+"It is fabulous!  If it goes on, my aunt will have an administration as
+important as that of a European state.  Oh!  you are happy here, you
+people; you are busy.  I amuse myself!  And if you knew how it wearies
+me!  I am withering, consuming myself, I am longing for business."
+
+And saying these words, young Monsieur Desvarennes allowed a sorrowful
+moan to escape him.
+
+"It seems to me," said Marechal, "that it only depends upon yourself to
+do as much and more business than any one?"
+
+"You know well enough that it is not so," sighed Savinien; "my aunt is
+opposed to it."
+
+"What a mistake!"  cried Marechal, quickly.  "I have heard Madame
+Desvarennes say more than twenty times how she regretted your being
+unemployed.  Come into the firm, you will have a good berth in the
+counting-house."
+
+"In the counting-house!"  cried Savinien, bitterly; "there's the sore
+point.  Now look here; my friend, do you think that an organization like
+mine is made to bend to the trivialities of a copying clerk's work?  To
+follow the humdrum of every-day routine?  To blacken paper?  To become a
+servant?--me! with what I have in my brain?"
+
+And, rising abruptly, Savinien began to walk hurriedly up and down the
+room, disdainfully shaking his little head with its low forehead on which
+were plastered a few fair curls (made with curling-irons), with the
+indignant air of an Atlas carrying the world on his shoulders.
+
+"Oh, I know very well what is at the bottom of the business--my aunt is
+jealous of me because I am a man of ideas.  She wishes to be the only one
+of the family who possesses any.  She thinks of binding me down to a
+besotting work," continued he, "but I won't have it.  I know what I want!
+It is independence of thought, bent on the solution of great problems--
+that is, a wide field to apply my discoveries.  But a fixed rule, common
+law, I could not submit to it."
+
+"It is like the examinations," observed Marechal, looking slyly at young
+Desvarennes, who was drawing himself up to his full height; "examinations
+never suited you."
+
+"Never," said Savinien, energetically.  "They wished to get me into the
+Polytechnic School; impossible!  Then the Central School; no better.
+I astonished the examiners by the novelty of my ideas.  They refused me."
+
+"Well, you know," retorted Marechal, "if you began by overthrowing their
+theories--"
+
+"That's it!"  cried Savinien, triumphantly.  "My mind is stronger than I;
+I must let my imagination have free run, and no one will ever know what
+that particular turn of mind has cost me.  Even my family do not think me
+serious.  Aunt Desvarennes has forbidden any kind of enterprise, under
+pretence that I bear her name, and that I might compromise it because I
+have twice failed.  My aunt paid, it is true.  Do you think it is
+generous of her to take advantage of my situation, and prohibit my trying
+to succeed?  Are inventors judged by three or four failures?  If my aunt
+had allowed me I should have astonished the world."
+
+"She feared, above all," said Marechal, simply, "to see you astonishing
+the Tribunal of Commerce."
+
+"Oh!  you, too," moaned Savinien, "are in league with my enemies; you
+make no account of me."
+
+And young Desvarennes sank as if crushed into an armchair and began to
+lament.  He was very unhappy at being misunderstood.  His aunt allowed
+him three thousand francs a month on condition that he would not make use
+of his ten fingers.  Was it moral?  Then he with such exuberant vigor had
+to waste it on pleasure and seeing life to the utmost.  He passed his
+time in theatres, at clubs, restaurants, in boudoirs.  He lost his time,
+his money, his hair, his illusions.  He bemoaned his lot, but continued,
+only to have something to do.  With grim sarcasm he called himself the
+galley-slave of pleasure.  And notwithstanding all these consuming
+excesses, he asserted that he could not render his imagination barren.
+Amid the greatest follies at suppers, during the clinking of glasses; in
+the excitement of the dance-inspirations came to him in flashes, he made
+prodigious discoveries.
+
+And as Marechal ventured a timid "Oh!"  tinged with incredulity, Savinien
+flew into a passion.  Yes; he had invented something astonishing; he saw
+fortune within reach, and he thought the bargain made with his aunt very
+unjust.  Therefore he had come to break it, and to regain his liberty.
+
+Marechal looked at the young man while he was explaining with animation
+his ambitious projects.  He scrutinized that flat forehead within which
+the dandy asserted so many good ideas were hidden.  He measured that slim
+form bent by wild living, and asked himself how that degenerate being
+could struggle against the difficulties of business.  A smile played on
+his lips.  He knew Savinien too well not to be aware that he was a prey
+to one of those attacks of melancholy which seized on him when his funds
+were low.
+
+On these occasions, which occurred frequently, the young man had longings
+for business, which Madame Desvarennes stopped by asking: "How much?"
+Savinien allowed himself to be with difficulty induced to consent to
+renounce the certain profits promised, as he said, by his projected
+enterprise.  At last he would capitulate, and with his pocket well lined,
+nimble and joyful, he returned to his boudoirs, race-courses, fashionable
+restaurants, and became more than ever the galley-slave of pleasure.
+
+"And Pierre?"  asked young Desvarennes, suddenly and quickly changing the
+subject.  "Have you any news of him?"
+
+Marechal became serious.  A cloud seemed to have come across his brow; he
+gravely answered Savinien's question.
+
+Pierre was still in the East.  He was travelling toward Tunis, the coast
+of which he was exploring.  It was a question of the formation of an
+island sea by taking the water through the desert.  It would be a
+colossal undertaking, the results of which would be considerable as
+regarded Algeria.  The climate would be completely changed, and the value
+of the colony would be increased tenfold, because it would become the
+most fertile country in the world.  Pierre had been occupied in this
+undertaking for more than a year with unequalled ardor; he was far from
+his home, his betrothed, seeing only the goal to be attained; turning a
+deaf ear to all that would distract his attention from the great work, to
+the success of which he hoped to contribute gloriously.
+
+"And don't people say," resumed Savinien with an evil smile, "that during
+his absence a dashing young fellow is busy luring his betrothed away from
+him?"
+
+At these words Marechal made a quick movement.
+
+"It is false," he interrupted; "and I do not understand how you, Monsieur
+Desvarennes, should be the bearer of such a tale.  To admit that
+Mademoiselle Micheline could break her word or her engagements is to
+slander her, and if any one other than you--"
+
+"There, there, my dear friend," said Savinien, laughing, "don't get into
+a rage.  What I say to you I would not repeat to the first comer;
+besides, I am only the echo of a rumor that has been going the round
+during the last three weeks.  They even give the name of him who has been
+chosen for the honor and pleasure of such a brilliant conquest.  I mean
+Prince Serge Panine."
+
+"As you have mentioned Prince Panine," replied Marechal, "allow me to
+tell you that he has not put his foot inside Madame Desvarennes's door
+for three weeks.  This is not the way of a man about to marry the
+daughter of the house."
+
+"My dear fellow, I only repeat what I have heard.  As for me, I don't
+know any more.  I have kept out of the way for more than three months.
+And besides, it matters little to me whether Micheline be a commoner or a
+princess, the wife of Delarue or of Panine.  I shall be none the richer
+or the poorer, shall I?  Therefore I need not care.  The dear child will
+certainly have millions enough to marry easily.  And her adopted sister,
+the stately Mademoiselle Jeanne, what has become of her?"
+
+"Ah!  as to Mademoiselle de Cernay, that is another affair," cried
+Marechal.
+
+And as if wishing to divert the conversation in an opposite direction to
+which Savinien had led it a moment before, he spoke readily of Madame
+Desvarennes's adopted daughter.  She had made a lively impression on one
+of the intimate friends of the house--the banker Cayrol, who had offered
+his name and his fortune to the fair Jeanne.
+
+This was a cause of deep amazement to Savinien.  What!  Cayrol!  The
+shrewd close--fisted Auvergnat!  A girl without a fortune!  Cayrol Silex
+as he was called in the commercial world on account of his hardness.
+This living money-bag had a heart then!  It was necessary to believe it
+since both money-bag and heart had been placed at Mademoiselle de
+Cernay's feet.  This strange girl was certainly destined to millions.
+She had just missed being Madame Desvarennes's heiress, and now Cayrol
+had taken it into his head to marry her.
+
+But that was not all.  And when Marechal told Savinien that the fair
+Jeanne flatly refused to become the wife of Cayrol, there was an outburst
+of joyful exclamations.  She refused!  By Jove, she was mad!  An
+unlooked-for marriage--for she had not a penny, and had most extravagant
+notions.  She had been brought up as if she were to live always in velvet
+and silks--to loll in carriages and think only of her pleasure.  What
+reason did she give for refusing him!  None.  Haughtily and disdainfully
+she had declared that she did not love "that man," and that she would not
+marry him.
+
+When Savinien heard these details his rapture increased.  One thing
+especially charmed him: Jeanne's saying "that man," when speaking of
+Cayrol.  A little girl who was called "De Cernay" just as he might call
+himself "Des Batignolles" if he pleased: the natural and unacknowledged
+daughter of a Count and of a shady public singer!  And she refused
+Cayrol, calling him "that man."  It was really funny.  And what did
+worthy Cayrol say about it?
+
+When Marechal declared that the banker had not been damped by this
+discouraging reception, Savinien said it was human nature.  The fair
+Jeanne scorned Cayrol and Cayrol adored her.  He had often seen those
+things happen.  He knew the baggages so well!  Nobody knew more of women
+than he did.  He had known some more difficult to manage than proud
+Mademoiselle Jeanne.
+
+An old leaven of hatred had festered in Savinien's heart against Jeanne
+since the time when the younger branch of the Desvarennes had reason to
+fear that the superb heritage was going to the adopted daughter.
+Savinien had lost the fear, but had kept up the animosity.  And
+everything that could happen to Jeanne of a vexing or painful nature
+would be witnessed by him with pleasure.
+
+He was about to encourage Marechal to continue his revelations, and had
+risen and was leaning on the desk.  With his face excited and eager, he
+was preparing his question, when, through the door which led to Madame
+Desvarennes's office, a confused murmur of voices was heard.  At the same
+time the door was half opened, held by a woman's hand, square, with short
+fingers, a firm-willed and energetic hand.  At the same time, the last
+words exchanged between Madame Desvarennes and the Financial Secretary of
+the War Office were distinctly audible.  Madame Desvarennes was speaking,
+and her voice sounded clear and plain; a little raised and vibrating.
+There seemed a shade of anger in its tone.
+
+"My dear sir, you will tell the Minister that does not suit me.  It is
+not the custom of the house.  For thirty-five years I have conducted
+business thus, and I have always found it answer.  I wish you good-
+morning."
+
+The door of the office facing that which Madame Desvarennes held closed,
+and a light step glided along the corridor.  It was the Financial
+Secretary's.  The mistress appeared.
+
+Marechal rose hastily.  As to Savinien, all his resolution seemed to have
+vanished at the sound of his aunt's voice, for he had rapidly gained a
+corner of the room, and seated himself on a leather-covered sofa, hidden
+behind an armchair, where he remained perfectly quiet.
+
+"Do you understand that, Marechal?"  said dame Desvarennes; "they want to
+place a resident agent at the mill on pretext of checking things.  They
+say that all military contractors are obliged to submit to it.  My word,
+do they take us for thieves, the rascals?  It is the first time that
+people have seemed to doubt me.  And it has enraged me.  I have been
+arguing for a whole hour with the man they sent me.  I said to him, 'My
+dear sir, you may either take it or leave it.  Let us start from this
+point: I can do without you and you cannot do without me.  If you don't
+buy my flour, somebody else will.  I am not at all troubled about it.
+But as to having any one here who would be as much master as myself, or
+perhaps more, never!  I am too old to change my customs.'  Thereupon the
+Financial Secretary left.  There!  And, besides, they change their
+Ministry every fortnight.  One would never know with whom one had to
+deal.  Thank you, no."
+
+While talking thus with Marechal, Madame Desvarennes was walking about
+the office.  She was still the same woman with the broad prominent
+forehead.  Her hair, which she wore in smooth plaits, had become gray,
+but the sparkle of her dark eyes only seemed the brighter from this.  She
+had preserved her splendid teeth, and her smile had remained young and
+charming.  She spoke with animation, as usual, and with the gestures of a
+man.  She placed herself before her secretary, seeming to appeal to him
+as a witness of her being in the right.  During the hour with the
+official personage she had been obliged to contain herself.  She
+unburdened herself to Marechal, saying just what she thought.
+
+But all at once she perceived Savinien, who was waiting to show himself
+now that she had finished.  The mistress turned sharply to the young man,
+and frowned slightly:
+
+"Hallo!  you are there, eh?  How is it that you could leave your fair
+friends?"
+
+"But, aunt, I came to pay you my respects."
+
+"No nonsense now; I've no time," interrupted the mistress.  "What do you
+want?"
+
+Savinien, disconcerted by this rude reception, blinked his eyes, as if
+seeking some form to give his request; then, making up his mind, he said:
+
+"I came to see you on business."
+
+"You on business?"  replied Madame Desvarennes, with a shade of
+astonishment and irony.
+
+"Yes, aunt, on business," declared Savinien, looking down as if he
+expected a rebuff.
+
+"Oh, oh, oh!"  said Madame Desvarennes, "you know our agreement; I give
+you an allowance--"
+
+"I renounce my income," interrupted Savinien, quickly, "I wish to take
+back my independence.  The transfer I made has already cost me too dear.
+It's a fool's bargain.  The enterprise which I am going to launch is
+superb, and must realize immense profits.  I shall certainly not abandon
+it."
+
+While speaking, Savinien had become animated and had regained his self-
+possession.  He believed in his scheme, and was ready to pledge his
+future.  He argued that his aunt could not blame him for giving proof of
+his energy and daring, and he discoursed in bombastic style.
+
+"That's enough!"  cried Madame Desvarennes, interrupting her nephew's
+oration.  "I am very fond of mills, but not word-mills.  You are talking
+too much about it to be sincere.  So many words can only serve to
+disguise the nullity of your projects.  You want to embark in
+speculation?  With what money?"
+
+"I contribute the scheme and some capitalists will advance the money to
+start with; we shall then issue shares!"
+
+"Never in this life!  I oppose it.  You!  With a responsibility.  You!
+Directing an undertaking.  You would only commit absurdities.  In fact,
+you want to sell an idea, eh?  Well, I will buy it."
+
+"It is not only the money I want," said Savinien, with an indignant air,
+"it is confidence in my ideas, it is enthusiasm on the part of my
+shareholders, it is success.  You don't believe in my ideas, aunt!"
+
+"What does it matter to you, if I buy them from you?  It seems to me a
+pretty good proof of confidence.  Is that settled?"
+
+"Ah, aunt, you are implacable!"  groaned Savinien.  "When you have laid
+your hand upon any one, it is all over.  Adieu, independence; one must
+obey you.  Nevertheless, it was a vast and beautiful conception."
+
+"Very well.  Marechal, see that my nephew has ten thousand francs.  And
+you, Savinien, remember that I see no more of you."
+
+"Until the money is spent!"  murmured Marechal, in the ear of Madame
+Desvarennes's nephew.
+
+And taking him by the arm he was leading him toward the safe when the
+mistress turned to Savinien and said:
+
+"By the way, what is your invention?"
+
+"Aunt, it is a threshing machine," answered the young man, gravely.
+
+"Rather a machine for coining money," said the incorrigible Marechal, in
+an undertone.
+
+"Well; bring me your plans," resumed Madame Desvarennes, after having
+reflected a moment.  "Perchance you may have hit upon something."
+
+The mistress had been generous, and now the woman of business reasserted
+herself and she thought of reaping the benefit.
+
+Savinien seemed very confused at this demand, and as his aunt gave him an
+interrogative look, he confessed:
+
+"There are no drawings made as yet."
+
+"No drawings as yet?"  cried the mistress.  "Where then is your
+invention?"
+
+"It is here," replied Savinien, and with an inspired gesture he struck
+his narrow forehead.
+
+Madame Desvarennes and Marechal could not resist breaking out into a
+laugh.
+
+"And you were already talking of issuing shares?"  said the mistress.
+"Do you think people would have paid their money with your brain as sole
+guarantee?  You!  Get along; I am the only one to make bargains like
+that, and you are the only one with whom I make them.  Go, Marechal, give
+him his money; I won't gainsay it.  But you are a trickster, as usual!"
+
+
+
+
+CHAPTER III
+
+PIERRE RETURNS
+
+By a wave of her hand she dismissed Savinien, who, abashed, went out with
+Marechal.  Left alone, she seated herself at her secretary's desk, and
+taking the pile of letters she signed them.  The pen flew in her fingers,
+and on the paper was displayed her name, written in large letters in a
+man's handwriting.
+
+She had been occupied thus for about a quarter of an hour when Marechal
+reappeared.  Behind him came a stout thickset man of heavy build, and
+gorgeously dressed.  His face, surrounded by a bristly dark brown beard,
+and his eyes overhung by bushy eyebrows, gave him, at the first glance, a
+harsh appearance.  But his mouth promptly banished this impression.  His
+thick and sensual lips betrayed voluptuous tastes.  A disciple of Lavater
+or Gall would have found the bump of amativeness largely developed.
+
+Marechal stepped aside to allow him to pass.
+
+"Good-morning, mistress," said he familiarly, approaching Madame
+Desvarennes.
+
+The mistress raised her head quickly, and said:
+
+"Ah!  it's you, Cayrol!  That's capital!  I was just going to send for
+you."
+
+Jean Cayrol, a native of Cantal, had been brought up amid the wild
+mountains of Auvergne.  His father was a small farmer in the neighborhood
+of Saint-Flour, scraping a miserable pittance from the ground for the
+maintenance of his family.  From the age of eight years Cayrol had been a
+shepherd-boy.  Alone in the quiet and remote country, the child had given
+way to ambitious dreams.  He was very intelligent, and felt that he was
+born to another sphere than that of farming.
+
+Thus, at the first opportunity which had occurred to take him into a
+town, he was found ready.  He went as servant to a banker at Brioude.
+There, in the service of this comparatively luxurious house, he got
+smoothed down a little, and lost some of his clumsy loutishness.  Strong
+as an ox, he did the work of two men, and at night, when in his garret,
+fell asleep learning to read.  He was seized by the ambition to get on.
+No pains were to be spared to gain his goal.
+
+His master having been elected a member of the Chamber of Deputies,
+Cayrol accompanied him to Paris.  Life in the capital finished the
+turmoil of Cayrol's brain.  Seeing the prodigious activity of the great
+city on whose pavements fortunes sprang up in a day like mushrooms, the
+Auvergnat felt his moral strength equal to the occasion, and leaving his
+master, he became clerk to a merchant in the Rue du Sentier.
+
+There, for four years, he studied commerce, and gained much experience.
+He soon learned that it was only in financial transactions that large
+fortunes were to be rapidly made.  He left the Rue du Sentier, and found
+a place at a stock-broker's.  His keen scent for speculation served him
+admirably.  After the lapse of a few years he had charge of the business.
+His position was getting better; he was making fifteen thousand francs
+per annum, but that was nothing compared to his dreams.  He was then
+twenty-eight years of age.  He felt ready to do anything to succeed,
+except something unhandsome, for this lover of money would have died
+rather than enrich himself by dishonest means.
+
+It was at this time that his lucky star threw him in Madame Desvarennes's
+way.  The mistress, understanding men, guessed Cayrol's worth quickly.
+She was seeking a banker who would devote himself to her interests.  She
+watched the young man narrowly for some time; then, sure she was not
+mistaken as to his capacity, she bluntly proposed to give him money to
+start a business.  Cayrol, who had already saved eighty thousand francs,
+received twelve hundred thousand from Madame Desvarennes, and settled in
+the Rue Taitbout, two steps from the house of Rothschild.
+
+Madame Desvarennes had made a lucky hit in choosing Cayrol as her
+confidential agent.  This short, thickset Auvergnat was a master of
+finance, and in a few years had raised the house to an unexpected degree
+of prosperity.  Madame Desvarennes had drawn considerable sums as
+interest on the money lent, and the banker's fortune was already
+estimated at several millions.  Was it the happy influence of Madame
+Desvarennes that changed everything she touched into gold, or were
+Cayrol's capacities really extraordinary?  The results were there and
+that was sufficient.  They did not trouble themselves over and above
+that.
+
+The banker had naturally become one of the intimates of Madame
+Desvarennes's house.  For a long time he saw Jeanne without particularly
+noticing her.  This young girl had not struck his fancy.  It was one
+night at a ball, on seeing her dancing with Prince Panine, that he
+perceived that she was marvellously engaging.  His eyes were attracted by
+an invincible power and followed her graceful figure whirling through the
+waltz.  He secretly envied the brilliant cavalier who was holding this
+adorable creature in his arms, who was bending over her bare shoulders,
+and whose breath lightly touched her hair.  He longed madly for Jeanne,
+and from that moment thought only of her.
+
+The Prince was then very friendly with Mademoiselle de Cernay; he
+overwhelmed her with kind attentions.  Cayrol watched him to see if he
+spoke to her of love, but Panine was a past master in these drawing-room
+skirmishes, and the banker got nothing for his pains.  That Cayrol was
+tenacious has been proved.  He became intimate with the Prince.  He
+tendered him such little services as create intimacy, and when he was
+sure of not being repulsed with haughtiness, he questioned Serge.  Did he
+love Mademoiselle de Cernay?  This question, asked in a trembling voice
+and with a constrained smile, found the Prince quite calm.  He answered
+lightly that Mademoiselle de Cernay was a very agreeable partner, but
+that he had never dreamed of offering her his homage.  He had other
+projects in his head.  Cayrol pressed the Prince's hand violently, made a
+thousand protestations of devotedness, and finally obtained his complete
+confidence.
+
+Serge loved Mademoiselle Desvarennes, and it was to become intimate with
+her that he had so eagerly sought her friend's company.  Cayrol, in
+learning the Prince's secret, resumed his usual reserved manner.  He knew
+that Micheline was engaged to Pierre Delarue, but still, women were so
+whimsical!  Who could tell?  Perhaps Mademoiselle Desvarennes had looked
+favorably upon the handsome Serge.
+
+He was really admirable to view, this Panine, with his blue eyes, pure as
+a maiden's, and his long fair mustache falling on each side of his rosy
+mouth.  He had a truly royal bearing, and was descended from an ancient
+aristocratic race; he had a charming hand and an arched foot, enough to
+make a woman envious.  Soft and insinuating with his tender voice and
+sweet Sclavonic accent, he was no ordinary man, but one usually creating
+a great impression wherever he went.
+
+His story was well known in Paris.  He was born in the province of Posen,
+so violently seized on by Prussia, that octopus of Europe.  Serge's
+father had been killed during the insurrection of 1848, and he, when a
+year old, was brought by his uncle, Thaddeus Panine, to France, and was
+educated at the College Rollin, where he had not acquired over much
+learning.
+
+In 1866, at the moment when war broke out between Prussia and Austria,
+Serge was eighteen years old.  By his uncle's orders he had left Paris,
+and had entered himself for the campaign in an Austrian cavalry regiment.
+All who bore the name of Panine, and had strength to hold a sword or
+carry a gun, had risen to fight the oppressor of Poland.  Serge, during
+this short and bloody struggle, showed prodigies of valor.  On the night
+of Sadowa, out of seven bearing the name of Panine, who had served
+against Prussia, five were dead, one was wounded; Serge alone was
+untouched, though red with the blood of his uncle Thaddeus, who was
+killed by the bursting of a shell.  All these Panines, living or dead,
+had gained honors.  When they were spoken of before Austrians or Poles,
+they were called heroes.
+
+Such a man was a dangerous companion for a young, simple, and artless
+girl like Micheline.  His adventures were bound to please her
+imagination, and his beauty sure to charm her eyes.  Cayrol was a prudent
+man; he watched, and it was not long before he perceived that Micheline
+treated the Prince with marked favor.  The quiet young girl became
+animated when Serge was there.  Was there love in this transformation?
+Cayrol did not hesitate.  He guessed at once that the future would be
+Panine's, and that the maintenance of his own influence in the house of
+Desvarennes depended on the attitude which he was about to take.  He
+passed over to the side of the newcomer with arms and baggage, and placed
+himself entirely at his disposal.
+
+It was he who three weeks before, in the name of Panine, had made
+overtures to Madame Desvarennes. The errand had been difficult, and the
+banker had turned his tongue several times in his mouth before speaking.
+Still, Cayrol could overcome all difficulties. He was able to explain the
+object of his mission without Madame flying into a passion.  But, the
+explanation over, there was a terrible scene.  He witnessed one of the
+most awful bursts of rage that it was possible to expect from a violent
+woman.  The mistress treated the friend of the family as one would not
+have dared to treat a petty commercial traveller who came to a private
+house to offer his wares.  She showed him the door, and desired him not
+to darken the threshold again.
+
+But if Cayrol was resolute he was equally patient.  He listened without
+saying a word to the reproaches of Madame Desvarennes, who was
+exasperated that a candidate should be set up in opposition to the son-
+in-law of her choosing.  He did not go, and when Madame Desvarennes was a
+little calmed by the letting out of her indignation, he argued with her.
+The mistress was too hasty about the business; it was no use deciding
+without reflecting.  Certainly, nobody esteemed Pierre Delarue more than
+he did; but it was necessary to know whether Micheline loved him.  A
+childish affection was not love, and Prince Panine thought he might hope
+that Mademoiselle Desvarennes----
+
+The mistress did not allow Cayrol to finish his sentence; she rang the
+bell and asked for her daughter.  This time, Cayrol prudently took the
+opportunity of disappearing.  He had opened fire; it was for Micheline to
+decide the result of the battle.  The banker awaited the issue of the
+interview between mother and daughter in the next room.  Through the door
+he heard the irritated tones of Madame Desvarennes, to which Micheline
+answered softly and slowly.  The mother threatened and stormed.  Coldly
+and quietly the daughter received the attack.  The tussle lasted about an
+hour, when the door reopened and Madame Desvarennes appeared, pale and
+still trembling, but calmed.  Micheline, wiping her beautiful eyes, still
+wet with tears, regained her apartment.
+
+"Well," said Cayrol timidly, seeing the mistress standing silent and
+absorbed before him; "I see with pleasure that you are less agitated.
+Did Mademoiselle Micheline give you good reasons?"
+
+"Good reasons!"  cried Madame Desvarennes with a violent gesture, last
+flash of the late storm.  "She cried, that's all.  And you know when she
+cries I no longer know what I do or say!  She breaks my heart with her
+tears.  And she knows it.  Ah! it is a great misfortune to love children
+too much!"
+
+This energetic woman was conquered, and yet understood that she was wrong
+to allow herself to be conquered.  She fell into a deep reverie, and
+forgot that Cayrol was present.  She thought of the future which she had
+planned for Micheline, and which the latter carelessly destroyed in an
+instant.
+
+Pierre, now an orphan, would have been a real son to the mistress.
+He would have lived in her house, and have surrounded her old age with
+care and affection.  And then, he was so full of ability that he could
+not help attaining a brilliant position.  She would have helped him,
+and would have rejoiced in his success.  And all this scaffolding was
+overturned because this Panine had crossed Micheline's path.  A foreign
+adventurer, prince perhaps, but who could tell?  Lies are easily told
+when the proofs of the lie have to be sought beyond the frontiers.
+And it was her daughter who was going to fall in love with an insipid <DW2>
+who only coveted her millions.  That she should see such a man enter her
+family, steal Micheline's love from her, and rummage her strongbox!  In a
+moment she vowed mortal hatred against Panine, and resolved to do all she
+could to prevent the longed-for marriage with her daughter.
+
+She was disturbed in her meditation by Cayrol's voice.  He wished to take
+an answer to the Prince.  What must he say to him?
+
+"You will let him know," said Madame Desvarennes, "that he must refrain
+from seeking opportunities of meeting my daughter.  If he be a gentleman,
+he will understand that his presence, even in Paris, is disagreeable to
+me.  I ask him to go away for three weeks.  After that time he may come
+back, and I agree to give him an answer."
+
+"You promise me that you will not be vexed with me for having undertaken
+this errand?"
+
+"I promise on one condition.  It is, that not a word which has passed
+here this morning shall be repeated to any one.  Nobody must suspect the
+proposal that you have just made to me."
+
+Cayrol swore to hold his tongue, and he kept his word.  Prince Panine
+left that same night for England.
+
+Madame Desvarennes was a woman of quick resolution.  She took a sheet of
+paper, a pen, and in her large handwriting wrote the following lines
+addressed to Pierre:
+
+"If you do not wish to find Micheline married on your return, come back
+without a moment's delay."
+
+She sent this ominous letter to the young man, who was then in Tripoli.
+That done, she returned to her business as if nothing had happened.  Her
+placid face did not once betray the anguish of her heart during those
+three weeks.
+
+The term fixed by Madame Desvarennes with the Prince had expired that
+morning.  And the severity with which the mistress had received the
+Minister of War's Financial Secretary was a symptom of the agitation in
+which the necessity of coming to a decision placed Micheline's mother.
+Every morning for the last week she had expected Pierre to arrive.  What
+with having to give an answer to the Prince as she had promised, and the
+longing to see him whom she loved as a son, she felt sick at heart and
+utterly cast down.  She thought of asking the Prince for a respite.  It
+was for that reason she was glad to see Cayrol.
+
+The latter, therefore, had arrived opportunely.  He looked as if he
+brought startling news.  By a glance he drew Madame Desvarennes's
+attention to Marechal and seemed to say:
+
+"I must be alone with you; send him away."
+
+The mistress understood, and with a decided gesture said:
+
+"You can speak before Marechal; he knows all my affairs as well as I do
+myself."
+
+"Even the matter that brings me here?"  replied Cayrol, with surprise.
+
+"Even that.  It was necessary for me to have some one to whom I could
+speak, or else my heart would have burst!  Come, do your errand.  The
+Prince?"
+
+"A lot it has to do with the Prince," exclaimed Cayrol, in a huff.
+"Pierre has arrived!"
+
+Madame Desvarennes rose abruptly.  A rush of blood rose to her face, her
+eyes brightened, and her lips opened with a smile.
+
+"At last!"  she cried.  "But where is he?  How did you hear of his
+return?"
+
+"Ah!  faith, it was just by chance.  I was shooting yesterday at
+Fontainebleau, and I returned this morning by the express.  On arriving
+at Paris, I alighted on the platform, and there I found myself face to
+face with a tall young man with a long beard, who, seeing me pass, called
+out, 'Ah, Cayrol!' It was Pierre.  I only recognized him by his voice.
+He is much changed; with his beard, and his complexion bronzed like an
+African."
+
+"What did he say to you?"
+
+"Nothing.  He pressed my hand.  He looked at me for a moment with
+glistening eyes.  There was something on his lips which he longed to ask,
+yet did not; but I guessed it.  I was afraid of giving way to tenderness,
+that might have ended in my saying something foolish, so I left him."
+
+"How long ago is that?"
+
+"About an hour ago.  I only just ran home before coming on here.  There I
+found Panine waiting for me.  He insisted upon accompanying me.  I hope
+you won't blame him?"
+
+Madame Desvarennes frowned.
+
+"I will not see him just now," she said, looking at Cayrol with a
+resolute air.  "Where did you leave him?"
+
+"In the garden, where I found the young ladies."
+
+As if to verify the banker's words, a merry peal of laughter was heard
+through the half-open window.  It was Micheline, who, with returning
+gayety, was making up for the three weeks' sadness she had experienced
+during Panine's absence.
+
+Madame Desvarennes went to the window, and looked into the garden.
+Seated on the lawn, in large bamboo chairs, the young girls were
+listening to a story the Prince was telling.  The morning was bright and
+mild; the sun shining through Micheline's silk sunshade lit up her fair
+head.  Before her, Serge, bending his tall figure, was speaking with
+animation.  Micheline's eyes were softly fixed on him.  Reclining in her
+armchair, she allowed herself to be carried away with his conversation,
+and thoroughly enjoyed his society, of which she had been deprived for
+the last three weeks.  Beside her, Jeanne, silently watching the Prince,
+was mechanically nibbling, with her white teeth, a bunch of carnations
+which she held in her hands.  A painful thought contracted Mademoiselle
+de Cernay's brow, and her pale lips on the red flowers seemed to be
+drinking blood.
+
+The mistress slowly turned away from this scene.  A shadow had crossed
+her brow, which had, for a moment, become serene again at the
+announcement of Pierre's arrival.  She remained silent for a little
+while, as if considering; then coming to a resolution, and turning to
+Cayrol, she said:
+
+"Where is Pierre staying?"
+
+"At the Hotel du Louvre," replied the banker.
+
+"Well, I'm going there."
+
+Madame Desvarennes rang the bell violently.
+
+"My bonnet, my cloak, and the carriage," she said, and with a friendly
+nod to the two men, she went out quickly.
+
+Micheline was still laughing in the garden.  Marechal and Cayrol looked
+at each other.  Cayrol was the first to speak.
+
+"The mistress told you all about the matter then?  How is it you never
+spoke to me about it?"
+
+"Should I have been worthy of Madame Desvarennes's confidence had I
+spoken of what she wished to keep secret?"
+
+"To me?"
+
+"Especially to you.  The attitude which you have taken forbade my
+speaking.  You favor Prince Panine?"
+
+"And you; you are on Pierre Delarue's side?"
+
+"I take no side.  I am only a subordinate, you know; I do not count."
+
+"Do not attempt to deceive me.  Your influence over the mistress is
+great.  The confidence she has in you is a conclusive proof.  Important
+events are about to take place here.  Pierre has certainly returned to
+claim his right as betrothed, and Mademoiselle Micheline loves Prince
+Serge.  Out of this a serious conflict will take place in the house.
+There will be a battle.  And as the parties in question are about equal
+in strength, I am seeking adherents for my candidate.  I own, in all
+humility, I am on love's side.  The Prince is beloved by Mademoiselle
+Desvarennes, and I serve him.  Micheline will be grateful, and will do me
+a turn with Mademoiselle de Cernay.  As to you, let me give you a little
+advice.  If Madame Desvarennes consults you, speak well of Panine.  When
+the Prince is master here, your position will be all the better for it."
+
+Marechal had listened to Cayrol without anything betraying the impression
+his words created.  He looked at the banker in a peculiar manner, which
+caused him to feel uncomfortable, and made him lower his eyes.
+
+"Perhaps you do not know, Monsieur Cayrol," said the secretary, after a
+moment's pause, "how I entered this firm.  It is as well in that case to
+inform you.  Four years ago, I was most wretched.  After having sought
+fortune ten times without success, I felt myself giving way morally and
+physically.  There are some beings gifted with energy, who can surmount
+all the difficulties of life.  You are one of those.  As for me, the
+struggle exhausted my strength, and I came to grief.  It would take too
+long to enumerate all the ways of earning my living I tried.  Few even
+fed me; and I was thinking of putting an end to my miserable existence
+when I met Pierre.  We had been at college together.  I went toward him;
+he was on the quay.  I dared to stop him.  At first he did not recognize
+me, I was so haggard, so wretched-looking!  But when I spoke, he cried,
+'Marechal!' and, without blushing at my tatters, put his arms round my
+neck.  We were opposite the Belle Jardiniere, the clothiers; he wanted to
+rig me out.  I remember as if it were but yesterday I said, 'No, nothing,
+only find me work!'--'Work, my poor fellow,' he answered, 'but just look
+at yourself; who would have confidence to give you any?  You look like a
+tramp, and when you accosted me a little while ago, I asked myself if you
+were not about to steal my watch!'  And he laughed gayly, happy at having
+found me again, and thinking that he might be of use to me.  Seeing that
+I would not go into the shop, he took off his overcoat, and put it on my
+back to cover my tattered clothes, and there and then he took me to
+Madame Desvarennes.  Two days later I entered the office.  You see the
+position I hold, and I owe it to Pierre.  He has been more than a friend
+to me--a brother.  Come!  after that, tell me what you would think of me
+if I did what you have just asked me?"
+
+Cayrol was confused; he twisted his bristly beard with his fingers.
+
+"Faith, I do not say that your scruples are not right; but, between
+ourselves, every step that is taken against the Prince will count for
+naught.  He will marry Mademoiselle Desvarennes."
+
+"It is possible.  In that case, I shall be here to console Pierre and
+sympathize with him."
+
+"And in the mean time you are going to do all you can in his favor?"
+
+"I have already had the honor of telling you that I cannot do anything."
+
+"Well, well.  One knows what talking means, and you will not change my
+idea of your importance.  You take the weaker side then; that's superb!"
+
+"It is but strictly honest," said Marechal.  "It is true that that
+quality has become very rare!"
+
+Cayrol wheeled round on his heels.  He took a few steps toward the door,
+then, returning to Marechal, held out his hand:
+
+"Without a grudge, eh?"
+
+The secretary allowed his hand to be shaken without answering, and the
+banker went out, saying to himself:
+
+"He is without a sou and has prejudices!  There's a lad without a
+future."
+
+
+
+
+CHAPTER IV
+
+THE RIVALS
+
+On reaching Paris, Pierre Delarue experienced a strange feeling.  In his
+feverish haste he longed for the swiftness of electricity to bring him
+near Micheline.  As soon as he arrived in Paris, he regretted having
+travelled so fast.  He longed to meet his betrothed, yet feared to know
+his fate.
+
+He had a sort of presentiment that his reception would destroy his hopes.
+And the more he tried to banish these thoughts, the more forcibly they
+returned.  The thought that Micheline had forgotten her promise made the
+blood rush to his face.
+
+Madame Desvarennes's short letter suggested it.  That his betrothed was
+lost to him he understood, but he would not admit it.  How was it
+possible that Micheline should forget him?  All his childhood passed
+before his mind.  He remembered the sweet and artless evidences of
+affection which the young girl had given him.  And yet she no longer
+loved him!  It was her own mother who said so.  After that could he still
+hope?
+
+A prey to this deep trouble, Pierre entered Paris.  On finding himself
+face to face with Cayrol, the young man's first idea was, as Cayrol had
+guessed, to cry out, "What's going on?  Is all lost to me?"  A sort of
+anxious modesty kept back the words on his lips.  He would not admit that
+he doubted.  And, then, Cayrol would only have needed to answer that all
+was over, and that he could put on mourning for his love.  He turned
+around, and went out.
+
+The tumult of Paris surprised and stunned him.  After spending a year in
+the peaceful solitudes of Africa, to find himself amid the cries of
+street-sellers, the rolling of carriages, and the incessant movement of
+the great city, was too great a contrast to him.  Pierre was overcome by
+languor; his head seemed too heavy for his body to carry; he mechanically
+entered a cab which conveyed him to the Hotel du Louvre.  Through the
+window, against the glass of which he tried to cool his heated forehead,
+he saw pass in procession before his eyes, the Column of July, the church
+of St. Paul, the Hotel de Ville in ruins, and the colonnade of the
+Louvre.
+
+An absurd idea took possession of him.  He remembered that during the
+Commune he was nearly killed in the Rue Saint-Antoine by the explosion of
+a shell, thrown by the insurgents from the heights of Pere-Lachaise.
+He thought that had he died then, Micheline would have wept for him.
+Then, as in a nightmare, it seemed to him that this hypothesis was
+realized.  He saw the church hung with black, he heard the funeral
+chants.  A catafalque contained his coffin, and slowly his betrothed
+came, with a trembling hand, to throw holy water on the cloth which
+covered the bier.  And a voice said within him:
+
+"You are dead, since Micheline is about to marry another."
+
+He made an effort to banish this importunate idea.  He could not succeed.
+Thoughts flew through his brain with fearful rapidity.  He thought he was
+beginning to be seized with brain fever.  And this dismal ceremony kept
+coming before him with the same chants, the same words repeated, and the
+same faces appearing.  The houses seemed to fly before his vacant eyes.
+To stop this nightmare he tried to count the gas-lamps: one, two, three,
+four, five--but the same thought interrupted his calculation:
+
+"You are dead, since your betrothed is about to marry another."
+
+He was afraid he was going mad.  A sharp pain shot across his forehead
+just above the right eyebrow.  In the old days he had felt the same pain
+when he had overworked himself in preparing for his examinations at the
+Polytechnic School.  With a bitter smile he asked himself if one of the
+aching vessels in his brain was about to burst?
+
+The sudden stoppage of the cab freed him from this torture.  The hotel
+porter opened the door.  Pierre stepped out mechanically.  Without
+speaking a word he followed a waiter, who showed him to a room on the
+second floor.  Left alone, he sat down.  This room, with its commonplace
+furniture, chilled him.  He saw in it a type of his future life: lonely
+and desolate.  Formerly, when he used to come to Paris, he stayed with
+Madame Desvarennes, where he had the comforts of home, and every one
+looked on him affectionately.
+
+Here, at the hotel, orders were obeyed with politeness at so much a day.
+Would it always be thus in future?
+
+This painful impression dissipated his weakness as by enchantment.  He so
+bitterly regretted the sweets of the past, that he resolved to struggle
+to secure them for the future.  He dressed himself quickly, and removed
+all the traces of his journey; then, his mind made up, he jumped into a
+cab, and drove to Madame Desvarennes's.  All indecision had left him.
+His fears now seemed contemptible.  He must defend himself.  It was a
+question of his happiness.
+
+At the Place de la Concorde a carriage passed his cab.  He recognized the
+livery of Madame Desvarennes's coachman and leant forward.  The mistress
+did not see him.  He was about to stop the cab and tell his driver to
+follow her carriage when a sudden thought decided him to go on.  It was
+Micheline he wanted to see.  His future destiny depended on her.  Madame
+Desvarennes had made him clearly understand that by calling for his help
+in her fatal letter.  He went on his way, and in a few minutes arrived at
+the mansion in the Rue Saint-Dominique.
+
+Micheline and Jeanne were still in the garden, seated in the same place
+on the lawn.  Cayrol had joined Serge.  Both, profiting by the lovely
+morning, were enjoying the society of their beloved ones.  A quick step
+on the gravel walk attracted their attention.  In the sunlight a young
+man, whom neither Jeanne nor Micheline recognized, was advancing.  When
+about two yards distant from the group he slowly raised his hat.
+
+Seeing the constrained and astonished manner of the young girls, a sad
+smile played on his lips, then he said, softly:
+
+"Am I then so changed that I must tell you my name?"
+
+At these words Micheline jumped up, she became as white as her collar,
+and trembling, with sobs rising to her lips, stood silent and petrified
+before Pierre.  She could not speak, but her eyes were eagerly fixed on
+the young man.  It was he, the companion of her youth, so changed that
+she had not recognized him; worn by hard work, perhaps by anxieties,
+bronzed--and with his face hidden by a black beard which gave him a manly
+and energetic appearance.  It was certainly he, with a thin red ribbon at
+his button-hole, which he had not when he went away, and which showed the
+importance of the works he had executed and of great perils he had faced.
+Pierre, trembling and motionless, was silent; the sound of his voice
+choked with emotion had frightened him.  He had expected a cold
+reception, but this scared look, which resembled terror, was beyond all
+he had pictured.  Serge wondered and watched.
+
+Jeanne broke the icy silence.  She went up to Pierre, and presented her
+forehead.
+
+"Well," she said, "don't you kiss your friends?"
+
+She smiled affectionately on him.  Two grateful tears sparkled in the
+young man's eyes, and fell on Mademoiselle de Cernay's hair.  Micheline,
+led away by the example and without quite knowing what she was doing,
+found herself in Pierre's arms.  The situation was becoming singularly
+perplexing to Serge.  Cayrol, who had not lost his presence of mind,
+understood it, and turning toward the Prince, said:
+
+"Monsieur Pierre Delarue: an old friend and companion of Mademoiselle
+Desvarennes's; almost a brother to her," thus explaining in one word all
+that could appear unusual in such a scene of tenderness.
+
+Then, addressing Pierre, he simply added--"Prince Panine."
+
+The two men looked at each other.  Serge, with haughty curiosity; Pierre,
+with inexpressible rage.  In a moment, he guessed that the tall, handsome
+man beside his betrothed was his rival.  If looks could kill, the Prince
+would have fallen down dead.  Panine did not deign to notice the hatred
+which glistened in the eyes of the newcomer.  He turned toward Micheline
+with exquisite grace and said:
+
+"Your mother receives her friends this evening, I think, Mademoiselle; I
+shall have the honor of paying my respects to her."
+
+And taking leave of Jeanne with a smile, and of Pierre with a courteous
+bow, he left, accompanied by Cayrol.
+
+Serge's departure was a relief to Micheline.  Between these two men to
+whom she belonged, to the one by a promise, to the other by an avowal,
+she felt ashamed.  Left alone with Pierre she recovered her self-
+possession, and felt full of pity for the poor fellow threatened with
+such cruel deception.  She went tenderly to him, with her loving eyes of
+old, and pressed his hand:
+
+"I am very glad to see you again, my dear Pierre; and my mother will be
+delighted.  We were very anxious about you.  You have not written to us
+for some months."
+
+Pierre tried to joke: "The post does not leave very often in the desert.
+I wrote whenever I had an opportunity."
+
+"Is it so very pleasant in Africa that you could not tear yourself away a
+whole year?"
+
+"I had to take another journey on the coast of Tripoli to finish my
+labors.  I was interested in my work, and anxious not to lose the result
+of so much effort, and I think I have succeeded--at least in--the opinion
+of my employers," said the young man, with a ghastly smile.
+
+"My dear Pierre, you come in time from the land of the sphinx,"
+interrupted Jeanne gravely, and glancing intently at Micheline.
+"There is here, I assure you, a difficult enigma to solve."
+
+"What is it?"
+
+"That which is written in this heart," she replied, lightly touching her
+companion's breast.
+
+"From childhood I have always read it as easily as a book," said Pierre,
+with tremulous voice, turning toward the amazed Micheline.
+
+Mademoiselle de Cernay tossed her head.
+
+"Who knows?  Perhaps her disposition has changed during your absence;"
+and nodding pleasantly, she went toward the house.
+
+Pierre followed her for a moment with his eyes, then, turning toward his
+betrothed, said:
+
+"Micheline, shall I tell you your secret?  You no longer love me."
+
+The young girl started.  The attack was direct.  She must at once give an
+explanation.  She had often thought of what she would say when Pierre
+came back to her.  The day had arrived unexpectedly.  And the answers she
+had prepared had fled.  The truth appeared harsh and cold.  She
+understood that the change in her was treachery, of which Pierre was the
+innocent victim; and feeling herself to blame, she waited tremblingly the
+explosion of this loyal heart so cruelly wounded.  She stammered, in
+tremulous accents:
+
+"Pierre, my friend, my brother."
+
+"Your brother!"  cried the young man, bitterly.  "Was that the name you
+were to give me on my return?"
+
+At these words, which so completely summed up the situation, Micheline
+remained silent.  Still she felt that at all hazards she must defend
+herself.  Her mother might come in at any moment.  Between Madame
+Desvarennes and her betrothed, what would become of her?  The hour was
+decisive.  Her strong love for Serge gave her fresh energy.
+
+"Why did you go away?"  she asked, with sadness.
+
+Pierre raised with pride his head which had been bent with anguish.
+
+"To be worthy of you," he merely said.
+
+"You did not need to be worthy of me; you, who were already above every
+one else.  We were betrothed; you only had to guard me."
+
+"Could not your heart guard itself?"
+
+"Without help, without the support of your presence and affection?"
+
+"Without other help or support than I had myself: Hope and Remembrance."
+
+Micheline turned pale.  Each word spoken by Pierre made her feel the
+unworthiness of her conduct more completely.  She endeavored to find a
+new excuse:
+
+"Pierre, you know I was only a child."
+
+"No," said the young man, with choked voice, "I see that you were already
+a woman; a being weak, inconstant, and cruel; who cares not for the love
+she inspires, and sacrifices all to the love she feels."
+
+So long as Pierre had only complained, Micheline felt overwhelmed and
+without strength; but the young man began to accuse.  In a moment the
+young girl regained her presence of mind and revolted.
+
+"Those are hard words!"  she exclaimed.
+
+"Are they not deserved?"  cried Pierre, no longer restraining himself.
+"You saw me arrive trembling, with eyes full of tears, and not only had
+you not an affectionate word to greet me with, but you almost accuse me
+of indifference.  You reproach me with having gone away.  Did you not
+know my motive for going?  I was betrothed to you; you were rich and I
+was poor.  To remove this inequality I resolved to make a name.  I sought
+one of those perilous scientific missions which bring celebrity or death
+to those who undertake them.  Ah!  think not that I went away from you
+without heart-breaking!  For a year I was almost alone, crushed with
+fatigue, always in danger; the thought that I was suffering for you
+supported me.
+
+"When lost in the vast desert, I was sad and discouraged; I invoked you,
+and your sweet face gave me fresh hope and energy.  I said to myself,
+'She is waiting for me.  A day will come when I shall win the prize of
+all my trouble.'  Well, Micheline, the day has come; here I am, returned,
+and I ask for my reward.  Is it what I had a right to expect?  While I
+was running after glory, another, more practical and better advised,
+stole your heart.  My happiness is destroyed.  You did well to forget me.
+The fool who goes so far away from his betrothed does not deserve her
+faithfulness.  He is cold, indifferent, he does not know how to love!"
+
+These vehement utterances troubled Micheline deeply.  For the first time
+she understood her betrothed, felt how much he loved her, and regretted
+not having known it before.  If Pierre had spoken like that before going
+away, who knows?  Micheline's feelings might have been quickened.
+No doubt she would have loved him.  It would have come naturally.
+But Pierre had kept the secret of his passion for the young girl to
+himself.  It was only despair, and the thought of losing her, that made
+him give vent to his feelings now.
+
+"I see that I have been cruel and unjust to you," said Micheline.
+"I deserve your reproaches, but I am not the only one to blame.  You,
+too, are at fault.  What I have just heard has upset me.  I am truly
+sorry to cause you so much pain; but it is too late.  I no longer belong
+to myself."
+
+"And did you belong to yourself?"
+
+"No!  It is true, you had my word, but be generous.  Do not abuse the
+authority which being my betrothed gives you.  That promise I would now
+ask back from you."
+
+"And if I refuse to release you from your promise?  If I tried to, regain
+your love?"  cried Pierre, forcibly.  "Have I not the right to defend
+myself?  And what would you think of my love if I relinquished you so
+readily?"
+
+There was a moment's silence.  The interview was at its highest pitch of
+excitement.  Micheline knew that she must put an end to it.  She replied
+with firmness:
+
+"A girl such as I am will not break her word; mine belongs to you, but my
+heart is another's.  Say you insist, and I am ready to keep my promise to
+become your wife.  It is for you to decide."
+
+Pierre gave the young girl a look which plunged into the depths of her
+heart.  He read there her resolve that she would act loyally, but that at
+the same time she would never forget him who had so irresistibly gained
+her heart.  He made a last effort.
+
+"Listen," he said, with ardent voice, "it is impossible that you can have
+forgotten me so soon: I love you so much!  Remember our affection in the
+old days, Micheline.  Remember!"
+
+He no longer argued; he pleaded.  Micheline felt victorious.  She was
+moved with pity.
+
+"Alas!  my poor Pierre, my affection was only friendship, and my heart
+has not changed toward you.  The love which I now feel is quite
+different.  If it had not come to me, I might have been your wife.
+And I esteemed you so much, that I should have been happy.  But now I
+understand the difference.  You, whom I had accepted, would never have
+been more to me than a tender companion; he whom I have chosen will be
+my master."
+
+Pierre uttered a cry at this cruel and frank avowal.
+
+"Ah!  how you hurt me!"
+
+And bitter tears rolled down his face to the relief of his overburdened
+heart.  He sank on to a seat, and for a moment gave way to violent grief.
+Micheline, more touched by his despair than she had been by his
+reproaches, went to him and wiped his face with her lace handkerchief.
+Her white hand was close to the young man's mouth,--and he kissed it
+eagerly.  Then, as if roused by the action, he rose with a changed look
+in his eyes, and seized the young girl in his arms.  Micheline did not
+utter a word.  She looked coldly and resolutely at Pierre, and threw back
+her head to avoid the contact of his eager lips.  That look was enough.
+The arms which held her were unloosed, and Pierre moved away, murmuring:
+
+"I beg your pardon.  You see I am not in my right mind."
+
+Then passing his hand across his forehead as if to chase away a wicked
+thought, he added:
+
+"So it is irrevocable?  You love him?"
+
+"Enough to give you so much pain; enough to be nobody's unless I belong
+to him."
+
+Pierre reflected a moment, then, coming to a decision:
+
+"Go, you are free," said he; "I give you back your promise."
+
+Micheline uttered a cry of triumph, which made him who had been her
+betrothed turn pale.  She regretted not having hidden her joy better.
+She approached Pierre and said:
+
+"Tell me that you forgive me!"
+
+"I forgive you."
+
+"You still weep?"
+
+"Yes; I am weeping over my lost happiness.  I thought the best means of
+being loved were to deserve it.  I was mistaken.  I will courageously
+atone for my error.  Excuse my weakness, and believe that you will never
+have a more faithful and devoted friend than I."
+
+Micheline gave him her hand, and, smiling, bowed her forehead to his
+lips.  He slowly impressed a brotherly kiss, which effaced the burning
+trace of the one which he had stolen a moment before.
+
+At the same time a deep voice was heard in the distance, calling Pierre.
+Micheline trembled.
+
+"'Tis my mother," she said.  "She is seeking you.  I will leave you.
+Adieu, and a thousand thanks from my very heart."
+
+And nimbly springing behind a clump of lilac-trees in flower, Micheline
+disappeared.
+
+Pierre mechanically went toward the house.  He ascended the marble steps
+and entered the drawing-room.  As he shut the door, Madame Desvarennes
+appeared.
+
+
+
+
+CHAPTER V
+
+A CRITICAL INTERVIEW
+
+Madame Desvarennes had been driven to the Hotel du Louvre without losing
+a minute.  She most wanted to know in what state of mind her daughter's
+betrothed had arrived in Paris.  Had the letter, which brutally told him
+the truth, roused him and tightened the springs of his will?  Was he
+ready for the struggle?
+
+If she found him confident and bold, she had only to settle with him as
+to the common plan of action which must bring about the eviction of the
+audacious candidate who wished to marry Micheline.  If she found him
+discouraged and doubtful of himself, she had decided to animate him with
+her ardor against Serge Panine.
+
+She prepared these arguments on the way, and, boiling with impatience,
+outstripped in thought the fleet horse which was drawing her past the
+long railings of the Tuileries toward the Hotel du Louvre.  Wrapped in
+her meditations she did not see Pierre.  She was saying to herself:
+
+"This fair-haired Polish dandy does not know with whom he has to deal.
+He will see what sort of a woman I am.  He has not risen early enough in
+the morning to hoodwink me.  If Pierre is only of the same opinion as I,
+we shall soon spoil this fortune-hunter's work."
+
+The carriage stopped.
+
+"Monsieur Pierre Delarue?"  inquired the mistress.
+
+"Madame, he went out a quarter of an hour ago."
+
+"To go where?"
+
+"He did not say."
+
+"Do you know whether he will be absent long?"
+
+"I don't know."
+
+"Much obliged."
+
+Madame Desvarennes, quite discomfited by this mischance, reflected.
+Where could Pierre have gone?  Probably to her house.  Without losing a
+minute, she reentered the carriage, and gave orders to return to the Rue
+Saint-Dominique.  If he had gone at once to her house, it was plain that
+he was ready to do anything to keep Micheline.  The coachman who had
+received the order drove furiously.  She said to herself:
+
+"Pierre is in a cab.  Allowing that he is driving moderately quick he
+will only have half-an-hour's start of me.  He will pass through the
+office, will see Marechal, and however eager he be, will lose a quarter
+of an hour in chatting to him.  It would be most vexing if he did
+anything foolish in the remaining fifteen minutes!  The fault is mine:
+I ought to have sent him a letter at Marseilles, to tell him what line of
+conduct to adopt on his arrival.  So long as he does not meet Micheline
+on entering the house!"
+
+At that idea Madame Desvarennes felt the blood rushing to her face.  She
+put her head out of the carriage window, and called to the coachman:
+
+"Drive faster!"
+
+He drove more furiously still, and in a few minutes reached the Rue
+Saint-Dominique.
+
+She tore into the house like a hurricane, questioned the hall-porter, and
+learned that Delarue had arrived.  She hastened to Marechal, and asked
+him in such a strange manner, "Have you seen Pierre?"  that he thought
+some accident had happened.
+
+On seeing her secretary's scared look, she understood that what she most
+dreaded had come to pass.  She hurried to the drawing-room, calling
+Pierre in a loud voice.  The French window opened, and she found herself
+face to face with the young man.  A glance at her adopted son's face
+increased her fears.  She opened her arms and clasped Pierre to her
+heart.
+
+After the first emotions were over, she longed to know what had happened
+during her absence, and inquired of Pierre:
+
+"By whom were you received on arriving here?"
+
+"By Micheline."
+
+"That is what I feared!  What did she tell you?"
+
+"Everything!"
+
+In three sentences these two strong beings had summed up all that had
+taken place.  Madame Desvarennes remained silent for a moment, then,
+with sudden tenderness, and as if to make up for her daughter's
+treachery, said:
+
+"Come, let me kiss you again, my poor boy.  You suffer, eh?  and I too!
+I am quite overcome.  For ten years I have cherished the idea of your
+marrying Micheline.  You are a man of merit, and you have no relatives.
+You would not take my daughter away from me; on the contrary I think you
+like me, and would willingly live with me.  In arranging this marriage
+I realized the dream of my life.  I was not taking a son-in-law-I was
+gaining a new child."
+
+"Believe me," said Pierre, sadly, "it is not my fault that your wish is
+not carried out."
+
+"That, my boy, is another question!" cried Madame Desvarennes, whose
+voice was at once raised two tones.  "And that is where we do not agree.
+You are responsible for what has occurred.  I know what you are going,
+to tell me.  You wished to bring laurels to Micheline as a dower.  That
+is all nonsense!  When one leaves the Polytechnic School with honors, and
+with a future open to you like yours, it is not necessary to scour the
+deserts to dazzle a young girl.  One begins by marrying her, and
+celebrity comes afterward, at the same time as the children.  And then
+there was no need to risk all at such a cost.  What, are we then so
+grand?  Ex-bakers!  Millionaires, certainly, which does not alter the
+fact that poor Desvarennes carried out the bread, and that I gave change
+across the counter when folks came to buy sou-cakes!  But you wanted to
+be a knight-errant, and, during that time, a handsome fellow.  Did
+Micheline tell you the gentleman's name?"
+
+"I met him when I came here; he was with her in the garden.  We were
+introduced to each other."
+
+"That was good taste," said Madame Desvarennes with irony.  "Oh, he is a
+youth who is not easily disturbed, and in his most passionate transports
+will not disarrange a fold of his cravat.  You know he is a Prince?
+That is most flattering to the Desvarennes!  We shall use his coat-of-
+arms as our trade-mark.  The fortune hunter, ugh!  No doubt he said to
+himself, 'The baker has money--and her daughter is agreeable.'  And he is
+making a business of it."
+
+"He is only following the example of many of his equals.  Marriage is
+to-day the sole pursuit of the nobility."
+
+"The nobility!  That of our country might be tolerated, but foreign
+noblemen are mere adventurers."
+
+"It is well known that the Panines come from Posen--the papers have
+mentioned them more than twenty times."
+
+"Why is he not in his own country?"
+
+"He is exiled."
+
+"He has done something wrong, then!"
+
+"He has, like all his family, fought for independence."
+
+"Then he is a revolutionist!"
+
+"A patriot."
+
+"You are very kind to tell me all that."
+
+"I may hate Prince Panine," said Pierre, simply, "but that is no reason
+why I should not be just to him."
+
+"So be it; he is an exceptional being, a great citizen, a hero, if you
+like.  But that does not prove that he will make my daughter happy.  And
+if you take my advice, we shall send him about his business in a very
+short time."
+
+Madame Desvarennes was excited and paced hurriedly up and down the room.
+The idea of resuming the offensive after she had been forced to act on
+the defensive for months past pleased her.  She thought Pierre argued too
+much.  A woman of action, she did not understand why Pierre had not yet
+come to a resolution.  She felt that she must gain his confidence.
+
+"You are master of the situation," she said.  "The Prince does not suit
+me--"
+
+"Micheline loves him," interrupted Pierre.
+
+"She fancies so," replied Madame Desvarennes.  "She has got it into her
+head, but it will wear off.  You thoroughly understand that I did not bid
+you to come from Africa to be present at my daughter's wedding.  If you
+are a man, we shall see some fun.  Micheline is your betrothed.  You have
+our word, and the word of a Desvarennes is as good as the signature.
+--It has never been dishonored.  Well, refuse to give us back our
+promise.  Gain time, make love, and take my daughter away from that
+dandy."
+
+Pierre remained silent for a few minutes.  In a moment he measured the
+extent of the mischief done, by seeing Micheline before consulting Madame
+Desvarennes.  With the help of this energetic woman he might have
+struggled, whereas left to his own strength, he had at the outset been
+vanquished and forced to lay down his arms.  Not only had he yielded, but
+he had drawn his ally into his defeat.
+
+"Your encouragements come too late," said he.  "Micheline asked me to
+give her back her promise, and I gave it to her."
+
+"You were so weak as that!"  cried Madame Desvarennes.  "And she had so
+much boldness?  Does she dote on him so?  I suspected her plans, and I
+hastened to warn you.  But all is not lost.  You have given Micheline
+back her promise.  So be it.  But I have not given you back yours.  You
+are pledged to me.  I will not countenance the marriage which my daughter
+has arranged without my consent!  Help me to break it off.  And, faith,
+you could easily find another woman worth Micheline, but where shall I
+find a son-in-law worth you?  Come, the happiness of us all is in peril;
+save it!"
+
+"Why continue the struggle?  I am beaten beforehand."
+
+"But if you forsake me, what can I do single-handed with Micheline?"
+
+"Do what she wishes, as usual.  You are surprised at my giving you this
+advice?  It is no merit on my part.  Until now you have refused your
+daughter's request; but if she comes again beseeching and crying, you who
+are so strong and can say so well 'I will,' will be weak and will not be
+able to refuse her her Prince.  Believe me; consent willingly.  Who
+knows?  Your son'-in-law may be grateful to you for it by-and-by."
+
+Madame Desvarennes had listened to Pierre with amazement.
+
+"Really, you are incredible," she said; "you discuss all this so calmly.
+Have you no grief?"
+
+"Yes," replied Pierre, solemnly, "it is almost killing me."
+
+"Nonsense!  You are boasting!" cried Madame Desvarennes, vehemently.
+"Ah, scholar!  figures have dried up your heart!"
+
+"No," replied the young man, with melancholy, "but work has destroyed in
+me the seductions of youth.  It has made me thoughtful, and a little sad.
+I frightened Micheline, instead of attracting her.  The worst is that we
+live in such a state of high pressure, it is quite impossible to grasp
+all that is offered to us in this life-work and pleasure.  It is
+necessary to make a choice, to economize one's time and strength, and to
+work with either the heart or the brain alone.  The result is that the
+neglected organ wastes away, and that men of pleasure remain all their
+lives mediocre workers, while hard workers are pitiful lovers.  The
+former sacrifice the dignity of existence, the latter that which is the
+charm of existence.  So that, in decisive moments, when the man of
+pleasure appeals to his intelligence, he finds he is unfit for duty, and
+when the man of toil appeals to his heart, he finds that he is
+unqualified for happiness."
+
+"Well, my boy, so much the worse for the women who cannot appreciate men
+of work, and who allow themselves to be wheedled by men of pleasure.
+I never was one of those; and serious as you are, thirty years ago I
+would have jumped at you.  But as you know your ailment so well, why
+don't you cure yourself?  The remedy is at hand."
+
+"What is it?"
+
+"Strong will.  Marry Micheline.  I'll answer for everything."
+
+"She does not love me."
+
+"A woman always ends by loving her husband."
+
+"I love Micheline too much to accept her hand without her heart."
+
+Madame Desvarennes saw that she would gain nothing, and that the game was
+irrevocably lost.  A great sorrow stole over her.  She foresaw a dark
+future, and had a presentiment that trouble had entered the house with
+Serge Panine.  What could she do?  Combat the infatuation of her
+daughter!  She knew that life would be odious for her if Micheline ceased
+to laugh and to sing.  Her daughter's tears would conquer her will.
+Pierre had told her truly.  Where was the use of fighting when defeat was
+certain?  She, too, felt that she was powerless, and with heartfelt
+sorrow came to a decision.
+
+"Come, I see that I must make up my mind to be grandmother to little
+princes.  It pleases me but little on the father's account.  My daughter
+will have a sad lot with a fellow of that kind.  Well, he had better keep
+in the right path; for I shall be there to call him to order.  Micheline
+must be happy.  When my husband was alive, I was already more of a mother
+than a wife; now my whole life is wrapped up in my daughter."
+
+Then raising her vigorous arms with grim energy, she added:
+
+"Do you know, if my daughter were made miserable through her husband, I
+should be capable of killing him."
+
+These were the last words of the interview which decided the destiny of
+Micheline, of the Prince, of Madame Desvarennes, and of Pierre.  The
+mistress stretched out her hand and rang the bell.  A servant appeared,
+to whom she gave instructions to tell Marechal to come down.  She thought
+it would be pleasant for Pierre to pour out his griefs into the heart of
+his friend.  A man weeps with difficulty before a woman, and she guessed
+that the young man's heart was swollen with tears.  Marechal was not far
+off.  He arrived in a moment, and springing toward Pierre put his arms
+round his neck.  When Madame Desvarennes saw the two friends fully
+engrossed with each other, she said to Marechal:
+
+"I give you leave until this evening.  Then bring Pierre back with you;
+I wish to see him after dinner."
+
+And with a firm step she went toward Micheline's room, where the latter
+was waiting in fear to know the result of the interview.
+
+
+
+CHAPTER VI
+
+A SIGNIFICANT MEETING
+
+The mansion in the Rue Saint-Dominique is certainly one of the finest to
+be seen.  Sovereigns alone have more sumptuous palaces.  The wide
+staircase, of carved oak, is bordered by a bronze balustrade, made by
+Ghirlandajo, and brought from Florence by Sommervieux, the great dealer
+in curiosities.  Baron Rothschild would consent to give only a hundred
+thousand francs for it.  Madame Desvarennes bought it.  The large panels
+of the staircase are hung with splendid tapestry, from designs by
+Boucher, representing the different metamorphoses of Jupiter.  At each
+landing-place stands a massive Japanese vase of 'claisonne' enamel,
+supported by a tripod of Chinese bronze, representing chimeras.  On the
+first floor, tall columns of red granite, crowned by gilt capitals,
+divide the staircase from a gallery, serving as a conservatory.  Plaited
+blinds of crimson silk hang before the Gothic windows, filled with
+marvellous stained glass.
+
+In the vestibule-the hangings of which are of Cordova-leather, with gold
+ground-seemingly awaiting the good pleasure of some grand lady, is a
+sedan-chair, decorated with paintings by Fragonard.  Farther on, there is
+one of those superb carved mother-of-pearl coffers, in which Oriental
+women lay by their finery and jewellery.  A splendid Venetian mirror,
+its frame embellished with tiny figure subjects, and measuring two metres
+in width and three in height, fills a whole panel of the vestibule.
+Portieres of Chinese satin, ornamented with striking embroidery, such as
+figures on a priest's chasuble, fall in sumptuous folds at the drawing-
+room and dining-room doors.
+
+The drawing-room contains a splendid set of Louis Quatorze furniture,
+of gilt wood, upholstered in fine tapestry, in an extraordinary state of
+preservation.  Three crystal lustres, hanging at intervals along the
+room, sparkle like diamonds.  The hangings, of woven silk and gold, are
+those which were sent as a present by Louis Quatorze to Monsieur de
+Pimentel, the Spanish Ambassador, to reward him for the part he had taken
+in the conclusion of the Treaty of the Pyrenees.  These hangings are
+unique, and were brought back from Spain in 1814, in the baggage-train of
+Soult's army, and sold to an inhabitant of Toulouse for ten thousand
+francs.  It was there that Madame Desvarennes discovered them in a garret
+in 1864, neglected by the grandchildren of the buyer, who were ignorant
+of the immense value of such unrivalled work.  Cleverly mended, they are
+to-day the pride of the great trader's drawing-room.  On the mantelpiece
+there is a large clock in Chinese lacquer, ornamented with gilt bronze,
+made on a model sent out from Paris in the reign of Louis Quatorze, and
+representing the Flight of the Hours pursued by Time.
+
+Adjoining the great drawing-room is a boudoir upholstered in light gray
+silk damask, with bouquets of flowers.  This is Madame Desvarennes's
+favorite room.  A splendid Erard piano occupies one side of the
+apartment.  Facing it is a sideboard in sculptured ebony, enriched with
+bronze, by Gouthieres.  There are only two pictures on the walls: "The
+Departure of the Newly Married Couple," exquisitely painted by Lancret;
+and "The Prediction," an adorable work by Watteau, bought at an
+incredible price at the Pourtales sale.  Over the chimney-piece is a
+miniature by Pommayrac, representing Micheline as a little child--a
+treasure which Madame Desvarennes cannot behold without tears coming to
+her eyes.  A door, hidden by curtains, opens on to a staircase leading
+directly to the courtyard.
+
+The dining-room is in the purest Renaissance style austere woodwork;
+immense chests of caned pearwood, on which stand precious ewers in Urbino
+ware, and dishes by Bernard Palissy.  The high stone fireplace is
+surmounted by a portrait of Diana of Poitiers, with a crescent on her
+brow, and is furnished with firedogs of elaborately worked iron.  The
+centre panel bears the arms of Admiral Bonnivet.  Stained-glass windows
+admit a softly-tinted light.  From the magnificently painted ceiling, a
+chandelier of brass repousse work hangs from the claws of a hovering
+eagle.
+
+The billiard-room is in the Indian style.  Magnificent panoplies unite
+Rajpoot shields, Mahratta scimitars, helmets with curtains of steel,
+rings belonging to Afghan chiefs, and long lances ornamented with white
+mares' tails, wielded by the horsemen of Cabul.  The walls are painted
+from designs brought from Lahore.  The panels of the doors were decorated
+by Gerome.  The great artist has painted Nautch girls twisting their
+floating scarves, and jugglers throwing poignards into the air.  Around
+the room are low divans, covered with soft and brilliant Oriental cloth.
+The chandelier is quite original in form, being the exact representation
+of the god Vishnu.  From the centre of the body hangs a lotus leaf of
+emeralds, and from each of the four arms is suspended a lamp shaped like
+a Hindu pagoda, which throws out a mellow light.
+
+Madame Desvarennes was entertaining her visitors in these celebrated
+apartments that evening.  Marechal and Pierre had just come in, and were
+talking together near the fireplace.  A few steps from them was a group,
+consisting of Cayrol, Madame Desvarennes, and a third person, who had
+never until then put his foot in the house, in spite of intercessions in
+his favor made by the banker to Madame Desvarennes.  He was a tall, pale,
+thin man, whose skin seemed stretched on his bones, with a strongly
+developed under-jaw, like that of a ravenous animal, and eyes of
+indefinable color, always changing, and veiled behind golden-rimmed
+spectacles.  His hands were soft and smooth, with moist palms and closely
+cut nails--vicious hands, made to take cunningly what they coveted.  He
+had scanty hair, of a pale yellow, parted just above the ear, so as to
+enable him to brush it over the top of his head.  This personage, clad in
+a double-breasted surtout, over a white waistcoat, and wearing a many-
+ rosette, was called Hermann Herzog.
+
+A daring financier, he had come from Luxembourg, preceded by a great
+reputation; and, in a few months, he had launched in Paris such a series
+of important affairs that the big-wigs on the Exchange felt bound to
+treat with him.  There were many rumors current about him.  Some said he
+was the most intelligent, most active, and most scrupulous of men that it
+was possible to meet.  Others said that no greater scoundrel had ever
+dared the vengeance of the law, after plundering honest people.  Of
+German nationality, those who cried him down said he was born at Mayence.
+Those who treated the rumors as legends said he was born at Frankfort,
+the most Gallic town beyond the river Rhine.
+
+He had just completed an important line of railway from Morocco to the
+centre of our colony in Algeria, and now he was promoting a company for
+exporting grain and flour from America.  Several times Cayrol had tried
+to bring Herzog and Madame Desvarennes together.  The banker had an
+interest in the grain and flour speculation, but he asserted that it
+would not succeed unless the mistress had a hand in it.  Cayrol had a
+blind faith in the mistress's luck.
+
+Madame Desvarennes, suspicious of everything foreign, and perfectly
+acquainted with the rumors circulated respecting Herzog, had always
+refused to receive him.  But Cayrol had been so importunate that, being
+quite tired of refusing, and, besides, being willing to favor Cayrol for
+having so discreetly managed the negotiations of Micheline's marriage,
+she had consented.
+
+Herzog had just arrived.  He was expressing to Madame Desvarennes his
+delight at being admitted to her house.  He had so often heard her highly
+spoken of that he had formed a high idea of her, but one which was,
+however, far below the reality; he understood now that it was an honor to
+be acquainted with her.  He wheedled her with German grace, and with a
+German-Jewish accent, which reminds one of the itinerant merchants, who
+offer you with persistence "a goot pargain."
+
+The mistress had been rather cold at first, but Herzog's amiability had
+thawed her.  This man, with his slow speech and queer eyes, produced a
+fascinating effect on one like a serpent.  He was repugnant, and yet, in
+spite of one's self one was led on.  He, had at once introduced the grain
+question, but in this he found himself face to face with the real Madame
+Desvarennes; and no politeness held good on her part when it was a
+question of business.  From his first words, she had found a weak point
+in the plan, and had attacked him with such plainness that the financier,
+seeing his enterprise collapse at the sound of the mistress's voice-like
+the walls of Jericho at the sound of the Jewish trumpets--had beaten a
+retreat, and had changed the subject.
+
+He was about to float a credit and discount company superior to any in
+the world.  He would come back and talk with Madame Desvarennes about it,
+because she ought to participate in the large profits which the matter
+promised.  There was no risk.  The novelty of the undertaking consisted
+in the concurrence of the largest banking-houses of France and abroad,
+which would hinder all competition, and prevent hostility on the part of
+the great money-handlers.  It was very curious, and Madame Desvarennes
+would feel great satisfaction in knowing the mechanism of this company,
+destined to become, from the first, the most important in the world, and
+yet most easy to understand.
+
+Madame Desvarennes neither said "Yes" nor "No."  Moved by the soft and
+insinuating talkativeness of Herzog, she felt herself treading on
+dangerous ground.  It seemed to her that her foot was sinking, as in
+those dangerous peat-mosses of which the surface is covered with green
+grass, tempting one to run on it.  Cayrol was under the charm.  He drank
+in the German's words.  This clever man, who had never till then been
+duped, had found his master in Herzog.
+
+Pierre and Marechal had come nearer, and Madame Desvarennes, profiting by
+this mingling of groups, introduced the men to each other.  On hearing
+the name of Pierre Delarue, Herzog looked thoughtful, and asked if the
+young man was the renowned engineer whose works on the coast of Africa
+had caused so much talk in Europe?  On Madame Desvarennes replying in the
+affirmative, he showered well-chosen compliments on Pierre.  He had had
+the pleasure of meeting Delarue in Algeria, when he had gone over to
+finish the railroad in Morocco.
+
+But Pierre had stepped back on learning that the constructor of that
+important line was before him.
+
+"Ah! is it you, sir, who carried out that job?"  said he.  "Faith! you
+treated those poor Moors rather hardly!"
+
+He remembered the misery of the poor natives employed by Europeans who
+superintended the work.  Old men, women, and children were placed at the
+disposal of the contractors by the native authorities, to dig up and
+remove the soil; and these poor wretches, crushed with hard work, and
+driven with the lash by drunken overseers--who commanded them with a
+pistol in hand--under a burning sun, inhaled the noxious vapors arising
+from the upturned soil, and died like flies.  It was a terrible sight,
+and one that Pierre could not forget.
+
+But Herzog, with his cajoling sweetness, protested against this
+exaggerated picture.  Delarue had arrived during the dog-days--a bad
+time.  And then, it was necessary for the work to be carried on without
+delay.  Besides, a few Moors, more or less--what did it matter?  <DW64>s,
+all but monkeys!
+
+Marechal, who had listened silently until then, interrupted the
+conversation, to defend the monkeys in the name of Littre.  He had framed
+a theory, founded on Darwin, and tending to prove that men who despised
+monkeys despised themselves.  Herzog, a little taken aback by this
+unexpected reply, had looked at Marechal slyly, asking himself if it was
+a joke.  But, seeing Madame Desvarennes laugh, he recovered his self-
+possession.  Business could not be carried on in the East as in Europe.
+And then, had it not always been thus?  Had not all the great discoverers
+worked the countries which they discovered?  Christopher Columbus,
+Cortez--had they not taken riches from the Indians, in exchange for the
+civilization which they brought them?  He (Herzog) had, in making a
+railway in Morocco, given the natives the means of civilizing themselves.
+It was only fair that it should cost them something.
+
+Herzog uttered his tirade with all the charm of which he was capable;
+he looked to the right and to the left to notice the effect.  He saw
+nothing but constrained faces.  It seemed as if they were expecting some
+one or something.  Time was passing; ten o'clock had just struck.
+From the little boudoir sounds of music were occasionally heard, when
+Micheline's nervous hand struck a louder chord on her piano.  She was
+there, anxiously awaiting some one or something.  Jeanne de Cernay,
+stretched in an easy-chair, her head leaning on her hand, was dreaming.
+
+During the past three weeks the young girl had changed.  Her bright wit
+no longer enlivened Micheline's indolent calmness; her brilliant eyes
+were surrounded by blue rings, which denoted nights passed without sleep.
+The change coincided strangely with Prince Panine's departure for
+England, and the sending of the letter which recalled Pierre to Paris.
+Had the inhabitants of the mansion been less occupied with their own
+troubles, they would no doubt have noticed this sudden change, and have
+sought to know the reason.  But the attention of all was concentrated on
+the events which had already troubled them, and which would no doubt be
+yet more serious to the house, until lately so quiet.
+
+The visitors' bell sounded, and caused Micheline to rise.  The blood
+rushed to her cheeks.  She whispered, "It is he!"  and, hesitating, she
+remained a moment leaning on the piano, listening vaguely to the sounds
+in the drawing-room.  The footman's voice announcing the visitor reached
+the young girls:
+
+"Prince Panine."
+
+Jeanne also rose then, and if Micheline had turned round she would have
+been frightened at the pallor of her companion.  But Mademoiselle
+Desvarennes was not thinking of Mademoiselle de Cernay; she had just
+raised the heavy door curtain, and calling to Jeanne, "Are you coming?"
+passed into the drawing-room:
+
+It was indeed Prince Serge, who was expected by Cayrol with impatience,
+by Madame Desvarennes with silent irritation, by Pierre with deep
+anguish.  The handsome prince, calm and smiling, with white cravat and
+elegantly fitting dress-coat which showed off his fine figure, advanced
+toward Madame Desvarennes before whom he bowed.  He seemed only to have
+seen Micheline's mother.  Not a look for the two young girls or the men
+who were around him.  The rest of the universe did not seem to count.
+He bent as if before a queen, with a dash of respectful adoration.
+He seemed to be saying:
+
+"Here I am at your feet; my life depends on you; make a sign and I shall
+be the happiest of men or the most miserable."
+
+Micheline followed him with eyes full of pride; she admired his haughty
+grace and his caressing humility.  It was by these contrasts that Serge
+had attracted the young girl's notice.  She felt herself face to face
+with a strange nature, different from men around her, and had become
+interested in him.  Then he had spoken to her, and his sweet penetrating
+voice had touched her heart.
+
+What he had achieved with Micheline he longed to achieve with her mother.
+After placing himself at the feet of the mother of her whom he loved,
+he sought the road to her heart.  He took his place beside the mistress
+and spoke.  He hoped that Madame Desvarennes would excuse the haste of
+his visit.  The obedience which he had shown in going away must be a
+proof to her of his submission to her wishes.  He was her most devoted
+and respectful servant.  He resigned himself to anything she might exact
+of him.
+
+Madame Desvarennes listened to that sweet voice; she had never heard it
+so full of charm.  She understood what influence this sweetness had
+exercised over Micheline; she repented not having watched over her more
+carefully, and cursed the hour that had brought all this evil upon them.
+She was obliged, however, to answer him.  The mistress went straight to
+the point.  She was not one to beat about the bush when once her mind was
+made up.
+
+"You come, no doubt, sir, to receive an answer to the request you
+addressed to me before your departure for England!"
+
+The Prince turned slightly pale.  The words which Madame Desvarennes was
+about to pronounce were of such importance to him that he could not help
+feeling moved.  He answered, in a suppressed tone:
+
+"I would not have dared to speak to you on the subject, Madame,
+especially in public; but since you anticipate my desire, I admit I am
+waiting with deep anxiety for one word from you which will decide my
+fate."
+
+He continued bent before Madame Desvarennes like a culprit before his
+judge.  The mistress was silent for a moment, as if hesitating before
+answering, and then said, gravely:
+
+"That word I hesitated to pronounce, but some one in whom I have great
+confidence has advised me to receive you favorably."
+
+"He, Madame, whoever he may be, has gained my everlasting gratitude."
+
+"Show it to him," said Madame Desvarennes; "he is the companion of
+Micheline's young days, almost a son to me."
+
+And turning toward Pierre, she pointed him out to Panine.
+
+Serge took three rapid strides toward Pierre, but quick as he had been
+Micheline was before him.  Each of the lovers seized a hand of Pierre,
+and pressed it with tender effusion.  Panine, with his Polish
+impetuosity, was making the most ardent protestations to Pierre--he would
+be indebted to him for life.
+
+Micheline's late betrothed, with despair in his heart, allowed his hands
+to be pressed and wrung in silence.  The voice of her whom he loved
+brought tears to his eyes.
+
+"How generous and good you are!"  said the young girl, "how nobly you
+have sacrificed yourself!"
+
+"Don't thank me," replied Pierre; "I have no merit in accomplishing what
+you admire.  I am weak, you see, and I could not bear to see you suffer."
+
+There was a great commotion in the drawing-room.  Cayrol was explaining
+to Herzog, who was listening with great attention, what was taking place.
+Serge Panine was to be Madame Desvarennes's son-in-law.  It was a great
+event.
+
+"Certainly," said the German; "Madame Desvarennes's son-in-law will
+become a financial power.  And a Prince, too.  What a fine name for a
+board of directors!"
+
+The two financiers looked at each other for a moment; the same thought
+had struck them.
+
+"Yes, but," replied Cayrol, "Madame Desvarennes will never allow Panine
+to take part in business."
+
+"Who knows?"  said Herzog.  "We shall see how the marriage settlements
+are drawn up."
+
+"But," cried Cayrol, "I would not have it said that I was leading Madame
+Desvarennes's son-in-law into speculations."
+
+"Who is speaking of that?"  replied Herzog, coldly.  "Am I seeking
+shareholders?  I have more money than I want; I refuse millions every
+day."
+
+"Oh, I know capitalists run after you," said Cayrol, laughingly; "and to
+welcome them you affect the scruples of a pretty woman.  But let us go
+and congratulate the Prince."
+
+While Cayrol and Herzog were exchanging those few words which had such a
+considerable influence on the future of Serge Panine--a scene, terrible
+in its simplicity, was going on without being noticed.  Micheline had
+thrown herself with a burst of tenderness into her mother's arms.
+Serge was deeply affected by the young girl's affection for him, when a
+trembling hand touched his arm.  He turned round.  Jeanne de Cernay was
+before him, pale and wan; her eyes sunken into her head like two black
+nails, and her lips tightened by a violent contraction.  The Prince stood
+thunderstruck at the sight of her.  He looked around him.  Nobody was
+observing him.  Pierre was beside Marechal, who was whispering those
+words which only true friends can find in the sad hours of life.  Madame
+Desvarennes was holding Micheline in her arms.  Serge approached
+Mademoiselle de Cernay.  Jeanne still fixed on him the same menacing
+look.  He was afraid.
+
+"Take care!"  he said.
+
+"Of what?"  asked the young girl, with a troubled voice.  "What have I to
+fear now?"
+
+"What do you wish?"  resumed Panine, with old firmness, and with a
+gesture of impatience.
+
+"I wish to speak with you immediately."
+
+"You see that is impossible."
+
+"I must."
+
+Cayrol and Herzog approached.  Serge smiled at Jeanne with a sign of the
+head which meant "Yes."  The young girl turned away in silence, awaiting
+the fulfilment of the promise made.
+
+Cayrol took her by the hand with tender familiarity.
+
+"What were you saying to the happy man who has gained the object of his
+dreams, Mademoiselle?  It is not to him you must speak, but to me, to
+give me hope.  The moment is propitious; it is the day for betrothals.
+You know how much I love you; do me the favor of no longer repulsing me
+as you have done hitherto!  If you would be kind, how charming it would
+be to celebrate the two weddings on the same day.  One church, one
+ceremony, one splendid feast would unite two happy couples.  Is there
+nothing in this picture to entice you?"
+
+"I am not easily enticed, as you know," said Jeanne, in a firm voice,
+trying to smile.
+
+Micheline and Madame Desvarennes had drawn near.
+
+"Come, Cayrol," said Serge, in a tone of command; "I am happy to-day;
+perhaps I may succeed in your behalf as I have done in my own.  Let me
+plead your cause with Mademoiselle de Cernay?"
+
+"With all my heart.  I need an eloquent pleader," sighed the banker,
+shaking his head sadly.
+
+"And you, Mademoiselle, will you submit to the trial?"  asked the Prince,
+turning toward Jeanne.  "We have always been good friends, and I shall be
+almost a brother to you.  This gives me some right over your mind and
+heart, it seems to me.  Do you authorize me to exercise it?"
+
+"As you like, sir," answered Jeanne, coldly.  "The attempt is novel.  Who
+knows?  Perhaps it will succeed!"
+
+"May Heaven grant it," said Cayrol.  Then, approaching Panine:
+
+"Ah!  dear Prince, what gratitude I shall owe you!  You know," added he
+in a whisper, "if you need a few thousand louis for wedding presents--"
+
+"Go, go, corrupter!"  replied Serge, with the same forced gayety; "you
+are flashing your money in front of us.  You see it is not invincible,
+as you are obliged to have recourse to my feeble talents.  But know that
+I am working for glory."
+
+And turning toward Madame Desvarennes he added: "I only ask a quarter of
+an hour."
+
+"Don't defend yourself too much," said Micheline in her companion's ear,
+and giving her a tender kiss which the latter did not return.
+
+"Come with me," said Micheline to Pierre, offering him her arm; "I want
+to belong to you alone while Serge is pleading with Jeanne.  I will be
+your sister as formerly.  If you only knew how I love you!"
+
+The large French window which led to the garden had just been opened by
+Marechal, and the mild odors of a lovely spring night perfumed the
+drawing-room.  They all went out on the lawn.  Thousands of stars were
+twinkling in the sky, and the eyes of Micheline and Pierre were lifted
+toward the dark blue heavens seeking vaguely for the star which presided
+over their destiny.  She, to know whether her life would be the long poem
+of love of which she dreamed; he, to ask whether glory, that exacting
+mistress for whom he had made so many sacrifices, would at least comfort
+him for his lost love.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+A man weeps with difficulty before a woman
+Antagonism to plutocracy and hatred of aristocrats
+Enough to be nobody's unless I belong to him
+Even those who do not love her desire to know her
+Flayed and roasted alive by the critics
+Hard workers are pitiful lovers
+He lost his time, his money, his hair, his illusions
+He was very unhappy at being misunderstood
+I thought the best means of being loved were to deserve it
+Men of pleasure remain all their lives mediocre workers
+My aunt is jealous of me because I am a man of ideas
+<DW64>s, all but monkeys!
+Patience, should he encounter a dull page here or there
+Romanticism still ferments beneath the varnish of Naturalism
+Sacrifice his artistic leanings to popular caprice
+Unqualified for happiness
+You are talking too much about it to be sincere
+
+
+
+
+End of this Project Gutenberg Etext of Serge Panine, V1
+by Georges Ohnet
+
