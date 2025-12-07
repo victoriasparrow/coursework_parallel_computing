@@ -1,8 +1,10 @@
+#include <csignal>
+#include <cstring>
+#include <iomanip>
 #include <iostream>
 #include <sstream>
 #include <vector>
-#include <cstring>
-#include <iomanip>
+
 #include "TCPnetworking.h"
 
 const int kContentWidth = 75;

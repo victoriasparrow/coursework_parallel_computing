@@ -1,10 +1,12 @@
-#include <thread>
 #include <fstream>
+#include <thread>
 #include <unordered_set>
+
 #include "ConcurrentHashMap.h"
 #include "SeachEngine.h"
 #include "TCPnetworking.h"
 #include "ThreadPool.h"
+#include "TextParser.h"
 
 std::vector<std::pair<std::string, uint32_t>> getFilesNamesInDirectory(const std::filesystem::path& path, SearchEngine& data) {
     std::vector<std::pair<std::string, uint32_t>> newFiles;
@@ -29,160 +31,6 @@ std::vector<std::pair<std::string, uint32_t>> getFilesNamesInDirectory(const std
     return newFiles;
 }
 
-struct stringHash {
-    using hash_type = std::hash<std::string_view>;
-    using is_transparent = void;
-    std::size_t operator()(const char* str) const{
-        return hash_type{}(str);
-    }
-    std::size_t operator()(std::string_view str) const{
-        return hash_type{}(str);
-    }
-    std::size_t operator()(const std::string& str) const{
-        return hash_type{}(str);
-    }
-};
-
-
-std::string createLines(std::string& fileName, std::vector<uint32_t> positions) {
-    constexpr int kContextWindow = 30;
-    if (positions.empty()) return "";
-    std::string results;
-    std::string filePath = constants::corpusPath / fileName;
-    std::ifstream file;
-    file.open(filePath);
-    if (!file.is_open()) {
-        std::cerr << "createLines: failed to open file " << filePath << std::endl;
-        return "";
-    }
-    std::string line;
-    uint32_t currentWordCount = 1;
-    uint32_t linesFound = 0;
-    auto iterator = positions.begin();
-
-    while (std::getline(file, line) && linesFound < constants::kMaxLines) {
-        if (iterator == positions.end()) {  // have found all the positions in the doc
-            break;
-        }
-        std::size_t current = 0;
-
-        while (true) {
-            std::size_t start = line.find_first_not_of(constants::delims, current);
-            if (start == std::string::npos) break;
-
-            std::size_t end = line.find_first_of(constants::delims, start);
-            std::size_t length = 0;
-            if (end == std::string::npos) {
-                length = line.length() - start;
-            } else { length = end - start; }
-
-            if (length > constants::kMaxWordLength || length <= 2) {
-                currentWordCount++;
-                current = end;
-                if (current == std::string::npos) { break; }
-                continue;
-            }
-            while (iterator != positions.end() && *iterator == currentWordCount) {
-                size_t contextStart = 0, contextEnd = 0;
-                if (start > kContextWindow) {
-                    contextStart = start - kContextWindow;
-                }
-                else { start = 0; }
-                contextEnd = start + length + kContextWindow;
-                if (contextEnd > line.length()) contextEnd = line.length();
-
-                std::string subString = line.substr(contextStart, contextEnd - contextStart);
-                results += subString + "\n";
-                linesFound++;
-                iterator++;
-            }
-
-            currentWordCount++;
-
-            current = end;
-            if (current == std::string::npos) break;
-        }
-    }
-    return results;
-}
-
-void processLine(const std::string_view line, std::unordered_map<std::string, std::vector<uint32_t>>& pos, const std::unordered_set<std::string, stringHash, std::equal_to<>>& stopWordsMap, uint32_t& wordCount) {
-    std::size_t kMaxWordLength = constants::kMaxWordLength;
-    std::string_view delims = constants::delims;
-    std::size_t current = 0;
-
-    while (true) {
-        std::size_t start = line.find_first_not_of(delims, current);
-        if (start == std::string::npos) {
-            break;
-        }
-
-        std::size_t end = line.find_first_of(delims, start);
-        std::size_t length = 0;
-        if (end == std::string::npos) {
-            length = line.length() - start;
-        } else { length = end - start; }
-
-        if (length > kMaxWordLength || length <= 2) {
-            wordCount++;
-            current = end;
-            if (current == std::string::npos) { break; }
-            continue;
-        }
-        std::string_view tokenTemp(line.data() + start, length);
-
-        if (!stopWordsMap.contains(tokenTemp) && tokenTemp.find("--") == std::string_view::npos) { // no temp memory allocated for look up
-            pos[std::string(tokenTemp)].push_back(wordCount);
-        }
-        wordCount++;
-
-        current = end;
-        if (current == std::string::npos) {
-            break;
-        }
-    }
-}
-
-void loadStopWords(std::unordered_set<std::string, stringHash, std::equal_to<>>& stopWordsMap) {
-    std::ifstream file;
-    file.open(constants::stopWordsFile);
-    if (!file.is_open()) {
-        return;
-    }
-    std::string line;
-    while (std::getline(file, line)) {
-        stopWordsMap.insert(line);
-    }
-    file.close();
-}
-
-void processDocument(const std::string& fileName, std::unordered_map<std::string, std::vector<uint32_t>>& pos, const std::unordered_set<std::string, stringHash, std::equal_to<>>& stopWordsMap) {
-    static std::size_t allUniqueWords = 0;
-    std::ifstream file;
-    std::string line;
-    std::string filePath = constants::corpusPath / fileName;
-    //std::cout << "filepath looks like " << filePath << std::endl;
-    file.open(filePath);
-    if (file.is_open()) {
-        uint32_t wordCountDoc = 1;
-        while (std::getline(file, line )) {
-            for (char &toLower : line) {
-                if( toLower >= 'A' && toLower <= 'Z' ) {
-                    toLower += 'a' - 'A';
-                }
-            }
-            processLine(line, pos, stopWordsMap, wordCountDoc);
-        }
-    }
-    else {
-        std::cerr << "File failed to open." << std::endl;
-    }
-    file.close();
-    allUniqueWords += pos.size();
-    //std::cout << "allUniqueWords " << allUniqueWords << std::endl;
-    //std::cout << "unique words in local hash map: " << pos.size() << std::endl;
-}
-
 void searchAndSend(int socketFD, const std::string& query, int page, SearchEngine& data) {
     uint32_t tokenID = data.tokenToID.find(query);
     if (tokenID == 0) {
@@ -202,7 +50,7 @@ void searchAndSend(int socketFD, const std::string& query, int page, SearchEngin
         std::string fileName = data.idToDoc.find(documentID);
         res.docName = data.idToDoc.find(documentID);
         res.termFrequency = postings[i].positions.size();
-        res.lines = createLines(fileName, postings[i].positions);
+        res.lines = txtparcer::createLines(fileName, postings[i].positions);
         results.push_back(res);
     }
     tcp::sendQueryResult(socketFD, totalDocs, results);
@@ -258,8 +106,8 @@ void handleClient(int socketFD, SearchEngine& data) {
 
 int main() {
     SearchEngine data;
-    std::unordered_set<std::string, stringHash, std::equal_to<>> stopWordsMap;
-    loadStopWords(stopWordsMap);
+    std::unordered_set<std::string, txtparcer::stringHash, std::equal_to<>> stopWordsMap;
+    txtparcer::loadStopWords(stopWordsMap);
     constexpr int threadNumber = constants::threadsNumber;
     auto newFiles = getFilesNamesInDirectory(constants::corpusPath, data);
 
@@ -282,7 +130,7 @@ int main() {
         uint32_t docID = pair.second;
         pool.add_task([filePath, docID, &data, &stopWordsMap, &filesRemaining, &m, &cv]() {
             std::unordered_map<std::string, std::vector<uint32_t>> wordPositionsLocal;
-            processDocument(filePath, wordPositionsLocal, stopWordsMap);
+            txtparcer::processDocument(filePath, wordPositionsLocal, stopWordsMap);
             for (auto& it : wordPositionsLocal) {
                 const std::string& word = it.first;
                 uint32_t tokenID = data.getTokenID(word);
@@ -300,17 +148,17 @@ int main() {
     //std::unique_lock<std::mutex> lock(m);
     //cv.wait(lock, [&filesRemaining](){ return filesRemaining.load() == 0; });
     //lock.unlock();
-    auto indexEnd = std::chrono::steady_clock::now();
-    auto indexTime = std::chrono::duration_cast<std::chrono::milliseconds>(indexEnd - indexStart).count();
-    std::cout << "Number of threads: " << constants::threadsNumber << ". Building InvertedIndex took " << indexTime << " ms." << std::endl;
-    std::cout << "[Inverted Index] Load factor: " << data.InvertedIndex.currentLoad() << std::endl;
-    std::cout << "[Inverted Index] Bucket array size: " << data.InvertedIndex.bucket_count() << std::endl;
-    std::cout << "[Inverted Index] Counter size: " << data.InvertedIndex.size() << std::endl;
-    std::cout << "[DocToID] Load factor: " << data.docToID.currentLoad() << std::endl;
-    std::cout << "[idToDoc] Load factor: " << data.idToDoc.currentLoad() << std::endl;
-    std::cout << "[tokenToID] Load factor: " << data.tokenToID.currentLoad() << std::endl;
-    std::cout << "Total unique words: " << data.nextToken.load();
-    data.tokenToID.printBuckets(50);
+    // auto indexEnd = std::chrono::steady_clock::now();
+    // auto indexTime = std::chrono::duration_cast<std::chrono::milliseconds>(indexEnd - indexStart).count();
+    // std::cout << "Number of threads: " << constants::threadsNumber << ". Building InvertedIndex took " << indexTime << " ms." << std::endl;
+    // std::cout << "[Inverted Index] Load factor: " << data.InvertedIndex.currentLoad() << std::endl;
+    // std::cout << "[Inverted Index] Bucket array size: " << data.InvertedIndex.bucket_count() << std::endl;
+    // std::cout << "[Inverted Index] Counter size: " << data.InvertedIndex.size() << std::endl;
+    // std::cout << "[DocToID] Load factor: " << data.docToID.currentLoad() << std::endl;
+    // std::cout << "[idToDoc] Load factor: " << data.idToDoc.currentLoad() << std::endl;
+    // std::cout << "[tokenToID] Load factor: " << data.tokenToID.currentLoad() << std::endl;
+    // std::cout << "Total unique words: " << data.nextToken.load();
+    // data.tokenToID.printBuckets(50);
 
     int listeningFD = tcp::createSocket(nullptr, kPort, true);
     if (listeningFD == -1) {

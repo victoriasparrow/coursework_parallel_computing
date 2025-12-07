@@ -1,12 +1,12 @@
 #ifndef TCPNETWORKING_H
 #define TCPNETWORKING_H
-#include <iostream>
 #include <arpa/inet.h>
-#include <sys/socket.h>
+#include <iostream>
 #include <netdb.h> // addrinfo
-#include <unistd.h> // close
-#include <sys/_endian.h>
 #include <netinet/ip.h>
+#include <sys/_endian.h>
+#include <sys/socket.h>
+#include <unistd.h> // close
 
 constexpr int kBackLog = 10;
 constexpr int kMaxData = 1024;
