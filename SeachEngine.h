@@ -2,6 +2,39 @@
 #define SEARCHENGINE
 #include "ConcurrentHashMap.h"
 
+struct Posting{
+    uint32_t documentID = 0;
+    std::vector<uint32_t> positions;
+    Posting();
+    Posting
+    (uint32_t docID, std::vector<uint32_t>&& pos): documentID(docID), positions(pos) {};
+
+    bool operator<(const Posting& other) const {
+        return documentID < other.documentID;
+    }
+
+    bool operator==(const Posting& other) const {
+        return documentID == other.documentID && positions == other.positions;
+    }
+};
+
+struct QueryResult {
+    uint32_t docID;
+    std::string docName;
+    uint32_t termFrequency;
+    std::string lines;
+};
+
+struct SearchResult {
+    uint32_t totalDocs;
+    std::vector<QueryResult> results;
+};
+
+struct ParsedQuery {
+    uint32_t page;
+    std::string term;
+};
+
 struct SearchEngine {
     std::atomic<uint32_t> nextToken{1};
     ConcurrentHashMap<std::string, uint32_t> tokenToID{1430027};
@@ -29,5 +62,10 @@ struct SearchEngine {
         return tokenToID.find(word);
     }
 };
+
+std::vector<Posting> getMatches(const std::string& query, SearchEngine& data);
+std::vector<Posting> intersectQueries(std::vector<std::string> multipleQueries, SearchEngine& data);
+std::vector<Posting> intersectPostings(const std::vector<Posting>& first, const std::vector<Posting>& second);
+SearchResult getSearchResult(const std::string& input, int page, SearchEngine& data);
 
 #endif // SEARCHENGINE

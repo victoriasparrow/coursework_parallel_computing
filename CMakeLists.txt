@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 4.0)
-project(project)
+project(searchEngine)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(project main.cpp ConcurrentHashMap.h LinkedList.h SeachEngine.h ThreadPool.h constants.h)
+add_executable(server TCPserver.cpp TCPnetworking.cpp SearchEngine.cpp TextParser.cpp HTTPserver.cpp)
+add_executable(tcpclient TCPclient.cpp TCPnetworking.cpp)

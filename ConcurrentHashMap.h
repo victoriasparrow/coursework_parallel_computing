@@ -12,22 +12,6 @@
 #include <iomanip>
 #include <mutex>
 
-struct Posting{
-    uint32_t documentID = 0;
-    std::vector<uint32_t> positions;
-    Posting();
-    Posting
-    (uint32_t docID, std::vector<uint32_t>&& pos): documentID(docID), positions(pos) {};
-
-    bool operator<(const Posting& other) const {
-        return documentID < other.documentID;
-    }
-
-    bool operator==(const Posting& other) const {
-        return documentID == other.documentID && positions == other.positions;
-    }
-};
-
 #ifdef __APPLE__
     constexpr std::size_t CACHE_LINE = 128;
 #else

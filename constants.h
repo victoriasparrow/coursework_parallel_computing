@@ -15,7 +15,7 @@ namespace constants {
         return{};
     }
     inline const std::string stopWordsFile = initializeStopWords();
-    inline const std::filesystem::path corpusPath = "./corpus/";
+    inline const std::filesystem::path corpusPath = "../corpus/";
     //inline const std::filesystem::path corpusPath = "../gutenbergfineweb/";
     constexpr std::size_t kMaxWordLength = 40;
     constexpr std::size_t kMaxLines = 5;

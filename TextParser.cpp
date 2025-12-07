@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include <sstream>
 #include <unordered_set>
 
 #include "constants.h"
@@ -143,4 +144,16 @@ void txtparcer::processDocument(const std::string& fileName, std::unordered_map<
     allUniqueWords += pos.size();
     //std::cout << "allUniqueWords " << allUniqueWords << std::endl;
     //std::cout << "unique words in local hash map: " << pos.size() << std::endl;
+}
+
+std::vector<std::string> txtparcer::booleanQuery(const std::string& query) {
+    std::vector<std::string> tokens;
+    std::istringstream iss(query);
+    std::string word;
+    while (iss >> word) {
+        if (word != "and") {
+            tokens.push_back(word);
+        }
+    }
+    return tokens;
 }

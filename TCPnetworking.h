@@ -7,6 +7,7 @@
 #include <sys/_endian.h>
 #include <sys/socket.h>
 #include <unistd.h> // close
+#include "SeachEngine.h"
 
 constexpr int kBackLog = 10;
 constexpr int kMaxData = 1024;
@@ -26,18 +27,6 @@ enum class TagTLV : uint8_t {
     kSearchResult = 0x11,
 
     kError = 0xFF
-};
-
-struct QueryResult {
-    uint32_t docID;
-    std::string docName;
-    uint32_t termFrequency;
-    std::string lines;
-};
-
-struct ParsedQuery {
-    uint32_t page;
-    std::string term;
 };
 
 namespace tcp {
