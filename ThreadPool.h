@@ -12,6 +12,7 @@
 #include <atomic>
 #include <string>
 
+inline std::mutex printMutex;
 template<typename... Args>
 void print_sync(Args&&... args) {
     std::lock_guard<std::mutex> lock(printMutex);
@@ -86,7 +87,7 @@ class threadPool {
     std::mutex q2_mutex;
     std::condition_variable q2_cv;
 
-    std::mutex addTask;
+    //std::mutex addTask;
     std::mutex poolStateMutex; // for stop/terminate/pause
 
     std::atomic<bool> terminated{false};
@@ -112,7 +113,7 @@ public:
         int workersQ1 = workerNumber / 2;
 
         workers.reserve(workerNumber);
-        print_sync("[ThreadPool] Initializing with ", workerNumber, " workers...");
+        //print_sync("[ThreadPool] Initializing with ", workerNumber, " workers...");
 
         for (int i = 0; i < workersQ1; ++i) { // reference to q2, to steal
             workers.emplace_back(&threadPool::routine, this, i, "Queue 1", std::ref(queue1), std::ref(q1_mutex), std::ref(q1_cv), std::ref(queue2));
@@ -123,52 +124,51 @@ public:
         initialized = true;
         paused = false;
         terminated = false;
-        print_sync("[ThreadPool] Initialized.");
+        //print_sync("[ThreadPool] Initialized.");
     }
 
-    void add_task(std::function<void()> func) {
+    void add_task(std::function<void()> func, int prefferedQ = -1) {
         if (!initialized.load() || terminated.load()) {
-            print_sync("[ThreadPool] Warning: Failed to add new task. Pool not ready or terminated.");
+            //print_sync("[ThreadPool] Warning: Failed to add new task. Pool not ready or terminated.");
             return;
         }
 
         int taskId = totalTasks.fetch_add(1);
         tasksQueue* targetQueuePtr = nullptr;
-        std::mutex* targetMutexPtr = nullptr;
         std::condition_variable* targetCVPtr = nullptr;
         std::string targetQueueName;
 
-        {  // critical section for adding task
-            std::lock_guard<std::mutex> lock(addTask);
-
-            std::size_t firstQueueSize = queue1.size();
-            std::size_t secondQueueSize = queue2.size();
-            print_sync("[Debug Task ", taskId, "]: Queue sizes -> Q1 = ", firstQueueSize, "s, Q2 = ", secondQueueSize, "s");
-
-            if (firstQueueSize <= secondQueueSize) {
-                targetQueuePtr = &queue1;
-                targetMutexPtr = &q1_mutex;
-                targetCVPtr = &q1_cv;
-                targetQueueName = "Queue 1";
-            } else {
-                targetQueuePtr = &queue2;
-                targetMutexPtr = &q2_mutex;
-                targetCVPtr = &q2_cv;
-                targetQueueName = "Queue 2";
-            }
-            print_sync("[Debug] Task ", taskId, ": Decided on ", targetQueueName);
-
-            targetQueuePtr->push(taskId, std::move(func));
-        } // end of critical section
-
-        {
-            std::lock_guard<std::mutex> lock(*targetMutexPtr); // locking the correct's queue
-            targetCVPtr->notify_one();
+        std::size_t firstQueueSize = queue1.size();
+        std::size_t secondQueueSize = queue2.size();
+        //print_sync("[Debug Task ", taskId, "]: Queue sizes -> Q1 = ", firstQueueSize, "s, Q2 = ", secondQueueSize, "s");
+        bool chooseQ1 = false;
+        if (prefferedQ == 1) {
+            chooseQ1 = true;
         }
+        else if (prefferedQ == 2) {
+            chooseQ1 = false;
+        } else {
+            if (firstQueueSize <= secondQueueSize) {
+                chooseQ1 = true;
+            } else { chooseQ1 = false; }
+        }
+        if (chooseQ1) {
+            targetQueuePtr = &queue1;
+            targetCVPtr = &q1_cv;
+            targetQueueName = "Queue 1";
+        } else {
+            targetQueuePtr = &queue2;
+            targetCVPtr = &q2_cv;
+            targetQueueName = "Queue 2";
+        }
+        //print_sync("[Debug] Task ", taskId, ": Decided on ", targetQueueName);
+
+        targetQueuePtr->push(taskId, std::move(func)); // internal mutexQ
+        targetCVPtr->notify_one();
     }
 
     void routine(int worker_id, const char* queue_name, tasksQueue& assignedQueue, std::mutex& assignedMutex, std::condition_variable& assignedCV, tasksQueue& otherQueue) {
-        print_sync("[Worker ", worker_id, "] started, assigned to ", queue_name);
+        //print_sync("[Worker ", worker_id, "] started, assigned to ", queue_name);
 
         while (true) {
             Task task;
@@ -183,12 +183,12 @@ public:
                 });
 
                 if (terminated.load()) {
-                    print_sync("[Worker ", worker_id, "] Terminating signal detected.");
+                    //print_sync("[Worker ", worker_id, "] Terminating signal detected.");
                     break;
                 }
 
                 if (paused.load()) {
-                    print_sync("[Worker ", worker_id, "] Paused, continuing wait.");
+                    //print_sync("[Worker ", worker_id, "] Paused, continuing wait.");
                     continue; // go back to wait
                 }
 
@@ -204,24 +204,24 @@ public:
                     if (std::string(queue_name) == "Queue 1") {
                         source = "Queue 2 (stolen)";
                     } else { source = "Queue 1 (stolen)"; }
-                    print_sync("[Worker ", worker_id, "] has stolen the task.");
+                    //print_sync("[Worker ", worker_id, "] has stolen the task.");
                 }
             }
 
             if (task_popped) {
-                print_sync("[Worker ", worker_id, "] Executing Task ", task.id, " source is ", source);
+                //print_sync("[Worker ", worker_id, "] Executing Task ", task.id, " source is ", source);
                 task.func();
-                print_sync("[Worker ", worker_id, "] Finished Task ", task.id);
+                //print_sync("[Worker ", worker_id, "] Finished Task ", task.id);
             }
         } // end while loop
-        print_sync("[Worker ", worker_id, "] Exiting routine.");
+        //print_sync("[Worker ", worker_id, "] Exiting routine.");
     }
 
     void pause() {
         std::lock_guard<std::mutex> lock(poolStateMutex);
         if (!initialized.load() || terminated.load()) return;
         paused = true;
-        print_sync("[ThreadPool] Paused.");
+        //print_sync("[ThreadPool] Paused.");
     }
 
     void unpause() {
@@ -233,7 +233,8 @@ public:
             }
             paused = false;
             needs_notify = true;
-            print_sync("[ThreadPool] Unpaused.");
+            //
+            //print_sync("[ThreadPool] Unpaused.");
         } // releasing poolStateMutex
 
         if (needs_notify) {  // notifying all workers on both queues
@@ -252,22 +253,22 @@ public:
             terminated = true;
             paused = false;  //  not stuck paused
             needs_notify = true;
-            print_sync("[ThreadPool] Terminating...");
+            //print_sync("[ThreadPool] Terminating...");
         } // release poolStateMutex
 
         if (needs_notify) {
             { std::lock_guard<std::mutex> lock1(q1_mutex); q1_cv.notify_all(); }
             { std::lock_guard<std::mutex> lock2(q2_mutex); q2_cv.notify_all(); }
-            print_sync("[ThreadPool] Termination signals sent.");
+            //print_sync("[ThreadPool] Termination signals sent.");
         }
 
-        print_sync("[ThreadPool] Joining worker threads...");
+        //print_sync("[ThreadPool] Joining worker threads...");
         for (auto& worker : workers) {
             if (worker.joinable()) {
                 worker.join();
             }
         }
-        print_sync("[ThreadPool] Worker threads joined.");
+        //print_sync("[ThreadPool] Worker threads joined.");
 
         std::lock_guard<std::mutex> lock(poolStateMutex);
         workers.clear();
@@ -277,7 +278,7 @@ public:
         terminated = false;
         paused = false;
         totalTasks = 0;
-        print_sync("[ThreadPool] Terminated and cleaned.");
+        //print_sync("[ThreadPool] Terminated and cleaned.");
     }
 };
 

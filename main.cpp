@@ -28,7 +28,7 @@ std::vector<std::pair<std::string, uint32_t>> getFilesNamesInDirectory(const std
             data.docToID.insert(file, id);
             data.idToDoc.insert(id, file);
             newFiles.emplace_back(file, id);
-            std::cout << "Found new file: " << file << ", id: " << id << std::endl;
+            //std::cout << "Found new file: " << file << ", id: " << id << std::endl;
         }
     }
     return newFiles;
@@ -63,7 +63,7 @@ void loadStopWords(std::unordered_set<std::string, stringHash, std::equal_to<>>&
 
 void processLine(const std::string_view line, std::unordered_map<std::string, std::vector<uint32_t>>& pos, const std::unordered_set<std::string, stringHash, std::equal_to<>>& stopWordsMap, uint32_t& wordCount) {
     std::size_t kMaxWordLength = 40;
-    constexpr std::string_view delims = " \t\n\r\v\f_/!.,@#$%^&*();:?{}<>|`~[]+=\"";
+    constexpr std::string_view delims = " \t\n\r\v\f1234567890_/!.,@#$%^&*();:?{}<>|`~[]+=\"\\-'";
     std::size_t current = 0;
 
     while (true) {
@@ -78,21 +78,19 @@ void processLine(const std::string_view line, std::unordered_map<std::string, st
             length = line.length() - start;
         } else { length = end - start; }
 
-        if (length > kMaxWordLength) {
+        if (length > kMaxWordLength || length <= 2) {
+            wordCount++;
             current = end;
-            if (current == std::string::npos) {
-                break;
-            }
+            if (current == std::string::npos) { break; }
             continue;
         }
         std::string_view tokenTemp(line.data() + start, length);
-        if (tokenTemp.length() >= 2 && tokenTemp.substr(tokenTemp.length() - 2) == "'s") {
-            tokenTemp.remove_suffix(2);
-        }
+
         if (!stopWordsMap.contains(tokenTemp) && tokenTemp.find("--") == std::string_view::npos) { // no temp memory allocated for look up
             pos[std::string(tokenTemp)].push_back(wordCount);
         }
         wordCount++;
+
         current = end;
         if (current == std::string::npos) {
             break;
@@ -100,7 +98,7 @@ void processLine(const std::string_view line, std::unordered_map<std::string, st
     }
 }
 
-void processDocument(std::string_view fileName, std::unordered_map<std::string, std::vector<uint32_t>>& pos, const std::unordered_set<std::string, stringHash, std::equal_to<>>& stopWordsMap) {
+void processDocument(const std::string& fileName, std::unordered_map<std::string, std::vector<uint32_t>>& pos, const std::unordered_set<std::string, stringHash, std::equal_to<>>& stopWordsMap) {
     static std::size_t allUniqueWords = 0;
     std::ifstream file;
     std::string line;
@@ -108,35 +106,21 @@ void processDocument(std::string_view fileName, std::unordered_map<std::string, 
     if (file.is_open()) {
         uint32_t wordCountDoc = 1;
         while (std::getline(file, line )) {
-            std::transform(line.begin(), line.end(), line.begin(), ::tolower);
+            for (char &toLower : line) {
+                if( toLower >= 'A' && toLower <= 'Z' ) {
+                    toLower += 'a' - 'A';
+                }
+            }
             processLine(line, pos, stopWordsMap, wordCountDoc);
         }
+    }
+    else {
+        std::cerr << "File failed to open." << std::endl;
     }
     file.close();
     allUniqueWords += pos.size();
     //std::cout << "allUniqueWords " << allUniqueWords << std::endl;
-    std::cout << "unique words in local hash map: " << pos.size() << std::endl;
-}
-
-void worker(SearchEngine& data, std::atomic<int>& fileCounter, const std::unordered_set<std::string, stringHash, std::equal_to<>>& stopWordsMap) {
-    uint32_t fileNumber = data.fileNames.size();
-    while (true) {
-        int fileIndex = fileCounter.fetch_add(1);
-        if (fileIndex >= fileNumber) break;
-
-        const std::string& file = data.fileNames[fileIndex];
-        uint32_t docID = data.docToID.find(file);
-        std::unordered_map<std::string, std::vector<uint32_t>> wordPositionsLocal;
-        processDocument(file, wordPositionsLocal, stopWordsMap);
-        for (auto& it : wordPositionsLocal){
-            const std::string& word = it.first;
-            uint32_t tokenID = data.getTokenID(word);
-            Posting thisDoc (docID, std::move(it.second));
-            std::vector<Posting> postings;
-            postings.push_back(thisDoc);
-            data.InvertedIndex.insert(tokenID, std::move(postings));
-        }
-    }
+    //std::cout << "unique words in local hash map: " << pos.size() << std::endl;
 }
 
 int main() {
@@ -155,13 +139,15 @@ int main() {
         return 0;
     }
     std::atomic<int> filesRemaining = newFiles.size();
+    std::mutex m;
+    std::condition_variable cv;
 
     auto indexStart = std::chrono::steady_clock::now();
 
     for (const auto& pair: newFiles) {
         std::string filePath = pair.first;
         uint32_t docID = pair.second;
-        pool.add_task([filePath, docID, &data, &stopWordsMap, &filesRemaining]() {
+        pool.add_task([filePath, docID, &data, &stopWordsMap, &filesRemaining, &m, &cv]() {
             std::unordered_map<std::string, std::vector<uint32_t>> wordPositionsLocal;
             processDocument(filePath, wordPositionsLocal, stopWordsMap);
             for (auto& it : wordPositionsLocal) {
@@ -172,52 +158,62 @@ int main() {
                 postings.push_back(thisDoc);
                 data.InvertedIndex.insert(tokenID, std::move(postings));
             }
-            filesRemaining.fetch_sub(1);
-        });
+            if (filesRemaining.fetch_sub(1) == 1) {
+                std::lock_guard<std::mutex> lock(m);
+                cv.notify_one();
+            }
+        }, 1);
     }
-    while (filesRemaining.load() > 0) {
-        std::this_thread::sleep_for(std::chrono::milliseconds(10));
-    }
-
+    std::unique_lock<std::mutex> lock(m);
+    cv.wait(lock, [&filesRemaining](){ return filesRemaining.load() == 0; });
+    lock.unlock();
     auto indexEnd = std::chrono::steady_clock::now();
     auto indexTime = std::chrono::duration_cast<std::chrono::milliseconds>(indexEnd - indexStart).count();
-    std::cout << "Building InvertedIndex took " << indexTime << " ms." << std::endl;
+    std::cout << "Number of threads: " << constants::threadsNumber << ". Building InvertedIndex took " << indexTime << " ms." << std::endl;
+    std::cout << "[Inverted Index] Load factor: " << data.InvertedIndex.currentLoad() << std::endl;
+    std::cout << "[Inverted Index] Bucket array size: " << data.InvertedIndex.bucket_count() << std::endl;
+    std::cout << "[Inverted Index] Counter size: " << data.InvertedIndex.size() << std::endl;
+    std::cout << "[DocToID] Load factor: " << data.docToID.currentLoad() << std::endl;
+    std::cout << "[idToDoc] Load factor: " << data.idToDoc.currentLoad() << std::endl;
+    std::cout << "[tokenToID] Load factor: " << data.tokenToID.currentLoad() << std::endl;
+    std::cout << "Total unique words: " << data.nextToken.load();
+    data.tokenToID.printBuckets(50);
 
-    std::vector<std::string> words = {"spectacular", "extravagant", "sensual", "archaic", "sherlock", "nostalgia", "university", "drop"};
-     for (const std::string &word: words) {
-         std::cout << "\n・ ✦ ・ The token is " << word << " ・ ✦ ・" << std::endl;
-         uint32_t tokenID = data.tokenToID.find(word);
-         std::cout << "tokenID is "<< tokenID << std::endl;
-         std::vector<Posting> copy = data.InvertedIndex.find(tokenID);
-         for (std::size_t k = 0; k < copy.size(); k++) {
-             std::cout << "docID: " << copy.at(k).documentID << " doc name " << data.idToDoc.find(copy.at(k).documentID) << std::endl;
-             std::cout << "[ ";
-             for (int n = 0; n < copy.at(k).positions.size(); n++) {
-                 std::cout << copy.at(k).positions.at(n) << " ";
-             }
-             std::cout << "] size is " << copy.at(k).positions.size() << " " << std::endl;
-         }
-     }
-    //data.InvertedIndex.statistics();
-    std::cout << "wordIds number " << data.nextToken.load() - 1 << std::endl;
-
-    std::this_thread::sleep_for(std::chrono::seconds(4));
-
-    auto initialStart = std::chrono::steady_clock::now();
-    uint32_t tokenID = data.tokenToID.find("leopard");
-    std::vector<Posting> copy1 = data.InvertedIndex.findAndMove(tokenID);
-    auto initialEnd = std::chrono::steady_clock::now();
-    auto execDurationInitial = std::chrono::duration_cast<std::chrono::microseconds>(initialEnd - initialStart).count();
-
-    std::this_thread::sleep_for(std::chrono::seconds(4));
-
-    auto headStart = std::chrono::steady_clock::now();
-    uint32_t tokenID2 = data.tokenToID.find("leopard");
-    std::vector<Posting> copy2 = data.InvertedIndex.find(tokenID2);
-    auto headEnd = std::chrono::steady_clock::now();
-    auto execDurationHead = std::chrono::duration_cast<std::chrono::microseconds>(headEnd - headStart).count();
-    std::cout << "\nMove-at-front: " << execDurationInitial << std::endl;
-    std::cout << "Term is at head: " << execDurationHead << std::endl;
+    // std::vector<std::string> words = {"spectacular", "extravagant", "sensual", "archaic", "sherlock", "nostalgia", "university", "drop"};
+    //  for (const std::string &word: words) {
+    //      std::cout << "\n・ ✦ ・ The token is " << word << " ・ ✦ ・" << std::endl;
+    //      uint32_t tokenID = data.tokenToID.find(word);
+    //      std::cout << "tokenID is "<< tokenID << std::endl;
+    //      std::vector<Posting> copy = data.InvertedIndex.find(tokenID);
+    //      for (std::size_t k = 0; k < copy.size(); k++) {
+    //          std::cout << "docID: " << copy.at(k).documentID << " doc name " << data.idToDoc.find(copy.at(k).documentID) << std::endl;
+    //          std::cout << "[ ";
+    //          for (int n = 0; n < copy.at(k).positions.size(); n++) {
+    //              std::cout << copy.at(k).positions.at(n) << " ";
+    //          }
+    //          std::cout << "] size is " << copy.at(k).positions.size() << " " << std::endl;
+    //      }
+    //  }
+    // //data.InvertedIndex.statistics();
+    // std::cout << "wordIds number " << data.nextToken.load() - 1 << std::endl;
+    //
+    // std::this_thread::sleep_for(std::chrono::seconds(4));
+    //
+    // auto initialStart = std::chrono::steady_clock::now();
+    // uint32_t tokenID = data.tokenToID.find("leopard");
+    // std::vector<Posting> copy1 = data.InvertedIndex.findAndMove(tokenID);
+    // auto initialEnd = std::chrono::steady_clock::now();
+    // auto execDurationInitial = std::chrono::duration_cast<std::chrono::microseconds>(initialEnd - initialStart).count();
+    //
+    // std::this_thread::sleep_for(std::chrono::seconds(4));
+    //
+    // auto headStart = std::chrono::steady_clock::now();
+    // uint32_t tokenID2 = data.tokenToID.find("leopard");
+    // std::vector<Posting> copy2 = data.InvertedIndex.find(tokenID2);
+    // auto headEnd = std::chrono::steady_clock::now();
+    // auto execDurationHead = std::chrono::duration_cast<std::chrono::microseconds>(headEnd - headStart).count();
+    // std::cout << "\nMove-at-front: " << execDurationInitial << std::endl;
+    // std::cout << "Term is at head: " << execDurationHead << std::endl;
     // cpu messes up this horrible test but move-at-front done
     pool.terminate();
     return 0;

@@ -1,0 +1,1631 @@
+Project Gutenberg' Etext of The Tinker's Wedding by J. M. Synge
+#4 in our series by J. M. Synge
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Tinker's Wedding
+
+by J. M. Synge
+
+May, 1998  [Etext #1328]
+
+
+Project Gutenberg' Etext of The Tinker's Wedding by J. M. Synge
+******This file should be named 1328.txt or 1328.zip******
+
+
+This etext was prepared by Judy Boss, Omaha, NE
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we do NOT keep these books
+in compliance with any particular paper edition, usually otherwise.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, for time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-two text
+files per month, or 384 more Etexts in 1998 for a total of 1500+
+If these reach just 10% of the computerized population, then the
+total should reach over 150 billion Etexts given away.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only 10% of the present number of computer users.  2001
+should have at least twice as many computer users as that, so it
+will require us reaching less than 5% of the users in 2001.
+
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp uiarchive.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext90 through /etext96
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET INDEX?00.GUT
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT* for newsletters.
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+Note: I have omitted the running heads, and I have marked with * possible typos.
+
+<b>THE TINKER'S WEDDING</b>
+
+A COMEDY IN TWO ACTS
+
+BY J. M. SYNGE
+
+
+JOHN W. LUCE AND COMPANY
+BOSTON  :  :  :  :  :  :    :  :  :  1911
+
+
+
+
+
+Copyright 1904
+By J. M. Synge
+
+
+
+
+
+PREFACE.
+
+THE drama is made serious -- in the French
+sense of the word -- not by the degree in
+which it is taken up with problems that are
+serious in themselves, but by the degree in
+which it gives the nourishment, not very easy
+to define, on which our imaginations live.  We
+should not go to the theatre as we go to a
+chemist's, or a dram-shop, but as we go to
+a dinner, where the food we need is taken
+with pleasure and excitement.  This was
+nearly always so in Spain and England and
+France when the drama was at its richest --
+the infancy and decay of the drama tend to
+be didactic -- but in these days the playhouse
+is too often stocked with the drugs of many
+
+
+VI
+
+seedy problems, or with the absinthe or ver-
+mouth of the last musical comedy.
+     The drama, like the symphony, does not
+teach or prove anything.  Analysts with their
+problems, and teachers with their systems, are
+soon as old-fashioned as the pharmacop&oelig;ia of
+Galen, -- look at Ibsen and the Germans -- but
+the best plays of Ben Jonson and Moli&egrave;re can
+no more go out of fashion than the black-
+berries on the hedges.
+     Of the things which nourish the imagination
+humour is one of the most needful, and it is
+dangerous to limit or destroy it.  Baudelaire
+calls laughter the greatest sign of the Satanic
+element in man; and where a country loses
+its humor, as some towns in Ireland are doing,
+there will be morbidity of mind, as Baude-
+laire's mind was morbid.
+     In the greater part of Ireland, however,
+the whole people, from the tinkers to the
+clergy, have still a life, and view of life, that
+
+
+VII
+
+are rich and genial and humorous.  I do not
+think that these country people, who have so
+much humor themselves, will mind being
+laughed at without malice, as the people in
+every country have been laughed at in their
+own comedies.
+
+                         J. M. S.
+
+     <i>December 2nd</i>, 1907
+
+
+[page intentionally blank]
+
+
+PERSONS
+
+MICHAEL BYRNE, a tinker.
+MARY BYRNE, an old woman, his mother.
+SARAH CASEY, a young tinker woman.
+A PRIEST.
+
+
+[page intentionally blank]
+
+
+<b>THE TINKER'S WEDDING</b>
+                     -----------
+
+ACT I.
+
+     SCENE: <i>A Village roadside after nightfall.
+A fire of sticks is burning near the ditch a
+little to the right.  Michael is working beside
+it.  In the background, on the left, a sort of
+tent and ragged clothes drying on the hedge.
+On the right a chapel-gate.</i>
+
+     SARAH CASEY -- <i>coming in on right,
+eagerly.</i> -- We'll see his reverence this place,
+Michael Byrne, and he passing backward to
+his house to-night.
+     MICHAEL -- <i>grimly.</i> -- That'll be a sacred
+and a sainted joy!
+     SARAH -- <i>sharply.</i> -- It'll be small joy for
+yourself if you aren't ready with my wedding
+ring.  <i>(She goes over to him.)</i>  Is it near
+done this time, or what way is it at all?
+     MICHAEL.  A poor way only, Sarah
+Casey, for it's the divil's job making a ring,
+and you'll be having my hands destroyed in
+a short while the way I'll not be able to make
+a tin can at all maybe at the dawn of day.
+     SARAH -- <i>sitting down beside him and
+throwing sticks on the fire.</i> -- If it's the divil's
+
+
+14
+
+job, let you mind it, and leave your speeches
+that would choke a fool.
+     MICHAEL -- <i>slowly and glumly.</i> -- And
+it's you'll go talking of fools, Sarah Casey,
+when no man did ever hear a lying story even
+of your like unto this mortal day.  You to
+be going beside me a great while, and rearing
+a lot of them, and then to be setting off with
+your talk of getting married, and your driv-
+ing me to it, and I not asking it at all.
+        [<i>Sarah turns her back to him and ar-
+            ranges something in the ditch.</i>
+     MICHAEL -- <i>angrily.</i> -- Can't you speak
+a word when I'm asking what is it ails you
+since the moon did change?
+     SARAH -- <i>musingly.</i> -- I'm thinking there
+isn't anything ails me, Michael Byrne; but
+the spring-time is a queer time, and its* queer
+thoughts maybe I do think at whiles.
+     MICHAEL.  It's hard set you'd be to think
+queerer than welcome, Sarah Casey; but what
+will you gain dragging me to the priest this
+night, I'm saying, when it's new thoughts
+you'll be thinking at the dawn of day?
+     SARAH -- <i>teasingly.</i> -- It's at the dawn of
+day I do be thinking I'd have a right to be
+going off to the rich tinker's do be travelling
+from Tibradden to the Tara Hill; for it'd be
+a fine life to be driving with young Jaunting
+
+
+15
+
+Jim, where there wouldn't be any big hills
+to break the back of you, with walking up and
+walking down.
+     MICHAEL -- <i>with dismay.</i> -- It's the like
+of that you do be thinking!
+     SARAH.  The like of that, Michael Byrne,
+when there is a bit of sun in it, and a kind
+air, and a great smell coming from the thorn
+trees is above your head.
+     MICHAEL -- <i>looks at her for a moment
+with horror, and then hands her the ring.</i> --
+Will that fit you now?
+     SARAH -- <i>trying it on.</i> -- It's making it
+tight you are, and the edges sharp on the tin.
+     MICHAEL -- <i>looking at it carefully.</i> --
+It's the fat of your own finger, Sarah Casey;
+and isn't it a mad thing I'm saying again
+that you'd be asking marriage of me, or mak-
+ing a talk of going away from me, and you
+thriving and getting your good health by the
+grace of the Almighty God?
+     SARAH -- <i>giving it back to him.</i> -- Fix it
+now, and it'll do, if you're wary you don't
+squeeze it again.
+     MICHAEL -- <i>moodily, working again.</i> --
+It's easy saying be wary; there's many things
+easy said, Sarah Casey, you'd wonder a fool
+even would be saying at all.  <i>(He starts vio-</i>
+
+
+16
+
+<i>lently.)</i>  The divil mend you, I'm scalded
+again!
+     SARAH -- <i>scornfully.</i> -- If you are, it's a
+clumsy man you are this night, Michael Byrne
+<i>(raising her voice)</i>; and let you make haste
+now, or herself will be coming with the porter.
+     MICHAEL -- <i>defiantly, raising his voice.</i>*
+Let me make haste?  I'll be making haste
+maybe to hit you a great clout; for I'm think-
+ing on the day I got you above at Rathvanna,
+and the way you began crying out and say-
+ing, "I'll go back to my ma," and I'm thinking
+on the way I came behind you that time, and
+hit you a great clout in the lug, and how quiet
+and easy it was you came along with me from
+that hour to this present day.
+     SARAH -- <i>standing up and throwing all
+her sticks into the fire.</i> -- And a big fool I was
+too, maybe; but we'll be seeing Jaunting Jim
+to-morrow in Ballinaclash, and he after get-
+ting a great price for his white foal in the
+horse-fair of Wicklow, the way it'll be a great
+sight to see him squandering his share of gold,
+and he with a grand eye for a fine horse, and
+a grand eye for a woman.
+     MICHAEL -- <i>working again with impa-</i>
+
+
+17
+
+<i>tience.</i> -- The divil do him good with the two
+of them.
+     SARAH -- <i>kicking up the ashes with her
+foot.</i> -- Ah, he's a great lad, I'm telling you,
+and it's proud and happy I'll be to see him,
+and he the first one called me the Beauty of
+Ballinacree, a fine name for a woman.
+     MICHAEL -- <i>with contempt.</i> -- It's the
+like of that name they do be putting on the
+horses they have below racing in Arklow.  It's
+easy pleased you are, Sarah Casey, easy
+pleased with a big word, or the liar speaks it.
+     SARAH.  Liar!
+     MICHAEL.  Liar, surely.
+     SARAH -- <i>indignantly.</i> -- Liar, is it?
+Didn't you ever hear tell of the peelers fol-
+lowed me ten miles along the Glen Malure,
+and they talking love to me in the dark night,
+or of the children you'll meet coming from
+school and they saying one to the other, "It's
+this day we seen Sarah Casey, the Beauty of
+Ballinacree, a great sight surely."
+     MICHAEL.  God help the lot of them!
+     SARAH.  It's yourself you'll be calling
+God to help, in two weeks or three, when
+you'll be waking up in the dark night and
+thinking you see me coming with the sun on
+me, and I driving a high cart with Jaunting
+
+
+18
+
+Jim going behind.  It's lonesome and cold
+you'll be feeling the ditch where you'll be
+lying down that night, I'm telling you, and
+you hearing the old woman making a great
+noise in her sleep, and the bats squeaking in
+the trees.
+     MICHAEL.  Whist.  I hear some one
+coming the road.
+     SARAH -- <i>looking out right.</i> -- It's some
+one coming forward from the doctor's door.
+     MICHAEL.  It's often his reverence does
+be in there playing cards, or drinking a sup, or
+singing songs, until the dawn of day.
+     SARAH.  It's a big boast of a man with a
+long step on him and a trumpeting voice.
+It's his reverence surely; and if you have the
+ring done, it's a great bargain we'll make now
+and he after drinking his glass.
+     MICHAEL -- <i>going to her and giving her
+the ring.</i> -- There's your ring, Sarah Casey;
+but I'm thinking he'll walk by and not stop to
+speak with the like of us at all.
+     SARAH -- <i>tidying herself, in great excite-
+ment.</i> -- Let you be sitting here and keeping
+a great blaze, the way he can look on my face;
+and let you seem to be working, for it's great
+love the like of him have to talk of work.
+     MICHAEL -- <i>moodily, sitting down and</i>
+
+
+19
+
+<i>beginning to work at a tin can.</i> -- Great love
+surely.
+     SARAH -- <i>eagerly.</i> -- Make a great blaze
+now, Michael Byrne.
+        [<i>The priest comes in on right; she comes
+            forward in front of him.</i>
+     SARAH -- <i>in a very plausible voice.</i> --
+Good evening, your reverence.  It's a grand
+fine night, by the grace of God.
+     PRIEST.  The Lord have mercy on us!
+What kind of a living woman is it that you
+are at all?
+     SARAH.  It's Sarah Casey I am, your
+reverence, the Beauty of Ballinacree, and it's
+Michael Byrne is below in the ditch.
+     PRIEST.  A holy pair, surely!  Let you
+get out of my way.  [<i>He tries to pass by.</i>
+     SARAH -- <i>keeping in front of him.</i> -- We
+are wanting a little word with your reverence.
+     PRIEST.  I haven't a halfpenny at all.
+Leave the road I'm saying.
+     SARAH.  It isn't a halfpenny we're ask-
+ing, holy father; but we were thinking maybe
+we'd have a right to be getting married; and
+we were thinking it's yourself would marry
+us for not a halfpenny at all; for you're a
+kind man, your reverence, a kind man with
+the poor.
+
+
+20
+
+     PRIEST -- <i>with astonishment.</i> -- Is it mar-
+ry you for nothing at all?
+     SARAH.  It is, your reverence; and we
+were thinking maybe you'd give us a little
+small bit of silver to pay for the ring.
+     PRIEST -- <i>loudly.</i> -- Let you hold your
+tongue; let you be quiet, Sarah Casey.  I've
+no silver at all for the like of you; and if you
+want to be married, let you pay your pound.
+I'd do it for a pound only, and that's making
+it a sight cheaper than I'd make it for one
+of my own pairs is living here in the place.
+     SARAH.  Where would the like of us get
+a pound, your reverence?
+     PRIEST.  Wouldn't you easy get it with
+your selling asses, and making cans, and your
+stealing east and west in Wicklow and Wex-
+ford and the county Meath?  <i>(He tries to
+pass her.)</i>  Let you leave the road, and not
+be plaguing me more.
+     SARAH -- <i>pleadingly, taking money from
+her pocket.</i> -- Wouldn't you have a little mercy
+on us, your reverence?  <i>(Holding out money.)</i>
+Wouldn't you marry us for a half a sovereign,
+and it a nice shiny one with a view on it of
+the living king's mamma?
+     PRIEST.  If it's ten shillings you have,
+let you get ten more the same way, and I'll
+marry you then.
+
+
+21
+
+     SARAH -- <i>whining.</i> -- It's two years we
+are getting that bit, your reverence, with our
+pence and our halfpence and an odd three-
+penny bit; and if you don't marry us now,
+himself and the old woman, who has a great
+drouth, will be drinking it to-morrow in the
+fair <i>(she puts her apron to her eyes, half sob-
+bing)</i>, and then I won't be married any time,
+and I'll be saying till I'm an old woman:
+"It's a cruel and a wicked thing to be bred
+poor."
+     PRIEST -- <i>turning up towards the fire.</i> --
+Let you not be crying, Sarah Casey.  It's a
+queer woman you are to be crying at the like
+of that, and you your whole life walking the
+roads.
+     SARAH -- <i>sobbing.</i> -- It's two years we
+are getting the gold, your reverence, and now
+you won't marry us for that bit, and we
+hard-working poor people do be making cans
+in the dark night, and blinding our eyes with
+the black smoke from the bits of twigs we
+do be burning.
+        [<i>An old woman is heard singing tipsily
+            on the left.</i>
+     PRIEST -- <i>looking at the can Michael is
+making.</i> -- When will you have that can done,
+Michael Byrne?
+     MICHAEL.  In a short space only, your
+
+
+22
+
+reverence, for I'm putting the last dab of
+solder on the rim.
+     PRIEST.  Let you get a crown along with
+the ten shillings and the gallon can, Sarah
+Casey, and I will wed you so.
+     MARY -- <i>suddenly shouting behind, tip-
+sily.</i> -- Larry was a fine lad, I'm saying; Larry
+was a fine lad, Sarah Casey --
+     MICHAEL.  Whist, now, the two of you.
+There's my mother coming, and she'd have us
+destroyed if she heard the like of that talk
+the time she's been drinking her fill.
+     MARY -- <i>comes in singing*</i> --
+     And when we asked him what way he'd die,
+        And he hanging unrepented,
+     "Begob," says Larry, "that's all in my eye,
+        By the clergy first invented."
+     SARAH.  Give me the jug now, or you'll
+have it spilt in the ditch.
+     MARY -- <i>holding the jug with both her
+hands, in a stilted voice.</i> -- Let you leave me
+easy, Sarah Casey.  I won't spill it, I'm saying.
+God help you; are you thinking it's frothing
+full to the brim it is at this hour of the night,
+and I after carrying it in my two hands a long
+step from Jemmy Neill's?
+     MICHAEL -- <i>anxiously.</i> -- Is there a sup
+left at all?
+
+
+23
+
+     SARAH -- <i>looking into the jug.</i> -- A little
+small sup only I'm thinking.
+     MARY -- <i>sees the priest, and holds out jug
+towards him.</i> -- God save your reverence.  I'm
+after bringing down a smart drop; and let
+you drink it up now, for it's a middling
+drouthy man you are at all times, God forgive
+you, and this night is cruel dry.
+        [<i>She tries to go towards him.  Sarah
+            holds her back.</i>
+     PRIEST -- <i>waving her away.</i> -- Let you
+not be falling to the flames.  Keep off, I'm
+saying.
+     MARY -- <i>persuasively.</i> -- Let you not be
+shy of us, your reverence.  Aren't we all
+sinners, God help us!  Drink a sup now, I'm
+telling you; and we won't let on a word about
+it till the Judgment Day.
+        [<i>She takes up a tin mug, pours some
+            porter into it, and gives it to him.</i>
+     MARY -- <i>singing, and holding the jug in
+her hand*</i> --
+     A lonesome ditch in Ballygan
+     The day you're beating a tenpenny can;
+     A lonesome bank in Ballyduff
+                              The time . . .      [<i>She breaks off.</i>
+It's a bad, wicked song, Sarah Casey; and
+let you put me down now in the ditch, and I
+won't sing it till himself will be gone; for
+
+
+24
+
+it's bad enough he is, I'm thinking, without
+ourselves making him worse.
+     SARAH -- <i>putting her down, to the priest,
+half laughing.</i> -- Don't mind her at all, your
+reverence.  She's no shame the time she's a
+drop taken; and if it was the Holy Father
+from Rome was in it, she'd give him a little
+sup out of her mug, and say the same as she'd
+say to yourself.
+     MARY -- <i>to the priest.</i> -- Let you drink it
+up, holy father.  Let you drink it up, I'm say-
+ing, and not be letting on you wouldn't do
+the like of it, and you with a stack of pint
+bottles above, reaching the sky.
+     PRIEST -- <i>with resignation.</i> -- Well, here's
+to your good health, and God forgive us all.
+        [<i>He drinks.</i>
+     MARY.  That's right now, your reverence,
+and the blessing of God be on you.  Isn't it
+a grand thing to see you sitting down, with
+no pride in you, and drinking a sup with the
+like of us, and we the poorest, wretched,
+starving creatures you'd see any place on the
+earth?
+     PRIEST.  If it's starving you are itself,
+I'm thinking it's well for the like of you that
+do be drinking when there's drouth on you,
+and lying down to sleep when your legs are
+stiff.  <i>(He sighs gloomily.)</i>  What would
+
+
+25
+
+you do if it was the like of myself you were,
+saying Mass with your mouth dry, and run-
+ning east and west for a sick call maybe, and
+hearing the rural people again and they saying
+their sins?
+     MARY -- <i>with compassion.</i> -- It's destroy-
+ed you must be hearing the sins of the rural
+people on a fine spring.
+     PRIEST -- <i>with despondency.</i> -- It's a hard
+life, I'm telling you, a hard life, Mary Byrne;
+and there's the bishop coming in the morning,
+and he an old man, would have you destroyed
+if he seen a thing at all.
+     MARY -- <i>with great sympathy.</i> -- It'd
+break my heart to hear you talking and sigh-
+ing the like of that, your reverence.  <i>(She
+pats him on the knee.)</i>  Let you rouse up,
+now, if it's a poor, single man you are itself,
+and I'll be singing you songs unto the dawn
+of day.
+     PRIEST -- <i>interrupting her.</i> -- What is it
+I want with your songs when it'd be better
+for the like of you, that'll soon die, to be down
+on your two knees saying prayers to the
+Almighty God?
+     MARY.  If it's prayers I want, you'd have
+a right to say one yourself, holy father; for
+we don't have them at all, and I've heard tell
+a power of times it's that you're for.  Say
+
+
+26
+
+one now, your reverence, for I've heard a
+power of queer things and I walking the
+world, but there's one thing I never heard any
+time, and that's a real priest saying a prayer.
+     PRIEST.  The Lord protect us!
+     MARY.  It's no lie, holy father.  I often
+heard the rural people making a queer noise
+and they going to rest; but who'd mind the
+like of them?  And I'm thinking it should be
+great game to hear a scholar, the like of you,
+speaking Latin to the saints above.
+     PRIEST -- <i>scandalized.</i> -- Stop your talk-
+ing, Mary Byrne; you're an old flagrant
+heathen, and I'll stay no more with the lot of
+                    you.                [<i>He rises.</i>
+     MARY -- <i>catching hold of him.</i> -- Stop till
+you say a prayer, your reverence; stop till you
+say a little prayer, I'm telling you, and I'll
+give you my blessing and the last sup from the
+jug.
+     PRIEST -- <i>breaking away.</i> -- Leave me go,
+Mary Byrne; for I have never met your like
+for hard abominations the score and two years
+I'm living in the place.
+     MARY -- <i>innocently.</i> -- Is that the truth?
+     PRIEST. --* It is, then, and God have mercy
+on your soul.
+        [<i>The priest goes towards the left, and
+            Sarah follows him.</i>
+
+
+27
+
+     SARAH -- <i>in a low voice.</i> -- And what
+time will you do the thing I'm asking, holy
+father? for I'm thinking you'll do it surely,
+and not have me growing into an old wicked
+heathen like herself.
+     MARY -- <i>calling out shrilly.</i> -- Let you be
+walking back here, Sarah Casey, and not be
+talking whisper-talk with the like of him in the
+face of the Almighty God.
+     SARAH -- <i>to the priest.</i> -- Do you hear her
+now, your reverence?  Isn't it true, surely,
+she's an old, flagrant heathen, would destroy
+the world?
+     PRIEST -- <i>to Sarah, moving off.</i> -- Well,
+I'll be coming down early to the chapel, and let
+you come to me a while after you see me pas-
+sing, and bring the bit of gold along with you,
+and the tin can.  I'll marry you for them two,
+though it's a pitiful small sum; for I wouldn't
+be easy in my soul if I left you growing into
+an old, wicked heathen the like of her.
+     SARAH -- <i>following him out.</i> -- The bles-
+sing of the Almighty God be on you, holy
+father, and that He may reward and watch
+you from this present day.
+     MARY -- <i>nudging Michael.</i> -- Did you see
+that, Michael Byrne?  Didn't you hear me
+telling you she's flighty a while back since the
+change of the moon?  With her fussing for
+
+
+28
+
+marriage, and she making whisper-talk with
+one man or another man along by the road.
+     MICHAEL. --* Whist now, or she'll knock
+the head of you the time she comes back.
+     MARY. --* Ah, it's a bad, wicked way the
+world is this night, if there's a fine air in it
+itself.  You'd never have seen me, and I a
+young woman, making whisper-talk with the
+like of him, and he the fearfullest old fellow
+you'd see any place walking the world.
+          [<i>Sarah comes back quickly.</i>
+     MARY -- <i>calling out to her.</i> -- What is it
+you're after whispering above with himself?
+     SARAH -- <i>exultingly.</i> -- Lie down, and
+leave us in peace.  <i>She whispers with Michael.</i>
+     MARY -- <i>poking out her pipe with a straw,
+sings</i> --
+        She'd whisper with one, and she'd whisper
+           with two --
+<i>She breaks off coughing.</i> -- My singing voice
+is gone for this night, Sarah Casey.  <i>(She
+lights her pipe.)</i>  But if it's flighty you are
+itself, you're a grand handsome woman, the
+glory of tinkers, the pride of Wicklow, the
+Beauty of Ballinacree.  I wouldn't have you
+lying down and you lonesome to sleep this
+night in a dark ditch when the spring is coming
+in the trees; so let you sit down there by the
+big bough, and I'll be telling you the finest
+
+
+29
+
+story you'd hear any place from Dundalk to
+Ballinacree, with great queens in it, making
+themselves matches from the start to the end,
+and they with shiny silks on them the length
+of the day, and white shifts for the night.
+     MICHAEL -- <i>standing up with the tin can
+in his hand.</i> -- Let you go asleep, and not have
+us destroyed.
+     MARY -- <i>lying back sleepily.</i> -- Don't mind
+him, Sarah Casey.  Sit down now, and I'll be
+telling you a story would be fit to tell a woman
+the like of you in the springtime of the year.
+     SARAH -- <i>taking the can from Michael,
+and tying it up in a piece of sacking.</i> -- That'll
+not be rusting now in the dews of night.  I'll
+put it up in the ditch the way it will be handy
+in the morning; and now we've that done,
+Michael Byrne, I'll go along with you and
+welcome for Tim Flaherty's hens.
+        [<i>She puts the can in the ditch.</i>
+     MARY -- <i>sleepily.</i> -- I've a grand story of
+the great queens of Ireland with white necks
+on them the like of Sarah Casey, and fine
+arms would hit you a slap the way Sarah
+Casey would hit you.
+     SARAH -- <i>beckoning on the left.</i> -- Come
+along now, Michael, while she's falling asleep.
+
+
+30
+
+        [<i>He goes towards left.  Mary sees that
+            they are going, starts up suddenly, and
+            turns over on her hands and knees.</i>
+     MARY -- <i>piteously.</i> -- Where is it you're
+going?  Let you walk back here, and not be
+leaving me lonesome when the night is fine.
+     SARAH.  Don't be waking the world with
+your talk when we're going up through the
+back wood to get two of Tim Flaherty's hens
+are roosting in the ash-tree above at the well.
+     MARY.  And it's leaving me lone you are?
+Come back here, Sarah Casey.  Come back
+here, I'm saying; or if it's off you must go,
+leave me the two little coppers you have, the
+way I can walk up in a short while, and get
+another pint for my sleep.
+     SARAH.  It's too much you have taken.
+Let you stretch yourself out and take a long
+sleep; for isn't that the best thing any woman
+can do, and she an old drinking heathen like
+yourself.
+          [<i>She and Michael go out left.</i>
+     MARY -- <i>standing up slowly.</i> -- It's gone
+they are, and I with my feet that weak under
+me you'd knock me down with a rush, and
+my head with a noise in it the like of what
+
+
+31
+
+you'd hear in a stream and it running between
+two rocks and rain falling.  <i>(She goes over to
+the ditch where the can is tied in sacking, and
+takes it down.)</i>  What good am I this night,
+God help me?  What good are the grand
+stories I have when it's few would listen to
+an old woman, few but a girl maybe would
+be in great fear the time her hour was come,
+or a little child wouldn't be sleeping with the
+hunger on a cold night?  <i>(She takes the can
+from the sacking and fits in three empty bottles
+and straw in its place, and ties them up.)</i>
+Maybe the two of them have a good right to
+be walking out the little short while they'd be
+young; but if they have itself, they'll not
+keep Mary Byrne from her full pint when
+the night's fine, and there's a dry moon in the
+sky.  <i>(She takes up the can, and puts the
+package back in the ditch.)</i>  Jemmy Neill's a
+decent lad; and he'll give me a good drop for
+the can; and maybe if I keep near the peelers
+to-morrow for the first bit of the fair, herself
+won't strike me at all; and if she does itself,
+what's a little stroke on your head beside
+sitting lonesome on a fine night, hearing the
+
+
+32
+
+dogs barking, and the bats squeaking, and you
+saying over, it's a short while only till you die.
+        [<i>She goes out singing "The night before
+            Larry was stretched."</i>
+
+CURTAIN
+
+
+33
+
+ACT II.
+
+     SCENE: <i>The same.  Early morning.  Sarah
+is washing her face in an old bucket; then
+plaits her hair.  Michael is tidying himself
+also.  Mary Byrne is asleep against the ditch.</i>
+
+     SARAH -- <i>to Michael, with pleased excite-
+ment.</i> -- Go over, now, to the bundle beyond,
+and you'll find a kind of a red handkerchief
+to put upon your neck, and a green one for
+myself.
+     MICHAEL -- <i>getting them.</i> -- You're after
+spending more money on the like of them.
+Well, it's a power we're losing this time, and
+we not gaining a thing at all.  <i>(With the
+handkerchief.)</i>  Is it them two?
+     SARAH.  It is, Michael.  <i>(She takes one
+of them.)</i>  Let you tackle that one round under
+your chin; and let you not forget to take your
+hat from your head when we go up into the
+church.  I asked Biddy Flynn below, that's
+after marrying her second man, and she told
+me it's the like of that they do.
+        [<i>Mary yawns, and turns over in her
+            sleep.</i>
+     SARAH -- <i>with anxiety.</i> -- There she is
+waking up on us, and I thinking we'd have the
+job done before she'd know of it at all.
+
+
+34
+
+     MICHAEL.  She'll be crying out now, and
+making game of us, and saying it's fools we
+are surely.
+     SARAH.  I'll send her to sleep again, or
+get her out of it one way or another; for it'd
+be a bad case to have a divil's scholar the like
+of her turning the priest against us maybe
+with her godless talk.
+     MARY -- <i>waking up, and looking at them
+with curiosity, blandly.</i> -- That's fine things
+you have on you, Sarah Casey; and it's a great
+stir you're making this day, washing your
+face.  I'm that used to the hammer, I wouldn't
+hear it at all, but washing is a rare thing, and
+you're after waking me up, and I having a
+great sleep in the sun.
+        [<i>She looks around cautiously at the
+            bundle in which she has hidden the
+            bottles.</i>
+     SARAH -- <i>coaxingly.</i> -- Let you stretch
+out again for a sleep, Mary Byrne, for it'll
+be a middling time yet before we go to the
+fair.
+     MARY -- <i>with suspicion.</i> -- That's a sweet
+tongue you have, Sarah Casey; but if sleep's
+a grand thing, it's a grand thing to be waking
+up a day the like of this, when there's a warm
+sun in it, and a kind air, and you'll hear the
+
+
+35
+
+cuckoos singing and crying out on the top of
+the hills.
+     SARAH.  If it's that gay you are, you'd
+have a right to walk down and see would you
+get a few halfpence from the rich men do be
+driving early to the fair.
+     MARY.  When rich men do be driving
+early, it's queer tempers they have, the Lord
+forgive them; the way it's little but bad words
+and swearing out you'd get from them all.
+     SARAH -- <i>losing her temper and breaking
+out fiercely.</i> -- Then if you'll neither beg nor
+sleep, let you walk off from this place where
+you're not wanted, and not have us waiting
+for you maybe at the turn of day.
+     MARY -- <i>rather uneasy, turning to Mi-
+chael.</i> -- God help our spirits, Michael; there
+she is again rousing cranky from the break
+of dawn.  Oh! isn't she a terror since the
+moon did change <i>(she gets up slowly)</i>?  And
+I'd best be going forward to sell the gallon
+can.
+        [<i>She goes over and takes up the bundle.</i>
+     SARAH -- <i>crying out angrily.</i> -- Leave
+that down, Mary Byrne.  Oh! aren't you the
+scorn of women to think that you'd have that
+drouth and roguery on you that you'd go
+drinking the can and the dew not dried from
+the grass?
+
+
+36
+
+     MARY -- <i>in a feigned tone of pacification,
+with the bundle still in her hand.</i> -- It's not a
+drouth but a heartburn I have this day, Sarah
+Casey, so I'm going down to cool my gullet
+at the blessed well; and I'll sell the can to the
+parson's daughter below, a harmless poor
+creature would fill your hand with shillings
+for a brace of lies.
+     SARAH.  Leave down the tin can, Mary
+Byrne, for I hear the drouth upon your tongue
+to-day.
+     MARY.  There's not a drink-house from
+this place to the fair, Sarah Casey; the way
+you'll find me below with the full price, and
+not a farthing gone.
+               [<i>She turns to go off left.</i>
+     SARAH -- <i>jumping up, and picking up the
+hammer threateningly.</i> -- Put down that can,
+I'm saying.
+     MARY -- <i>looking at her for a moment in
+terror, and putting down the bundle in the
+ditch.</i> -- Is it raving mad you're going, Sarah
+Casey, and you the pride of women to destroy
+the world?
+     SARAH -- <i>going up to her, and giving her
+a push off left.</i> -- I'll show you if it's raving
+mad I am.  Go on from this place, I'm saying,
+and be wary now.
+     MARY -- <i>turning back after her.</i> -- If I
+
+
+37
+
+go, I'll be telling old and young you're a
+weathered heathen savage, Sarah Casey, the
+one did put down a head of the parson's cab-
+bage to boil in the pot with your clothes <i>(the
+priest comes in behind her, on the left, and
+listens)</i>, and quenched the flaming candles on
+the throne of God the time your shadow fell
+within the pillars of the chapel door.
+        [<i>Sarah turns on her, and she springs
+            round nearly into the Priest's arms.
+            When she sees him, she claps her shawl
+            over her mouth, and goes up towards
+            the ditch, laughing to herself.</i>
+     PRIEST -- <i>going to Sarah, half terrified
+at the language that he has heard.</i> -- Well,
+aren't you a fearful lot?  I'm thinking it's only
+humbug you were making at the fall of night,
+and you won't need me at all.
+     SARAH -- <i>with anger still in her voice.</i> --
+Humbug is it! would you be turning back upon
+your spoken promise in the face of God?
+     PRIEST -- <i>dubiously.</i> -- I'm thinking you
+were never christened, Sarah Casey; and it
+would be a queer job to go dealing Christian
+sacraments unto the like of you.  <i>(Persuasive-
+ly feeling in his pocket.)</i>  So it would be best,
+maybe, I'd give you a shilling for to drink
+my health, and let you walk on, and not
+trouble me at all.
+
+
+38
+
+     SARAH.  That's your talking, is it?  If
+you don't stand to your spoken word, holy
+father, I'll make my own complaint to the
+mitred bishop in the face of all.
+     PRIEST.  You'd do that!
+     SARAH.  I would surely, holy father, if
+I walked to the city of Dublin with blood and
+blisters on my naked feet.
+     PRIEST -- <i>uneasily scratching his ear.</i> --
+I wish this day was done, Sarah Casey; for
+I'm thinking it's a risky thing getting mixed
+up in any matters with the like of you.
+     SARAH.  Be hasty then, and you'll have
+us done with before you'd think at all.
+     PRIEST -- <i>giving in.</i> -- Well, maybe it's
+right you are, and let you come up to the chapel
+when you see me looking from the door.
+               [<i>He goes up into the chapel.</i>
+     SARAH -- <i>calling after him.</i> -- We will,
+and God preserve you, holy father.
+     MARY -- <i>coming down to them, speaking
+with amazement and consternation, but with-
+out anger.</i> -- Going to the chapel!  It's at mar-
+riage you're fooling again, maybe?  <i>(Sarah
+turns her back on her.)</i>  It was for that you
+were washing your face, and you after sending
+me for porter at the fall of night the way I'd
+drink a good half from the jug?  <i>(Going</i>
+
+
+39
+
+<i>round in front of Sarah.)</i>  Is it at marriage
+you're fooling again?
+     SARAH -- <i>triumphantly.</i> -- It is, Mary
+Byrne.  I'll be married now in a short while;
+and from this day there will no one have a
+right to call me a dirty name and I selling cans
+in Wicklow or Wexford or the city of Dublin
+itself.
+     MARY -- <i>turning to Michael.</i> -- And it's
+yourself is wedding her, Michael Byrne?
+     MICHAEL -- <i>gloomily.</i> -- It is, God spare
+us.
+     MARY -- <i>looks at Sarah for a moment,
+and then bursts out into a laugh of derision.</i> --
+Well, she's a tight, hardy girl, and it's no lie;
+but I never knew till this day it was a black
+born fool I had for a son.  You'll breed asses,
+I've heard them say, and poaching dogs, and
+horses'd go licking the wind, but it's a hard
+thing, God help me, to breed sense in a son.
+     MICHAEL -- <i>gloomily.</i> -- If I didn't mar-
+ry her, she'd be walking off to Jaunting Jim
+maybe at the fall of night; and it's well your-
+self knows there isn't the like of her for getting
+money and selling songs to the men.
+     MARY.  And you're thinking it's paying
+gold to his reverence would make a woman
+stop when she's a mind to go?
+     SARAH -- <i>angrily.</i> -- Let you not be de-
+
+
+40
+
+stroying us with your talk when I've as good
+a right to a decent marriage as any speckled
+female does be sleeping in the black hovels
+above, would choke a mule.
+     MARY -- <i>soothingly.</i> -- It's as good a right
+you have surely, Sarah Casey, but what good
+will it do?  Is it putting that ring on your
+finger will keep you from getting an aged
+woman and losing the fine face you have, or
+be easing your pains, when it's the grand ladies
+do be married in silk dresses, with rings of
+gold, that do pass any woman with their share
+of torment in the hour of birth, and do be
+paying the doctors in the city of Dublin a great
+price at that time, the like of what you'd pay
+for a good ass and a cart?
+               [<i>She sits down.</i>
+     SARAH -- <i>puzzled.</i> -- Is that the truth?
+     MARY -- <i>pleased with the point she has
+made.</i> -- Wouldn't any know it's the truth?
+Ah, it's a few short years you are yet in the
+world, Sarah Casey, and it's little or nothing
+at all maybe you know about it.
+     SARAH -- <i>vehement but uneasy.</i> -- What
+is it yourself knows of the fine ladies when
+they wouldn't let the like of you go near them
+at all?
+     MARY.  If you do be drinking a little sup
+in one town and another town, it's soon you
+
+
+41
+
+get great knowledge and a great sight into
+the world.  You'll see men there, and women
+there, sitting up on the ends of barrels in the
+dark night, and they making great talk would
+soon have the like of you, Sarah Casey, as
+wise as a March hare.
+     MICHAEL -- <i>to Sarah.</i> -- That's the truth
+she's saying, and maybe if you've sense in you
+at all, you'd have a right still to leave your
+fooling, and not be wasting our gold.
+     SARAH -- <i>decisively.</i> -- If it's wise or fool
+I am, I've made a good bargain and I'll stand
+to it now.
+     MARY.  What is it he's making you give?
+     MICHAEL.  The ten shillings in gold, and
+the tin can is above tied in the sack.
+     MARY -- <i>looking at the bundle with sur-
+prise and dread.</i> -- The bit of gold and the
+tin can, is it?
+     MICHAEL.  The half a sovereign, and the
+gallon can.
+     MARY -- <i>scrambling to her feet quickly.</i> --
+Well, I think I'll be walking off the road to
+the fair the way you won't be destroying me
+going too fast on the hills.  <i>(She goes a few
+steps towards the left, then turns and speaks
+to Sarah very persuasively.</i> -- Let you not take
+the can from the sack, Sarah Casey; for the
+people is coming above would be making game
+
+
+42
+
+of you, and pointing their fingers if they seen
+you do the like of that.  Let you leave it safe
+in the bag, I'm saying, Sarah darling.  It's
+that way will be best.
+        [<i>She goes towards left, and pauses for a
+            moment, looking about her with em-
+            barrassment.</i>
+     MICHAEL -- <i>in a low voice.</i> -- What ails
+her at all?
+     SARAH -- <i>anxiously.</i> -- It's real wicked
+she does be when you hear her speaking as
+easy as that.
+     MARY -- <i>to herself.</i> -- I'd be safer in the
+chapel, I'm thinking; for if she caught me
+after on the road, maybe she would kill me
+then.
+        [<i>She comes hobbling back towards the
+            right.</i>
+     SARAH.  Where is it you're going?  It
+isn't that way we'll be walking to the fair.
+     MARY.  I'm going up into the chapel to
+give you my blessing and hear the priest
+saying his prayers.  It's a lonesome road is
+running below to Greenane, and a woman
+would never know the things might happen
+her and she walking single in a lonesome place.
+        [<i>As she reaches the chapel-gate, the
+            Priest comes to it in his surplice.</i>
+     PRIEST -- <i>crying out.</i> -- Come along now.
+
+
+43
+
+It is the whole day you'd keep me here saying
+my prayers, and I getting my death with not
+a bit in my stomach, and my breakfast in ruins,
+and the Lord Bishop maybe driving on the
+road to-day?
+     SARAH.  We're coming now, holy father.
+     PRIEST.  Give me the bit of gold into my
+hand.
+     SARAH.  It's here, holy father.
+        [<i>She gives it to him.  Michael takes the
+            bundle from the ditch and brings it
+            over, standing a little behind Sarah.
+            He feels the bundle, and looks at Mary
+            with a meaning look.</i>
+     PRIEST -- <i>looking at the gold.</i> -- It's a
+good one, I'm thinking, wherever you got it.
+And where is the can?
+     SARAH -- <i>taking the bundle.</i> -- We have
+it here in a bit of clean sack, your reverence.
+We tied it up in the inside of that to keep it
+from rusting in the dews of night, and let you
+not open it now or you'll have the people
+making game of us and telling the story on
+us, east and west to the butt of the hills.
+     PRIEST -- <i>taking the bundle.</i> -- Give it
+here into my hand, Sarah Casey.  What is it
+any person would think of a tinker making a
+          can.      [<i>He begins opening the bundle.</i>
+     SARAH.  It's a fine can, your reverence.
+
+
+44
+
+for if it's poor simple people we are, it's fine
+cans we can make, and himself, God help him,
+is a great man surely at the trade.
+        [<i>Priest opens the bundle; the three empty
+            bottles fall out.</i>
+     SARAH.  Glory to the saints of joy!
+     PRIEST.  Did ever any man see the like
+of that?  To think you'd be putting deceit
+on me, and telling lies to me, and I going to
+marry you for a little sum wouldn't marry a
+child.
+     SARAH -- <i>crestfallen and astonished.</i> --
+It's the divil did it, your reverence, and I
+wouldn't tell you a lie.  <i>(Raising her hands.)</i>
+May the Lord Almighty strike me dead if the
+divil isn't after hooshing the tin can from the
+bag.
+     PRIEST -- <i>vehemently.</i> -- Go along now,
+and don't be swearing your lies.  Go along
+now, and let you not be thinking I'm big fool
+enough to believe the like of that, when it's
+after selling it you are or making a swap for
+drink of it, maybe, in the darkness of the night.
+     MARY -- <i>in a peacemaking voice, putting
+her hand on the Priest's left arm.</i> -- She
+wouldn't do the like of that, your reverence,
+when she hasn't a decent standing drouth on
+her at all; and she's setting great store on her
+marriage the way you'd have a right to be
+
+
+45
+
+taking her easy, and not minding the can.
+What differ would an empty can make with
+a fine, rich, hardy man the like of you?
+     SARAH -- <i>imploringly.</i> -- Marry us, your
+reverence, for the ten shillings in gold, and
+we'll make you a grand can in the evening --
+a can would be fit to carry water for the holy
+man of God.  Marry us now and I'll be saying
+fine prayers for you, morning and night, if
+it'd be raining itself, and it'd be in two black
+pools I'd be setting my knees.
+     PRIEST -- <i>loudly.</i> -- It's a wicked, thiev-
+ing, lying, scheming lot you are, the pack of
+you.  Let you walk off now and take every
+stinking rag you have there from the ditch.
+     MARY -- <i>putting her shawl over her head.</i>*
+Marry her, your reverence, for the love of
+God, for there'll be queer doings below if you
+send her off the like of that and she swearing
+crazy on the road.
+     SARAH -- <i>angrily.</i> -- It's the truth she's
+saying; for it's herself, I'm thinking, is after
+swapping the tin can for a pint, the time she
+was raging mad with the drouth, and our-
+selves above walking the hill.
+     MARY -- <i>crying out with indignation.</i> --
+Have you no shame, Sarah Casey, to tell lies
+unto a holy man?
+     SARAH -- <i>to Mary, working herself into</i>
+
+
+46
+
+<i>a rage.</i> -- It's making game of me you'd be,
+and putting a fool's head on me in the face
+of the world; but if you were thinking to be
+mighty cute walking off, or going up to hide
+in the church, I've got you this time, and
+you'll not run from me now.
+          [<i>She seizes up one of the bottles.</i>
+     MARY -- <i>hiding behind the priest.</i> -- Keep
+her off, your reverence, keep her off for the
+love of the Almighty God.  What at all would
+the Lord Bishop say if he found me here
+lying with my head broken across, or the two
+of yous maybe digging a bloody grave for
+me at the door of the church?
+     PRIEST -- <i>waving Sarah off.</i> -- Go along,
+Sarah Casey.  Would you be doing murder at
+my feet?  Go along from me now, and wasn't
+I a big fool to have to do with you when it's
+nothing but distraction and torment I get
+from the kindness of my heart?
+     SARAH -- <i>shouting.</i> -- I've bet a power of
+strong lads east and west through the world,
+and are you thinking I'd turn back from a
+priest?  Leave the road now, or maybe I
+would strike yourself.
+     PRIEST.  You would not, Sarah Casey.
+I've no fear for the lot of you; but let you
+walk off, I'm saying, and not be coming where
+
+
+47
+
+you've no business, and screeching tumult and
+murder at the doorway of the church.
+     SARAH.  I'll not go a step till I have her
+head broke, or till I'm wed with himself.  If
+you want to get shut of us, let you marry us
+now, for I'm thinking the ten shillings in gold
+is a good price for the like of you, and you
+near burst with the fat.
+     PRIEST.  I wouldn't have you coming in
+on me and soiling my church; for there's
+nothing at all, I'm thinking, would keep the
+like of you from hell.  <i>(He throws down the
+ten shillings on the ground.)</i>  Gather up your
+gold now, and begone from my sight, for if
+ever I set an eye on you again you'll hear me
+telling the peelers who it was stole the black
+ass belonging to Philly O'Cullen, and whose
+hay it is the grey ass does be eating.
+     SARAH.  You'd do that?
+     PRIEST.  I would, surely.
+     SARAH.  If you do, you'll be getting all
+the tinkers from Wicklow and Wexford, and
+the County Meath, to put up block tin in the
+place of glass to shield your windows where
+you do be looking out and blinking at the girls.
+It's hard set you'll be that time, I'm telling
+you, to fill the depth of your belly the long
+days of Lent; for we wouldn't leave a laying
+pullet in your yard at all.
+
+
+48
+
+     PRIEST -- <i>losing his temper finally.</i> -- Go
+on, now, or I'll send the Lords of Justice a
+dated story of your villainies -- burning,
+stealing, robbing, raping to this mortal day.
+Go on now, I'm saying, if you'd run from
+Kilmainham or the rope itself.
+     MICHAEL -- <i>taking off his coat.</i> -- Is it
+run from the like of you, holy father?  Go up
+to your own shanty, or I'll beat you with the
+ass's reins till the world would hear you roar-
+ing from this place to the coast of Clare.
+     PRIEST.  Is it lift your hand upon myself
+when the Lord would blight your members
+if you'd touch me now?  Go on from this.
+          [<i>He gives him a shove.</i>
+     MICHAEL.  Blight me is it?  Take it
+then, your reverence, and God help you so.
+          [<i>He runs at him with the reins.</i>
+     PRIEST -- <i>runs up to ditch crying out.</i> --
+There are the peelers passing by the grace of
+God -- hey, below!
+     MARY -- <i>clapping her hand over his
+mouth.</i> -- Knock him down on the road; they
+didn't hear him at all.
+          [<i>Michael pulls him down.</i>
+     SARAH.  Gag his jaws.
+     MARY.  Stuff the sacking in his teeth.
+       [<i>They gag him with the sack that had
+            the can in it.</i>
+
+
+49
+
+     SARAH.  Tie the bag around his head,
+and if the peelers come, we'll put him head-
+first in the boghole is beyond the ditch.
+          [<i>They tie him up in some sacking.</i>
+     MICHAEL -- <i>to Mary.</i> -- Keep him quiet,
+and the rags tight on him for fear he'd
+screech.  <i>(He goes back to their camp.)</i>
+Hurry with the things, Sarah Casey.  The
+peelers aren't coming this way, and maybe
+we'll get off from them now.
+        [<i>They bundle the things together in
+            wild haste, the priest wriggling and
+            struggling about on the ground, with
+            old Mary trying to keep him quiet.</i>
+     MARY -- <i>patting his head.</i> -- Be quiet,
+your reverence.  What is it ails you, with
+your wrigglings now?  Is it choking maybe?
+<i>(She puts her hand under the sack, and feels
+his mouth, patting him on the back.)</i>  It's
+only letting on you are, holy father, for your
+nose is blowing back and forward as easy as
+an east wind on an April day.  <i>(In a soothing
+voice.)</i>  There now, holy father, let you stay
+easy, I'm telling you, and learn a little sense
+and patience, the way you'll not be so airy
+again going to rob poor sinners of their scraps
+of gold.  <i>(He gets quieter.)</i>  That's a good
+boy you are now, your reverence, and let you
+not be uneasy, for we wouldn't hurt you at
+
+
+50
+
+all.  It's sick and sorry we are to tease you;
+but what did you want meddling with the
+like of us, when it's a long time we are going
+our own ways -- father and son, and his son
+after him, or mother and daughter, and her
+own daughter again -- and it's little need we
+ever had of going up into a church and swear-
+ing -- I'm told there's swearing with it -- a
+word no man would believe, or with drawing
+rings on our fingers, would be cutting our
+skins maybe when we'd be taking the ass from
+the shafts, and pulling the straps the time
+they'd be slippy with going around beneath
+the heavens in rains falling.
+     MICHAEL -- <i>who has finished bundling
+up the things, comes over to Sarah.</i> -- We're
+fixed now; and I have a mind to run him in
+a boghole the way he'll not be tattling to the
+peelers of our games to-day.
+     SARAH.  You'd have a right too, I'm
+thinking.
+     MARY -- <i>soothingly.</i> -- Let you not be
+rough with him, Sarah Casey, and he after
+drinking his sup of porter with us at the fall
+of night.  Maybe he'd swear a mighty oath
+he wouldn't harm us, and then we'd safer
+loose him; for if we went to drown him,
+they'd maybe hang the batch of us, man and
+child and woman, and the ass itself.
+
+
+51
+
+     MICHAEL.  What would he care for an
+oath?
+     MARY.  Don't you know his like do live
+in terror of the wrath of God?  <i>(Putting her
+mouth to the Priest's ear in the sacking.)</i>
+Would you swear an oath, holy father, to
+leave us in our freedom, and not talk at all?
+<i>(Priest nods in sacking.)</i>  Didn't I tell you?
+Look at the poor fellow nodding his head off
+in the bias of the sacks.  Strip them off from
+him, and he'll be easy now.
+     MICHAEL -- <i>as if speaking to a horse.</i> --
+Hold up, holy father.
+        [<i>He pulls the sacking off, and shows the
+            priest with his hair on end.  They free
+            his mouth.</i>
+     MARY.  Hold him till he swears.
+     PRIEST -- <i>in a faint voice.</i> -- I swear
+surely.  If you let me go in peace, I'll not
+inform against you or say a thing at all, and
+may God forgive me for giving heed unto
+your like to-day.
+     SARAH -- <i>puts the ring on his finger.</i> --
+There's the ring, holy father, to keep you
+minding of your oath until the end of time;
+for my heart's scalded with your fooling; and
+it'll be a long day till I go making talk of
+marriage or the like of that.
+     MARY -- <i>complacently, standing up slow-</i>
+
+
+52
+
+<i>ly.</i> -- She's vexed now, your reverence; and
+let you not mind her at all, for she's right
+surely, and it's little need we ever had of the
+like of you to get us our bit to eat, and our
+bit to drink, and our time of love when we
+were young men and women, and were fine
+to look at.
+     MICHAEL.  Hurry on now.  He's a great
+man to have kept us from fooling our gold;
+and we'll have a great time drinking that bit
+with the trampers on the green of Clash.
+        [<i>They gather up their things.  The priest
+            stands up.</i>
+     PRIEST -- <i>lifting up his hand.</i> -- I've
+sworn not to call the hand of man upon your
+crimes to-day; but I haven't sworn I wouldn't
+call the fire of heaven from the hand of the
+Almighty God.
+        [<i>He begins saying a Latin malediction in
+            a loud ecclesiastical voice.</i>
+     MARY.  There's an old villain.
+     All -- <i>together.</i> -- Run, run.  Run for
+your lives.
+        [<i>They rush out, leaving the Priest master
+            of the situation.</i>
+
+CURTAIN
+
+
+
+
+
+End of Project Gutenberg' Etext of The Tinker's Wedding by J. M. Synge
+

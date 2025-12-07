@@ -9,9 +9,9 @@
 #include "LinkedList.h"
 #include "constants.h"
 #include <iostream>
+#include <iomanip>
 #include <mutex>
 
-std::mutex printMutex;
 struct Posting{
     uint32_t documentID = 0;
     std::vector<uint32_t> positions;
@@ -89,6 +89,7 @@ public:
     void moveToFront(const K& key) const;
     bool erase(const K& key);
     void statistics() const;
+    void printBuckets(std::size_t sampleCount) const;
 };
 
 // add a node, if a node with this key exists, just push new elements to the vector
@@ -202,6 +203,26 @@ void ConcurrentHashMap<K, V>::statistics() const {
         }
     }
     std::cout << "number of empty buckets is " << empty << std::endl;
+}
+
+template<typename K, typename V>
+void ConcurrentHashMap<K, V>::printBuckets(size_t sampleCount) const {
+    std::cout << "\n[Debug] " << sampleCount << " random tokens." << std::endl;
+    std::size_t printed = 0;
+    std::size_t attempts = 0;
+    srand(static_cast<unsigned>(time(nullptr)));
+
+    while (printed < sampleCount && attempts < sampleCount * 50) {
+        std::size_t randIndex = rand() % arraySize; // bucket index
+        std::size_t lockIndex = (randIndex * LOCKS) / bucket_count();
+        std::shared_lock<std::shared_mutex> lock(mutexes[lockIndex].mutex);
+        HashNode<K, V>* neededNode = bucketsArray[randIndex].get_head();
+        if (neededNode != nullptr) {
+            std::cout << "ID is " << std::setw(10) << neededNode->value << ", token is " << neededNode->key << "." << std::endl;
+            printed++;
+        }
+        attempts++;
+    }
 }
 
 #endif // CONCURRENTHASHMAP_H
