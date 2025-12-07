@@ -7,7 +7,7 @@ namespace constants {
     inline constexpr int threadsNumber{4};
     inline constexpr int locks{16};
     inline std::string initializeStopWords() {
-        std::filesystem::path stopWordsFile = "../stopWords.txt";
+        std::filesystem::path stopWordsFile = "../corpus/stopWords.txt";
         if (std::filesystem::exists(stopWordsFile)) {
             return stopWordsFile.string();
         }

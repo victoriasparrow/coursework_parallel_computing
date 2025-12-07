@@ -3,4 +3,4 @@ project(project)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(project main.cpp ConcurrentHashMap.h LinkedList.h SeachEngine.h)
+add_executable(project main.cpp ConcurrentHashMap.h LinkedList.h SeachEngine.h ThreadPool.h constants.h)
