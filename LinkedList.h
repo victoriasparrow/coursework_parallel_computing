@@ -1,6 +1,7 @@
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 #include <utility>
+#include <iostream>
 
 template <typename K, typename V>
 struct HashNode {
@@ -15,25 +16,21 @@ class LinkedList{
     HashNode<K,V>* head;
     HashNode<K,V>* tail;
 
-
 public:
     LinkedList(): size(0), head(nullptr), tail(nullptr) {};
     ~LinkedList(){ clear(); };
 
-    int get_size() const;
-    HashNode<K,V>* get_head() const {
-        return head;
-    }
+    int get_size() const { return size; }
+
+    HashNode<K,V>* get_head() const { return head; }
 
     bool remove(const K& key);
     void print() const;
 
     V* get(const K& key);
-
-    HashNode<K, V> *findNode(const K &key) const;
+    HashNode<K, V>* findNode(const K &key) const;
 
     HashNode<K, V>* find(const K& key);
-    //const HashNode<K, V>* find(const K& key) const;
 
     void push_back(K key, V value);
     void push_front(K key, V value);
@@ -60,6 +57,9 @@ void LinkedList<K, V>::clear(){
     size = 0;
 }
 
+template<typename T> struct is_vector :std::false_type {};
+template <typename... Args> struct is_vector < std::vector<Args...>> :std::true_type {};
+
 template <typename K, typename V>
 void LinkedList<K, V>::print() const{
     if (head == nullptr) {
@@ -67,13 +67,17 @@ void LinkedList<K, V>::print() const{
     }
     HashNode<K, V>* temp = head;
     while (temp != nullptr) {
-        std::cout << "termID " << temp->key;
-        for (int i = 0; i < temp->value.size(); i++) {
-            std::cout << ", docID " << temp->value.at(i).documentID << ", pos are ";
-            for (int j = 0; j < temp->value.at(i).positions.size(); j++) {
-                std::cout << temp->value.at(i).positions.at(j) << " ";
+        std::cout << "key: " << temp->key;
+        if constexpr (is_vector<V>::value) {
+            std::cout << "termID " << temp->key;
+            for (int i = 0; i < temp->value.size(); i++) {
+                std::cout << ", docID " << temp->value.at(i).documentID << ", pos are ";
+                for (int j = 0; j < temp->value.at(i).positions.size(); j++) {
+                    std::cout << temp->value.at(i).positions.at(j) << " ";
+                }
             }
         }
+        else { std::cout << " val: " << temp->value; }
         std::cout << std::endl;
         temp = temp->nextNode;
     }
@@ -104,15 +108,10 @@ void LinkedList<K, V>::push_front(K key, V value){
     }
     HashNode<K, V>* newNode = new HashNode<K, V>();
     newNode->key = std::move(key);
-    newNode->postings = std::move(value);
+    newNode->value = std::move(value);
     newNode->nextNode = head;
     head = newNode;
     size++;
-}
-
-template <typename K, typename V>
-int LinkedList<K, V>::get_size() const {
-    return size;
 }
 
 template <typename K, typename V>
@@ -194,24 +193,28 @@ HashNode<K, V>* LinkedList<K, V>::find(const K& key) {
 template <typename K, typename V>
 bool LinkedList<K, V>::remove(const K& key){
     if(!head){
-        tail = nullptr;
         return false;
     }
     if(head->key == key){
         HashNode<K, V>* temp = head->nextNode;
         delete head;
         head = temp;
+        if (head == nullptr) { // there was one elem
+            tail = nullptr;
+        }
+        size--;
         return true;
     }
     HashNode<K, V>* current = head;
-    while(current != nullptr){
+    while(current->nextNode != nullptr){
         if(current->nextNode->key == key){
-            HashNode<K, V>* temp = current->nextNode->nextNode;
-            delete current->nextNode;
-            current->nextNode = temp;
+            HashNode<K, V>* temp = current->nextNode;
+            current->nextNode = temp->nextNode;
             if(current->nextNode == nullptr){
                 tail = current;
             }
+            delete temp;
+            size--;
             return true;
         }
         current = current->nextNode;
@@ -228,6 +231,9 @@ void LinkedList<K, V>::moveToFront(const K& key){
     while(current != nullptr){
         if(current->key == key){
             previous->nextNode = current->nextNode;
+            if (current == tail) {
+                tail = previous;
+            }
             current->nextNode = head;
             head = current;
             return;
