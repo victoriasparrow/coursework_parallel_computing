@@ -48,7 +48,7 @@ int connectToServer(const char* ip, const char* port, bool firstTime) {
     if (firstTime) {
         std::cout << "client: connected to server on " << ip << ":" << port << std::endl;
         std::cout << "╭───────────────────────────────────────────────────.★..─╮ "<< std::endl;
-        std::cout << "│ handshake complete! server sends: " << std::string(buffer, length) << std::setw(8) << " │" << std::endl;
+        std::cout << "│ handshake complete! server says: " << std::string(buffer, length) << std::setw(10) << " │" << std::endl;
         std::cout << "╰─..★.───────────────────────────────────────────────────╯ "<< std::endl;
     }
     return socket;
@@ -101,7 +101,7 @@ int main(int argc, char *argv[]) {
             navigation += "enter new term! | [q] to quit";
             printHelper(navigation);
             std::cout << separator << std::endl;
-
+            std::cout << " ";
             std::string input;
             std::getline(std::cin, input);
 
@@ -130,12 +130,10 @@ int main(int argc, char *argv[]) {
         std::vector<QueryResult> results;
         bool success = false;
         for (int attempt = 1; attempt <= kMaxAttempts; attempt++){
-            //std::cout << "ATTEMPT " << attempt << std::endl;
             if (socketFD == -1) {
                 socketFD = connectToServer(ip, port, false); // stateless so connecting again
                 if (socketFD == -1) {
                     if (attempt == kMaxAttempts) {
-                        //std::cout << "DEBUG2 "<< std::endl;
                         std::cerr << "server is down" << std::endl;
                         break;
                     }
@@ -149,7 +147,6 @@ int main(int argc, char *argv[]) {
                 continue;
             }
             if (tcp::receiveQueryResult(socketFD, &totalDocuments, results) != 0) {
-                //std::cout << "DEBUG4 "<< std::endl;
                 printHelper(" receive failed, attempt " + std::to_string(attempt));
                 if (attempt < kMaxAttempts) printHelper(" reconnecting...");
                 close(socketFD);
@@ -157,7 +154,6 @@ int main(int argc, char *argv[]) {
                 continue;
             }
             success = true;
-            //std::cout << "DEBUG SUCCESS IS " << success << "BREAKING "<< std::endl;
             close(socketFD); // closing because server is done with us
             socketFD = -1;
             break;
@@ -177,25 +173,25 @@ int main(int argc, char *argv[]) {
         }
         std::cout << separator << std::endl;
 
-        for (const auto& doc : results) {
-            std::string docInfo = " docID: " + std::to_string(doc.docID) + " | docName: " + doc.docName + " frequency: " + std::to_string(doc.termFrequency);
+        for (size_t i = 0; i < results.size(); ++i) {
+            std::string docInfo = " docID: " + std::to_string(results.at(i).docID) + " | docName: " + results.at(i).docName + " | frequency: " + std::to_string(results.at(i).termFrequency);
             printHelper(docInfo);
 
-            if (doc.lines.empty()) {
+            if (results.at(i).lines.empty()) {
                 printHelper(" line is empty...");
             }
             else {
-                std::stringstream ss(doc.lines);
+                std::stringstream ss(results.at(i).lines);
                 std::string line;
-                int i = 1;
                 while (std::getline(ss, line)) {
                     for (char &c : line) { if (c == '\t' || c == '\r' || c == '\n') c = ' '; }
                     std::string formattedLine = " " + std::to_string(i) + ") " + line;
                     printHelper(formattedLine);
-                    i++;
                 }
             }
-            std::cout << "│ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ │" << std::endl;
+            if (i != results.size() - 1) {
+                std::cout << "│ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ │" << std::endl;
+            }
         }
     }
     if (socketFD != -1) close(socketFD);
